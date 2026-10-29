@@ -211,7 +211,13 @@ def crawl_ranked(api, fresh, errors, sample_path):
         except ApiError as e:
             errors.append(str(e))
             return None
-        return ranked_row(rec, label, g, s, data), data
+        if not data:  # 404: group not available for this player/season
+            return None
+        try:
+            return ranked_row(rec, label, g, s, data), data
+        except Exception as e:  # never let one odd response kill the crawl
+            errors.append(f"ranked parse failed for {rec['tag']} ({label}): {e!r}")
+            return None
 
     with ThreadPoolExecutor(max_workers=6) as ex:
         out = [r for r in ex.map(run, jobs) if r]
