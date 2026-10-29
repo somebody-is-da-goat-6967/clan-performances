@@ -5,32 +5,38 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Clan Tracker</title>
 <style>
-  :root { --bg:#fff; --fg:#1a1d21; --muted:#6b7280; --line:#e5e7eb; --head:#f3f4f6; --accent:#2563eb; --good:#15803d; --bad:#b91c1c; }
+  :root { --bg:#fff; --fg:#1a1d21; --muted:#6b7280; --line:#e8eaed; --head:#f5f6f8; --accent:#2563eb; --good:#15803d; --bad:#b91c1c; }
   @media (prefers-color-scheme: dark) {
-    :root { --bg:#14161a; --fg:#e6e8eb; --muted:#9aa1ab; --line:#2a2e35; --head:#1d2026; --accent:#6ea0ff; --good:#4ade80; --bad:#f87171; }
+    :root { --bg:#14161a; --fg:#e6e8eb; --muted:#8b929c; --line:#262a31; --head:#1b1e24; --accent:#6ea0ff; --good:#4ade80; --bad:#f87171; }
   }
   * { box-sizing: border-box; }
-  body { margin:0; background:var(--bg); color:var(--fg); font:14px/1.4 system-ui,-apple-system,Segoe UI,sans-serif; }
-  header { padding:14px 16px 0; }
-  h1 { font-size:18px; margin:0 0 2px; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:13px/1.35 system-ui,-apple-system,Segoe UI,sans-serif; }
+  header { padding:12px 14px 0; }
+  h1 { font-size:17px; margin:0 0 2px; }
   .sub { color:var(--muted); font-size:12px; }
-  .tabs { display:flex; gap:2px; overflow-x:auto; padding:10px 16px 0; border-bottom:1px solid var(--line); }
-  .tab { border:0; background:none; color:var(--muted); padding:8px 12px; cursor:pointer; font:inherit; border-bottom:2px solid transparent; white-space:nowrap; }
+  .tabs { display:flex; gap:2px; overflow-x:auto; padding:8px 14px 0; border-bottom:1px solid var(--line); }
+  .tab { border:0; background:none; color:var(--muted); padding:7px 11px; cursor:pointer; font:inherit; border-bottom:2px solid transparent; white-space:nowrap; }
   .tab[aria-selected=true] { color:var(--fg); border-bottom-color:var(--accent); font-weight:600; }
-  .bar { display:flex; flex-wrap:wrap; gap:8px; padding:10px 16px; align-items:center; }
-  .bar input, .bar select, .bar button { font:inherit; padding:5px 8px; border:1px solid var(--line); border-radius:6px; background:var(--bg); color:var(--fg); }
+  .bar { display:flex; flex-wrap:wrap; gap:6px; padding:8px 14px; align-items:center; }
+  .bar input, .bar select, .bar button { font:inherit; padding:4px 7px; border:1px solid var(--line); border-radius:6px; background:var(--bg); color:var(--fg); }
   .bar label { color:var(--muted); display:flex; gap:4px; align-items:center; }
   .count { margin-left:auto; color:var(--muted); }
-  .wrap { overflow:auto; max-height:calc(100vh - 170px); border-top:1px solid var(--line); }
+  .wrap { overflow:auto; max-height:calc(100vh - 160px); border-top:1px solid var(--line); }
   table { border-collapse:collapse; width:100%; }
-  th, td { padding:6px 10px; border-bottom:1px solid var(--line); white-space:nowrap; text-align:left; }
-  th { position:sticky; top:0; background:var(--head); cursor:pointer; user-select:none; font-weight:600; }
+  th, td { padding:4px 9px; border-bottom:1px solid var(--line); white-space:nowrap; text-align:left; vertical-align:middle; }
+  th { position:sticky; top:0; background:var(--head); cursor:pointer; user-select:none; font-weight:600; font-size:12px; color:var(--muted); z-index:1; }
   th.num, td.num { text-align:right; font-variant-numeric:tabular-nums; }
-  th .arrow { color:var(--accent); margin-left:4px; }
+  th .arrow { color:var(--accent); margin-left:3px; }
   tr:hover td { background:var(--head); }
-  .win { color:var(--good); } .loss { color:var(--bad); } .muted { color:var(--muted); }
-  .note { padding:8px 16px; color:var(--muted); font-size:12px; }
-  .err { padding:8px 16px; color:var(--bad); font-size:12px; }
+  .ico { display:inline-flex; align-items:center; gap:5px; }
+  .ico img { width:26px; height:26px; object-fit:contain; }
+  .ico b { font-weight:600; }
+  .nm { line-height:1.15; }
+  .nm small { display:block; color:var(--muted); font-size:11px; }
+  .win { color:var(--good); font-weight:600; } .loss { color:var(--bad); font-weight:600; } .muted { color:var(--muted); }
+  .dim { color:var(--muted); }
+  .note { padding:7px 14px; color:var(--muted); font-size:12px; }
+  .err { padding:6px 14px; color:var(--bad); font-size:12px; }
 </style>
 </head>
 <body>
@@ -52,61 +58,74 @@
 <div class="note" id="note"></div>
 
 <script>
-const fmtDate = v => v ? v.slice(0, 10) : "";
-const star = v => v == null ? "" : v;
-const result = v => v ? `<span class="${v === 'win' ? 'win' : v === 'loss' ? 'loss' : 'muted'}">${v}</span>` : "";
-// col: [key, label, opts] opts: num, fmt (text), html
-const C = (key, label, o = {}) => ({ key, label, ...o });
+// ---- Image sources (change here if an icon 404s; missing icons are hidden and the number/name still shows)
+const ASSETS = "https://assets.clashk.ing";
+const thIcon = lvl => `${ASSETS}/buildings/home-village/town_hall/level_${lvl}.webp`;
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+const img = (src, alt) => src ? `<img src="${esc(src)}" alt="${esc(alt)}" loading="lazy" onerror="this.remove()">` : "";
+
+// ---- cell renderers: (value, row) -> html
+const R = {
+  th:   (v) => v ? `<span class="ico">${img(thIcon(v), "TH" + v)}<b>${v}</b></span>` : "",
+  name: (v, r) => `<div class="nm">${esc(v)}<small>${esc(r.tag)}</small></div>`,
+  league: (v, r) => v ? `<span class="ico">${img(r.leagueIcon, v)}<span>${esc(v)}</span></span>` : `<span class="dim">–</span>`,
+  date: (v) => esc(v ? v.slice(0, 10) : ""),
+  n2:   (v) => v == null ? `<span class="dim">–</span>` : Number(v).toFixed(2),
+  n1:   (v) => v == null ? `<span class="dim">–</span>` : Number(v).toFixed(1),
+  result: (v) => v ? `<span class="${v === "win" ? "win" : v === "loss" ? "loss" : "muted"}">${v}</span>` : "",
+  rank: (v, r) => v == null ? `<span class="dim">–</span>` : `${v}<span class="dim">/${r.groupSize ?? "?"}</span>`,
+  used: (v, r) => `${v}<span class="dim">/${r.attacksAvailable}</span>`,
+};
+const col = (key, label, o = {}) => ({ key, label, ...o });
+const TH = col("th", "TH", { num: 1, html: R.th });
+const NAME = col("name", "Player", { html: R.name });
+const CLAN = col("clan", "Clan");
 
 const TABS = {
   members: { label: "Members", file: "members.json", former: true,
-    note: "Everyone currently in a tracked clan, plus former members if ticked. Default sort: Town Hall high to low.",
-    cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"), C("role","Role"),
-           C("league","League"), C("trophies","Trophies",{num:1}), C("bestTrophies","Best",{num:1}),
-           C("warStars","War stars",{num:1}), C("attackWins","Atk wins",{num:1}), C("donations","Donated",{num:1}),
-           C("donationsReceived","Received",{num:1}), C("warPreference","War pref"), C("capitalContributions","Capital",{num:1}),
-           C("status","Status"), C("firstSeen","First seen",{fmt:fmtDate}), C("lastSeen","Last seen",{fmt:fmtDate})] },
+    note: "Everyone in the tracked clans. Sorted by Town Hall, high to low.",
+    cols: [TH, NAME, CLAN, col("league", "League", { html: R.league }), col("role", "Role"),
+           col("trophies", "Trophies", { num: 1 }), col("warStars", "War ★", { num: 1 }),
+           col("donations", "Donated", { num: 1 }), col("donationsReceived", "Received", { num: 1 }), col("status", "Status")] },
   ranked: { label: "Ranked", file: "ranked.json", season: true,
-    note: "Ranked battle results per weekly season. Completed seasons are final; the in-progress season is still changing. Defaults to the latest completed season. Trophies are the end-of-season total; 'Atk trophies' / 'Def trophies' are the sums of the trophy values on each logged battle.",
-    cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"),
-           C("seasonStart","Season start"), C("status","Status"), C("rank","Rank",{num:1}), C("groupSize","Group",{num:1}),
-           C("leagueTrophies","Trophies",{num:1}), C("attacks","Attacks",{num:1}), C("attackWins","Atk W",{num:1}), C("attackLosses","Atk L",{num:1}),
-           C("attackStars","Atk ★",{num:1}), C("attackThreeStars","Atk 3★",{num:1}), C("attackAvgDestruction","Atk destr %",{num:1}), C("attackTrophies","Atk trophies",{num:1}),
-           C("defenses","Defenses",{num:1}), C("defenseWins","Def W",{num:1}), C("defenseLosses","Def L",{num:1}),
-           C("defenseStars","Def ★ conceded",{num:1}), C("defenseThreeStars","Def 3★",{num:1}), C("defenseAvgDestruction","Def destr %",{num:1}), C("defenseTrophies","Def trophies",{num:1})] },
+    note: "Weekly ranked seasons. Completed seasons are final. Avg ★ is stars per logged attack. Defaults to the latest completed season.",
+    cols: [TH, NAME, CLAN, col("seasonStart", "Season"), col("league", "League", { html: R.league }),
+           col("rank", "Rank", { num: 1, html: R.rank }), col("leagueTrophies", "Trophies", { num: 1 }),
+           col("attacks", "Attacks", { num: 1 }), col("attackStars", "Total ★", { num: 1 }),
+           col("attackAvgStars", "Avg ★", { num: 1, html: R.n2 }), col("attackThreeStars", "3★", { num: 1 }),
+           col("attackAvgDestruction", "Destr %", { num: 1, html: R.n1 }),
+           col("defenses", "Defenses", { num: 1 }), col("defenseAvgStars", "Avg ★ given up", { num: 1, html: R.n2 })] },
   war_summary: { label: "War summary", file: "war_summary.json",
-    note: "Totals over regular wars that have ended and been recorded since tracking began.",
-    cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"), C("wars","Wars",{num:1}),
-           C("attacksUsed","Attacks",{num:1}), C("attacksAvailable","Available",{num:1}), C("missed","Missed",{num:1}),
-           C("stars","Stars",{num:1}), C("threeStars","3★",{num:1}), C("avgStarsPerAttack","Stars/atk",{num:1}), C("avgDestruction","Avg destr %",{num:1})] },
+    note: "Totals across regular wars that have ended since tracking began.",
+    cols: [TH, NAME, CLAN, col("wars", "Wars", { num: 1 }), col("attacksUsed", "Attacks", { num: 1 }),
+           col("missed", "Missed", { num: 1 }), col("stars", "Total ★", { num: 1 }),
+           col("avgStarsPerAttack", "Avg ★", { num: 1, html: R.n2 }), col("threeStars", "3★", { num: 1 }),
+           col("avgDestruction", "Destr %", { num: 1, html: R.n1 })] },
   wars: { label: "Wars", file: "wars.json",
-    note: "One row per player per regular war. Default sort: Town Hall high to low, then newest war.",
-    cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"), C("date","War start",{fmt:fmtDate}),
-           C("opponent","Opponent"), C("result","Result",{html:result}), C("state","State"), C("pos","Map #",{num:1}),
-           C("attacksUsed","Used",{num:1}), C("attacksAvailable","Avail",{num:1}), C("missed","Missed",{num:1}),
-           C("stars","Stars",{num:1}), C("avgDestruction","Avg destr %",{num:1}), C("attackDetail","Attacks"),
-           C("timesAttacked","Defended",{num:1}), C("defStars","Def ★",{num:1,fmt:star})] },
+    note: "One row per player per regular war. Sorted by Town Hall, then newest war.",
+    cols: [TH, NAME, CLAN, col("date", "War", { html: R.date }), col("opponent", "Opponent"),
+           col("result", "Result", { html: R.result }), col("attacksUsed", "Atk", { num: 1, html: R.used }),
+           col("stars", "★", { num: 1 }), col("avgDestruction", "Destr %", { num: 1, html: R.n1 }), col("attackDetail", "Attacks")] },
   cwl_summary: { label: "CWL summary", file: "cwl_summary.json",
-    note: "Totals over CWL wars that have ended and been recorded since tracking began.",
-    cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"), C("wars","Wars",{num:1}),
-           C("attacksUsed","Attacks",{num:1}), C("attacksAvailable","Available",{num:1}), C("missed","Missed",{num:1}),
-           C("stars","Stars",{num:1}), C("threeStars","3★",{num:1}), C("avgStarsPerAttack","Stars/atk",{num:1}), C("avgDestruction","Avg destr %",{num:1})] },
+    note: "Totals across Clan War League days that have ended since tracking began.",
+    cols: [TH, NAME, CLAN, col("wars", "Days", { num: 1 }), col("attacksUsed", "Attacks", { num: 1 }),
+           col("missed", "Missed", { num: 1 }), col("stars", "Total ★", { num: 1 }),
+           col("avgStarsPerAttack", "Avg ★", { num: 1, html: R.n2 }), col("threeStars", "3★", { num: 1 }),
+           col("avgDestruction", "Destr %", { num: 1, html: R.n1 })] },
   cwl: { label: "CWL", file: "cwl.json",
-    note: "One row per player per Clan War League day. Default sort: Town Hall high to low, then newest war.",
-    cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"), C("season","Season"), C("date","War start",{fmt:fmtDate}),
-           C("opponent","Opponent"), C("result","Result",{html:result}), C("state","State"), C("pos","Map #",{num:1}),
-           C("attacksUsed","Used",{num:1}), C("missed","Missed",{num:1}), C("stars","Stars",{num:1}),
-           C("avgDestruction","Destr %",{num:1}), C("attackDetail","Attack"), C("timesAttacked","Defended",{num:1}), C("defStars","Def ★",{num:1,fmt:star})] },
+    note: "One row per player per CWL day. Sorted by Town Hall, then newest war.",
+    cols: [TH, NAME, CLAN, col("season", "Season"), col("date", "Day", { html: R.date }), col("opponent", "Opponent"),
+           col("result", "Result", { html: R.result }), col("attacksUsed", "Atk", { num: 1, html: R.used }),
+           col("stars", "★", { num: 1 }), col("avgDestruction", "Destr %", { num: 1, html: R.n1 }), col("attackDetail", "Attack")] },
 };
 
-const state = { tab: "members", data: {}, sortKey: "th", sortDir: -1, tieSort: true };
+const state = { tab: "members", data: {}, sortKey: "th", sortDir: -1 };
 const $ = id => document.getElementById(id);
-const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
 
 async function getJSON(f) {
   const r = await fetch(`data/${f}?t=${Date.now()}`);
-  if (!r.ok) return [];
-  return r.json();
+  return r.ok ? r.json() : [];
 }
 
 async function init() {
@@ -115,15 +134,14 @@ async function init() {
   $("meta").textContent = meta.updatedAt
     ? `Updated ${new Date(meta.updatedAt).toLocaleString()} · ${clans.length} clans`
     : "No data yet. Run the crawl workflow once.";
-  const sel = $("clan");
-  clans.forEach(c => sel.append(new Option(`${c.name} (${c.tag})`, c.name)));
-  $("errs").textContent = (meta.errors || []).length ? "Crawler warnings: " + meta.errors.slice(0, 3).join(" | ") + ((meta.errors.length > 3) ? ` (+${meta.errors.length - 3} more)` : "") : "";
-  const nav = $("tabs");
+  clans.forEach(c => $("clan").append(new Option(`${c.name} (${c.tag})`, c.name)));
+  const errs = meta.errors || [];
+  $("errs").textContent = errs.length ? "Crawler warnings: " + errs.slice(0, 3).join(" | ") + (errs.length > 3 ? ` (+${errs.length - 3} more)` : "") : "";
   Object.entries(TABS).forEach(([id, t]) => {
     const b = document.createElement("button");
     b.className = "tab"; b.role = "tab"; b.textContent = t.label; b.dataset.id = id;
     b.onclick = () => selectTab(id);
-    nav.append(b);
+    $("tabs").append(b);
   });
   ["q", "clan", "former", "season"].forEach(id => $(id).addEventListener("input", render));
   $("csv").onclick = downloadCSV;
@@ -142,17 +160,15 @@ async function selectTab(id) {
 }
 
 function fillSeasons() {
-  const all = state.data.ranked || [];
   const seen = new Map();
-  all.forEach(r => seen.set(r.seasonId, { start: r.seasonStart, status: r.status }));
+  (state.data.ranked || []).forEach(r => seen.set(r.seasonId, { start: r.seasonStart, status: r.status }));
   const list = [...seen.entries()].sort((a, b) => Number(b[0]) - Number(a[0]));
-  const sel = $("season");
-  const keep = sel.value;
+  const sel = $("season"), keep = sel.value;
   sel.innerHTML = "";
   sel.append(new Option("All seasons", ""));
   list.forEach(([id, v]) => sel.append(new Option(`Season ${v.start} (${v.status})`, id)));
-  const completed = list.find(([, v]) => v.status === "completed");
-  sel.value = keep && seen.has(keep) ? keep : (completed ? completed[0] : "");
+  const done = list.find(([, v]) => v.status === "completed");
+  sel.value = keep && seen.has(keep) ? keep : (done ? done[0] : "");
 }
 
 function rows() {
@@ -167,28 +183,23 @@ function rows() {
   return [...r].sort((a, b) => {
     const x = a[k], y = b[k];
     if (x == null && y == null) return 0;
-    if (x == null) return 1; if (y == null) return -1;
+    if (x == null) return 1;
+    if (y == null) return -1;
     let c = typeof x === "number" && typeof y === "number" ? x - y : String(x).localeCompare(String(y));
-    if (c === 0 && k !== "th") c = (a.th || 0) - (b.th || 0);   // keep TH order inside ties
+    if (c === 0 && k !== "th") c = (a.th || 0) - (b.th || 0);
     return c * d;
   });
-}
-
-function cell(col, row) {
-  const v = row[col.key];
-  if (col.html) return col.html(v);
-  return esc(col.fmt ? col.fmt(v) : v);
 }
 
 function render() {
   const t = TABS[state.tab], r = rows();
   const head = t.cols.map(c => `<th class="${c.num ? "num" : ""}" data-k="${c.key}">${esc(c.label)}${state.sortKey === c.key ? `<span class="arrow">${state.sortDir < 0 ? "▼" : "▲"}</span>` : ""}</th>`).join("");
-  const body = r.map(x => `<tr>${t.cols.map(c => `<td class="${c.num ? "num" : ""}">${cell(c, x)}</td>`).join("")}</tr>`).join("");
+  const body = r.map(x => `<tr>${t.cols.map(c => `<td class="${c.num ? "num" : ""}">${c.html ? c.html(x[c.key], x) : esc(x[c.key])}</td>`).join("")}</tr>`).join("");
   $("table").innerHTML = `<thead><tr>${head}</tr></thead><tbody>${body || `<tr><td colspan="${t.cols.length}" class="muted">No rows yet.</td></tr>`}</tbody>`;
   $("count").textContent = `${r.length} rows`;
   $("table").querySelectorAll("th").forEach(th => th.onclick = () => {
-    const k = th.dataset.k;
-    if (state.sortKey === k) state.sortDir *= -1; else { state.sortKey = k; state.sortDir = k === "th" || t.cols.find(c => c.key === k).num ? -1 : 1; }
+    const k = th.dataset.k, c = t.cols.find(c => c.key === k);
+    if (state.sortKey === k) state.sortDir *= -1; else { state.sortKey = k; state.sortDir = c.num ? -1 : 1; }
     render();
   });
 }
@@ -196,7 +207,8 @@ function render() {
 function downloadCSV() {
   const t = TABS[state.tab], r = rows();
   const q = v => { v = String(v ?? ""); return /[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v; };
-  const lines = [t.cols.map(c => q(c.label)).join(",")].concat(r.map(x => t.cols.map(c => q(c.fmt ? c.fmt(x[c.key]) : x[c.key])).join(",")));
+  const header = t.cols.map(c => q(c.label)).concat(["Tag"]);
+  const lines = [header.join(",")].concat(r.map(x => t.cols.map(c => q(x[c.key])).concat([q(x.tag)]).join(",")));
   const a = document.createElement("a");
   a.href = URL.createObjectURL(new Blob([lines.join("\n")], { type: "text/csv" }));
   a.download = `${state.tab}.csv`; a.click();
