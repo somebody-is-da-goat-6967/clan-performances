@@ -169,40 +169,67 @@ def crawl_members(api, clan_tags, players_db, errors):
 
 
 # ----------------------------------------------------------------------- ranked
-def scalar_fields(d):
-    return {k: v for k, v in (d or {}).items() if isinstance(v, (int, float, str, bool))}
+def season_start(season_id):
+    """Season ids are epoch seconds of the season start."""
+    try:
+        return datetime.fromtimestamp(int(season_id), timezone.utc).strftime("%Y-%m-%d")
+    except (TypeError, ValueError, OSError):
+        return ""
 
 
-def ranked_row(rec, label, group_tag, season_id, data):
+def _avg(vals):
+    vals = [v for v in vals if v is not None]
+    return round(sum(vals) / len(vals), 1) if vals else None
+
+
+def ranked_row(rec, group_tag, season_id, data):
+    """One player's result in one ranked season group.
+
+    Response shape: members[{playerTag, playerName, clanTag, clanName, leagueTrophies,
+    attackWinCount, attackLoseCount, defenseWinCount, defenseLoseCount}],
+    attackLogs / defenseLogs [{opponentPlayerTag, opponentName, stars,
+    destructionPercentage, trophies, creationTime}] for the queried player.
+    """
     members = data.get("members") or []
-    me = next((m for m in members if m.get("tag") == rec["tag"]), {})
+    me = next((m for m in members if m.get("playerTag") == rec["tag"]), {})
     atk = data.get("attackLogs") or []
     dfn = data.get("defenseLogs") or []
-    a_stars = sum(e.get("stars", 0) or 0 for e in atk)
-    d_stars = sum(e.get("stars", 0) or 0 for e in dfn)
-    a_destr = [e.get("destructionPercentage") for e in atk if e.get("destructionPercentage") is not None]
+    trophies = me.get("leagueTrophies")
+    rank = (1 + sum(1 for m in members if (m.get("leagueTrophies") or 0) > trophies)) if trophies is not None else None
+    aw, al = me.get("attackWinCount"), me.get("attackLoseCount")
+    dw, dl = me.get("defenseWinCount"), me.get("defenseLoseCount")
     return {
-        "clan": rec["clan"], "clanTag": rec["clanTag"], "name": rec["name"], "tag": rec["tag"],
-        "th": rec["th"], "season": label, "seasonId": str(season_id), "groupTag": group_tag,
-        "tier": rec.get("league", ""),
-        "rankedTrophies": me.get("trophies"), "rank": me.get("rank"),
-        "attacks": len(atk), "attackStars": a_stars,
-        "attackAvgDestruction": round(sum(a_destr) / len(a_destr), 1) if a_destr else None,
-        "threeStars": sum(1 for e in atk if e.get("stars") == 3),
-        "defenses": len(dfn), "defenseStars": d_stars,
-        "playerFields": scalar_fields(me),
+        "clan": rec["clan"], "clanTag": rec["clanTag"], "name": rec["name"], "tag": rec["tag"], "th": rec["th"],
+        "seasonId": str(season_id), "seasonStart": season_start(season_id), "groupTag": group_tag,
+        "groupSize": len(members) or None, "rank": rank, "leagueTrophies": trophies,
+        "attackWins": aw, "attackLosses": al, "attacks": (aw or 0) + (al or 0) if me else len(atk),
+        "defenseWins": dw, "defenseLosses": dl, "defenses": (dw or 0) + (dl or 0) if me else len(dfn),
+        "attackStars": sum(e.get("stars", 0) or 0 for e in atk),
+        "attackThreeStars": sum(1 for e in atk if e.get("stars") == 3),
+        "attackAvgDestruction": _avg(e.get("destructionPercentage") for e in atk),
+        "attackTrophies": sum(e.get("trophies", 0) or 0 for e in atk),
+        "defenseStars": sum(e.get("stars", 0) or 0 for e in dfn),
+        "defenseThreeStars": sum(1 for e in dfn if e.get("stars") == 3),
+        "defenseAvgDestruction": _avg(e.get("destructionPercentage") for e in dfn),
+        "defenseTrophies": sum(e.get("trophies", 0) or 0 for e in dfn),
+        "final": False, "updated": now_iso(),
     }
 
 
-def crawl_ranked(api, fresh, errors, sample_path):
+def crawl_ranked(api, fresh, ranked_store, errors, sample_path):
+    """Fetch ranked results into ranked_store (key 'seasonId:tag'). Finished seasons are
+    fetched once; the in-progress season is refreshed every run."""
     jobs = []
     for tag, (rec, p) in fresh.items():
         if not p:
             continue
         for label, g, s in (("current", p.get("currentLeagueGroupTag"), p.get("currentLeagueSeasonId")),
                             ("previous", p.get("previousLeagueGroupTag"), p.get("previousLeagueSeasonId"))):
-            if g and s:
-                jobs.append((rec, label, g, s))
+            if not (g and s):
+                continue
+            if ranked_store.get(f"{s}:{tag}", {}).get("final"):
+                continue  # already have the completed season
+            jobs.append((rec, label, g, s))
 
     def run(job):
         rec, label, g, s = job
@@ -214,17 +241,29 @@ def crawl_ranked(api, fresh, errors, sample_path):
         if not data:  # 404: group not available for this player/season
             return None
         try:
-            return ranked_row(rec, label, g, s, data), data
+            row = ranked_row(rec, g, s, data)
         except Exception as e:  # never let one odd response kill the crawl
             errors.append(f"ranked parse failed for {rec['tag']} ({label}): {e!r}")
             return None
+        row["final"] = label == "previous"
+        return row, data
 
     with ThreadPoolExecutor(max_workers=6) as ex:
         out = [r for r in ex.map(run, jobs) if r]
-    # Keep one raw response so the response shape can be inspected if fields look empty.
     if out and not Path(sample_path).exists():
         save(sample_path, out[0][1])
-    return [r for r, _ in out]
+    for row, _ in out:
+        ranked_store[f"{row['seasonId']}:{row['tag']}"] = row
+
+
+def ranked_rows(ranked_store):
+    rows = list(ranked_store.values())
+    latest = max((r["seasonId"] for r in rows), default=None)
+    for r in rows:
+        r["status"] = "in progress" if r["seasonId"] == latest else "completed"
+    # town hall high -> low, then newest season, then trophies
+    rows.sort(key=lambda r: (-(r["th"] or 0), -int(r["seasonId"] or 0), -(r["leagueTrophies"] or 0), r["name"].lower()))
+    return rows
 
 
 # -------------------------------------------------------------------------- wars
@@ -387,7 +426,7 @@ def run(api, clan_tags, out_dir, state_path):
     if not clans_meta:
         raise SystemExit("No clan could be fetched; refusing to overwrite data. Errors: " + "; ".join(errors))
 
-    ranked = crawl_ranked(api, fresh, errors, out_dir / "ranked_sample.json")
+    crawl_ranked(api, fresh, state.setdefault("ranked", {}), errors, out_dir / "ranked_sample.json")
     crawl_wars(api, clan_tags, state, errors)
 
     members = th_sort(list(players_db.values()), "th", "trophies")
@@ -395,7 +434,7 @@ def run(api, clan_tags, out_dir, state_path):
     cwl = war_rows(state["cwl"], players_db)
 
     save(out_dir / "members.json", members)
-    save(out_dir / "ranked.json", th_sort(ranked, "th", "rankedTrophies"))
+    save(out_dir / "ranked.json", ranked_rows(state["ranked"]))
     save(out_dir / "wars.json", wars)
     save(out_dir / "cwl.json", cwl)
     save(out_dir / "war_summary.json", war_summary(wars))
