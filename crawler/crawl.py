@@ -109,6 +109,15 @@ def th_sort(rows, th="th", *tie):
 
 
 # ---------------------------------------------------------------- members/players
+def tier_of(p, m):
+    return (p or {}).get("leagueTier") or (m or {}).get("leagueTier") or {}
+
+
+def tier_icon(tier):
+    icons = (tier or {}).get("iconUrls") or {}
+    return icons.get("large") or icons.get("medium") or icons.get("small") or ""
+
+
 def crawl_members(api, clan_tags, players_db, errors):
     """Refresh roster. players_db: tag -> record, kept forever (status active/left)."""
     stamp = now_iso()
@@ -151,7 +160,8 @@ def crawl_members(api, clan_tags, players_db, errors):
             "expLevel": (p or m).get("expLevel"),
             "trophies": (p or m).get("trophies"),
             "bestTrophies": (p or {}).get("bestTrophies"),
-            "league": ((p or {}).get("leagueTier") or m.get("leagueTier") or {}).get("name", ""),
+            "league": tier_of(p, m).get("name", ""),
+            "leagueIcon": tier_icon(tier_of(p, m)),
             "warStars": (p or {}).get("warStars"),
             "attackWins": (p or {}).get("attackWins"),
             "donations": m.get("donations"), "donationsReceived": m.get("donationsReceived"),
@@ -205,13 +215,14 @@ def ranked_row(rec, group_tag, season_id, data):
         "attackWins": aw, "attackLosses": al, "attacks": (aw or 0) + (al or 0) if me else len(atk),
         "defenseWins": dw, "defenseLosses": dl, "defenses": (dw or 0) + (dl or 0) if me else len(dfn),
         "attackStars": sum(e.get("stars", 0) or 0 for e in atk),
+        "attackAvgStars": round(sum(e.get("stars", 0) or 0 for e in atk) / len(atk), 2) if atk else None,
+        "defenseAvgStars": round(sum(e.get("stars", 0) or 0 for e in dfn) / len(dfn), 2) if dfn else None,
         "attackThreeStars": sum(1 for e in atk if e.get("stars") == 3),
         "attackAvgDestruction": _avg(e.get("destructionPercentage") for e in atk),
         "attackTrophies": sum(e.get("trophies", 0) or 0 for e in atk),
         "defenseStars": sum(e.get("stars", 0) or 0 for e in dfn),
         "defenseThreeStars": sum(1 for e in dfn if e.get("stars") == 3),
         "defenseAvgDestruction": _avg(e.get("destructionPercentage") for e in dfn),
-        "defenseTrophies": sum(e.get("trophies", 0) or 0 for e in dfn),
         "final": False, "updated": now_iso(),
     }
 
@@ -246,6 +257,11 @@ def crawl_ranked(api, fresh, ranked_store, errors, sample_path):
             errors.append(f"ranked parse failed for {rec['tag']} ({label}): {e!r}")
             return None
         row["final"] = label == "previous"
+        old = ranked_store.get(f"{s}:{rec['tag']}") or {}
+        if label == "current":      # tier during the live season
+            row["league"], row["leagueIcon"] = rec.get("league", ""), rec.get("leagueIcon", "")
+        else:                       # keep what we recorded while the season was live
+            row["league"], row["leagueIcon"] = old.get("league", ""), old.get("leagueIcon", "")
         return row, data
 
     with ThreadPoolExecutor(max_workers=6) as ex:
