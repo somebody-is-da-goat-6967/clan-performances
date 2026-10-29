@@ -55,7 +55,10 @@ class Api:
                     return json.load(r)
             except urllib.error.HTTPError as e:
                 try:
-                    reason = json.loads(e.read()).get("reason", "")
+                    body = json.loads(e.read())
+                    reason = body.get("reason", "")
+                    if body.get("message"):
+                        reason += f" ({body['message']})"
                 except Exception:
                     reason = ""
                 if e.code == 404:
@@ -401,6 +404,7 @@ def main():
     if not token:
         sys.exit("COC_API_TOKEN is not set")
     api = Api(token, os.environ.get("COC_API_BASE", DEFAULT_BASE))
+    print("Using API base:", api.base, "| token length:", len(token))
     clans = json.loads((ROOT / "clans.json").read_text())
     errors = run(api, clans, ROOT / "docs" / "data", ROOT / "data" / "state.json")
     for e in sorted(set(errors)):
