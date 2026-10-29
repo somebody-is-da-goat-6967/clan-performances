@@ -42,6 +42,7 @@
 <div class="bar">
   <input id="q" type="search" placeholder="Search name or tag">
   <select id="clan"><option value="">All clans</option></select>
+  <select id="season"></select>
   <label id="formerWrap"><input type="checkbox" id="former"> Show former members</label>
   <button id="csv">Download CSV</button>
   <span class="count" id="count"></span>
@@ -65,12 +66,14 @@ const TABS = {
            C("warStars","War stars",{num:1}), C("attackWins","Atk wins",{num:1}), C("donations","Donated",{num:1}),
            C("donationsReceived","Received",{num:1}), C("warPreference","War pref"), C("capitalContributions","Capital",{num:1}),
            C("status","Status"), C("firstSeen","First seen",{fmt:fmtDate}), C("lastSeen","Last seen",{fmt:fmtDate})] },
-  ranked: { label: "Ranked", file: "ranked.json",
-    note: "Ranked battle performance from each player's current and previous league group. Empty cells mean the API did not return that field.",
-    cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"), C("season","Season"), C("seasonId","Season ID"),
-           C("tier","League tier"), C("rankedTrophies","Trophies",{num:1}), C("rank","Rank",{num:1}),
-           C("attacks","Attacks",{num:1}), C("attackStars","Atk stars",{num:1}), C("threeStars","3★",{num:1}),
-           C("attackAvgDestruction","Avg destr %",{num:1}), C("defenses","Defenses",{num:1}), C("defenseStars","Def stars",{num:1})] },
+  ranked: { label: "Ranked", file: "ranked.json", season: true,
+    note: "Ranked battle results per weekly season. Completed seasons are final; the in-progress season is still changing. Defaults to the latest completed season. Trophies are the end-of-season total; 'Atk trophies' / 'Def trophies' are the sums of the trophy values on each logged battle.",
+    cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"),
+           C("seasonStart","Season start"), C("status","Status"), C("rank","Rank",{num:1}), C("groupSize","Group",{num:1}),
+           C("leagueTrophies","Trophies",{num:1}), C("attacks","Attacks",{num:1}), C("attackWins","Atk W",{num:1}), C("attackLosses","Atk L",{num:1}),
+           C("attackStars","Atk ★",{num:1}), C("attackThreeStars","Atk 3★",{num:1}), C("attackAvgDestruction","Atk destr %",{num:1}), C("attackTrophies","Atk trophies",{num:1}),
+           C("defenses","Defenses",{num:1}), C("defenseWins","Def W",{num:1}), C("defenseLosses","Def L",{num:1}),
+           C("defenseStars","Def ★ conceded",{num:1}), C("defenseThreeStars","Def 3★",{num:1}), C("defenseAvgDestruction","Def destr %",{num:1}), C("defenseTrophies","Def trophies",{num:1})] },
   war_summary: { label: "War summary", file: "war_summary.json",
     note: "Totals over regular wars that have ended and been recorded since tracking began.",
     cols: [C("th","TH",{num:1}), C("name","Name"), C("tag","Tag"), C("clan","Clan"), C("wars","Wars",{num:1}),
@@ -122,7 +125,7 @@ async function init() {
     b.onclick = () => selectTab(id);
     nav.append(b);
   });
-  ["q", "clan", "former"].forEach(id => $(id).addEventListener("input", render));
+  ["q", "clan", "former", "season"].forEach(id => $(id).addEventListener("input", render));
   $("csv").onclick = downloadCSV;
   selectTab("members");
 }
@@ -131,9 +134,25 @@ async function selectTab(id) {
   state.tab = id; state.sortKey = "th"; state.sortDir = -1;
   document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-selected", b.dataset.id === id));
   $("formerWrap").style.display = TABS[id].former ? "" : "none";
+  $("season").style.display = TABS[id].season ? "" : "none";
   $("note").textContent = TABS[id].note;
   if (!state.data[id]) state.data[id] = await getJSON(TABS[id].file);
+  if (TABS[id].season) fillSeasons();
   render();
+}
+
+function fillSeasons() {
+  const all = state.data.ranked || [];
+  const seen = new Map();
+  all.forEach(r => seen.set(r.seasonId, { start: r.seasonStart, status: r.status }));
+  const list = [...seen.entries()].sort((a, b) => Number(b[0]) - Number(a[0]));
+  const sel = $("season");
+  const keep = sel.value;
+  sel.innerHTML = "";
+  sel.append(new Option("All seasons", ""));
+  list.forEach(([id, v]) => sel.append(new Option(`Season ${v.start} (${v.status})`, id)));
+  const completed = list.find(([, v]) => v.status === "completed");
+  sel.value = keep && seen.has(keep) ? keep : (completed ? completed[0] : "");
 }
 
 function rows() {
@@ -142,6 +161,7 @@ function rows() {
   let r = state.data[state.tab] || [];
   if (t.former && !former) r = r.filter(x => x.status === "active");
   if (clan) r = r.filter(x => x.clan === clan);
+  if (t.season && $("season").value) r = r.filter(x => x.seasonId === $("season").value);
   if (q) r = r.filter(x => (x.name || "").toLowerCase().includes(q) || (x.tag || "").toLowerCase().includes(q));
   const k = state.sortKey, d = state.sortDir;
   return [...r].sort((a, b) => {
