@@ -1,0 +1,66 @@
+{
+ "updatedAt": "2026-10-29T07:01:21Z",
+ "clans": [
+  {
+   "tag": "#2G9J22R0P",
+   "name": "Reaper Crew",
+   "members": 49,
+   "level": 25,
+   "warLeague": "Champion League I",
+   "warWins": 243,
+   "isWarLogPublic": true
+  },
+  {
+   "tag": "#2JR2Y8G0V",
+   "name": "Reaper Two",
+   "members": 15,
+   "level": 8,
+   "warLeague": "Unranked",
+   "warWins": 43,
+   "isWarLogPublic": true
+  },
+  {
+   "tag": "#QQR8892U",
+   "name": "THE WARRIOR",
+   "members": 46,
+   "level": 29,
+   "warLeague": "Champion League III",
+   "warWins": 640,
+   "isWarLogPublic": true
+  },
+  {
+   "tag": "#2R0R982RC",
+   "name": "Band of Reapers",
+   "members": 7,
+   "level": 8,
+   "warLeague": "Master League I",
+   "warWins": 0,
+   "isWarLogPublic": true
+  },
+  {
+   "tag": "#22VU0GV8L",
+   "name": "Syndicate",
+   "members": 12,
+   "level": 18,
+   "warLeague": "Master League II",
+   "warWins": 218,
+   "isWarLogPublic": false
+  },
+  {
+   "tag": "#2J900Y9V0",
+   "name": "Freaker Crew",
+   "members": 4,
+   "level": 6,
+   "warLeague": "Crystal League III",
+   "warWins": 0,
+   "isWarLogPublic": true
+  }
+ ],
+ "errors": [
+  "#22VU0GV8L: war log is private, regular wars cannot be read",
+  "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
+  "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
+  "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
+  "500 unknownException on /leaguegroup/%238GQPC2C/1790571600"
+ ]
+}
