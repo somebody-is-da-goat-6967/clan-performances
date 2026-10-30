@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T11:15:02Z",
+ "updatedAt": "2026-10-30T17:07:15Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -13,7 +13,7 @@
   {
    "tag": "#2JR2Y8G0V",
    "name": "Reaper Two",
-   "members": 16,
+   "members": 18,
    "level": 8,
    "warLeague": "Unranked",
    "warWins": 43,
@@ -22,7 +22,7 @@
   {
    "tag": "#QQR8892U",
    "name": "THE WARRIOR",
-   "members": 49,
+   "members": 41,
    "level": 29,
    "warLeague": "Champion League III",
    "warWins": 640,
@@ -49,7 +49,7 @@
   {
    "tag": "#2J900Y9V0",
    "name": "Freaker Crew",
-   "members": 5,
+   "members": 4,
    "level": 6,
    "warLeague": "Crystal League III",
    "warWins": 0,
@@ -58,11 +58,14 @@
  ],
  "errors": [
   "#22VU0GV8L: war log is private, regular wars cannot be read",
-  "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "525  on /clans/%232J900Y9V0/currentwar/leaguegroup"
+  "520  on /leaguegroup/%23908L8JR/1792990800",
+  "520  on /leaguegroup/%23909C2C0/1792990800",
+  "525  on /leaguegroup/%232JJRY8V/1777870800",
+  "525  on /players/%23LC9LLVCRJ",
+  "525  on /players/%23QGJP2L0CQ"
  ]
 }
