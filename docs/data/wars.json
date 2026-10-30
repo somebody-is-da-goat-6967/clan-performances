@@ -16,10 +16,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 3,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -38,10 +35,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -55,15 +49,12 @@
   "tag": "#G808UVU92",
   "th": 18,
   "pos": 10,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "stars": 6,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -77,15 +68,12 @@
   "tag": "#GPYYJV0CG",
   "th": 18,
   "pos": 11,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "stars": 6,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -104,10 +92,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -126,10 +111,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -148,10 +130,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -170,10 +149,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -192,10 +168,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -214,10 +187,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -236,10 +206,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 4,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -258,10 +225,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -280,10 +244,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -302,10 +263,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -324,10 +282,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -341,15 +296,12 @@
   "tag": "#GLCR9LCU2",
   "th": 18,
   "pos": 3,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "stars": 6,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -368,10 +320,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 3,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -390,10 +339,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -412,10 +358,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -434,10 +377,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -456,10 +396,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -478,10 +415,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -500,10 +434,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -522,10 +453,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -544,10 +472,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -566,10 +491,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -588,10 +510,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -605,15 +524,12 @@
   "tag": "#2Q0QYYGGL",
   "th": 18,
   "pos": 17,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "stars": 6,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -632,10 +548,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -654,10 +567,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -676,10 +586,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -698,10 +605,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -720,10 +624,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -742,10 +643,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -764,10 +662,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -786,10 +681,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 2,
-  "defDestruction": 93
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -808,10 +700,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -830,10 +719,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -852,10 +738,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -874,10 +757,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -896,10 +776,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -918,10 +795,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -940,10 +814,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -962,10 +833,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 2,
-  "defStars": 2,
-  "defDestruction": 99
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -984,10 +852,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 3,
-  "defStars": 1,
-  "defDestruction": 91
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1006,10 +871,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 3,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1028,10 +890,7 @@
   "missed": null,
   "stars": 4,
   "avgDestruction": 84.5,
-  "attackDetail": "2★ 81%, 2★ 88%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "2★ 81%, 2★ 88%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1050,10 +909,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1072,10 +928,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1094,10 +947,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 2,
-  "defStars": 2,
-  "defDestruction": 92
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1116,10 +966,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1138,10 +985,7 @@
   "missed": null,
   "stars": 4,
   "avgDestruction": 99.0,
-  "attackDetail": "1★ 98%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "1★ 98%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1160,10 +1004,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 0,
-  "defStars": null,
-  "defDestruction": null
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1182,10 +1023,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1204,10 +1042,7 @@
   "missed": null,
   "stars": 3,
   "avgDestruction": 78.0,
-  "attackDetail": "1★ 90%, 2★ 66%",
-  "timesAttacked": 0,
-  "defStars": null,
-  "defDestruction": null
+  "attackDetail": "1★ 90%, 2★ 66%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1226,10 +1061,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 0,
-  "defStars": null,
-  "defDestruction": null
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1248,10 +1080,7 @@
   "missed": null,
   "stars": 4,
   "avgDestruction": 98.0,
-  "attackDetail": "2★ 98%, 2★ 98%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "2★ 98%, 2★ 98%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1270,10 +1099,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1292,10 +1118,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1314,10 +1137,7 @@
   "missed": null,
   "stars": 3,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1336,10 +1156,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 2,
-  "defDestruction": 99
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1358,10 +1175,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T15:23:57Z",
@@ -1380,10 +1194,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1402,10 +1213,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1419,15 +1227,12 @@
   "tag": "#Q2LCUV9P9",
   "th": 16,
   "pos": 37,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "stars": 2,
+  "avgDestruction": 31.0,
+  "attackDetail": "1★ 35%, 1★ 27%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1446,10 +1251,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1468,10 +1270,7 @@
   "missed": null,
   "stars": 4,
   "avgDestruction": 96.0,
-  "attackDetail": "3★ 100%, 1★ 92%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 1★ 92%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1485,15 +1284,12 @@
   "tag": "#Y2L00Y9G",
   "th": 16,
   "pos": 35,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "stars": 5,
+  "avgDestruction": 99.5,
+  "attackDetail": "2★ 99%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1512,10 +1308,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 3,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1534,10 +1327,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 0,
-  "defStars": null,
-  "defDestruction": null
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1556,10 +1346,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1578,10 +1365,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1600,10 +1384,7 @@
   "missed": null,
   "stars": 5,
   "avgDestruction": 98.5,
-  "attackDetail": "3★ 100%, 2★ 97%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 2★ 97%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1622,10 +1403,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1644,10 +1422,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1666,10 +1441,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 2,
-  "defDestruction": 95
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1688,10 +1460,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1710,10 +1479,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1732,10 +1498,7 @@
   "missed": null,
   "stars": 5,
   "avgDestruction": 99.5,
-  "attackDetail": "3★ 100%, 2★ 99%",
-  "timesAttacked": 0,
-  "defStars": null,
-  "defDestruction": null
+  "attackDetail": "3★ 100%, 2★ 99%"
  },
  {
   "date": "2026-10-29T16:50:15Z",
@@ -1754,10 +1517,7 @@
   "missed": null,
   "stars": 4,
   "avgDestruction": 82.0,
-  "attackDetail": "2★ 81%, 2★ 83%",
-  "timesAttacked": 1,
-  "defStars": 2,
-  "defDestruction": 88
+  "attackDetail": "2★ 81%, 2★ 83%"
  },
  {
   "date": "2026-10-29T15:23:57Z",
@@ -1776,10 +1536,7 @@
   "missed": null,
   "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%, 3★ 100%",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-10-29T10:53:14Z",
@@ -1798,10 +1555,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 1,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T15:23:57Z",
@@ -1820,10 +1574,7 @@
   "missed": null,
   "stars": 1,
   "avgDestruction": 85.0,
-  "attackDetail": "1★ 85%",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": "1★ 85%"
  },
  {
   "date": "2026-10-29T15:23:57Z",
@@ -1842,10 +1593,7 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 3,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  },
  {
   "date": "2026-10-29T15:23:57Z",
@@ -1864,9 +1612,6 @@
   "missed": null,
   "stars": 0,
   "avgDestruction": null,
-  "attackDetail": "",
-  "timesAttacked": 2,
-  "defStars": 3,
-  "defDestruction": 100
+  "attackDetail": ""
  }
 ]
