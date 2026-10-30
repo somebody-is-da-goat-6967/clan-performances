@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-10-30T17:07:15Z",
+ "updatedAt": "2026-10-30T21:40:53Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 44,
+   "members": 43,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 243,
@@ -31,7 +31,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 7,
+   "members": 8,
    "level": 8,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -58,14 +58,11 @@
  ],
  "errors": [
   "#22VU0GV8L: war log is private, regular wars cannot be read",
+  "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
-  "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /leaguegroup/%23908L8JR/1792990800",
-  "520  on /leaguegroup/%23909C2C0/1792990800",
-  "525  on /leaguegroup/%232JJRY8V/1777870800",
-  "525  on /players/%23LC9LLVCRJ",
-  "525  on /players/%23QGJP2L0CQ"
+  "520  on /clans/%232G9J22R0P/currentwar",
+  "520  on /leaguegroup/%2388QGQQG/1782709200"
  ]
 }
