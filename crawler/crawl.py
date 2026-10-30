@@ -118,15 +118,32 @@ def tier_icon(tier):
     return icons.get("large") or icons.get("medium") or icons.get("small") or ""
 
 
+def norm_tag(t):
+    t = (t or "").strip().upper()
+    return t if t.startswith("#") else "#" + t
+
+
+LEGACY_STATUS = {"active": "in clan", "left": "other clan"}
+
+
 def crawl_members(api, clan_tags, players_db, errors):
-    """Refresh roster. players_db: tag -> record, kept forever (status active/left)."""
+    """Refresh the tracked clans' rosters, then refresh EVERY player ever stored.
+
+    A player is added the first time they show up in a tracked clan and is tracked from
+    then on through /players/{tag}, wherever they go (another clan, or no clan at all).
+    status: 'in clan' (one of the tracked clans) | 'other clan' | 'no clan'.
+    """
     stamp = now_iso()
-    active_tags = set()
+    tracked = {norm_tag(t) for t in clan_tags}
     clans_meta = []
-    tag_to_clan = {}
+    listed = {}  # tag -> (clanTag, clanName, member entry) for players in a tracked clan right now
 
     for ctag in clan_tags:
-        data = api.get(f"/clans/{enc(ctag)}")
+        try:
+            data = api.get(f"/clans/{enc(ctag)}")
+        except ApiError as e:
+            errors.append(str(e))
+            continue
         if not data:
             errors.append(f"clan {ctag} not found")
             continue
@@ -136,8 +153,7 @@ def crawl_members(api, clan_tags, players_db, errors):
             "warWins": data.get("warWins"), "isWarLogPublic": data.get("isWarLogPublic"),
         })
         for m in data.get("memberList", []):
-            active_tags.add(m["tag"])
-            tag_to_clan[m["tag"]] = (data["tag"], data.get("name", ""), m)
+            listed[m["tag"]] = (data["tag"], data.get("name", ""), m)
 
     def fetch_player(tag):
         try:
@@ -147,34 +163,41 @@ def crawl_members(api, clan_tags, players_db, errors):
             return tag, None
 
     with ThreadPoolExecutor(max_workers=6) as ex:
-        results = list(ex.map(fetch_player, sorted(active_tags)))
+        results = list(ex.map(fetch_player, sorted(set(players_db) | set(listed))))
 
     fresh = {}
     for tag, p in results:
-        ctag, cname, m = tag_to_clan[tag]
         old = players_db.get(tag, {})
+        info = listed.get(tag)
+        m = info[2] if info else None
+        if p is None and m is None:
+            if old.get("status") in LEGACY_STATUS:
+                old["status"] = LEGACY_STATUS[old["status"]]
+            continue  # profile unavailable right now; keep the stored record as it is
+        pc = (p or {}).get("clan") or {}
+        if pc:
+            cl_tag, cl_name = pc.get("tag", ""), pc.get("name", "")
+        elif info:
+            cl_tag, cl_name = info[0], info[1]
+        else:
+            cl_tag = cl_name = ""
+        status = "in clan" if norm_tag(cl_tag) in tracked else ("other clan" if cl_tag else "no clan")
+        base = p or m
+        tier = tier_of(p, m)
         rec = {
-            "tag": tag, "name": (p or m).get("name", old.get("name", "")),
-            "clanTag": ctag, "clan": cname, "role": m.get("role", ""),
+            "tag": tag, "name": base.get("name", old.get("name", "")),
+            "clanTag": cl_tag, "clan": cl_name, "status": status,
             "th": (p or {}).get("townHallLevel", old.get("th", 0)),
-            "expLevel": (p or m).get("expLevel"),
-            "trophies": (p or m).get("trophies"),
-            "bestTrophies": (p or {}).get("bestTrophies"),
-            "league": tier_of(p, m).get("name", ""),
-            "leagueIcon": tier_icon(tier_of(p, m)),
-            "warStars": (p or {}).get("warStars"),
-            "attackWins": (p or {}).get("attackWins"),
-            "donations": m.get("donations"), "donationsReceived": m.get("donationsReceived"),
-            "warPreference": (p or {}).get("warPreference", ""),
-            "capitalContributions": (p or {}).get("clanCapitalContributions"),
-            "firstSeen": old.get("firstSeen", stamp), "lastSeen": stamp, "status": "active",
+            "expLevel": base.get("expLevel"), "trophies": base.get("trophies"),
+            "bestTrophies": (p or {}).get("bestTrophies", old.get("bestTrophies")),
+            "league": tier.get("name", ""), "leagueIcon": tier_icon(tier),
+            "warStars": (p or {}).get("warStars", old.get("warStars")),
+            "attackWins": (p or {}).get("attackWins", old.get("attackWins")),
+            "warPreference": (p or {}).get("warPreference", old.get("warPreference", "")),
+            "firstSeen": old.get("firstSeen", stamp), "updated": stamp,
         }
         players_db[tag] = rec
         fresh[tag] = (rec, p)
-
-    for tag, rec in players_db.items():
-        if tag not in active_tags and rec.get("status") == "active":
-            rec["status"] = "left"
     return clans_meta, fresh
 
 
@@ -193,36 +216,32 @@ def _avg(vals):
 
 
 def ranked_row(rec, group_tag, season_id, data):
-    """One player's result in one ranked season group.
+    """One player's attacking result in one ranked season group.
 
     Response shape: members[{playerTag, playerName, clanTag, clanName, leagueTrophies,
     attackWinCount, attackLoseCount, defenseWinCount, defenseLoseCount}],
-    attackLogs / defenseLogs [{opponentPlayerTag, opponentName, stars,
-    destructionPercentage, trophies, creationTime}] for the queried player.
+    attackLogs [{opponentPlayerTag, opponentName, stars, destructionPercentage, trophies,
+    creationTime}] for the queried player. Defensive data is deliberately not kept.
     """
     members = data.get("members") or []
     me = next((m for m in members if m.get("playerTag") == rec["tag"]), {})
     atk = data.get("attackLogs") or []
-    dfn = data.get("defenseLogs") or []
     trophies = me.get("leagueTrophies")
     rank = (1 + sum(1 for m in members if (m.get("leagueTrophies") or 0) > trophies)) if trophies is not None else None
     aw, al = me.get("attackWinCount"), me.get("attackLoseCount")
-    dw, dl = me.get("defenseWinCount"), me.get("defenseLoseCount")
+    stars = sum(e.get("stars", 0) or 0 for e in atk)
     return {
         "clan": rec["clan"], "clanTag": rec["clanTag"], "name": rec["name"], "tag": rec["tag"], "th": rec["th"],
         "seasonId": str(season_id), "seasonStart": season_start(season_id), "groupTag": group_tag,
         "groupSize": len(members) or None, "rank": rank, "leagueTrophies": trophies,
-        "attackWins": aw, "attackLosses": al, "attacks": (aw or 0) + (al or 0) if me else len(atk),
-        "defenseWins": dw, "defenseLosses": dl, "defenses": (dw or 0) + (dl or 0) if me else len(dfn),
-        "attackStars": sum(e.get("stars", 0) or 0 for e in atk),
-        "attackAvgStars": round(sum(e.get("stars", 0) or 0 for e in atk) / len(atk), 2) if atk else None,
-        "defenseAvgStars": round(sum(e.get("stars", 0) or 0 for e in dfn) / len(dfn), 2) if dfn else None,
+        "attackWins": aw, "attackLosses": al,
+        "attacks": ((aw or 0) + (al or 0)) if me else len(atk),
+        "attacksLogged": len(atk),
+        "attackStars": stars,
+        "attackAvgStars": round(stars / len(atk), 2) if atk else None,
         "attackThreeStars": sum(1 for e in atk if e.get("stars") == 3),
         "attackAvgDestruction": _avg(e.get("destructionPercentage") for e in atk),
         "attackTrophies": sum(e.get("trophies", 0) or 0 for e in atk),
-        "defenseStars": sum(e.get("stars", 0) or 0 for e in dfn),
-        "defenseThreeStars": sum(1 for e in dfn if e.get("stars") == 3),
-        "defenseAvgDestruction": _avg(e.get("destructionPercentage") for e in dfn),
         "final": False, "updated": now_iso(),
     }
 
@@ -273,7 +292,8 @@ def crawl_ranked(api, fresh, ranked_store, errors, sample_path):
 
 
 def ranked_rows(ranked_store):
-    rows = list(ranked_store.values())
+    # defensive fields from older stored rows are dropped here
+    rows = [{k: v for k, v in r.items() if not k.startswith("defense")} for r in ranked_store.values()]
     latest = max((r["seasonId"] for r in rows), default=None)
     for r in rows:
         r["status"] = "in progress" if r["seasonId"] == latest else "completed"
@@ -307,9 +327,6 @@ def norm_war(w, our_tag, key, typ):
             "attacks": [{"stars": a.get("stars", 0), "destruction": a.get("destructionPercentage", 0),
                          "order": a.get("order"), "defenderTag": a.get("defenderTag")}
                         for a in (m.get("attacks") or [])],
-            "timesAttacked": m.get("opponentAttacks", 0),
-            "defStars": (m.get("bestOpponentAttack") or {}).get("stars"),
-            "defDestruction": (m.get("bestOpponentAttack") or {}).get("destructionPercentage"),
         })
     return {
         "key": key, "type": typ, "clanTag": our_tag, "clan": us.get("name", ""),
@@ -392,7 +409,6 @@ def war_rows(war_map, players_db):
                 "missed": (w["attacksPerMember"] - used) if ended else None,
                 "stars": stars, "avgDestruction": avg_d,
                 "attackDetail": ", ".join(f'{a["stars"]}★ {a["destruction"]}%' for a in m["attacks"]),
-                "timesAttacked": m["timesAttacked"], "defStars": m["defStars"], "defDestruction": m["defDestruction"],
             })
     def digits(s):
         return int("".join(ch for ch in (s or "") if ch.isdigit()) or 0)
