@@ -18,8 +18,10 @@
   .tab { border:0; background:none; color:var(--muted); padding:7px 11px; cursor:pointer; font:inherit; border-bottom:2px solid transparent; white-space:nowrap; }
   .tab[aria-selected=true] { color:var(--fg); border-bottom-color:var(--accent); font-weight:600; }
   .bar { display:flex; flex-wrap:wrap; gap:6px; padding:8px 14px; align-items:center; }
+  .grp { display:flex; flex-wrap:wrap; gap:6px; align-items:center; padding-right:8px; margin-right:2px; border-right:1px solid var(--line); }
   .bar input, .bar select, .bar button { font:inherit; padding:4px 7px; border:1px solid var(--line); border-radius:6px; background:var(--bg); color:var(--fg); }
-  .bar label { color:var(--muted); display:flex; gap:4px; align-items:center; }
+  .bar input[type=number] { width:64px; }
+  .bar label { color:var(--muted); display:flex; gap:5px; align-items:center; }
   .count { margin-left:auto; color:var(--muted); }
   .wrap { overflow:auto; max-height:calc(100vh - 160px); border-top:1px solid var(--line); }
   table { border-collapse:collapse; width:100%; }
@@ -27,6 +29,7 @@
   th { position:sticky; top:0; background:var(--head); cursor:pointer; user-select:none; font-weight:600; font-size:12px; color:var(--muted); z-index:1; }
   th.num, td.num { text-align:right; font-variant-numeric:tabular-nums; }
   th .arrow { color:var(--accent); margin-left:3px; }
+  td.hl { font-weight:700; }
   tr:hover td { background:var(--head); }
   .ico { display:inline-flex; align-items:center; gap:5px; }
   .ico img { width:26px; height:26px; object-fit:contain; }
@@ -46,10 +49,29 @@
 </header>
 <nav class="tabs" id="tabs" role="tablist"></nav>
 <div class="bar">
+  <span class="grp" id="lbCtl">
+    <label>Mode
+      <select id="mode">
+        <option value="ranked">Ranked</option>
+        <option value="war">War</option>
+        <option value="cwl">CWL</option>
+      </select>
+    </label>
+    <label>Rank by
+      <select id="metric">
+        <option value="avg">Avg ★ per attack</option>
+        <option value="stars">Total ★</option>
+        <option value="three">3★ rate</option>
+        <option value="destr">Avg destruction %</option>
+        <option value="n">Total attacks</option>
+      </select>
+    </label>
+    <label>Min attacks <input id="minAtt" type="number" min="0" step="1" value="10"></label>
+  </span>
   <input id="q" type="search" placeholder="Search name or tag">
   <select id="clan"><option value="">All clans</option></select>
+  <select id="th"><option value="">All TH</option></select>
   <select id="season"></select>
-  <label id="formerWrap"><input type="checkbox" id="former"> Show former members</label>
   <button id="csv">Download CSV</button>
   <span class="count" id="count"></span>
 </div>
@@ -58,45 +80,61 @@
 <div class="note" id="note"></div>
 
 <script>
-// ---- Image sources (change here if an icon 404s; missing icons are hidden and the number/name still shows)
+// ---- Image sources (change here if an icon 404s; a missing icon is hidden and the number/name still shows)
 const ASSETS = "https://assets.clashk.ing";
 const thIcon = lvl => `${ASSETS}/buildings/home-village/town_hall/level_${lvl}.webp`;
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
 const img = (src, alt) => src ? `<img src="${esc(src)}" alt="${esc(alt)}" loading="lazy" onerror="this.remove()">` : "";
+const dash = `<span class="dim">–</span>`;
 
 // ---- cell renderers: (value, row) -> html
 const R = {
-  th:   (v) => v ? `<span class="ico">${img(thIcon(v), "TH" + v)}<b>${v}</b></span>` : "",
+  th:   v => v ? `<span class="ico">${img(thIcon(v), "TH" + v)}<b>${v}</b></span>` : "",
   name: (v, r) => `<div class="nm">${esc(v)}<small>${esc(r.tag)}</small></div>`,
-  league: (v, r) => v ? `<span class="ico">${img(r.leagueIcon, v)}<span>${esc(v)}</span></span>` : `<span class="dim">–</span>`,
-  date: (v) => esc(v ? v.slice(0, 10) : ""),
-  n2:   (v) => v == null ? `<span class="dim">–</span>` : Number(v).toFixed(2),
-  n1:   (v) => v == null ? `<span class="dim">–</span>` : Number(v).toFixed(1),
-  result: (v) => v ? `<span class="${v === "win" ? "win" : v === "loss" ? "loss" : "muted"}">${v}</span>` : "",
-  rank: (v, r) => v == null ? `<span class="dim">–</span>` : `${v}<span class="dim">/${r.groupSize ?? "?"}</span>`,
+  league: (v, r) => v ? `<span class="ico">${img(r.leagueIcon, v)}<span>${esc(v)}</span></span>` : dash,
+  date: v => esc(v ? v.slice(0, 10) : ""),
+  n2:   v => v == null ? dash : Number(v).toFixed(2),
+  n1:   v => v == null ? dash : Number(v).toFixed(1),
+  pct:  v => v == null ? dash : Math.round(v) + "%",
+  result: v => v ? `<span class="${v === "win" ? "win" : v === "loss" ? "loss" : "muted"}">${v}</span>` : "",
+  rank: (v, r) => v == null ? dash : `${v}<span class="dim">/${r.groupSize ?? "?"}</span>`,
   used: (v, r) => `${v}<span class="dim">/${r.attacksAvailable}</span>`,
+  pos:  v => v == null ? "" : v <= 3 ? ["🥇", "🥈", "🥉"][v - 1] : v,
+  status: v => `<span class="${v === "in clan" ? "" : "dim"}">${({ "in clan": "In clan", "other clan": "Other clan", "no clan": "No clan" })[v] || esc(v)}</span>`,
 };
 const col = (key, label, o = {}) => ({ key, label, ...o });
 const TH = col("th", "TH", { num: 1, html: R.th });
 const NAME = col("name", "Player", { html: R.name });
 const CLAN = col("clan", "Clan");
 
+// ---- leaderboard settings
+const MODES = { ranked: "Ranked", war: "War", cwl: "CWL" };
+const MIN_DEFAULT = { ranked: 10, war: 4, cwl: 3 };
+const METRIC_KEY = { avg: "avg", stars: "stars", three: "threePct", destr: "destr", n: "n" };
+const METRIC_LABEL = { avg: "average stars per attack", stars: "total stars", three: "3-star rate", destr: "average destruction", n: "total attacks" };
+
 const TABS = {
-  members: { label: "Members", file: "members.json", former: true,
-    note: "Everyone in the tracked clans. Sorted by Town Hall, high to low.",
-    cols: [TH, NAME, CLAN, col("league", "League", { html: R.league }), col("role", "Role"),
-           col("trophies", "Trophies", { num: 1 }), col("warStars", "War ★", { num: 1 }),
-           col("donations", "Donated", { num: 1 }), col("donationsReceived", "Received", { num: 1 }), col("status", "Status")] },
-  ranked: { label: "Ranked", file: "ranked.json", season: true,
+  leaderboard: { label: "Leaderboard",
+    cols: () => [col("rank", "#", { num: 1, asc: 1, html: R.pos }), TH, NAME, CLAN,
+      col("n", "Attacks", { num: 1 }), col("stars", "Total ★", { num: 1 }), col("avg", "Avg ★", { num: 1, html: R.n2 }),
+      col("threePct", "3★ rate", { num: 1, html: R.pct }), col("destr", "Destr %", { num: 1, html: R.n1 })]
+      .concat($("mode").value === "ranked" ? [] : [col("missed", "Missed", { num: 1 })]),
+    note: () => `${MODES[$("mode").value]} players ranked by ${METRIC_LABEL[$("metric").value]}. Averages use logged attacks; players under the minimum attacks are hidden. ` +
+      `Filter by Town Hall to compare like with like. Clan shown is the player's current clan.` +
+      ($("mode").value === "ranked" ? " Season: pick one week or all stored weeks." : " Only wars that have ended and been recorded count.") },
+  members: { label: "Members", file: "members.json",
+    note: "Every player the tracker has ever stored, wherever they are now. Sorted by Town Hall, high to low.",
+    cols: [TH, NAME, col("clan", "Clan"), col("league", "League", { html: R.league }),
+           col("trophies", "Trophies", { num: 1 }), col("warStars", "War ★", { num: 1 }), col("status", "Status", { html: R.status })] },
+  ranked: { label: "Ranked", file: "ranked.json", season: true, player: true,
     note: "Weekly ranked seasons. Completed seasons are final. Avg ★ is stars per logged attack. Defaults to the latest completed season.",
     cols: [TH, NAME, CLAN, col("seasonStart", "Season"), col("league", "League", { html: R.league }),
            col("rank", "Rank", { num: 1, html: R.rank }), col("leagueTrophies", "Trophies", { num: 1 }),
            col("attacks", "Attacks", { num: 1 }), col("attackStars", "Total ★", { num: 1 }),
            col("attackAvgStars", "Avg ★", { num: 1, html: R.n2 }), col("attackThreeStars", "3★", { num: 1 }),
-           col("attackAvgDestruction", "Destr %", { num: 1, html: R.n1 }),
-           col("defenses", "Defenses", { num: 1 }), col("defenseAvgStars", "Avg ★ given up", { num: 1, html: R.n2 })] },
-  war_summary: { label: "War summary", file: "war_summary.json",
+           col("attackAvgDestruction", "Destr %", { num: 1, html: R.n1 })] },
+  war_summary: { label: "War summary", file: "war_summary.json", player: true, currentTH: true,
     note: "Totals across regular wars that have ended since tracking began.",
     cols: [TH, NAME, CLAN, col("wars", "Wars", { num: 1 }), col("attacksUsed", "Attacks", { num: 1 }),
            col("missed", "Missed", { num: 1 }), col("stars", "Total ★", { num: 1 }),
@@ -107,7 +145,7 @@ const TABS = {
     cols: [TH, NAME, CLAN, col("date", "War", { html: R.date }), col("opponent", "Opponent"),
            col("result", "Result", { html: R.result }), col("attacksUsed", "Atk", { num: 1, html: R.used }),
            col("stars", "★", { num: 1 }), col("avgDestruction", "Destr %", { num: 1, html: R.n1 }), col("attackDetail", "Attacks")] },
-  cwl_summary: { label: "CWL summary", file: "cwl_summary.json",
+  cwl_summary: { label: "CWL summary", file: "cwl_summary.json", player: true, currentTH: true,
     note: "Totals across Clan War League days that have ended since tracking began.",
     cols: [TH, NAME, CLAN, col("wars", "Days", { num: 1 }), col("attacksUsed", "Attacks", { num: 1 }),
            col("missed", "Missed", { num: 1 }), col("stars", "Total ★", { num: 1 }),
@@ -119,43 +157,83 @@ const TABS = {
            col("result", "Result", { html: R.result }), col("attacksUsed", "Atk", { num: 1, html: R.used }),
            col("stars", "★", { num: 1 }), col("avgDestruction", "Destr %", { num: 1, html: R.n1 }), col("attackDetail", "Attack")] },
 };
+const colsFor = t => typeof t.cols === "function" ? t.cols() : t.cols;
 
-const state = { tab: "members", data: {}, sortKey: "th", sortDir: -1 };
+const state = { tab: "leaderboard", data: {}, sortKey: "rank", sortDir: 1 };
+let dir = new Map();
 const $ = id => document.getElementById(id);
 
-async function getJSON(f) {
-  const r = await fetch(`data/${f}?t=${Date.now()}`);
-  return r.ok ? r.json() : [];
+async function getJSON(f, fallback) {
+  try {
+    const r = await fetch(`data/${f}?t=${Date.now()}`);
+    return r.ok ? await r.json() : fallback;
+  } catch (e) { return fallback; }
+}
+
+// Current identity of every player (members.json is the source of truth for name / TH / clan).
+function prep() {
+  dir = new Map((state.data.members || []).map(m => [m.tag, m]));
+  for (const [id, t] of Object.entries(TABS)) {
+    if (!t.file) continue;
+    (state.data[id] || []).forEach(x => {
+      const p = dir.get(x.tag);
+      x.inClan = p ? p.status === "in clan" : undefined;
+      if (!p || id === "members" || !t.player) return;
+      x.clan = p.clan; x.name = p.name;
+      if (t.currentTH) x.th = p.th;
+    });
+  }
 }
 
 async function init() {
-  const meta = await getJSON("meta.json");
+  const files = Object.entries(TABS).filter(([, t]) => t.file);
+  const [meta, ...datas] = await Promise.all([getJSON("meta.json", {}), ...files.map(([, t]) => getJSON(t.file, []))]);
+  files.forEach(([id], i) => state.data[id] = datas[i]);
+  prep();
+
   const clans = meta.clans || [];
   $("meta").textContent = meta.updatedAt
-    ? `Updated ${new Date(meta.updatedAt).toLocaleString()} · ${clans.length} clans`
+    ? `Updated ${new Date(meta.updatedAt).toLocaleString()} · ${clans.length} clans · ${dir.size} players tracked`
     : "No data yet. Run the crawl workflow once.";
   clans.forEach(c => $("clan").append(new Option(`${c.name} (${c.tag})`, c.name)));
+  $("clan").append(new Option("Not in a tracked clan", "__none__"));
+  const ths = [...new Set([...dir.values()].map(m => m.th).filter(Boolean))].sort((a, b) => b - a);
+  ths.forEach(v => $("th").append(new Option("TH " + v, String(v))));
   const errs = meta.errors || [];
   $("errs").textContent = errs.length ? "Crawler warnings: " + errs.slice(0, 3).join(" | ") + (errs.length > 3 ? ` (+${errs.length - 3} more)` : "") : "";
+  fillSeasons();
+
   Object.entries(TABS).forEach(([id, t]) => {
     const b = document.createElement("button");
     b.className = "tab"; b.role = "tab"; b.textContent = t.label; b.dataset.id = id;
     b.onclick = () => selectTab(id);
     $("tabs").append(b);
   });
-  ["q", "clan", "former", "season"].forEach(id => $(id).addEventListener("input", render));
+  ["q", "clan", "th", "season", "minAtt"].forEach(id => $(id).addEventListener("input", render));
+  $("mode").addEventListener("input", () => { $("minAtt").value = MIN_DEFAULT[$("mode").value]; resetSort(); updateControls(); render(); });
+  $("metric").addEventListener("input", () => { resetSort(); render(); });
   $("csv").onclick = downloadCSV;
-  selectTab("members");
+  $("minAtt").value = MIN_DEFAULT[$("mode").value];
+  selectTab("leaderboard");
 }
 
-async function selectTab(id) {
-  state.tab = id; state.sortKey = "th"; state.sortDir = -1;
+function resetSort() {
+  if (state.tab === "leaderboard") { state.sortKey = "rank"; state.sortDir = 1; }
+}
+
+function updateControls() {
+  const lb = state.tab === "leaderboard";
+  $("lbCtl").style.display = lb ? "" : "none";
+  $("season").style.display = (state.tab === "ranked" || (lb && $("mode").value === "ranked")) ? "" : "none";
+  const t = TABS[state.tab];
+  $("note").textContent = typeof t.note === "function" ? t.note() : t.note;
+}
+
+function selectTab(id) {
+  state.tab = id;
+  if (id === "leaderboard") { state.sortKey = "rank"; state.sortDir = 1; } else { state.sortKey = "th"; state.sortDir = -1; }
   document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-selected", b.dataset.id === id));
-  $("formerWrap").style.display = TABS[id].former ? "" : "none";
-  $("season").style.display = TABS[id].season ? "" : "none";
-  $("note").textContent = TABS[id].note;
-  if (!state.data[id]) state.data[id] = await getJSON(TABS[id].file);
-  if (TABS[id].season) fillSeasons();
+  updateControls();
   render();
 }
 
@@ -163,22 +241,64 @@ function fillSeasons() {
   const seen = new Map();
   (state.data.ranked || []).forEach(r => seen.set(r.seasonId, { start: r.seasonStart, status: r.status }));
   const list = [...seen.entries()].sort((a, b) => Number(b[0]) - Number(a[0]));
-  const sel = $("season"), keep = sel.value;
+  const sel = $("season");
   sel.innerHTML = "";
   sel.append(new Option("All seasons", ""));
   list.forEach(([id, v]) => sel.append(new Option(`Season ${v.start} (${v.status})`, id)));
   const done = list.find(([, v]) => v.status === "completed");
-  sel.value = keep && seen.has(keep) ? keep : (done ? done[0] : "");
+  sel.value = done ? done[0] : "";
+}
+
+// Leaderboard rows: one per player, aggregated over the chosen mode (and season for ranked).
+function lbBase() {
+  const mode = $("mode").value, agg = new Map();
+  const add = (x, n, stars, three, destr, missed) => {
+    let s = agg.get(x.tag);
+    if (!s) agg.set(x.tag, s = { fb: x, n: 0, stars: 0, three: 0, dsum: 0, dn: 0, missed: 0 });
+    s.n += n; s.stars += stars; s.three += three; s.missed += missed;
+    if (destr != null && n) { s.dsum += destr * n; s.dn += n; }
+  };
+  if (mode === "ranked") {
+    const sid = $("season").value;
+    (state.data.ranked || []).forEach(r => {
+      if (sid && r.seasonId !== sid) return;
+      add(r, r.attacksLogged ?? r.attacks ?? 0, r.attackStars || 0, r.attackThreeStars || 0, r.attackAvgDestruction, 0);
+    });
+  } else {
+    (state.data[mode === "war" ? "war_summary" : "cwl_summary"] || []).forEach(r =>
+      add(r, r.attacksUsed || 0, r.stars || 0, r.threeStars || 0, r.avgDestruction, r.missed || 0));
+  }
+  return [...agg.values()].map(s => {
+    const p = dir.get(s.fb.tag) || {};
+    return {
+      tag: s.fb.tag, name: p.name || s.fb.name, th: p.th ?? s.fb.th, clan: p.clan ?? s.fb.clan,
+      inClan: p.status ? p.status === "in clan" : undefined,
+      n: s.n, stars: s.stars, avg: s.n ? s.stars / s.n : null,
+      threePct: s.n ? 100 * s.three / s.n : null, destr: s.dn ? s.dsum / s.dn : null, missed: s.missed,
+    };
+  });
+}
+
+const descNullLast = (a, b) => (a == null && b == null) ? 0 : a == null ? 1 : b == null ? -1 : b - a;
+
+function lbRank(r) {
+  const min = Number($("minAtt").value) || 0, key = METRIC_KEY[$("metric").value];
+  r = r.filter(x => x.n >= min);
+  [...r].sort((a, b) => descNullLast(a[key], b[key]) || b.n - a.n || (b.th || 0) - (a.th || 0))
+        .forEach((x, i) => x.rank = i + 1);
+  return r;
 }
 
 function rows() {
-  const t = TABS[state.tab];
-  const q = $("q").value.trim().toLowerCase(), clan = $("clan").value, former = $("former").checked;
-  let r = state.data[state.tab] || [];
-  if (t.former && !former) r = r.filter(x => x.status === "active");
-  if (clan) r = r.filter(x => x.clan === clan);
+  const id = state.tab, t = TABS[id];
+  const q = $("q").value.trim().toLowerCase(), clan = $("clan").value, th = $("th").value;
+  let r = id === "leaderboard" ? lbBase() : (state.data[id] || []);
   if (t.season && $("season").value) r = r.filter(x => x.seasonId === $("season").value);
+  if (clan === "__none__") r = r.filter(x => x.inClan === false);
+  else if (clan) r = r.filter(x => x.clan === clan);
+  if (th) r = r.filter(x => String(x.th) === th);
   if (q) r = r.filter(x => (x.name || "").toLowerCase().includes(q) || (x.tag || "").toLowerCase().includes(q));
+  if (id === "leaderboard") r = lbRank(r);
   const k = state.sortKey, d = state.sortDir;
   return [...r].sort((a, b) => {
     const x = a[k], y = b[k];
@@ -192,23 +312,25 @@ function rows() {
 }
 
 function render() {
-  const t = TABS[state.tab], r = rows();
-  const head = t.cols.map(c => `<th class="${c.num ? "num" : ""}" data-k="${c.key}">${esc(c.label)}${state.sortKey === c.key ? `<span class="arrow">${state.sortDir < 0 ? "▼" : "▲"}</span>` : ""}</th>`).join("");
-  const body = r.map(x => `<tr>${t.cols.map(c => `<td class="${c.num ? "num" : ""}">${c.html ? c.html(x[c.key], x) : esc(x[c.key])}</td>`).join("")}</tr>`).join("");
-  $("table").innerHTML = `<thead><tr>${head}</tr></thead><tbody>${body || `<tr><td colspan="${t.cols.length}" class="muted">No rows yet.</td></tr>`}</tbody>`;
+  const t = TABS[state.tab], r = rows(), cols = colsFor(t);
+  updateControls();
+  const hlKey = state.tab === "leaderboard" ? METRIC_KEY[$("metric").value] : null;
+  const head = cols.map(c => `<th class="${c.num ? "num" : ""}" data-k="${c.key}">${esc(c.label)}${state.sortKey === c.key ? `<span class="arrow">${state.sortDir < 0 ? "▼" : "▲"}</span>` : ""}</th>`).join("");
+  const body = r.map(x => `<tr>${cols.map(c => `<td class="${c.num ? "num" : ""}${c.key === hlKey ? " hl" : ""}">${c.html ? c.html(x[c.key], x) : esc(x[c.key])}</td>`).join("")}</tr>`).join("");
+  $("table").innerHTML = `<thead><tr>${head}</tr></thead><tbody>${body || `<tr><td colspan="${cols.length}" class="muted">No rows yet.</td></tr>`}</tbody>`;
   $("count").textContent = `${r.length} rows`;
   $("table").querySelectorAll("th").forEach(th => th.onclick = () => {
-    const k = th.dataset.k, c = t.cols.find(c => c.key === k);
-    if (state.sortKey === k) state.sortDir *= -1; else { state.sortKey = k; state.sortDir = c.num ? -1 : 1; }
+    const k = th.dataset.k, c = cols.find(c => c.key === k);
+    if (state.sortKey === k) state.sortDir *= -1; else { state.sortKey = k; state.sortDir = c.asc ? 1 : c.num ? -1 : 1; }
     render();
   });
 }
 
 function downloadCSV() {
-  const t = TABS[state.tab], r = rows();
+  const t = TABS[state.tab], r = rows(), cols = colsFor(t);
   const q = v => { v = String(v ?? ""); return /[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v; };
-  const header = t.cols.map(c => q(c.label)).concat(["Tag"]);
-  const lines = [header.join(",")].concat(r.map(x => t.cols.map(c => q(x[c.key])).concat([q(x.tag)]).join(",")));
+  const lines = [cols.map(c => q(c.label)).concat(["Tag"]).join(",")]
+    .concat(r.map(x => cols.map(c => q(x[c.key])).concat([q(x.tag)]).join(",")));
   const a = document.createElement("a");
   a.href = URL.createObjectURL(new Blob([lines.join("\n")], { type: "text/csv" }));
   a.download = `${state.tab}.csv`; a.click();
