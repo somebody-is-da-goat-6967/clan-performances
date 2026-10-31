@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T21:16:37Z",
+ "updatedAt": "2026-10-31T21:48:38Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -17,6 +17,15 @@
    "level": 8,
    "warLeague": "Unranked",
    "warWins": 43,
+   "isWarLogPublic": true
+  },
+  {
+   "tag": "#QQR8892U",
+   "name": "THE WARRIOR",
+   "members": 34,
+   "level": 29,
+   "warLeague": "Champion League III",
+   "warWins": 640,
    "isWarLogPublic": true
   },
   {
@@ -54,19 +63,9 @@
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /clans/%23QQR8892U",
-  "520  on /leaguegroup/%2390PYC9C/1792990800",
-  "520  on /leaguegroup/%2390QYUL9/1792990800",
-  "520  on /players/%23LP2RGJVL0",
-  "520  on /players/%23LQU8V8RC9",
-  "520  on /players/%23QCJGG2P0G",
-  "520  on /players/%23Y9VYJR8GL",
-  "520  on /players/%23YGR89L22L",
-  "525  on /leaguegroup/%2390QL9RQ/1792990800",
-  "525  on /players/%232G2R2RUL",
-  "525  on /players/%2399UL0J92Q",
-  "525  on /players/%239PR9JV909",
-  "525  on /players/%23Y2Q202JJJ",
-  "525  on /players/%23Y9RJGLLQY"
+  "520  on /leaguegroup/%2390LV8PQ/1792990800",
+  "525  on /leaguegroup/%230/1773032400",
+  "525  on /leaguegroup/%23902U9RU/1792990800",
+  "525  on /leaguegroup/%2390PR9GC/1792990800"
  ]
 }
