@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-10-30T21:40:53Z",
+ "updatedAt": "2026-10-31T01:28:00Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 43,
+   "members": 42,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 243,
@@ -13,7 +13,7 @@
   {
    "tag": "#2JR2Y8G0V",
    "name": "Reaper Two",
-   "members": 18,
+   "members": 17,
    "level": 8,
    "warLeague": "Unranked",
    "warWins": 43,
@@ -22,7 +22,7 @@
   {
    "tag": "#QQR8892U",
    "name": "THE WARRIOR",
-   "members": 41,
+   "members": 40,
    "level": 29,
    "warLeague": "Champion League III",
    "warWins": 640,
@@ -61,8 +61,9 @@
   "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
+  "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /clans/%232G9J22R0P/currentwar",
-  "520  on /leaguegroup/%2388QGQQG/1782709200"
+  "525  on /leaguegroup/%2390C0PVU/1792990800",
+  "525  on /leaguegroup/%2390JCPUY/1792990800"
  ]
 }
