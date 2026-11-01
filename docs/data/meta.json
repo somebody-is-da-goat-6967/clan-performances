@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T06:16:12Z",
+ "updatedAt": "2026-11-01T06:31:13Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -17,6 +17,15 @@
    "level": 8,
    "warLeague": "Unranked",
    "warWins": 43,
+   "isWarLogPublic": true
+  },
+  {
+   "tag": "#QQR8892U",
+   "name": "THE WARRIOR",
+   "members": 36,
+   "level": 29,
+   "warLeague": "Champion League III",
+   "warWins": 640,
    "isWarLogPublic": true
   },
   {
@@ -49,46 +58,12 @@
  ],
  "errors": [
   "#22VU0GV8L: war log is private, regular wars cannot be read",
+  "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
+  "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /leaguegroup/%230/1791176400",
-  "520  on /leaguegroup/%230/1791727028",
-  "520  on /leaguegroup/%232JJRY8V/1777870800",
-  "520  on /leaguegroup/%232JUV8U9/1777266000",
-  "520  on /leaguegroup/%23902GYC9/1792990800",
-  "520  on /leaguegroup/%2390GJQRJ/1792990800",
-  "520  on /leaguegroup/%2390GJY09/1792990800",
-  "520  on /leaguegroup/%2390L8L2U/1792990800",
-  "520  on /leaguegroup/%2390LUVR2/1792990800",
-  "520  on /players/%23GL229RVYP",
-  "520  on /players/%23GPQVGYJYC",
-  "520  on /players/%23LP2RGJVL0",
-  "520  on /players/%23LQ0C29JLY",
-  "520  on /players/%23LQU8V8RC9",
-  "520  on /players/%23P8YV0UCLP",
-  "520  on /players/%23R8PLRL2LJ",
-  "520  on /players/%23RV8UPG2G",
-  "525  on /clans/%23QQR8892U",
-  "525  on /leaguegroup/%230/1761541200",
-  "525  on /leaguegroup/%230/1792386000",
-  "525  on /leaguegroup/%2390989GC/1792990800",
-  "525  on /leaguegroup/%2390JPY2R/1792990800",
-  "525  on /leaguegroup/%2390LV8PQ/1792990800",
-  "525  on /leaguegroup/%2390Q80RL/1792990800",
-  "525  on /leaguegroup/%2390QVPU2/1792990800",
-  "525  on /players/%238JCLJLVLQ",
-  "525  on /players/%2398UU0GUY",
-  "525  on /players/%23992CCVJPY",
-  "525  on /players/%23LLV2JP2CP",
-  "525  on /players/%23LYG9LGV29",
-  "525  on /players/%23QLJP9JY2Y",
-  "525  on /players/%23QVCU9G9LQ",
-  "525  on /players/%23U0J88QLL",
-  "525  on /players/%23VRRPCLP",
-  "525  on /players/%23Y2L00Y9G",
-  "525  on /players/%23Y2Q202JJJ",
-  "525  on /players/%23YY028JPGY",
-  "525  on /players/%23YYJ29J8LR"
+  "520  on /leaguegroup/%230/1786338000",
+  "525  on /leaguegroup/%2390J0VUY/1792990800"
  ]
 }
