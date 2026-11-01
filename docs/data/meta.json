@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-01T05:31:10Z",
+ "updatedAt": "2026-11-01T05:46:16Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 41,
+   "members": 40,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 243,
@@ -58,32 +58,11 @@
  ],
  "errors": [
   "#22VU0GV8L: war log is private, regular wars cannot be read",
+  "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
+  "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
+  "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /leaguegroup/%230/1786338000",
-  "520  on /leaguegroup/%230/1788152400",
-  "520  on /leaguegroup/%2390G0QQR/1792990800",
-  "520  on /leaguegroup/%2390J0QGC/1792990800",
-  "520  on /leaguegroup/%2390JPY2R/1792990800",
-  "520  on /leaguegroup/%2390PRGU2/1792990800",
-  "520  on /players/%232LQP9082P",
-  "520  on /players/%232RP8QC0J9",
-  "520  on /players/%238J9GUUG2G",
-  "520  on /players/%23G2RY2YP0",
-  "520  on /players/%23GP8VVG9JY",
-  "520  on /players/%23LQLPL99G",
-  "520  on /players/%23YUUPJJGCR",
-  "525  on /leaguegroup/%230/1791176400",
-  "525  on /leaguegroup/%232JUV8U9/1777266000",
-  "525  on /leaguegroup/%2388QGQQG/1782709200",
-  "525  on /leaguegroup/%23902GYC9/1792990800",
-  "525  on /leaguegroup/%23908CRLP/1792990800",
-  "525  on /leaguegroup/%23908UJ0C/1792990800",
-  "525  on /leaguegroup/%2390RG2R0/1792990800",
-  "525  on /players/%232R0GQ99CV",
-  "525  on /players/%23GCY8JPU8L",
-  "525  on /players/%23LC0V0JU2R",
-  "525  on /players/%23YCY08LR",
-  "525  on /players/%23YUJVVRR8C"
+  "525  on /clans/%232J900Y9V0/currentwar/leaguegroup"
  ]
 }
