@@ -467,12 +467,12 @@
   "tag": "#2R0GQ99CV",
   "th": 18,
   "pos": 19,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 4,
+  "avgDestruction": 51.5,
+  "attackDetail": "2★ 50%, 2★ 53%"
  },
  {
   "date": "2026-10-31T13:25:14Z",
