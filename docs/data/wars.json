@@ -2709,12 +2709,12 @@
   "tag": "#G0UGCQGQU",
   "th": 15,
   "pos": 38,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 11.5,
+  "attackDetail": "1★ 12%, 1★ 11%"
  },
  {
   "date": "2026-10-31T16:30:25Z",
