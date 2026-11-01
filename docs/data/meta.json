@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T06:31:13Z",
+ "updatedAt": "2026-11-01T06:46:13Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -29,15 +29,6 @@
    "isWarLogPublic": true
   },
   {
-   "tag": "#2R0R982RC",
-   "name": "Band of Reapers",
-   "members": 16,
-   "level": 8,
-   "warLeague": "Master League I",
-   "warWins": 0,
-   "isWarLogPublic": true
-  },
-  {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
    "members": 18,
@@ -45,15 +36,6 @@
    "warLeague": "Master League II",
    "warWins": 218,
    "isWarLogPublic": false
-  },
-  {
-   "tag": "#2J900Y9V0",
-   "name": "Freaker Crew",
-   "members": 11,
-   "level": 6,
-   "warLeague": "Crystal League III",
-   "warWins": 0,
-   "isWarLogPublic": true
   }
  ],
  "errors": [
@@ -63,7 +45,22 @@
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /leaguegroup/%230/1786338000",
-  "525  on /leaguegroup/%2390J0VUY/1792990800"
+  "520  on /leaguegroup/%230/1791176400",
+  "520  on /leaguegroup/%2390YUUQV/1792990800",
+  "520  on /players/%2328GQU9V0",
+  "520  on /players/%232G2R2RUL",
+  "520  on /players/%239VJP2Q89J",
+  "520  on /players/%23CLG88L0C",
+  "520  on /players/%23Q882U0V8L",
+  "520  on /players/%23QCJGG2P0G",
+  "520  on /players/%23YUPCGC8RC",
+  "520  on /players/%23YUUPJJGCR",
+  "520  on /players/%23YY028JPGY",
+  "525  on /clans/%232J900Y9V0",
+  "525  on /clans/%232R0R982RC",
+  "525  on /players/%23Q2LCUV9P9",
+  "525  on /players/%23Q80Q20LP0",
+  "525  on /players/%23QCVPU8UQJ",
+  "525  on /players/%23QL80LUUYU"
  ]
 }
