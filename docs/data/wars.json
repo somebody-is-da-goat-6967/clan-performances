@@ -1835,12 +1835,12 @@
   "tag": "#Q80Q20LP0",
   "th": 17,
   "pos": 29,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 18.5,
+  "attackDetail": "1★ 21%, 1★ 16%"
  },
  {
   "date": "2026-10-31T13:25:14Z",
