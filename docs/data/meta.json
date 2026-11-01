@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-01T19:31:15Z",
+ "updatedAt": "2026-11-01T19:46:07Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 24,
+   "members": 22,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
@@ -13,7 +13,7 @@
   {
    "tag": "#2JR2Y8G0V",
    "name": "Reaper Two",
-   "members": 9,
+   "members": 8,
    "level": 8,
    "warLeague": "Unranked",
    "warWins": 44,
@@ -22,28 +22,10 @@
   {
    "tag": "#QQR8892U",
    "name": "THE WARRIOR",
-   "members": 36,
+   "members": 35,
    "level": 29,
    "warLeague": "Champion League III",
    "warWins": 640,
-   "isWarLogPublic": true
-  },
-  {
-   "tag": "#2R0R982RC",
-   "name": "Band of Reapers",
-   "members": 21,
-   "level": 8,
-   "warLeague": "Master League I",
-   "warWins": 0,
-   "isWarLogPublic": true
-  },
-  {
-   "tag": "#22VU0GV8L",
-   "name": "Syndicate",
-   "members": 31,
-   "level": 18,
-   "warLeague": "Master League II",
-   "warWins": 218,
    "isWarLogPublic": true
   },
   {
@@ -59,8 +41,47 @@
  "errors": [
   "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
-  "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
-  "500 unknownException on /leaguegroup/%238GQPC2C/1790571600"
+  "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
+  "520  on /leaguegroup/%230/1761541200",
+  "520  on /leaguegroup/%230/1792386000",
+  "520  on /leaguegroup/%2390J0QGC/1792990800",
+  "520  on /leaguegroup/%2390JCPUY/1792990800",
+  "520  on /leaguegroup/%2390JG8JU/1792990800",
+  "520  on /leaguegroup/%2390JPY2R/1792990800",
+  "520  on /leaguegroup/%2390Q80RL/1792990800",
+  "520  on /leaguegroup/%2390RPCCY/1792990800",
+  "520  on /leaguegroup/%2390RPJ90/1792990800",
+  "520  on /leaguegroup/%2390U8V89/1792990800",
+  "520  on /players/%238R8V09RJC",
+  "520  on /players/%23992CCVJPY",
+  "520  on /players/%23GCQJLP9UY",
+  "520  on /players/%23GPP0V0Q92",
+  "520  on /players/%23GQCU9CRYP",
+  "520  on /players/%23GU2RRP9LY",
+  "520  on /players/%23LY9CLCP0R",
+  "520  on /players/%23LYG9LGV29",
+  "520  on /players/%23Q80Q20LP0",
+  "520  on /players/%23R00P99LC9",
+  "520  on /players/%23Y8RLVRJR",
+  "525  on /clans/%2322VU0GV8L",
+  "525  on /clans/%232R0R982RC",
+  "525  on /leaguegroup/%230/1785733200",
+  "525  on /leaguegroup/%230/1791176400",
+  "525  on /leaguegroup/%230/1791781200",
+  "525  on /leaguegroup/%239082GJ0/1792990800",
+  "525  on /leaguegroup/%2390G2QUQ/1792990800",
+  "525  on /leaguegroup/%2390GCQV2/1792990800",
+  "525  on /leaguegroup/%2390GJY09/1792990800",
+  "525  on /leaguegroup/%2390JJYU0/1792990800",
+  "525  on /leaguegroup/%2390QJUJ9/1792990800",
+  "525  on /leaguegroup/%2390QL9RQ/1792990800",
+  "525  on /leaguegroup/%2390RGJJR/1792990800",
+  "525  on /leaguegroup/%2390YLJ8Q/1792990800",
+  "525  on /players/%23GCY8JPU8L",
+  "525  on /players/%23GPYYJV0CG",
+  "525  on /players/%23LVYLQJVRJ",
+  "525  on /players/%23QCJGG2P0G",
+  "525  on /players/%23QQ0Q89JRG"
  ]
 }
