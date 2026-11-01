@@ -638,12 +638,12 @@
   "tag": "#LLV2JP2CP",
   "th": 18,
   "pos": 6,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 52.5,
+  "attackDetail": "1★ 53%, 1★ 52%"
  },
  {
   "date": "2026-10-31T13:25:14Z",
