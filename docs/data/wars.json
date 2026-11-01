@@ -733,12 +733,12 @@
   "tag": "#8J9GUUG2G",
   "th": 18,
   "pos": 24,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 71.0,
+  "attackDetail": "2★ 71%"
  },
  {
   "date": "2026-10-31T13:25:14Z",
