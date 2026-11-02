@@ -15,7 +15,7 @@
   "attackWins": 230,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GLCR9LCU2",
@@ -33,7 +33,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#20QUCQRQY",
@@ -51,7 +51,7 @@
   "attackWins": 228,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#CLG88L0C",
@@ -69,7 +69,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#PRCJVPUPJ",
@@ -87,7 +87,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Y8RLVRJR",
@@ -105,25 +105,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-30T04:55:00Z",
-  "updated": "2026-11-02T18:00:23Z"
- },
- {
-  "tag": "#G9CC8CRYJ",
-  "name": "Dark God",
-  "clanTag": "#2YJJUVG0C",
-  "clan": "G3’s Clan",
-  "status": "other clan",
-  "th": 18,
-  "expLevel": 211,
-  "trophies": 230,
-  "bestTrophies": 3542,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 1204,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YGP0GPR0R",
@@ -133,7 +115,7 @@
   "status": "other clan",
   "th": 18,
   "expLevel": 261,
-  "trophies": 220,
+  "trophies": 284,
   "bestTrophies": 5254,
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
@@ -141,7 +123,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#29LGJLPPP",
@@ -151,7 +133,7 @@
   "status": "no clan",
   "th": 18,
   "expLevel": 205,
-  "trophies": 80,
+  "trophies": 280,
   "bestTrophies": 2252,
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
@@ -159,7 +141,61 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T15:15:32Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
+ },
+ {
+  "tag": "#G9CC8CRYJ",
+  "name": "Dark God",
+  "clanTag": "#2CPY0RL88",
+  "clan": "G3 CWL",
+  "status": "other clan",
+  "th": 18,
+  "expLevel": 211,
+  "trophies": 270,
+  "bestTrophies": 3542,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 1204,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-31T18:20:18Z",
+  "updated": "2026-11-02T18:15:22Z"
+ },
+ {
+  "tag": "#Q8CCQUQL9",
+  "name": "SS GOURAV ⚔️",
+  "clanTag": "#QQR8892U",
+  "clan": "THE WARRIOR",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 243,
+  "trophies": 237,
+  "bestTrophies": 5989,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 3389,
+  "attackWins": 7,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T18:15:22Z"
+ },
+ {
+  "tag": "#GYQQC8L20",
+  "name": "Mr.Sam",
+  "clanTag": "#2YRPP2YPQ",
+  "clan": "king clan",
+  "status": "other clan",
+  "th": 18,
+  "expLevel": 202,
+  "trophies": 31,
+  "bestTrophies": 5377,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 1001,
+  "attackWins": 1,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T13:59:15Z",
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G99JUCYRJ",
@@ -177,7 +213,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QPJL98L9R",
@@ -195,25 +231,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
-  "tag": "#Q8CCQUQL9",
-  "name": "SS GOURAV ⚔️",
-  "clanTag": "#QQR8892U",
-  "clan": "THE WARRIOR",
+  "tag": "#Y9JPGRURQ",
+  "name": "Chief Kugo",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
   "status": "in clan",
   "th": 18,
-  "expLevel": 243,
-  "trophies": 8,
-  "bestTrophies": 5989,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 3389,
+  "expLevel": 233,
+  "trophies": 10,
+  "bestTrophies": 5184,
+  "league": "Legend II",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+  "warStars": 1724,
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Q882U0V8L",
@@ -231,7 +267,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LVYGJQGRP",
@@ -249,7 +285,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#L080P9YR0",
@@ -267,7 +303,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G808UVU92",
@@ -285,7 +321,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#28R82CJQ9",
@@ -303,7 +339,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GPYYJV0CG",
@@ -321,7 +357,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Y9VYJR8GL",
@@ -339,7 +375,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T17:45:21Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YUJVVRR8C",
@@ -357,7 +393,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-30T11:14:11Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#PPJ80L0UU",
@@ -375,7 +411,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-30T11:14:11Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2LPRVL8CY",
@@ -393,7 +429,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LVYLQJVRJ",
@@ -411,7 +447,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#992CCVJPY",
@@ -429,25 +465,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
- },
- {
-  "tag": "#Y9JPGRURQ",
-  "name": "Chief Kugo",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 233,
-  "trophies": 0,
-  "bestTrophies": 5184,
-  "league": "Legend II",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "warStars": 1724,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#J2JJLYYY",
@@ -465,7 +483,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#L0LJP9C8C",
@@ -483,7 +501,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9UVLYUVU9",
@@ -501,7 +519,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#R0980PPU8",
@@ -519,7 +537,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-30T11:14:11Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#99UG9LVL9",
@@ -537,14 +555,14 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9VJP2Q89J",
   "name": "Het",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
+  "clanTag": "#UYYQPVQQ",
+  "clan": "DANGEROUS",
+  "status": "other clan",
   "th": 18,
   "expLevel": 236,
   "trophies": 0,
@@ -555,7 +573,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2LQP9082P",
@@ -573,7 +591,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9LVRQY02L",
@@ -591,7 +609,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#8Q22RY0G",
@@ -609,7 +627,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2R0GQ99CV",
@@ -627,7 +645,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Y2RL98L20",
@@ -645,7 +663,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YUUPJJGCR",
@@ -663,7 +681,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T13:59:15Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2G2R2RUL",
@@ -681,7 +699,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#8JQR80YVV",
@@ -699,7 +717,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#8CRU8Q0V0",
@@ -717,7 +735,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GCVY89CGY",
@@ -735,7 +753,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#PP8CLJC2G",
@@ -753,25 +771,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
- },
- {
-  "tag": "#GYQQC8L20",
-  "name": "Mr.Sam",
-  "clanTag": "#2YRPP2YPQ",
-  "clan": "king clan",
-  "status": "other clan",
-  "th": 18,
-  "expLevel": 201,
-  "trophies": 0,
-  "bestTrophies": 5377,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 998,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T13:59:15Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LVU2UGCVR",
@@ -789,7 +789,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9C98RQ2VP",
@@ -825,14 +825,14 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2Q0QYYGGL",
   "name": "Praz",
-  "clanTag": "#2JJVPLPCJ",
-  "clan": "Clash Warriors",
-  "status": "other clan",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
+  "status": "in clan",
   "th": 18,
   "expLevel": 222,
   "trophies": 0,
@@ -843,7 +843,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YGR89L22L",
@@ -861,7 +861,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T17:45:21Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9Q88YJ2YV",
@@ -879,7 +879,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YCY08LR",
@@ -897,7 +897,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GJQJ80VRG",
@@ -915,7 +915,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GPP0V0Q92",
@@ -933,7 +933,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LLV2JP2CP",
@@ -951,7 +951,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LYG9LGV29",
@@ -969,7 +969,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T00:15:21Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#28GQU9V0",
@@ -987,7 +987,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#98UU0GUY",
@@ -1005,7 +1005,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2RP8QC0J9",
@@ -1023,7 +1023,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LYLJLRVUR",
@@ -1059,7 +1059,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Q8JUGYLQL",
@@ -1077,7 +1077,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T17:45:23Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#8J9GUUG2G",
@@ -1095,7 +1095,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YCQVPLR0G",
@@ -1113,7 +1113,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9JJP09P02",
@@ -1131,7 +1131,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9VLYJG8VQ",
@@ -1149,7 +1149,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#RV8UPG2G",
@@ -1167,7 +1167,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-31T21:15:40Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G2RY2YP0",
@@ -1176,7 +1176,7 @@
   "clan": "Band of Reapers",
   "status": "in clan",
   "th": 17,
-  "expLevel": 231,
+  "expLevel": 230,
   "trophies": 0,
   "bestTrophies": 5020,
   "league": "Electro League 31",
@@ -1185,7 +1185,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#U0J88QLL",
@@ -1203,7 +1203,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GG9UPV2UV",
@@ -1221,7 +1221,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2VCRRL8RY",
@@ -1239,7 +1239,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2JQLRUY8G",
@@ -1257,7 +1257,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LC9LLVCRJ",
@@ -1275,7 +1275,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#P0UCYCU2P",
@@ -1293,7 +1293,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T17:45:21Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YYJ29J8LR",
@@ -1311,7 +1311,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#8R8V09RJC",
@@ -1329,13 +1329,13 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T18:00:23Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Q2LCUV9P9",
   "name": "Huzefa",
-  "clanTag": "#2CC2JLY90",
-  "clan": "FC",
+  "clanTag": "#2RJVYVLY",
+  "clan": "Anubis",
   "status": "other clan",
   "th": 17,
   "expLevel": 213,
@@ -1347,7 +1347,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T17:45:21Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2UY0YR2YG",
@@ -1365,7 +1365,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T17:45:21Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Y2L00Y9G",
@@ -1383,7 +1383,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#PCVP0U92U",
@@ -1401,7 +1401,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#JYR9UQUU",
@@ -1419,7 +1419,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#PPQLV29P0",
@@ -1437,7 +1437,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QL80LUUYU",
@@ -1455,7 +1455,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9PY92UQQC",
@@ -1491,7 +1491,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T17:45:21Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Y0C2PUVV2",
@@ -1527,7 +1527,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9CRJQVQG",
@@ -1545,7 +1545,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GPYGVU92C",
@@ -1563,7 +1563,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9YULCURQ8",
@@ -1599,7 +1599,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9JVGJGL8Q",
@@ -1617,7 +1617,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#22YGUQUL2",
@@ -1635,7 +1635,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-01T13:45:21Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GP8VVG9JY",
@@ -1653,7 +1653,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YC02JUPCV",
@@ -1671,7 +1671,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#82CGYU22R",
@@ -1689,7 +1689,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T17:30:26Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#VRRPCLP",
@@ -1707,7 +1707,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QQ0Y09G2L",
@@ -1725,7 +1725,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T09:00:29Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#90PCYCLY",
@@ -1743,7 +1743,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#P8YV0UCLP",
@@ -1761,7 +1761,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LQ0C29JLY",
@@ -1779,7 +1779,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Q0Q0VL0LV",
@@ -1797,7 +1797,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GY9UYUUYQ",
@@ -1815,7 +1815,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T13:45:21Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G9VQJQ2VP",
@@ -1833,7 +1833,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#88Y9RQVCU",
@@ -1851,7 +1851,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T02:20:31Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Y2Q202JJJ",
@@ -1869,7 +1869,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YYUPPP2Y8",
@@ -1887,7 +1887,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Y9RJGLLQY",
@@ -1905,7 +1905,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QQ0Q89JRG",
@@ -1923,7 +1923,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#8JQUPJ0QQ",
@@ -1941,7 +1941,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#99UL0J92Q",
@@ -1977,7 +1977,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QLY0QVLUC",
@@ -1995,7 +1995,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T04:30:12Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#90GP2QQYY",
@@ -2013,7 +2013,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T00:45:15Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QJLU0U0P",
@@ -2031,7 +2031,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LRULLCV8G",
@@ -2067,7 +2067,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T12:30:19Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LVGP8GLCJ",
@@ -2103,7 +2103,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T11:00:46Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G08GLYPGR",
@@ -2122,6 +2122,24 @@
   "warPreference": "in",
   "firstSeen": "2026-11-02T05:45:22Z",
   "updated": "2026-11-02T18:00:23Z"
+ },
+ {
+  "tag": "#G8LG8JJUC",
+  "name": "من الصفر",
+  "clanTag": "",
+  "clan": "",
+  "status": "no clan",
+  "th": 15,
+  "expLevel": 159,
+  "trophies": 16,
+  "bestTrophies": 4036,
+  "league": "Titan League 25",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
+  "warStars": 420,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-11-01T18:45:25Z",
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Y2998GUYC",
@@ -2157,7 +2175,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GU2RRP9LY",
@@ -2175,7 +2193,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T02:30:11Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2P9LJR08Q",
@@ -2193,7 +2211,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#8JCLJLVLQ",
@@ -2211,7 +2229,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2RGPY8PRQ",
@@ -2229,7 +2247,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T19:15:16Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LUVUVQL8L",
@@ -2247,7 +2265,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T03:30:22Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GQ9QL0YUC",
@@ -2265,7 +2283,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T13:45:21Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GYPC8PJYR",
@@ -2283,7 +2301,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GVU2JCP2Q",
@@ -2301,7 +2319,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GCY8JPU8L",
@@ -2319,7 +2337,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GUG0Y2QU9",
@@ -2337,7 +2355,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#22U2R0JQJ",
@@ -2355,7 +2373,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G0UGCQGQU",
@@ -2373,7 +2391,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#R2JJ0JP9G",
@@ -2391,7 +2409,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T23:50:59Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QQYJ0R0J",
@@ -2409,7 +2427,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QGJP2L0CQ",
@@ -2427,7 +2445,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LJCP2JQ98",
@@ -2445,7 +2463,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T17:30:26Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QQQPV0VJR",
@@ -2463,7 +2481,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T01:30:16Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G890V8RQP",
@@ -2481,7 +2499,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YUPCGC8RC",
@@ -2499,7 +2517,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#2RY02LV8",
@@ -2517,7 +2535,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#90UU28P9G",
@@ -2535,7 +2553,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GJPLJ2URU",
@@ -2553,7 +2571,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LQLPL99G",
@@ -2571,7 +2589,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GGLVL09UY",
@@ -2589,7 +2607,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-31T06:55:49Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QVY908C2C",
@@ -2607,7 +2625,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G0CPUL8QG",
@@ -2643,7 +2661,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QLJP9JY2Y",
@@ -2661,7 +2679,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LC0V0JU2R",
@@ -2679,7 +2697,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9P9GRLCPJ",
@@ -2697,7 +2715,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YPJQ29G9Y",
@@ -2715,7 +2733,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-31T13:49:19Z",
-  "updated": "2026-11-02T17:45:21Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9Y8CUYU02",
@@ -2733,7 +2751,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9PR9JV909",
@@ -2769,25 +2787,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
- },
- {
-  "tag": "#G8LG8JJUC",
-  "name": "من الصفر",
-  "clanTag": "",
-  "clan": "",
-  "status": "no clan",
-  "th": 15,
-  "expLevel": 159,
-  "trophies": 0,
-  "bestTrophies": 4036,
-  "league": "Titan League 25",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
-  "warStars": 420,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-11-01T18:45:25Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LP2RGJVL0",
@@ -2805,7 +2805,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G8GCU2RPV",
@@ -2841,7 +2841,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T20:30:16Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#8899YPC2Y",
@@ -2859,7 +2859,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T22:30:10Z",
-  "updated": "2026-11-02T17:45:21Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#R0V200CCR",
@@ -2877,7 +2877,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T01:30:23Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G28UQV8RU",
@@ -2895,7 +2895,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LY9CLCP0R",
@@ -2913,7 +2913,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T10:30:19Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Q2CCY8RJ0",
@@ -2931,7 +2931,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-01T22:58:10Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G8UQ0YLVV",
@@ -2949,7 +2949,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T23:50:59Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LQU8V8RC9",
@@ -2967,7 +2967,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9RJYJP0PV",
@@ -2985,7 +2985,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#9Y9RYP9UP",
@@ -3003,7 +3003,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QCVPU8UQJ",
@@ -3021,7 +3021,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GL229RVYP",
@@ -3039,7 +3039,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#R2YY0R88G",
@@ -3057,7 +3057,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-01T00:45:23Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GJPG0P08C",
@@ -3075,7 +3075,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#Q9V9URUG0",
@@ -3093,7 +3093,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#G08GVU2R8",
@@ -3129,7 +3129,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T10:30:19Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GL9R9JLGC",
@@ -3147,7 +3147,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-02T09:49:51Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QU0YQPPJC",
@@ -3165,7 +3165,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-02T11:00:46Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#R0C2JJRVR",
@@ -3183,7 +3183,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T16:30:21Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#R00P99LC9",
@@ -3201,7 +3201,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GQCU9CRYP",
@@ -3219,7 +3219,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GCQJLP9UY",
@@ -3237,7 +3237,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#YY028JPGY",
@@ -3255,7 +3255,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#LV0C8V0UJ",
@@ -3273,7 +3273,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T20:00:16Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#R8PLRL2LJ",
@@ -3291,7 +3291,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GU9LV9PY2",
@@ -3309,7 +3309,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T21:15:27Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GJGY2VYV8",
@@ -3327,7 +3327,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GU8U9ULCL",
@@ -3345,7 +3345,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GCQ882C0C",
@@ -3363,7 +3363,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QCJGG2P0G",
@@ -3381,7 +3381,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#RPPY92V0P",
@@ -3399,7 +3399,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T19:15:16Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#GVU82PJR0",
@@ -3417,7 +3417,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T13:45:21Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  },
  {
   "tag": "#QVCU9G9LQ",
@@ -3435,6 +3435,6 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T18:00:23Z"
+  "updated": "2026-11-02T18:15:22Z"
  }
 ]
