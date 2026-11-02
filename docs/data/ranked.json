@@ -1,5 +1,464 @@
 [
  {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
+  "name": "Alpha Sierra",
+  "tag": "#L080P9YR0",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9222UCG",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:27Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Reaper Crew",
+  "clanTag": "#2G9J22R0P",
+  "name": "Chief Kugo",
+  "tag": "#Y9JPGRURQ",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90CYYQ2",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:46:05Z",
+  "league": "Legend II",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "shh",
+  "clanTag": "#2CYC90VVV",
+  "name": "Dark God",
+  "tag": "#G9CC8CRYJ",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90CULQV",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Bahay Empire",
+  "clanTag": "#2G9CJQY8R",
+  "name": "Levantine",
+  "tag": "#2R0GQ99CV",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90VUJLJ",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Dragon League 29",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "MD. NAHIDUL",
+  "tag": "#8JQR80YVV",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#922GVUQ",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "MiNuTka",
+  "tag": "#8CRU8Q0V0",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9228Y82",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
+  "name": "MIRAJ",
+  "tag": "#GCVY89CGY",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9220808",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:26Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "king clan",
+  "clanTag": "#2YRPP2YPQ",
+  "name": "Mr.Sam",
+  "tag": "#GYQQC8L20",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90VGQCJ",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:27Z",
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
+  "name": "Nurbek",
+  "tag": "#G99JUCYRJ",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90GP9CQ",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend II",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Reaper Crew",
+  "clanTag": "#2G9J22R0P",
+  "name": "Praz",
+  "tag": "#2Q0QYYGGL",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#922Y9RL",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Reaper Crew",
+  "clanTag": "#2G9J22R0P",
+  "name": "Sniperjaden_4",
+  "tag": "#YCY08LR",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9228QJR",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:46:05Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
+  "name": "Soloo",
+  "tag": "#GJQJ80VRG",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9280RLV",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:26Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Reaper Crew",
+  "clanTag": "#2G9J22R0P",
+  "name": "TrueG",
+  "tag": "#98UU0GUY",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90CYJJC",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend II",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "Vitosya17",
+  "tag": "#8LC0Y2U9L",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9282J0J",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Reaper Crew",
+  "clanTag": "#2G9J22R0P",
+  "name": "Yuutaa",
+  "tag": "#8J9GUUG2G",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#928VR0U",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Electro League 31",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Freaker Crew",
+  "clanTag": "#2J900Y9V0",
+  "name": "Zichen",
+  "tag": "#YCQVPLR0G",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90C2LY8",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:46:05Z",
+  "league": "Legend II",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Band of Reapers",
+  "clanTag": "#2R0R982RC",
+  "name": "Неизвестный",
+  "tag": "#9JJP09P02",
+  "th": 18,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#922LJGG",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
   "clan": "Reaper Crew",
   "clanTag": "#2G9J22R0P",
   "name": "AL|£Ñ Z©",
@@ -24,7 +483,7 @@
   "updated": "2026-11-02T05:30:35Z",
   "league": "",
   "leagueIcon": "",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
@@ -51,7 +510,7 @@
   "updated": "2026-11-02T05:31:09Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -78,7 +537,7 @@
   "updated": "2026-11-02T05:15:36Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -105,7 +564,7 @@
   "updated": "2026-11-02T05:15:31Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -132,7 +591,7 @@
   "updated": "2026-11-02T05:30:41Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -159,7 +618,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -186,7 +645,7 @@
   "updated": "2026-11-02T05:15:32Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "LEGENDS PLAY",
@@ -213,7 +672,7 @@
   "updated": "2026-11-02T05:15:36Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -240,7 +699,7 @@
   "updated": "2026-11-02T05:15:34Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -267,7 +726,7 @@
   "updated": "2026-11-02T05:45:29Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -294,7 +753,7 @@
   "updated": "2026-11-02T05:15:31Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -321,7 +780,7 @@
   "updated": "2026-11-02T05:45:33Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -348,7 +807,7 @@
   "updated": "2026-11-02T05:30:30Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -375,7 +834,7 @@
   "updated": "2026-11-02T05:45:32Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "G3 CWL",
@@ -402,7 +861,7 @@
   "updated": "2026-11-02T06:00:22Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -429,7 +888,7 @@
   "updated": "2026-11-02T05:45:31Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -456,7 +915,7 @@
   "updated": "2026-11-02T05:45:32Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -483,7 +942,7 @@
   "updated": "2026-11-02T06:00:24Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -510,7 +969,7 @@
   "updated": "2026-11-02T05:15:31Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -537,7 +996,7 @@
   "updated": "2026-11-02T05:30:44Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -564,7 +1023,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Noir",
@@ -591,7 +1050,7 @@
   "updated": "2026-11-02T05:31:10Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -618,7 +1077,7 @@
   "updated": "2026-11-02T05:30:34Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "☁️The AKATSUKI☁",
@@ -645,7 +1104,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -672,7 +1131,7 @@
   "updated": "2026-11-02T05:45:30Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -699,7 +1158,7 @@
   "updated": "2026-11-02T05:45:31Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -726,7 +1185,7 @@
   "updated": "2026-11-02T05:45:30Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -753,7 +1212,7 @@
   "updated": "2026-11-02T05:30:43Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -780,7 +1239,7 @@
   "updated": "2026-11-02T05:30:30Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -807,7 +1266,7 @@
   "updated": "2026-11-02T05:30:35Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -834,7 +1293,7 @@
   "updated": "2026-11-02T05:30:34Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -861,7 +1320,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -888,7 +1347,7 @@
   "updated": "2026-11-02T06:00:22Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -915,7 +1374,7 @@
   "updated": "2026-11-02T05:45:29Z",
   "league": "Dragon League 30",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -942,7 +1401,7 @@
   "updated": "2026-11-02T06:00:29Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -969,7 +1428,7 @@
   "updated": "2026-11-02T05:30:41Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "کورش کبیر",
@@ -996,7 +1455,7 @@
   "updated": "2026-11-02T05:45:33Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -1023,7 +1482,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -2221,6 +2680,168 @@
  {
   "clan": "THE WARRIOR",
   "clanTag": "#QQR8892U",
+  "name": "Creaamy",
+  "tag": "#2JQLRUY8G",
+  "th": 17,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#922999R",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:24Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "Lucifer",
+  "tag": "#PCVP0U92U",
+  "th": 17,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90V29JR",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:28Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
+  "name": "Osmir",
+  "tag": "#JYR9UQUU",
+  "th": 17,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#92YQCUG",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:27Z",
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "SportplatzMinis",
+  "clanTag": "#2RGPPC22V",
+  "name": "Stephan",
+  "tag": "#9PY92UQQC",
+  "th": 17,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#92PJP82",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
+  "name": "TEGH THE GREAT",
+  "tag": "#2R9JLPL9Y",
+  "th": 17,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90VPUJ8",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Reaper Crew",
+  "clanTag": "#2G9J22R0P",
+  "name": "TrueG",
+  "tag": "#GPYGVU92C",
+  "th": 17,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#920U9UJ",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:26Z",
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
   "name": "sq",
   "tag": "#QL80LUUYU",
   "th": 17,
@@ -2243,7 +2864,7 @@
   "updated": "2026-11-02T05:45:32Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -2270,7 +2891,7 @@
   "updated": "2026-11-02T05:30:42Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -2297,7 +2918,7 @@
   "updated": "2026-11-02T05:30:46Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -2324,7 +2945,7 @@
   "updated": "2026-11-02T05:45:29Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -2351,7 +2972,7 @@
   "updated": "2026-11-02T05:45:32Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "☁️The AKATSUKI☁",
@@ -2378,7 +2999,7 @@
   "updated": "2026-11-02T05:45:29Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -2405,7 +3026,7 @@
   "updated": "2026-11-02T05:45:33Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -2432,7 +3053,7 @@
   "updated": "2026-11-02T05:30:42Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -2459,7 +3080,7 @@
   "updated": "2026-11-02T05:30:28Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -2486,7 +3107,7 @@
   "updated": "2026-11-02T05:30:37Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "CAMUS DE ACURIO",
@@ -2513,7 +3134,7 @@
   "updated": "2026-11-02T06:00:30Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Anubis",
@@ -2540,7 +3161,7 @@
   "updated": "2026-11-02T05:30:42Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "INDIAN LIONS",
@@ -2567,7 +3188,7 @@
   "updated": "2026-11-02T05:45:30Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -2594,7 +3215,7 @@
   "updated": "2026-11-02T05:45:30Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -2621,7 +3242,7 @@
   "updated": "2026-11-02T06:00:23Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -2648,7 +3269,7 @@
   "updated": "2026-11-02T05:30:28Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -2675,7 +3296,7 @@
   "updated": "2026-11-02T05:30:28Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Crazy gods",
@@ -2702,7 +3323,7 @@
   "updated": "2026-11-02T05:45:33Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Band of Reapers",
@@ -2729,7 +3350,7 @@
   "updated": "2026-11-02T05:45:29Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -2756,7 +3377,7 @@
   "updated": "2026-11-02T05:30:37Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -2783,7 +3404,7 @@
   "updated": "2026-11-02T05:30:36Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -3422,6 +4043,141 @@
   "status": "completed"
  },
  {
+  "clan": "ريتال",
+  "clanTag": "#2L2QV2LRG",
+  "name": "FeRoZ",
+  "tag": "#88Y9RQVCU",
+  "th": 16,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90VQUPV",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Dragon League 30",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "liam",
+  "tag": "#Y2L00Y9G",
+  "th": 16,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90V9900",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:30Z",
+  "league": "Electro League 31",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "SportplatzMinis",
+  "clanTag": "#2RGPPC22V",
+  "name": "Little Stephan",
+  "tag": "#8JQUPJ0QQ",
+  "th": 16,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9280VL9",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "MD. NAHIDUL ❣️",
+  "tag": "#99UL0J92Q",
+  "th": 16,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#92282PV",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Electro League 31",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "IR.IRAN",
+  "clanTag": "#2CUG9J8UG",
+  "name": "mohamad",
+  "tag": "#QLY0QVLUC",
+  "th": 16,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9280JCV",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:29Z",
+  "league": "Dragon League 30",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
+  "status": "in progress"
+ },
+ {
   "clan": "WarGsusFarms",
   "clanTag": "#JGQRQGL",
   "name": "krkic",
@@ -3446,7 +4202,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3473,7 +4229,7 @@
   "updated": "2026-11-02T05:45:33Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -3500,7 +4256,7 @@
   "updated": "2026-11-02T05:30:43Z",
   "league": "Electro League 31",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3527,7 +4283,7 @@
   "updated": "2026-11-02T06:00:30Z",
   "league": "Electro League 31",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "CLAN WAR",
@@ -3554,7 +4310,7 @@
   "updated": "2026-11-02T05:30:40Z",
   "league": "Electro League 31",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3581,7 +4337,7 @@
   "updated": "2026-11-02T05:45:33Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3608,7 +4364,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Dragon League 30",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "کلن یزدی ها 32",
@@ -3635,7 +4391,7 @@
   "updated": "2026-11-02T05:45:32Z",
   "league": "Dragon League 29",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3662,7 +4418,7 @@
   "updated": "2026-11-02T05:30:46Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Newbies",
@@ -3689,7 +4445,7 @@
   "updated": "2026-11-02T05:30:42Z",
   "league": "Dragon League 30",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3716,7 +4472,7 @@
   "updated": "2026-11-02T06:00:25Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3743,7 +4499,7 @@
   "updated": "2026-11-02T05:45:31Z",
   "league": "Dragon League 28",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "ريتال",
@@ -3770,7 +4526,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Dragon League 30",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3797,7 +4553,7 @@
   "updated": "2026-11-02T05:31:10Z",
   "league": "Titan League 27",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -3824,7 +4580,7 @@
   "updated": "2026-11-02T05:45:32Z",
   "league": "",
   "leagueIcon": "",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Crew",
@@ -4307,6 +5063,330 @@
   "status": "completed"
  },
  {
+  "clan": "war for fun",
+  "clanTag": "#2GV9C9ULV",
+  "name": "..............",
+  "tag": "#QCQGRCRUR",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9290RG2",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:28Z",
+  "league": "Dragon League 29",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "KlausfromBD",
+  "tag": "#QGJP2L0CQ",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#920JG9G",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:29Z",
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Akatsuki",
+  "clanTag": "#2CYPQ2PC9",
+  "name": "ME PAGAL HU",
+  "tag": "#G08GLYPGR",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90UPUU9",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Witch League 17",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/3mEMvpajLceJ3EKu7u_JIh_cOEsT7wyh701zum9hqCY.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "Mini Kugo",
+  "tag": "#2RY02LV8",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#929PVCP",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Dragon League 29",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "",
+  "clanTag": "",
+  "name": "Rishab",
+  "tag": "#GJPLJ2URU",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90JJVJR",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:26Z",
+  "league": "Witch League 18",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Friends Fighter",
+  "clanTag": "#RYQV98VL",
+  "name": "stranger",
+  "tag": "#G0CPUL8QG",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90CJVG8",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "P.E.K.K.A League 22",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Syndicate",
+  "clanTag": "#22VU0GV8L",
+  "name": "WE MD. NAHIDUL",
+  "tag": "#9P9GRLCPJ",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#9299P2L",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Dragon League 30",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
+  "name": "wolverine",
+  "tag": "#YPJQ29G9Y",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#929PU98",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:46:06Z",
+  "league": "Witch League 18",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Reaper Two",
+  "clanTag": "#2JR2Y8G0V",
+  "name": "Неадекватный",
+  "tag": "#QLRJ928JQ",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#92YPQ9P",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:29Z",
+  "league": "Dragon League 28",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "ديوان رجالي♥️●⃝",
+  "clanTag": "#2U0PP2CPC",
+  "name": "اللاعب",
+  "tag": "#Y2998GUYC",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90V8092",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:30Z",
+  "league": "Witch League 18",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "THE PUNISHER",
+  "clanTag": "#2CYQCJP9C",
+  "name": "من الصفر",
+  "tag": "#G8LG8JJUC",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90U9ULV",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Titan League 25",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "SHADOW WARRIERS",
+  "clanTag": "#R08LU9V0",
+  "name": "⚡⚡⚡SUDIPTA⚡⚡⚡",
+  "tag": "#P90Q0UGCJ",
+  "th": 15,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90UJ99Q",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:28Z",
+  "league": "Golem League 21",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png",
+  "status": "in progress"
+ },
+ {
   "clan": "Syndicate",
   "clanTag": "#22VU0GV8L",
   "name": "KlausfromBD",
@@ -4331,7 +5411,7 @@
   "updated": "2026-11-02T05:30:43Z",
   "league": "Electro League 31",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -4358,7 +5438,7 @@
   "updated": "2026-11-02T06:00:22Z",
   "league": "Dragon League 29",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -4385,7 +5465,7 @@
   "updated": "2026-11-02T05:30:36Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -4412,7 +5492,7 @@
   "updated": "2026-11-02T05:45:30Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -4439,7 +5519,7 @@
   "updated": "2026-11-02T05:45:32Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "SportplatzMinis",
@@ -4466,7 +5546,7 @@
   "updated": "2026-11-02T06:00:25Z",
   "league": "Dragon League 30",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Two",
@@ -4493,7 +5573,7 @@
   "updated": "2026-11-02T06:00:28Z",
   "league": "Titan League 27",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -4520,7 +5600,7 @@
   "updated": "2026-11-02T05:45:30Z",
   "league": "",
   "leagueIcon": "",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -4547,7 +5627,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Dragon League 28",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "warrior CIAN",
@@ -4574,7 +5654,7 @@
   "updated": "2026-11-02T05:45:34Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "indian war",
@@ -4601,7 +5681,7 @@
   "updated": "2026-11-02T06:00:26Z",
   "league": "Golem League 20",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/uizNRh8glQZuAbLdCa-EQSf3oJnge3nqoXHjtQ6O8pw.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -4628,7 +5708,7 @@
   "updated": "2026-11-02T06:16:09Z",
   "league": "Witch League 17",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/3mEMvpajLceJ3EKu7u_JIh_cOEsT7wyh701zum9hqCY.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "war for fun",
@@ -4655,7 +5735,7 @@
   "updated": "2026-11-02T05:30:43Z",
   "league": "Dragon League 28",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
@@ -4682,7 +5762,7 @@
   "updated": "2026-11-02T06:00:28Z",
   "league": "Titan League 27",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Reaper Two",
@@ -4709,7 +5789,7 @@
   "updated": "2026-11-02T05:30:44Z",
   "league": "Witch League 18",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Friends Fighter",
@@ -4736,7 +5816,7 @@
   "updated": "2026-11-02T05:45:31Z",
   "league": "P.E.K.K.A League 22",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE PUNISHER",
@@ -4763,7 +5843,7 @@
   "updated": "2026-11-02T05:30:34Z",
   "league": "Titan League 25",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -4790,7 +5870,7 @@
   "updated": "2026-11-02T05:30:29Z",
   "league": "Dragon League 30",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "ديوان رجالي♥️●⃝",
@@ -4817,7 +5897,7 @@
   "updated": "2026-11-02T05:30:46Z",
   "league": "Witch League 18",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "",
@@ -4844,7 +5924,7 @@
   "updated": "2026-11-02T05:30:35Z",
   "league": "Witch League 18",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "",
@@ -4871,7 +5951,7 @@
   "updated": "2026-11-02T06:00:21Z",
   "league": "Golem League 19",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/yS8XBv_a_SNtCpcofsWMFaojRNwO504Py7HyDCBCjYU.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Syndicate",
@@ -5697,7 +6777,7 @@
   "updated": "2026-11-02T06:00:23Z",
   "league": "Titan League 25",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -5774,7 +6854,7 @@
   "updated": "2026-11-02T06:15:29Z",
   "league": "Wizard League 12",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/A_ZoGbh1g8wYRWygsQ_wMgbVz8GXvvfavKwlSx8C8PQ.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
@@ -5801,7 +6881,7 @@
   "updated": "2026-11-02T06:15:30Z",
   "league": "Witch League 16",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/a3zg3PSqri2WrWD8tGzKs0hJ5OrND1Rx1SJ45f5O0gE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
@@ -5836,6 +6916,33 @@
   "name": "KP",
   "tag": "#G08GVU2R8",
   "th": 12,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90VRJCJ",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:25Z",
+  "league": "Golem League 21",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "Freaker Crew",
+  "clanTag": "#2J900Y9V0",
+  "name": "KP",
+  "tag": "#G08GVU2R8",
+  "th": 12,
   "seasonId": "1792990800",
   "seasonStart": "2026-10-26",
   "groupTag": "#9082GJ0",
@@ -5855,7 +6962,7 @@
   "updated": "2026-11-02T06:00:22Z",
   "league": "Golem League 20",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/uizNRh8glQZuAbLdCa-EQSf3oJnge3nqoXHjtQ6O8pw.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
@@ -5882,7 +6989,7 @@
   "updated": "2026-11-02T06:15:29Z",
   "league": "Witch League 16",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/a3zg3PSqri2WrWD8tGzKs0hJ5OrND1Rx1SJ45f5O0gE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
@@ -6008,6 +7115,60 @@
   "status": "completed"
  },
  {
+  "clan": "THE WARRIOR",
+  "clanTag": "#QQR8892U",
+  "name": "Milky",
+  "tag": "#R0C2JJRVR",
+  "th": 11,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90GRYVJ",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:29Z",
+  "league": "Archer League 9",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/ieEdz9Mqbo7g9iJfXwTnIh7Iwz-37aPEmWma1ENEwXE.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "STRIKING SWORD",
+  "clanTag": "#2G9Q2Y0VR",
+  "name": "SS GOURAV ⚔️",
+  "tag": "#GQCU9CRYP",
+  "th": 11,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90LURU0",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:26Z",
+  "league": "Valkyrie League 13",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/6BwmbzkNm6p2unZonTauFQ_683uNl4NYtoOXJmEs78c.png",
+  "status": "in progress"
+ },
+ {
   "clan": "STRIKING SWORD",
   "clanTag": "#2G9Q2Y0VR",
   "name": "SS GOURAV ⚔️",
@@ -6032,7 +7193,7 @@
   "updated": "2026-11-02T06:15:29Z",
   "league": "Valkyrie League 14",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/7AbbZbiV6whmfa6CZtqt6Ml4NgFH1B-UqCxc59ziqfk.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "THE WARRIOR",
@@ -6059,7 +7220,7 @@
   "updated": "2026-11-02T06:15:32Z",
   "league": "Wizard League 10",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/3kJYaYpDwKF8AEkwRLkm-947_t2mAhpEQcZJYulPPIA.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
@@ -6163,7 +7324,7 @@
   "updated": "2026-11-02T06:15:30Z",
   "league": "Archer League 9",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/ieEdz9Mqbo7g9iJfXwTnIh7Iwz-37aPEmWma1ENEwXE.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
@@ -6198,6 +7359,33 @@
   "name": "SS GOURAV ⚔️",
   "tag": "#GU8U9ULCL",
   "th": 9,
+  "seasonId": "1793595600",
+  "seasonStart": "2026-11-02",
+  "groupTag": "#90U90Q2",
+  "groupSize": 100,
+  "rank": 1,
+  "leagueTrophies": 0,
+  "attackWins": 0,
+  "attackLosses": 0,
+  "attacks": 0,
+  "attacksLogged": 0,
+  "attackStars": 0,
+  "attackAvgStars": null,
+  "attackThreeStars": 0,
+  "attackAvgDestruction": null,
+  "attackTrophies": 0,
+  "final": false,
+  "updated": "2026-11-02T06:45:26Z",
+  "league": "Barbarian League 4",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/CoTrW7nhyiNIDCI4WHUK-0BuhOxibwd_tfASdtmMWFE.png",
+  "status": "in progress"
+ },
+ {
+  "clan": "STRIKING SWORD",
+  "clanTag": "#2G9Q2Y0VR",
+  "name": "SS GOURAV ⚔️",
+  "tag": "#GU8U9ULCL",
+  "th": 9,
   "seasonId": "1792990800",
   "seasonStart": "2026-10-26",
   "groupTag": "#902GYC9",
@@ -6217,7 +7405,7 @@
   "updated": "2026-11-02T06:00:24Z",
   "league": "Skeleton League 3",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/YMnWU25Xs2SvtAkVS2WDDbcUQY-PTfCK9OSvCKJnwJU.png",
-  "status": "in progress"
+  "status": "completed"
  },
  {
   "clan": "Freaker Crew",
