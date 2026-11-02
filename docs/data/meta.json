@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T12:01:18Z",
+ "updatedAt": "2026-11-02T12:16:19Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -20,30 +20,12 @@
    "isWarLogPublic": true
   },
   {
-   "tag": "#QQR8892U",
-   "name": "THE WARRIOR",
-   "members": 24,
-   "level": 29,
-   "warLeague": "Champion League III",
-   "warWins": 640,
-   "isWarLogPublic": true
-  },
-  {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
    "members": 21,
    "level": 8,
    "warLeague": "Master League I",
    "warWins": 0,
-   "isWarLogPublic": true
-  },
-  {
-   "tag": "#22VU0GV8L",
-   "name": "Syndicate",
-   "members": 39,
-   "level": 18,
-   "warLeague": "Master League II",
-   "warWins": 218,
    "isWarLogPublic": true
   },
   {
@@ -62,14 +44,36 @@
   "500 unknownException on /leaguegroup/%23800UR9P/1792990800",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "520  on /players/%23GP8VVG9JY",
-  "520  on /players/%23GU8U9ULCL",
-  "520  on /players/%23GUG0Y2QU9",
-  "520  on /players/%23QL0VYLLQQ",
+  "520  on /clans/%2322VU0GV8L",
+  "520  on /clans/%23QQR8892U",
+  "520  on /leaguegroup/%230/1771822800",
+  "520  on /leaguegroup/%230/1785733200",
+  "520  on /leaguegroup/%23922999R/1793595600",
+  "520  on /players/%239CRJQVQG",
+  "520  on /players/%23GCY8JPU8L",
+  "520  on /players/%23GYPC8PJYR",
+  "520  on /players/%23J2JJLYYY",
+  "520  on /players/%23LYG9LGV29",
+  "520  on /players/%23PCVP0U92U",
+  "520  on /players/%23QL80LUUYU",
+  "520  on /players/%23R2YY0R88G",
+  "520  on /players/%23Y2998GUYC",
+  "520  on /players/%23YGR89L22L",
+  "520  on /players/%23YUJVVRR8C",
+  "520  on /players/%23YY028JPGY",
   "525  on /leaguegroup/%230/1792386000",
-  "525  on /leaguegroup/%2392YPQ9P/1793595600",
-  "525  on /players/%23GQCU9CRYP",
-  "525  on /players/%23P8YV0UCLP",
-  "525  on /players/%23QQ0Y09G2L"
+  "525  on /leaguegroup/%2390CULQV/1793595600",
+  "525  on /leaguegroup/%23929R2YG/1793595600",
+  "525  on /players/%23GU2RRP9LY",
+  "525  on /players/%23GU8U9ULCL",
+  "525  on /players/%23LLV2JP2CP",
+  "525  on /players/%23PPJ80L0UU",
+  "525  on /players/%23Q2CCY8RJ0",
+  "525  on /players/%23QLY0QVLUC",
+  "525  on /players/%23QQYJ0R0J",
+  "525  on /players/%23QU0YQPPJC",
+  "525  on /players/%23QVY908C2C",
+  "525  on /players/%23R0C2JJRVR",
+  "525  on /players/%23YPJQ29G9Y"
  ]
 }
