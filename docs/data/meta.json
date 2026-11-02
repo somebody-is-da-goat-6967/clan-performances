@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T06:46:13Z",
+ "updatedAt": "2026-11-02T07:01:16Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -22,7 +22,7 @@
   {
    "tag": "#QQR8892U",
    "name": "THE WARRIOR",
-   "members": 27,
+   "members": 26,
    "level": 29,
    "warLeague": "Champion League III",
    "warWins": 640,
@@ -58,14 +58,21 @@
  ],
  "errors": [
   "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
-  "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1792990800",
-  "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238CYUUVJ/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "520  on /leaguegroup/%2390UL8UR/1793595600",
-  "525  on /leaguegroup/%239202QGR/1793595600",
-  "525  on /leaguegroup/%23922L8VR/1793595600",
-  "525  on /leaguegroup/%2392989V2/1793595600"
+  "520  on /leaguegroup/%230/1788757200",
+  "520  on /leaguegroup/%230/1789966800",
+  "520  on /leaguegroup/%230/1792386000",
+  "520  on /leaguegroup/%230/1793595600",
+  "520  on /leaguegroup/%232JUV8U9/1777266000",
+  "520  on /leaguegroup/%2388QGQQG/1782709200",
+  "520  on /leaguegroup/%2390LURU0/1793595600",
+  "520  on /leaguegroup/%23920JG9G/1793595600",
+  "520  on /players/%239YULCURQ8",
+  "520  on /players/%23YGR89L22L",
+  "525  on /leaguegroup/%230/1787547600",
+  "525  on /leaguegroup/%230/1792386000",
+  "525  on /players/%23QL80LUUYU"
  ]
 }
