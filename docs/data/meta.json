@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T04:16:09Z",
+ "updatedAt": "2026-11-02T04:31:08Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -8,6 +8,15 @@
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
+   "isWarLogPublic": true
+  },
+  {
+   "tag": "#2JR2Y8G0V",
+   "name": "Reaper Two",
+   "members": 9,
+   "level": 8,
+   "warLeague": "Unranked",
+   "warWins": 44,
    "isWarLogPublic": true
   },
   {
@@ -22,7 +31,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 26,
+   "members": 27,
    "level": 8,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -31,7 +40,7 @@
   {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
-   "members": 40,
+   "members": 39,
    "level": 18,
    "warLeague": "Master League II",
    "warWins": 218,
@@ -52,12 +61,6 @@
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
-  "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /clans/%232JR2Y8G0V",
-  "520  on /players/%23LRULLCV8G",
-  "520  on /players/%23P8YV0UCLP",
-  "525  on /players/%23LVU2UGCVR",
-  "525  on /players/%23LVYLQJVRJ",
-  "525  on /players/%23LY9CLCP0R"
+  "500 unknownException on /leaguegroup/%238GQPC2C/1790571600"
  ]
 }
