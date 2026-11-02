@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T00:31:14Z",
+ "updatedAt": "2026-11-02T00:46:13Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -31,7 +31,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 23,
+   "members": 24,
    "level": 8,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -57,42 +57,14 @@
   }
  ],
  "errors": [
-  "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /leaguegroup/%230/1792386000",
-  "520  on /leaguegroup/%239082GJ0/1792990800",
-  "520  on /leaguegroup/%2390PGLUY/1792990800",
-  "520  on /leaguegroup/%2390QV0UQ/1792990800",
-  "520  on /leaguegroup/%2390RPCCY/1792990800",
-  "520  on /leaguegroup/%2390UL808/1792990800",
-  "520  on /players/%232R0GQ99CV",
-  "520  on /players/%232UY0YR2YG",
-  "520  on /players/%239JJP09P02",
-  "520  on /players/%239RJYJP0PV",
-  "520  on /players/%239Y9RYP9UP",
-  "520  on /players/%239YULCURQ8",
-  "520  on /players/%23G0CPUL8QG",
-  "520  on /players/%23GPYYJV0CG",
-  "520  on /players/%23GQCU9CRYP",
-  "520  on /players/%23GQUL8P0LR",
-  "520  on /players/%23LC0V0JU2R",
-  "520  on /players/%23LQLPL99G",
-  "520  on /players/%23LVYLQJVRJ",
-  "520  on /players/%23R00P99LC9",
-  "520  on /players/%23RV8UPG2G",
-  "520  on /players/%23Y2Q202JJJ",
-  "525  on /players/%232RP8QC0J9",
-  "525  on /players/%239CRJQVQG",
-  "525  on /players/%239VJP2Q89J",
-  "525  on /players/%239VLYJG8VQ",
-  "525  on /players/%23LQU8V8RC9",
-  "525  on /players/%23LRULLCV8G",
-  "525  on /players/%23LV0C8V0UJ",
-  "525  on /players/%23LVYGJQGRP",
-  "525  on /players/%23P90Q0UGCJ",
-  "525  on /players/%23R2YY0R88G"
+  "520  on /leaguegroup/%232JJRY8V/1777870800",
+  "520  on /players/%23Q882U0V8L",
+  "520  on /players/%23QCVPU8UQJ",
+  "520  on /players/%23QQYJ0R0J",
+  "525  on /players/%23Q8JUGYLQL"
  ]
 }
