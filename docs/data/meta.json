@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T02:16:16Z",
+ "updatedAt": "2026-11-02T02:21:30Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -31,7 +31,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 25,
+   "members": 26,
    "level": 8,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -61,22 +61,6 @@
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
-  "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /leaguegroup/%230/1793425197",
-  "520  on /leaguegroup/%2390GCQV2/1792990800",
-  "520  on /players/%232R9JLPL9Y",
-  "520  on /players/%232UY0YR2YG",
-  "520  on /players/%2382CGYU22R",
-  "520  on /players/%238899YPC2Y",
-  "520  on /players/%239UVLYUVU9",
-  "520  on /players/%23G808UVU92",
-  "520  on /players/%23R00P99LC9",
-  "525  on /leaguegroup/%23909YL0C/1792990800",
-  "525  on /leaguegroup/%2390YLJ8Q/1792990800",
-  "525  on /players/%232RGPY8PRQ",
-  "525  on /players/%232RP8QC0J9",
-  "525  on /players/%232VCRRL8RY",
-  "525  on /players/%239RJYJP0PV",
-  "525  on /players/%23QLRJ928JQ"
+  "500 unknownException on /leaguegroup/%238GQPC2C/1790571600"
  ]
 }
