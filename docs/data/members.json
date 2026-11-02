@@ -15,7 +15,7 @@
   "attackWins": 222,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Y8RLVRJR",
@@ -33,7 +33,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-30T04:55:00Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GLCR9LCU2",
@@ -51,25 +51,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#20QUCQRQY",
-  "name": "Juli",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 236,
-  "trophies": 5000,
-  "bestTrophies": 5370,
-  "league": "Legend I",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/s5Y12RDRg7tgznd2RwU9kgLbedC5Not4peiHfOaWfJo.png",
-  "warStars": 2731,
-  "attackWins": 220,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#PRCJVPUPJ",
@@ -87,7 +69,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#CLG88L0C",
@@ -105,313 +87,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
-  "tag": "#2Q0QYYGGL",
-  "name": "Praz",
+  "tag": "#20QUCQRQY",
+  "name": "Juli",
   "clanTag": "#2G9J22R0P",
   "clan": "Reaper Crew",
   "status": "in clan",
   "th": 18,
-  "expLevel": 221,
-  "trophies": 1124,
-  "bestTrophies": 5153,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 917,
-  "attackWins": 0,
+  "expLevel": 236,
+  "trophies": 4974,
+  "bestTrophies": 5370,
+  "league": "Legend I",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/s5Y12RDRg7tgznd2RwU9kgLbedC5Not4peiHfOaWfJo.png",
+  "warStars": 2731,
+  "attackWins": 220,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#G808UVU92",
-  "name": "Arc'Zen",
-  "clanTag": "#QQR8892U",
-  "clan": "THE WARRIOR",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 273,
-  "trophies": 1085,
-  "bestTrophies": 5058,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 2390,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#YCY08LR",
-  "name": "Sniperjaden_4",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 227,
-  "trophies": 1076,
-  "bestTrophies": 5189,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 1866,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#G9CC8CRYJ",
-  "name": "Dark God",
-  "clanTag": "#2CPY0RL88",
-  "clan": "G3 CWL",
-  "status": "other clan",
-  "th": 18,
-  "expLevel": 211,
-  "trophies": 1073,
-  "bestTrophies": 3542,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 1195,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#PP8CLJC2G",
-  "name": "Mochi",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 229,
-  "trophies": 1073,
-  "bestTrophies": 3781,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 772,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#LCL9JRVU",
-  "name": "oscer",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 208,
-  "trophies": 1063,
-  "bestTrophies": 4466,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 975,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#LYG9LGV29",
-  "name": "sq",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 209,
-  "trophies": 1056,
-  "bestTrophies": 5031,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 1549,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-11-01T00:15:21Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#GPYYJV0CG",
-  "name": "Azrael",
-  "clanTag": "#QQR8892U",
-  "clan": "THE WARRIOR",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 257,
-  "trophies": 1039,
-  "bestTrophies": 5042,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 2280,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#9JJP09P02",
-  "name": "Неизвестный",
-  "clanTag": "#2R0R982RC",
-  "clan": "Band of Reapers",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 222,
-  "trophies": 1006,
-  "bestTrophies": 4104,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 1958,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#GCVY89CGY",
-  "name": "MIRAJ",
-  "clanTag": "#QQR8892U",
-  "clan": "THE WARRIOR",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 204,
-  "trophies": 945,
-  "bestTrophies": 4711,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 1283,
-  "attackWins": 24,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#9UVLYUVU9",
-  "name": "DK_Fau",
-  "clanTag": "#QQR8892U",
-  "clan": "THE WARRIOR",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 227,
-  "trophies": 902,
-  "bestTrophies": 5073,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 1217,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#Q8CCQUQL9",
-  "name": "SS GOURAV ⚔️",
-  "clanTag": "#QQR8892U",
-  "clan": "THE WARRIOR",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 243,
-  "trophies": 891,
-  "bestTrophies": 5989,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 3389,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#L080P9YR0",
-  "name": "Alpha Sierra",
-  "clanTag": "#QQR8892U",
-  "clan": "THE WARRIOR",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 244,
-  "trophies": 888,
-  "bestTrophies": 5703,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 1744,
-  "attackWins": 18,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#9LVRQY02L",
-  "name": "Joao",
-  "clanTag": "#22VU0GV8L",
-  "clan": "Syndicate",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 220,
-  "trophies": 786,
-  "bestTrophies": 5128,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 1314,
-  "attackWins": 18,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#R0980PPU8",
-  "name": "FanTong",
-  "clanTag": "#2R0R982RC",
-  "clan": "Band of Reapers",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 145,
-  "trophies": 776,
-  "bestTrophies": 776,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 252,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-30T11:14:11Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#8J9GUUG2G",
-  "name": "Yuutaa",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
-  "th": 18,
-  "expLevel": 226,
-  "trophies": 750,
-  "bestTrophies": 4303,
-  "league": "Dragon League 30",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "warStars": 2105,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#YUUPJJGCR",
-  "name": "MATIN",
-  "clanTag": "#2U9L0YRUG",
-  "clan": "کورش کبیر",
-  "status": "other clan",
-  "th": 18,
-  "expLevel": 308,
-  "trophies": 554,
-  "bestTrophies": 5026,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 1261,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T13:59:15Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Q882U0V8L",
@@ -429,7 +123,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LVYGJQGRP",
@@ -447,7 +141,61 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#L080P9YR0",
+  "name": "Alpha Sierra",
+  "clanTag": "#QQR8892U",
+  "clan": "THE WARRIOR",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 244,
+  "trophies": 0,
+  "bestTrophies": 5703,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 1744,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#G808UVU92",
+  "name": "Arc'Zen",
+  "clanTag": "#QQR8892U",
+  "clan": "THE WARRIOR",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 273,
+  "trophies": 0,
+  "bestTrophies": 5058,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 2390,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#GPYYJV0CG",
+  "name": "Azrael",
+  "clanTag": "#QQR8892U",
+  "clan": "THE WARRIOR",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 257,
+  "trophies": 0,
+  "bestTrophies": 5042,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 2280,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Y9VYJR8GL",
@@ -465,7 +213,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#YUJVVRR8C",
@@ -483,7 +231,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-30T11:14:11Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#PPJ80L0UU",
@@ -501,7 +249,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-30T11:14:11Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2LPRVL8CY",
@@ -519,7 +267,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LVYLQJVRJ",
@@ -537,7 +285,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#992CCVJPY",
@@ -555,7 +303,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Y9JPGRURQ",
@@ -573,7 +321,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#G9CC8CRYJ",
+  "name": "Dark God",
+  "clanTag": "#2CPY0RL88",
+  "clan": "G3 CWL",
+  "status": "other clan",
+  "th": 18,
+  "expLevel": 211,
+  "trophies": 0,
+  "bestTrophies": 3542,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 1195,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-31T18:20:18Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#J2JJLYYY",
@@ -591,7 +357,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#L0LJP9C8C",
@@ -609,7 +375,43 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#9UVLYUVU9",
+  "name": "DK_Fau",
+  "clanTag": "#QQR8892U",
+  "clan": "THE WARRIOR",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 227,
+  "trophies": 0,
+  "bestTrophies": 5073,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 1217,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#R0980PPU8",
+  "name": "FanTong",
+  "clanTag": "#2R0R982RC",
+  "clan": "Band of Reapers",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 145,
+  "trophies": 0,
+  "bestTrophies": 776,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 252,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-30T11:14:11Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#99UG9LVL9",
@@ -627,7 +429,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9VJP2Q89J",
@@ -645,7 +447,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QPJL98L9R",
@@ -663,7 +465,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2LQP9082P",
@@ -681,7 +483,25 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#9LVRQY02L",
+  "name": "Joao",
+  "clanTag": "#22VU0GV8L",
+  "clan": "Syndicate",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 220,
+  "trophies": 0,
+  "bestTrophies": 5128,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 1314,
+  "attackWins": 18,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#8Q22RY0G",
@@ -699,7 +519,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2R0GQ99CV",
@@ -717,7 +537,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Y2RL98L20",
@@ -735,7 +555,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#YUUPJJGCR",
+  "name": "MATIN",
+  "clanTag": "#2U9L0YRUG",
+  "clan": "کورش کبیر",
+  "status": "other clan",
+  "th": 18,
+  "expLevel": 308,
+  "trophies": 0,
+  "bestTrophies": 5026,
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "warStars": 1261,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T13:59:15Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2G2R2RUL",
@@ -753,7 +591,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#8JQR80YVV",
@@ -771,7 +609,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#8CRU8Q0V0",
@@ -789,7 +627,43 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#GCVY89CGY",
+  "name": "MIRAJ",
+  "clanTag": "#QQR8892U",
+  "clan": "THE WARRIOR",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 204,
+  "trophies": 0,
+  "bestTrophies": 4711,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 1283,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#PP8CLJC2G",
+  "name": "Mochi",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 229,
+  "trophies": 0,
+  "bestTrophies": 3781,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 772,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GYQQC8L20",
@@ -807,7 +681,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T13:59:15Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LVU2UGCVR",
@@ -825,7 +699,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9C98RQ2VP",
@@ -843,7 +717,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-01T21:45:08Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G99JUCYRJ",
@@ -861,7 +735,43 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#LCL9JRVU",
+  "name": "oscer",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 208,
+  "trophies": 0,
+  "bestTrophies": 4466,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 975,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#2Q0QYYGGL",
+  "name": "Praz",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 221,
+  "trophies": 0,
+  "bestTrophies": 5153,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 917,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#YGR89L22L",
@@ -879,7 +789,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9Q88YJ2YV",
@@ -897,7 +807,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#YCY08LR",
+  "name": "Sniperjaden_4",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 227,
+  "trophies": 0,
+  "bestTrophies": 5189,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 1866,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GJQJ80VRG",
@@ -915,7 +843,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GPP0V0Q92",
@@ -933,7 +861,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LLV2JP2CP",
@@ -951,14 +879,50 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#LYG9LGV29",
+  "name": "sq",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 209,
+  "trophies": 0,
+  "bestTrophies": 5031,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 1549,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-11-01T00:15:21Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#Q8CCQUQL9",
+  "name": "SS GOURAV ⚔️",
+  "clanTag": "#QQR8892U",
+  "clan": "THE WARRIOR",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 243,
+  "trophies": 0,
+  "bestTrophies": 5989,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 3389,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#28GQU9V0",
   "name": "Toasty",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
+  "clanTag": "#L0CUQ9RV",
+  "clan": "3 Star in SUN",
+  "status": "other clan",
   "th": 18,
   "expLevel": 247,
   "trophies": 0,
@@ -969,7 +933,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#98UU0GUY",
@@ -987,7 +951,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2RP8QC0J9",
@@ -1005,7 +969,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LYLJLRVUR",
@@ -1023,7 +987,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#8LC0Y2U9L",
@@ -1041,7 +1005,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Q8JUGYLQL",
@@ -1059,7 +1023,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T17:45:23Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#8J9GUUG2G",
+  "name": "Yuutaa",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 226,
+  "trophies": 0,
+  "bestTrophies": 4303,
+  "league": "Electro League 31",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+  "warStars": 2105,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#YCQVPLR0G",
@@ -1077,7 +1059,25 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#9JJP09P02",
+  "name": "Неизвестный",
+  "clanTag": "#2R0R982RC",
+  "clan": "Band of Reapers",
+  "status": "in clan",
+  "th": 18,
+  "expLevel": 222,
+  "trophies": 0,
+  "bestTrophies": 4104,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 1958,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9VLYJG8VQ",
@@ -1095,7 +1095,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#RV8UPG2G",
@@ -1131,205 +1131,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#QL80LUUYU",
-  "name": "sq",
-  "clanTag": "#QQR8892U",
-  "clan": "THE WARRIOR",
-  "status": "in clan",
-  "th": 17,
-  "expLevel": 210,
-  "trophies": 1155,
-  "bestTrophies": 5213,
-  "league": "Legend III",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
-  "warStars": 1286,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#2R9JLPL9Y",
-  "name": "TEGH THE GREAT",
-  "clanTag": "#2R0R982RC",
-  "clan": "Band of Reapers",
-  "status": "in clan",
-  "th": 17,
-  "expLevel": 221,
-  "trophies": 851,
-  "bestTrophies": 3960,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 3324,
-  "attackWins": 18,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#8R8V09RJC",
-  "name": "Het",
-  "clanTag": "#2LJV8U0CU",
-  "clan": "☁️The AKATSUKI☁",
-  "status": "other clan",
-  "th": 17,
-  "expLevel": 213,
-  "trophies": 778,
-  "bestTrophies": 5526,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 1643,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-11-01T18:00:23Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#YC02JUPCV",
-  "name": "꧁✰BŁUE✰꧂✈︎",
-  "clanTag": "#2R0R982RC",
-  "clan": "Band of Reapers",
-  "status": "in clan",
-  "th": 17,
-  "expLevel": 201,
-  "trophies": 754,
-  "bestTrophies": 5635,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 2082,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#Y0C2PUVV2",
-  "name": "Theuz fast",
-  "clanTag": "#2JLQ8QVGP",
-  "clan": "CAMUS DE ACURIO",
-  "status": "other clan",
-  "th": 17,
-  "expLevel": 191,
-  "trophies": 713,
-  "bestTrophies": 5042,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 623,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-11-01T06:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#9JVGJGL8Q",
-  "name": "Who's Next ❓",
-  "clanTag": "#2CRLR09Y",
-  "clan": "INDIAN LIONS",
-  "status": "other clan",
-  "th": 17,
-  "expLevel": 211,
-  "trophies": 679,
-  "bestTrophies": 5218,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 2070,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#GPYGVU92C",
-  "name": "TrueG",
-  "clanTag": "#2G9J22R0P",
-  "clan": "Reaper Crew",
-  "status": "in clan",
-  "th": 17,
-  "expLevel": 152,
-  "trophies": 664,
-  "bestTrophies": 4789,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 556,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#GG9UPV2UV",
-  "name": "CLAY",
-  "clanTag": "#22VU0GV8L",
-  "clan": "Syndicate",
-  "status": "in clan",
-  "th": 17,
-  "expLevel": 186,
-  "trophies": 660,
-  "bestTrophies": 3967,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 1019,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#28R82CJQ9",
-  "name": "ASL",
-  "clanTag": "#2R0R982RC",
-  "clan": "Band of Reapers",
-  "status": "in clan",
-  "th": 17,
-  "expLevel": 220,
-  "trophies": 659,
-  "bestTrophies": 5654,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 2232,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#YYJ29J8LR",
-  "name": "GENERAL TONY",
-  "clanTag": "#2J2GQ829G",
-  "clan": "Crazy gods",
-  "status": "other clan",
-  "th": 17,
-  "expLevel": 174,
-  "trophies": 648,
-  "bestTrophies": 3287,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 859,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#2UY0YR2YG",
-  "name": "I N F E R N O",
-  "clanTag": "#2R0R982RC",
-  "clan": "Band of Reapers",
-  "status": "in clan",
-  "th": 17,
-  "expLevel": 231,
-  "trophies": 641,
-  "bestTrophies": 5142,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 2961,
-  "attackWins": 18,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G2RY2YP0",
@@ -1347,7 +1149,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#U0J88QLL",
@@ -1365,7 +1167,43 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#28R82CJQ9",
+  "name": "ASL",
+  "clanTag": "#2R0R982RC",
+  "clan": "Band of Reapers",
+  "status": "in clan",
+  "th": 17,
+  "expLevel": 220,
+  "trophies": 0,
+  "bestTrophies": 5654,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 2232,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#GG9UPV2UV",
+  "name": "CLAY",
+  "clanTag": "#22VU0GV8L",
+  "clan": "Syndicate",
+  "status": "in clan",
+  "th": 17,
+  "expLevel": 186,
+  "trophies": 0,
+  "bestTrophies": 3967,
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "warStars": 1019,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2VCRRL8RY",
@@ -1383,7 +1221,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2JQLRUY8G",
@@ -1401,7 +1239,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LC9LLVCRJ",
@@ -1419,7 +1257,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#P0UCYCU2P",
@@ -1437,7 +1275,43 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#YYJ29J8LR",
+  "name": "GENERAL TONY",
+  "clanTag": "#2J2GQ829G",
+  "clan": "Crazy gods",
+  "status": "other clan",
+  "th": 17,
+  "expLevel": 174,
+  "trophies": 0,
+  "bestTrophies": 3287,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 859,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#8R8V09RJC",
+  "name": "Het",
+  "clanTag": "#2LJV8U0CU",
+  "clan": "☁️The AKATSUKI☁",
+  "status": "other clan",
+  "th": 17,
+  "expLevel": 213,
+  "trophies": 0,
+  "bestTrophies": 5526,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 1643,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-11-01T18:00:23Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Q2LCUV9P9",
@@ -1455,7 +1329,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#2UY0YR2YG",
+  "name": "I N F E R N O",
+  "clanTag": "#2R0R982RC",
+  "clan": "Band of Reapers",
+  "status": "in clan",
+  "th": 17,
+  "expLevel": 231,
+  "trophies": 0,
+  "bestTrophies": 5142,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 2961,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#PCVP0U92U",
@@ -1473,7 +1365,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#JYR9UQUU",
@@ -1491,7 +1383,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#PPQLV29P0",
@@ -1509,7 +1401,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#QL80LUUYU",
+  "name": "sq",
+  "clanTag": "#QQR8892U",
+  "clan": "THE WARRIOR",
+  "status": "in clan",
+  "th": 17,
+  "expLevel": 210,
+  "trophies": 0,
+  "bestTrophies": 5213,
+  "league": "Legend II",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+  "warStars": 1286,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9PY92UQQC",
@@ -1530,6 +1440,42 @@
   "updated": "2026-11-02T05:30:21Z"
  },
  {
+  "tag": "#2R9JLPL9Y",
+  "name": "TEGH THE GREAT",
+  "clanTag": "#2R0R982RC",
+  "clan": "Band of Reapers",
+  "status": "in clan",
+  "th": 17,
+  "expLevel": 221,
+  "trophies": 0,
+  "bestTrophies": 3960,
+  "league": "Legend III",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
+  "warStars": 3324,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#Y0C2PUVV2",
+  "name": "Theuz fast",
+  "clanTag": "#2JLQ8QVGP",
+  "clan": "CAMUS DE ACURIO",
+  "status": "other clan",
+  "th": 17,
+  "expLevel": 191,
+  "trophies": 0,
+  "bestTrophies": 5042,
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "warStars": 623,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-11-01T06:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
   "tag": "#GQUL8P0LR",
   "name": "Toast3r",
   "clanTag": "#QQR8892U",
@@ -1545,7 +1491,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9CRJQVQG",
@@ -1563,7 +1509,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#GPYGVU92C",
+  "name": "TrueG",
+  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Crew",
+  "status": "in clan",
+  "th": 17,
+  "expLevel": 152,
+  "trophies": 0,
+  "bestTrophies": 4789,
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "warStars": 556,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9YULCURQ8",
@@ -1581,7 +1545,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Q80Q20LP0",
@@ -1599,7 +1563,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#9JVGJGL8Q",
+  "name": "Who's Next ❓",
+  "clanTag": "#2CRLR09Y",
+  "clan": "INDIAN LIONS",
+  "status": "other clan",
+  "th": 17,
+  "expLevel": 211,
+  "trophies": 0,
+  "bestTrophies": 5218,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 2070,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#22YGUQUL2",
@@ -1617,7 +1599,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-01T13:45:21Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GP8VVG9JY",
@@ -1635,79 +1617,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
-  "tag": "#Y2L00Y9G",
-  "name": "liam",
-  "clanTag": "#22VU0GV8L",
-  "clan": "Syndicate",
+  "tag": "#YC02JUPCV",
+  "name": "꧁✰BŁUE✰꧂✈︎",
+  "clanTag": "#2R0R982RC",
+  "clan": "Band of Reapers",
   "status": "in clan",
-  "th": 16,
-  "expLevel": 218,
-  "trophies": 726,
-  "bestTrophies": 5564,
-  "league": "Electro League 31",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
-  "warStars": 1175,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#VRRPCLP",
-  "name": "MORITZ",
-  "clanTag": "#22VU0GV8L",
-  "clan": "Syndicate",
-  "status": "in clan",
-  "th": 16,
-  "expLevel": 189,
-  "trophies": 672,
-  "bestTrophies": 3201,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 1476,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#QLY0QVLUC",
-  "name": "mohamad",
-  "clanTag": "#2CUG9J8UG",
-  "clan": "IR.IRAN",
-  "status": "other clan",
-  "th": 16,
+  "th": 17,
   "expLevel": 201,
-  "trophies": 598,
-  "bestTrophies": 5111,
-  "league": "Dragon League 29",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
-  "warStars": 1127,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-11-02T04:30:12Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#LQ0C29JLY",
-  "name": "AMIT",
-  "clanTag": "#22VU0GV8L",
-  "clan": "Syndicate",
-  "status": "in clan",
-  "th": 16,
-  "expLevel": 210,
-  "trophies": 555,
-  "bestTrophies": 5356,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 1387,
+  "trophies": 0,
+  "bestTrophies": 5635,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 2082,
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GY9UYUUYQ",
@@ -1719,31 +1647,13 @@
   "expLevel": 145,
   "trophies": 540,
   "bestTrophies": 2245,
-  "league": "Dragon League 28",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
+  "league": "Dragon League 29",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
   "warStars": 1059,
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T13:45:21Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#88Y9RQVCU",
-  "name": "FeRoZ",
-  "clanTag": "#2L2QV2LRG",
-  "clan": "ريتال",
-  "status": "other clan",
-  "th": 16,
-  "expLevel": 197,
-  "trophies": 461,
-  "bestTrophies": 5015,
-  "league": "Dragon League 30",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "warStars": 627,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-11-02T02:20:31Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#90PCYCLY",
@@ -1761,7 +1671,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#P8YV0UCLP",
@@ -1779,7 +1689,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#LQ0C29JLY",
+  "name": "AMIT",
+  "clanTag": "#22VU0GV8L",
+  "clan": "Syndicate",
+  "status": "in clan",
+  "th": 16,
+  "expLevel": 210,
+  "trophies": 0,
+  "bestTrophies": 5356,
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "warStars": 1387,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Q0Q0VL0LV",
@@ -1797,7 +1725,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G9VQJQ2VP",
@@ -1806,7 +1734,7 @@
   "clan": "Syndicate",
   "status": "in clan",
   "th": 16,
-  "expLevel": 121,
+  "expLevel": 120,
   "trophies": 0,
   "bestTrophies": 2728,
   "league": "Unranked",
@@ -1815,7 +1743,25 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#88Y9RQVCU",
+  "name": "FeRoZ",
+  "clanTag": "#2L2QV2LRG",
+  "clan": "ريتال",
+  "status": "other clan",
+  "th": 16,
+  "expLevel": 197,
+  "trophies": 0,
+  "bestTrophies": 5015,
+  "league": "Dragon League 30",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
+  "warStars": 627,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-11-02T02:20:31Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Y2Q202JJJ",
@@ -1833,7 +1779,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#YYUPPP2Y8",
@@ -1851,7 +1797,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Y9RJGLLQY",
@@ -1869,7 +1815,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#82CGYU22R",
@@ -1887,7 +1833,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QQ0Q89JRG",
@@ -1905,7 +1851,25 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#Y2L00Y9G",
+  "name": "liam",
+  "clanTag": "#22VU0GV8L",
+  "clan": "Syndicate",
+  "status": "in clan",
+  "th": 16,
+  "expLevel": 218,
+  "trophies": 0,
+  "bestTrophies": 5564,
+  "league": "Electro League 31",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+  "warStars": 1175,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#8JQUPJ0QQ",
@@ -1923,7 +1887,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#99UL0J92Q",
@@ -1941,7 +1905,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#R0LUUG9Y2",
@@ -1959,7 +1923,43 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#QLY0QVLUC",
+  "name": "mohamad",
+  "clanTag": "#2YJRUUUUV",
+  "clan": "کلن یزدی ها 32",
+  "status": "other clan",
+  "th": 16,
+  "expLevel": 201,
+  "trophies": 0,
+  "bestTrophies": 5111,
+  "league": "Dragon League 30",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
+  "warStars": 1127,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-11-02T04:30:12Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#VRRPCLP",
+  "name": "MORITZ",
+  "clanTag": "#22VU0GV8L",
+  "clan": "Syndicate",
+  "status": "in clan",
+  "th": 16,
+  "expLevel": 189,
+  "trophies": 0,
+  "bestTrophies": 3201,
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "warStars": 1476,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#90GP2QQYY",
@@ -1977,7 +1977,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T00:45:15Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QJLU0U0P",
@@ -1995,7 +1995,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LRULLCV8G",
@@ -2013,43 +2013,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-30T17:06:19Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
-  "tag": "#GCY8JPU8L",
-  "name": "Dark God 2",
+  "tag": "#LVGP8GLCJ",
+  "name": "☬Demolisher☬",
   "clanTag": "#22VU0GV8L",
   "clan": "Syndicate",
   "status": "in clan",
-  "th": 15,
-  "expLevel": 130,
-  "trophies": 711,
-  "bestTrophies": 762,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 625,
+  "th": 16,
+  "expLevel": 184,
+  "trophies": 0,
+  "bestTrophies": 4593,
+  "league": "Dragon League 30",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
+  "warStars": 747,
   "attackWins": 0,
   "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#QLJP9JY2Y",
-  "name": "Ttisn",
-  "clanTag": "#22VU0GV8L",
-  "clan": "Syndicate",
-  "status": "in clan",
-  "th": 15,
-  "expLevel": 207,
-  "trophies": 655,
-  "bestTrophies": 5055,
-  "league": "Electro League 33",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "warStars": 1714,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "firstSeen": "2026-11-02T05:45:22Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G0UGCQGQU",
@@ -2061,49 +2043,13 @@
   "expLevel": 175,
   "trophies": 639,
   "bestTrophies": 3441,
-  "league": "Dragon League 29",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
+  "league": "Dragon League 30",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
   "warStars": 953,
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#LJCP2JQ98",
-  "name": "Kleiner Stephan",
-  "clanTag": "#2RGPPC22V",
-  "clan": "SportplatzMinis",
-  "status": "other clan",
-  "th": 15,
-  "expLevel": 242,
-  "trophies": 607,
-  "bestTrophies": 5485,
-  "league": "Dragon League 30",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
-  "warStars": 2358,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#YUPCGC8RC",
-  "name": "Manthan 07",
-  "clanTag": "#JRCQRG82",
-  "clan": "warrior CIAN",
-  "status": "other clan",
-  "th": 15,
-  "expLevel": 186,
-  "trophies": 543,
-  "bestTrophies": 5013,
-  "league": "Electro League 32",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
-  "warStars": 1055,
-  "attackWins": 18,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LQLPL99G",
@@ -2121,7 +2067,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QVY908C2C",
@@ -2139,7 +2085,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QLRJ928JQ",
@@ -2157,7 +2103,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#YPJQ29G9Y",
@@ -2175,25 +2121,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-31T13:49:19Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#G0CPUL8QG",
-  "name": "stranger",
-  "clanTag": "#RYQV98VL",
-  "clan": "Friends Fighter",
-  "status": "other clan",
-  "th": 15,
-  "expLevel": 176,
-  "trophies": 375,
-  "bestTrophies": 3681,
-  "league": "P.E.K.K.A League 22",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png",
-  "warStars": 949,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#90UU28P9G",
@@ -2229,7 +2157,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GU2RRP9LY",
@@ -2247,7 +2175,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T02:30:11Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2P9LJR08Q",
@@ -2265,7 +2193,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#8JCLJLVLQ",
@@ -2283,7 +2211,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2RGPY8PRQ",
@@ -2301,7 +2229,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T19:15:16Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LUVUVQL8L",
@@ -2319,7 +2247,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T03:30:22Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GQ9QL0YUC",
@@ -2337,7 +2265,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T13:45:21Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GYPC8PJYR",
@@ -2355,7 +2283,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GVU2JCP2Q",
@@ -2373,7 +2301,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#GCY8JPU8L",
+  "name": "Dark God 2",
+  "clanTag": "#22VU0GV8L",
+  "clan": "Syndicate",
+  "status": "in clan",
+  "th": 15,
+  "expLevel": 130,
+  "trophies": 0,
+  "bestTrophies": 762,
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "warStars": 625,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GUG0Y2QU9",
@@ -2391,7 +2337,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#22U2R0JQJ",
@@ -2409,7 +2355,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#R2JJ0JP9G",
@@ -2427,7 +2373,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T23:50:59Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QQYJ0R0J",
@@ -2445,7 +2391,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QGJP2L0CQ",
@@ -2463,7 +2409,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#LJCP2JQ98",
+  "name": "Kleiner Stephan",
+  "clanTag": "#2RGPPC22V",
+  "clan": "SportplatzMinis",
+  "status": "other clan",
+  "th": 15,
+  "expLevel": 242,
+  "trophies": 0,
+  "bestTrophies": 5485,
+  "league": "Electro League 31",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+  "warStars": 2358,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QQQPV0VJR",
@@ -2481,7 +2445,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-02T01:30:16Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G890V8RQP",
@@ -2490,7 +2454,7 @@
   "clan": "Reaper Two",
   "status": "in clan",
   "th": 15,
-  "expLevel": 123,
+  "expLevel": 122,
   "trophies": 0,
   "bestTrophies": 3210,
   "league": "Witch League 18",
@@ -2499,7 +2463,43 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#YUPCGC8RC",
+  "name": "Manthan 07",
+  "clanTag": "#JRCQRG82",
+  "clan": "warrior CIAN",
+  "status": "other clan",
+  "th": 15,
+  "expLevel": 186,
+  "trophies": 0,
+  "bestTrophies": 5013,
+  "league": "Electro League 32",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+  "warStars": 1055,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#G08GLYPGR",
+  "name": "ME PAGAL HU",
+  "clanTag": "#22VU0GV8L",
+  "clan": "Syndicate",
+  "status": "in clan",
+  "th": 15,
+  "expLevel": 121,
+  "trophies": 0,
+  "bestTrophies": 3202,
+  "league": "Witch League 17",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/3mEMvpajLceJ3EKu7u_JIh_cOEsT7wyh701zum9hqCY.png",
+  "warStars": 323,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-11-02T05:45:22Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#2RY02LV8",
@@ -2517,7 +2517,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GJPLJ2URU",
@@ -2535,7 +2535,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#G0CPUL8QG",
+  "name": "stranger",
+  "clanTag": "#RYQV98VL",
+  "clan": "Friends Fighter",
+  "status": "other clan",
+  "th": 15,
+  "expLevel": 176,
+  "trophies": 0,
+  "bestTrophies": 3681,
+  "league": "P.E.K.K.A League 22",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png",
+  "warStars": 949,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GVJJL8PU8",
@@ -2553,7 +2571,25 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#QLJP9JY2Y",
+  "name": "Ttisn",
+  "clanTag": "#22VU0GV8L",
+  "clan": "Syndicate",
+  "status": "in clan",
+  "th": 15,
+  "expLevel": 207,
+  "trophies": 0,
+  "bestTrophies": 5055,
+  "league": "Electro League 33",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
+  "warStars": 1714,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-29T07:00:17Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LC0V0JU2R",
@@ -2571,7 +2607,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9P9GRLCPJ",
@@ -2589,7 +2625,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9Y8CUYU02",
@@ -2643,7 +2679,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-02T03:45:12Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G8LG8JJUC",
@@ -2679,7 +2715,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#P90Q0UGCJ",
@@ -2715,25 +2751,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T22:30:10Z",
-  "updated": "2026-11-02T05:30:21Z"
- },
- {
-  "tag": "#GGLVL09UY",
-  "name": "SS GOURAV ⚔️",
-  "clanTag": "#2J900Y9V0",
-  "clan": "Freaker Crew",
-  "status": "in clan",
-  "th": 14,
-  "expLevel": 120,
-  "trophies": 423,
-  "bestTrophies": 1337,
-  "league": "Titan League 25",
-  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
-  "warStars": 723,
-  "attackWins": 0,
-  "warPreference": "in",
-  "firstSeen": "2026-10-31T06:55:49Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#R0V200CCR",
@@ -2751,7 +2769,25 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T01:30:23Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
+ },
+ {
+  "tag": "#GGLVL09UY",
+  "name": "SS GOURAV ⚔️",
+  "clanTag": "#2J900Y9V0",
+  "clan": "Freaker Crew",
+  "status": "in clan",
+  "th": 14,
+  "expLevel": 120,
+  "trophies": 0,
+  "bestTrophies": 1337,
+  "league": "Titan League 25",
+  "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
+  "warStars": 723,
+  "attackWins": 0,
+  "warPreference": "in",
+  "firstSeen": "2026-10-31T06:55:49Z",
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G28UQV8RU",
@@ -2769,7 +2805,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G8UQ0YLVV",
@@ -2787,7 +2823,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T23:50:59Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LQU8V8RC9",
@@ -2805,7 +2841,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LY9CLCP0R",
@@ -2823,7 +2859,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T10:30:19Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Q2CCY8RJ0",
@@ -2841,7 +2877,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-01T22:58:10Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9RJYJP0PV",
@@ -2859,7 +2895,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#9Y9RYP9UP",
@@ -2877,7 +2913,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QCVPU8UQJ",
@@ -2895,7 +2931,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#G08GVU2R8",
@@ -2913,7 +2949,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T07:13:53Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GJPG0P08C",
@@ -2931,7 +2967,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GL229RVYP",
@@ -2949,7 +2985,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#R2YY0R88G",
@@ -2967,7 +3003,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-11-01T00:45:23Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#Q9V9URUG0",
@@ -2985,7 +3021,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GQCU9CRYP",
@@ -3003,7 +3039,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#R0C2JJRVR",
@@ -3021,7 +3057,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T16:30:21Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#R00P99LC9",
@@ -3039,7 +3075,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GCQJLP9UY",
@@ -3057,7 +3093,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#YY028JPGY",
@@ -3075,7 +3111,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#LV0C8V0UJ",
@@ -3093,7 +3129,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T20:00:16Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#R8PLRL2LJ",
@@ -3111,7 +3147,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GU9LV9PY2",
@@ -3129,7 +3165,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T21:15:27Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GU8U9ULCL",
@@ -3147,7 +3183,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-31T18:20:18Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GJGY2VYV8",
@@ -3165,7 +3201,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GCQ882C0C",
@@ -3183,7 +3219,7 @@
   "attackWins": 0,
   "warPreference": "out",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QCJGG2P0G",
@@ -3201,7 +3237,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#RPPY92V0P",
@@ -3219,7 +3255,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T19:15:16Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#GVU82PJR0",
@@ -3237,7 +3273,7 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-11-01T13:45:21Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  },
  {
   "tag": "#QVCU9G9LQ",
@@ -3255,6 +3291,6 @@
   "attackWins": 0,
   "warPreference": "in",
   "firstSeen": "2026-10-29T07:00:17Z",
-  "updated": "2026-11-02T05:30:21Z"
+  "updated": "2026-11-02T05:45:22Z"
  }
 ]
