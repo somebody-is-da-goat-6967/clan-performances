@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T03:31:29Z",
+ "updatedAt": "2026-11-02T03:46:12Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -40,7 +40,7 @@
   {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
-   "members": 36,
+   "members": 38,
    "level": 18,
    "warLeague": "Master League II",
    "warWins": 218,
@@ -59,11 +59,24 @@
  "errors": [
   "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
-  "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
-  "520  on /players/%239VLYJG8VQ",
-  "525  on /players/%239Y8CUYU02",
-  "525  on /players/%239YULCURQ8"
+  "520  on /leaguegroup/%23800UR9P/1790571600",
+  "520  on /leaguegroup/%2390YU802/1792990800",
+  "520  on /players/%232P9LJR08Q",
+  "520  on /players/%2388Y9RQVCU",
+  "520  on /players/%239LVRQY02L",
+  "520  on /players/%239P9GRLCPJ",
+  "520  on /players/%239PR9JV909",
+  "520  on /players/%23Y9VYJR8GL",
+  "520  on /players/%23YGP0GPR0R",
+  "525  on /leaguegroup/%230/1773032400",
+  "525  on /leaguegroup/%2390CUCUP/1792990800",
+  "525  on /leaguegroup/%2390LUVR2/1792990800",
+  "525  on /leaguegroup/%2390YUUQV/1792990800",
+  "525  on /players/%232Q0QYYGGL",
+  "525  on /players/%232VCRRL8RY",
+  "525  on /players/%239JVGJGL8Q",
+  "525  on /players/%23YC02JUPCV"
  ]
 }
