@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T01:31:15Z",
+ "updatedAt": "2026-11-02T01:46:16Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -8,15 +8,6 @@
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
-   "isWarLogPublic": true
-  },
-  {
-   "tag": "#2JR2Y8G0V",
-   "name": "Reaper Two",
-   "members": 9,
-   "level": 8,
-   "warLeague": "Unranked",
-   "warWins": 44,
    "isWarLogPublic": true
   },
   {
@@ -31,7 +22,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 23,
+   "members": 24,
    "level": 8,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -40,7 +31,7 @@
   {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
-   "members": 37,
+   "members": 36,
    "level": 18,
    "warLeague": "Master League II",
    "warWins": 218,
@@ -61,7 +52,33 @@
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1790571600",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
-  "525  on /leaguegroup/%230/1760331600",
-  "525  on /leaguegroup/%238GQPC2C/1790571600"
+  "500 unknownException on /leaguegroup/%238GQPC2C/1790571600",
+  "520  on /clans/%232JR2Y8G0V",
+  "520  on /clans/%23QQR8892U/currentwar/leaguegroup",
+  "520  on /leaguegroup/%230/1761541200",
+  "520  on /leaguegroup/%2390G2QUQ/1792990800",
+  "520  on /leaguegroup/%2390PR9GC/1792990800",
+  "520  on /leaguegroup/%2390RG2R0/1792990800",
+  "520  on /players/%232LPRVL8CY",
+  "520  on /players/%23LC9LLVCRJ",
+  "520  on /players/%23LP2RGJVL0",
+  "520  on /players/%23LQLPL99G",
+  "520  on /players/%23Q2CCY8RJ0",
+  "520  on /players/%23QQQPV0VJR",
+  "520  on /players/%23R0LUUG9Y2",
+  "525  on /clans/%232J900Y9V0/currentwar/leaguegroup",
+  "525  on /clans/%232R0R982RC/currentwar",
+  "525  on /clans/%232R0R982RC/currentwar/leaguegroup",
+  "525  on /clanwarleagues/wars/%238RV829PJ9",
+  "525  on /leaguegroup/%230/1791176400",
+  "525  on /leaguegroup/%230/1791727028",
+  "525  on /leaguegroup/%230/1792386000",
+  "525  on /leaguegroup/%23900G8YP/1792990800",
+  "525  on /leaguegroup/%2390J0VUY/1792990800",
+  "525  on /players/%23GQUL8P0LR",
+  "525  on /players/%23LC0V0JU2R",
+  "525  on /players/%23QPJL98L9R",
+  "525  on /players/%23QVY908C2C",
+  "525  on /players/%23R0V200CCR"
  ]
 }
