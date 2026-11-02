@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T20:04:50Z",
+ "updatedAt": "2026-11-02T20:16:17Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -58,9 +58,38 @@
  ],
  "errors": [
   "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
-  "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
-  "500 unknownException on /leaguegroup/%23800UR9P/1792990800",
-  "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
-  "500 unknownException on /leaguegroup/%238GQPC2C/1792990800"
+  "520  on /leaguegroup/%230/1761541200",
+  "520  on /leaguegroup/%230/1762146000",
+  "520  on /leaguegroup/%230/1788757200",
+  "520  on /leaguegroup/%232JUV8U9/1777266000",
+  "520  on /leaguegroup/%2388QGQQG/1782709200",
+  "520  on /leaguegroup/%2390CJVG8/1793595600",
+  "520  on /leaguegroup/%2390GP9CQ/1793595600",
+  "520  on /leaguegroup/%239220808/1793595600",
+  "520  on /leaguegroup/%23922GVUQ/1793595600",
+  "520  on /leaguegroup/%239282J0J/1793595600",
+  "520  on /leaguegroup/%2392PJP82/1793595600",
+  "520  on /players/%23GCQJLP9UY",
+  "520  on /players/%23GU8U9ULCL",
+  "520  on /players/%23GUG0Y2QU9",
+  "520  on /players/%23GVU2JCP2Q",
+  "520  on /players/%23GYQQC8L20",
+  "520  on /players/%23LGRL90RJV",
+  "520  on /players/%23QL0VYLLQQ",
+  "520  on /players/%23QQYJ0R0J",
+  "520  on /players/%23R0LUUG9Y2",
+  "520  on /players/%23R0V200CCR",
+  "520  on /players/%23R8PLRL2LJ",
+  "525  on /leaguegroup/%23800UR9P/1792990800",
+  "525  on /players/%23GLCR9LCU2",
+  "525  on /players/%23GQUL8P0LR",
+  "525  on /players/%23GU2RRP9LY",
+  "525  on /players/%23GU9LV9PY2",
+  "525  on /players/%23J2JJLYYY",
+  "525  on /players/%23LC0V0JU2R",
+  "525  on /players/%23QLRJ928JQ",
+  "525  on /players/%23QVCU9G9LQ",
+  "525  on /players/%23QVY908C2C",
+  "525  on /players/%23Y2998GUYC"
  ]
 }
