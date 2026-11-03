@@ -8314,12 +8314,12 @@
   "tag": "#LQU8V8RC9",
   "th": 13,
   "pos": 7,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 78.0,
+  "attackDetail": "2★ 78%"
  },
  {
   "date": "2026-11-03T10:30:49Z",
