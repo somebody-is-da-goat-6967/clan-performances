@@ -5654,12 +5654,12 @@
   "tag": "#GGLVL09UY",
   "th": 15,
   "pos": 4,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 74.0,
+  "attackDetail": "2★ 74%"
  },
  {
   "date": "2026-11-03T10:30:49Z",
