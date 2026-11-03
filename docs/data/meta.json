@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-03T15:17:06Z",
+ "updatedAt": "2026-11-03T15:32:05Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 30,
+   "members": 31,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
@@ -13,7 +13,7 @@
   {
    "tag": "#2JR2Y8G0V",
    "name": "Reaper Two",
-   "members": 17,
+   "members": 16,
    "level": 8,
    "warLeague": "Unranked",
    "warWins": 44,
@@ -49,7 +49,7 @@
   {
    "tag": "#2J900Y9V0",
    "name": "Freaker Crew",
-   "members": 14,
+   "members": 13,
    "level": 6,
    "warLeague": "Crystal League III",
    "warWins": 0,
