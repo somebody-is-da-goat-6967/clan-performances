@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-03T13:01:46Z",
+ "updatedAt": "2026-11-03T13:16:39Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 28,
+   "members": 29,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
@@ -13,7 +13,7 @@
   {
    "tag": "#2JR2Y8G0V",
    "name": "Reaper Two",
-   "members": 21,
+   "members": 20,
    "level": 8,
    "warLeague": "Unranked",
    "warWins": 44,
@@ -22,7 +22,7 @@
   {
    "tag": "#QQR8892U",
    "name": "THE WARRIOR",
-   "members": 24,
+   "members": 23,
    "level": 29,
    "warLeague": "Champion League III",
    "warWins": 640,
@@ -31,7 +31,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 23,
+   "members": 22,
    "level": 8,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -40,7 +40,7 @@
   {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
-   "members": 43,
+   "members": 47,
    "level": 18,
    "warLeague": "Master League II",
    "warWins": 218,
@@ -62,6 +62,8 @@
   "500 unknownException on /leaguegroup/%23800UR9P/1792990800",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
-  "500 unknownException on /leaguegroup/%238GQPC2C/1792990800"
+  "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
+  "520  on /players/%23Q2PVYLCPU",
+  "520  on /players/%23Q80Q20LP0"
  ]
 }
