@@ -9112,12 +9112,12 @@
   "tag": "#GL9R9JLGC",
   "th": 12,
   "pos": 14,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 57.0,
+  "attackDetail": "1★ 57%"
  },
  {
   "date": "2026-10-10T02:35:47Z",
