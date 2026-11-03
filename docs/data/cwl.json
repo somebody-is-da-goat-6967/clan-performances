@@ -5635,12 +5635,12 @@
   "tag": "#R2JJ0JP9G",
   "th": 15,
   "pos": 8,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 82.0,
+  "attackDetail": "2★ 82%"
  },
  {
   "date": "2026-11-03T10:30:49Z",
