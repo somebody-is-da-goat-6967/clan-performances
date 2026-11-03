@@ -3754,12 +3754,12 @@
   "tag": "#LQ0C29JLY",
   "th": 16,
   "pos": 17,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 85.0,
+  "attackDetail": "2★ 85%"
  },
  {
   "date": "2026-11-03T07:45:19Z",
