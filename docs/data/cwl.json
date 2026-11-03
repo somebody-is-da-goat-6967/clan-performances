@@ -5882,12 +5882,12 @@
   "tag": "#9P9GRLCPJ",
   "th": 15,
   "pos": 24,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 98.0,
+  "attackDetail": "2★ 98%"
  },
  {
   "date": "2026-11-03T07:45:19Z",
