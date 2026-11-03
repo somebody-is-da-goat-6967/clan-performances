@@ -48,7 +48,7 @@
   "attackAvgDestruction": 99.6,
   "attackTrophies": 702,
   "final": false,
-  "updated": "2026-11-03T04:45:28Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
   "status": "in progress"
@@ -75,7 +75,7 @@
   "attackAvgDestruction": 100.0,
   "attackTrophies": 720,
   "final": false,
-  "updated": "2026-11-03T06:00:41Z",
+  "updated": "2026-11-03T06:15:28Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
   "status": "in progress"
@@ -210,7 +210,7 @@
   "attackAvgDestruction": 96.9,
   "attackTrophies": 288,
   "final": false,
-  "updated": "2026-11-03T06:00:41Z",
+  "updated": "2026-11-03T06:15:28Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
   "status": "in progress"
@@ -291,7 +291,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:53Z",
+  "updated": "2026-11-03T06:15:30Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
   "status": "in progress"
@@ -480,7 +480,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:49Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Legend II",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
   "status": "in progress"
@@ -576,7 +576,7 @@
   "seasonStart": "2026-11-02",
   "groupTag": "#922Y9RL",
   "groupSize": 100,
-  "rank": 76,
+  "rank": 77,
   "leagueTrophies": 14,
   "attackWins": 0,
   "attackLosses": 0,
@@ -588,7 +588,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:41Z",
+  "updated": "2026-11-03T06:15:28Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
   "status": "in progress"
@@ -648,8 +648,8 @@
   "status": "in progress"
  },
  {
-  "clan": "Reaper Crew",
-  "clanTag": "#2G9J22R0P",
+  "clan": "Reaper Two",
+  "clanTag": "#2JR2Y8G0V",
   "name": "Mochi",
   "tag": "#PP8CLJC2G",
   "th": 18,
@@ -669,7 +669,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:51Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
   "status": "in progress"
@@ -696,7 +696,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:46Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
   "status": "in progress"
@@ -3185,7 +3185,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:41Z",
+  "updated": "2026-11-03T06:15:28Z",
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
   "status": "in progress"
@@ -3254,8 +3254,8 @@
   "seasonStart": "2026-11-02",
   "groupTag": "#92PJP82",
   "groupSize": 100,
-  "rank": 81,
-  "leagueTrophies": 10,
+  "rank": 74,
+  "leagueTrophies": 20,
   "attackWins": 0,
   "attackLosses": 0,
   "attacks": 0,
@@ -3266,7 +3266,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T05:30:34Z",
+  "updated": "2026-11-03T06:15:28Z",
   "league": "Legend III",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/BvEu_UE53UzADvTRiU9AdyOrlvb1RqvBmMau_uX6xm0.png",
   "status": "in progress"
@@ -4658,7 +4658,7 @@
   "attackAvgDestruction": 92.9,
   "attackTrophies": 572,
   "final": false,
-  "updated": "2026-11-03T06:00:42Z",
+  "updated": "2026-11-03T06:15:28Z",
   "league": "Electro League 31",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
   "status": "in progress"
@@ -4943,7 +4943,7 @@
   "seasonStart": "2026-11-02",
   "groupTag": "#9298R9V",
   "groupSize": 100,
-  "rank": 77,
+  "rank": 79,
   "leagueTrophies": 0,
   "attackWins": 0,
   "attackLosses": 0,
@@ -4955,7 +4955,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:52Z",
+  "updated": "2026-11-03T06:15:30Z",
   "league": "Electro League 32",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
   "status": "in progress"
@@ -6110,7 +6110,7 @@
   "attackAvgDestruction": 86.8,
   "attackTrophies": 367,
   "final": false,
-  "updated": "2026-11-03T06:00:42Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Titan League 25",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
   "status": "in progress"
@@ -6272,7 +6272,7 @@
   "attackAvgDestruction": 61.6,
   "attackTrophies": 86,
   "final": false,
-  "updated": "2026-11-03T06:00:51Z",
+  "updated": "2026-11-03T06:15:30Z",
   "league": "Witch League 18",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
   "status": "in progress"
@@ -6326,7 +6326,7 @@
   "attackAvgDestruction": 68.2,
   "attackTrophies": 70,
   "final": false,
-  "updated": "2026-11-03T06:00:50Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Golem League 21",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png",
   "status": "in progress"
@@ -6530,7 +6530,7 @@
   "seasonStart": "2026-11-02",
   "groupTag": "#929R2YG",
   "groupSize": 100,
-  "rank": 76,
+  "rank": 78,
   "leagueTrophies": 8,
   "attackWins": 0,
   "attackLosses": 0,
@@ -6542,7 +6542,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:42Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Golem League 21",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png",
   "status": "in progress"
@@ -6665,7 +6665,7 @@
   "seasonStart": "2026-11-02",
   "groupTag": "#9299P2L",
   "groupSize": 100,
-  "rank": 84,
+  "rank": 85,
   "leagueTrophies": 0,
   "attackWins": 0,
   "attackLosses": 0,
@@ -6677,7 +6677,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:42Z",
+  "updated": "2026-11-03T06:15:28Z",
   "league": "Dragon League 30",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
   "status": "in progress"
@@ -8444,7 +8444,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:49Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Wizard League 11",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/XazuJHG2wjBq39KEA4g4hh1nKJQwVO0fRoVDPHvWwAY.png",
   "status": "in progress"
@@ -8579,7 +8579,7 @@
   "attackAvgDestruction": 74.1,
   "attackTrophies": 166,
   "final": false,
-  "updated": "2026-11-03T06:00:42Z",
+  "updated": "2026-11-03T06:15:28Z",
   "league": "Golem League 21",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png",
   "status": "in progress"
@@ -9064,7 +9064,7 @@
   "seasonStart": "2026-11-02",
   "groupTag": "#90U90Q2",
   "groupSize": 100,
-  "rank": 59,
+  "rank": 60,
   "leagueTrophies": 18,
   "attackWins": 0,
   "attackLosses": 0,
@@ -9076,7 +9076,7 @@
   "attackAvgDestruction": null,
   "attackTrophies": 0,
   "final": false,
-  "updated": "2026-11-03T06:00:47Z",
+  "updated": "2026-11-03T06:15:29Z",
   "league": "Barbarian League 4",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/326/CoTrW7nhyiNIDCI4WHUK-0BuhOxibwd_tfASdtmMWFE.png",
   "status": "in progress"
