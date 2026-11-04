@@ -467,12 +467,12 @@
   "tag": "#QPJL98L9R",
   "th": 18,
   "pos": 7,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 98.0,
+  "attackDetail": "1★ 98%"
  },
  {
   "date": "2026-11-04T03:35:50Z",
