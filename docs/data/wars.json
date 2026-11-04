@@ -277,12 +277,12 @@
   "tag": "#9VLYJG8VQ",
   "th": 18,
   "pos": 2,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 88.0,
+  "attackDetail": "1★ 88%"
  },
  {
   "date": "2026-11-04T07:26:31Z",
