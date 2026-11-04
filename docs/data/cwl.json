@@ -7003,12 +7003,12 @@
   "tag": "#GVU2JCP2Q",
   "th": 15,
   "pos": 34,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%"
  },
  {
   "date": "2026-11-04T07:45:24Z",
@@ -9815,12 +9815,12 @@
   "tag": "#GJPG0P08C",
   "th": 13,
   "pos": 10,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 79.0,
+  "attackDetail": "2★ 79%"
  },
  {
   "date": "2026-11-04T11:01:57Z",
