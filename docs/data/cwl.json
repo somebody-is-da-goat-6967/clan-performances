@@ -790,12 +790,12 @@
   "tag": "#YCY08LR",
   "th": 18,
   "pos": 14,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 99.0,
+  "attackDetail": "2★ 99%"
  },
  {
   "date": "2026-11-03T23:00:22Z",
