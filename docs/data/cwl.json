@@ -8580,12 +8580,12 @@
   "tag": "#LY9CLCP0R",
   "th": 13,
   "pos": 6,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 62.0,
+  "attackDetail": "2★ 62%"
  },
  {
   "date": "2026-11-03T10:30:49Z",
