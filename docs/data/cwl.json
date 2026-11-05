@@ -9853,12 +9853,12 @@
   "tag": "#R0V200CCR",
   "th": 14,
   "pos": 5,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 70.0,
+  "attackDetail": "2★ 70%"
  },
  {
   "date": "2026-11-03T10:30:49Z",
