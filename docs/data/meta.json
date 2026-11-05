@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T14:20:15Z",
+ "updatedAt": "2026-11-05T14:32:57Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -22,10 +22,19 @@
   {
    "tag": "#QQR8892U",
    "name": "THE WARRIOR",
-   "members": 23,
+   "members": 24,
    "level": 29,
    "warLeague": "Champion League III",
    "warWins": 640,
+   "isWarLogPublic": true
+  },
+  {
+   "tag": "#2R0R982RC",
+   "name": "Band of Reapers",
+   "members": 23,
+   "level": 9,
+   "warLeague": "Master League I",
+   "warWins": 0,
    "isWarLogPublic": true
   },
   {
@@ -57,13 +66,6 @@
   "500 unknownException on /leaguegroup/%238CUGUGC/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "500 unknownException on /leaguegroup/%238U09QR0/1790571600",
-  "520  on /clans/%232R0R982RC",
-  "520  on /players/%232UJQVQ0RJ",
-  "520  on /players/%2382CGYU22R",
-  "520  on /players/%238CRU8Q0V0",
-  "520  on /players/%238JCLJLVLQ",
-  "525  on /players/%232RGPY8PRQ",
-  "525  on /players/%238GYGPUV8U"
+  "500 unknownException on /leaguegroup/%238U09QR0/1790571600"
  ]
 }
