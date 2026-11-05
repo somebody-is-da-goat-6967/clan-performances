@@ -8257,12 +8257,12 @@
   "tag": "#GVU2JCP2Q",
   "th": 15,
   "pos": 34,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 71.0,
+  "attackDetail": "1★ 71%"
  },
  {
   "date": "2026-11-05T08:10:38Z",
