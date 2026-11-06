@@ -4647,12 +4647,12 @@
   "tag": "#QL80LUUYU",
   "th": 17,
   "pos": 18,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 99.0,
+  "attackDetail": "2★ 99%"
  },
  {
   "date": "2026-11-06T04:12:04Z",
