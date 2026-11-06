@@ -296,12 +296,12 @@
   "tag": "#QPJL98L9R",
   "th": 18,
   "pos": 7,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 88.0,
+  "attackDetail": "2★ 88%"
  },
  {
   "date": "2026-11-06T04:54:53Z",
