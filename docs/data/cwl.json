@@ -14033,12 +14033,12 @@
   "tag": "#R0V200CCR",
   "th": 14,
   "pos": 5,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 64.0,
+  "attackDetail": "2★ 64%"
  },
  {
   "date": "2026-11-06T12:37:56Z",
@@ -14337,12 +14337,12 @@
   "tag": "#GJPG0P08C",
   "th": 13,
   "pos": 10,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 81.0,
+  "attackDetail": "2★ 81%"
  },
  {
   "date": "2026-11-06T12:37:56Z",
