@@ -1,5 +1,47 @@
 [
  {
+  "name": "SS GOURAV ⚔️",
+  "tag": "#Q8CCQUQL9",
+  "clan": "Reaper Two",
+  "th": 18,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 24,
+  "threeStars": 8,
+  "avgStarsPerAttack": 3.0,
+  "avgDestruction": 100.0
+ },
+ {
+  "name": "Het",
+  "tag": "#9VJP2Q89J",
+  "clan": "Reaper Two",
+  "th": 18,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 22,
+  "threeStars": 6,
+  "avgStarsPerAttack": 2.75,
+  "avgDestruction": 91.4
+ },
+ {
+  "name": "Vitosya17",
+  "tag": "#8LC0Y2U9L",
+  "clan": "Reaper Two",
+  "th": 18,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 22,
+  "threeStars": 7,
+  "avgStarsPerAttack": 2.75,
+  "avgDestruction": 99.2
+ },
+ {
   "name": "Chief Kugo",
   "tag": "#Y9JPGRURQ",
   "clan": "Reaper Two",
@@ -28,8 +70,8 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "SS GOURAV ⚔️",
-  "tag": "#Q8CCQUQL9",
+  "name": "Неизвестный",
+  "tag": "#9JJP09P02",
   "clan": "Reaper Two",
   "th": 18,
   "wars": 3,
@@ -42,8 +84,8 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "Het",
-  "tag": "#9VJP2Q89J",
+  "name": "Muhfli Pakoda",
+  "tag": "#LVU2UGCVR",
   "clan": "Reaper Two",
   "th": 18,
   "wars": 3,
@@ -53,21 +95,7 @@
   "stars": 16,
   "threeStars": 4,
   "avgStarsPerAttack": 2.67,
-  "avgDestruction": 88.5
- },
- {
-  "name": "Vitosya17",
-  "tag": "#8LC0Y2U9L",
-  "clan": "Reaper Two",
-  "th": 18,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 16,
-  "threeStars": 5,
-  "avgStarsPerAttack": 2.67,
-  "avgDestruction": 99.0
+  "avgDestruction": 97.2
  },
  {
   "name": "Неизвестный",
@@ -140,6 +168,20 @@
   "avgDestruction": 100.0
  },
  {
+  "name": "Bondokk",
+  "tag": "#2LPRVL8CY",
+  "clan": "Reaper Two",
+  "th": 18,
+  "wars": 2,
+  "attacksUsed": 4,
+  "attacksAvailable": 4,
+  "missed": 0,
+  "stars": 12,
+  "threeStars": 4,
+  "avgStarsPerAttack": 3.0,
+  "avgDestruction": 100.0
+ },
+ {
   "name": "CHAPO GUZHMAN",
   "tag": "#992CCVJPY",
   "clan": "Reaper Crew",
@@ -152,6 +194,20 @@
   "threeStars": 4,
   "avgStarsPerAttack": 3.0,
   "avgDestruction": 100.0
+ },
+ {
+  "name": "Hithem V1",
+  "tag": "#QPJL98L9R",
+  "clan": "Reaper Two",
+  "th": 18,
+  "wars": 4,
+  "attacksUsed": 6,
+  "attacksAvailable": 8,
+  "missed": 2,
+  "stars": 12,
+  "threeStars": 3,
+  "avgStarsPerAttack": 2.0,
+  "avgDestruction": 71.3
  },
  {
   "name": "MiNuTka",
@@ -210,8 +266,8 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "Неизвестный",
-  "tag": "#9JJP09P02",
+  "name": "VorReel",
+  "tag": "#9U8Y92RJ",
   "clan": "Reaper Two",
   "th": 18,
   "wars": 2,
@@ -292,20 +348,6 @@
   "threeStars": 3,
   "avgStarsPerAttack": 2.5,
   "avgDestruction": 88.0
- },
- {
-  "name": "Muhfli Pakoda",
-  "tag": "#LVU2UGCVR",
-  "clan": "Reaper Two",
-  "th": 18,
-  "wars": 2,
-  "attacksUsed": 4,
-  "attacksAvailable": 4,
-  "missed": 0,
-  "stars": 10,
-  "threeStars": 2,
-  "avgStarsPerAttack": 2.5,
-  "avgDestruction": 95.8
  },
  {
   "name": "Nurbek",
@@ -406,20 +448,6 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "Bondokk",
-  "tag": "#2LPRVL8CY",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 1,
-  "attacksUsed": 2,
-  "attacksAvailable": 2,
-  "missed": 0,
-  "stars": 6,
-  "threeStars": 2,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
- },
- {
   "name": "Brisc",
   "tag": "#LVYLQJVRJ",
   "clan": "Reaper Crew",
@@ -446,20 +474,6 @@
   "threeStars": 2,
   "avgStarsPerAttack": 3.0,
   "avgDestruction": 100.0
- },
- {
-  "name": "Hithem V1",
-  "tag": "#QPJL98L9R",
-  "clan": "Reaper Two",
-  "th": 18,
-  "wars": 3,
-  "attacksUsed": 4,
-  "attacksAvailable": 6,
-  "missed": 2,
-  "stars": 6,
-  "threeStars": 1,
-  "avgStarsPerAttack": 1.5,
-  "avgDestruction": 57.0
  },
  {
   "name": "oscer",
@@ -602,14 +616,28 @@
   "avgDestruction": null
  },
  {
+  "name": "EK THA PRO",
+  "tag": "#LC9LLVCRJ",
+  "clan": "Reaper Two",
+  "th": 17,
+  "wars": 3,
+  "attacksUsed": 6,
+  "attacksAvailable": 6,
+  "missed": 0,
+  "stars": 15,
+  "threeStars": 4,
+  "avgStarsPerAttack": 2.5,
+  "avgDestruction": 91.8
+ },
+ {
   "name": "Toast3r",
   "tag": "#GQUL8P0LR",
   "clan": "Reaper Two",
   "th": 17,
-  "wars": 2,
+  "wars": 3,
   "attacksUsed": 4,
-  "attacksAvailable": 4,
-  "missed": 0,
+  "attacksAvailable": 6,
+  "missed": 2,
   "stars": 11,
   "threeStars": 3,
   "avgStarsPerAttack": 2.75,
@@ -628,20 +656,6 @@
   "threeStars": 3,
   "avgStarsPerAttack": 2.5,
   "avgDestruction": 94.8
- },
- {
-  "name": "EK THA PRO",
-  "tag": "#LC9LLVCRJ",
-  "clan": "Reaper Two",
-  "th": 17,
-  "wars": 2,
-  "attacksUsed": 4,
-  "attacksAvailable": 4,
-  "missed": 0,
-  "stars": 9,
-  "threeStars": 2,
-  "avgStarsPerAttack": 2.25,
-  "avgDestruction": 87.8
  },
  {
   "name": "Juli",
@@ -740,20 +754,6 @@
   "threeStars": 0,
   "avgStarsPerAttack": 1.5,
   "avgDestruction": 84.5
- },
- {
-  "name": "VorReel",
-  "tag": "#9U8Y92RJ",
-  "clan": "Reaper Two",
-  "th": 17,
-  "wars": 1,
-  "attacksUsed": 2,
-  "attacksAvailable": 2,
-  "missed": 0,
-  "stars": 6,
-  "threeStars": 2,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
  },
  {
   "name": "TEGH THE GREAT",
@@ -910,6 +910,34 @@
   "avgDestruction": null
  },
  {
+  "name": "AMIT",
+  "tag": "#LQ0C29JLY",
+  "clan": "Reaper Two",
+  "th": 16,
+  "wars": 3,
+  "attacksUsed": 6,
+  "attacksAvailable": 6,
+  "missed": 0,
+  "stars": 16,
+  "threeStars": 4,
+  "avgStarsPerAttack": 2.67,
+  "avgDestruction": 95.5
+ },
+ {
+  "name": "GGWP:SAYONO",
+  "tag": "#92V28VQVP",
+  "clan": "Reaper Two",
+  "th": 16,
+  "wars": 2,
+  "attacksUsed": 4,
+  "attacksAvailable": 4,
+  "missed": 0,
+  "stars": 12,
+  "threeStars": 4,
+  "avgStarsPerAttack": 3.0,
+  "avgDestruction": 100.0
+ },
+ {
   "name": "KLAUS",
   "tag": "#Y9RJGLLQY",
   "clan": "Reaper Crew",
@@ -936,20 +964,6 @@
   "threeStars": 4,
   "avgStarsPerAttack": 3.0,
   "avgDestruction": 100.0
- },
- {
-  "name": "AMIT",
-  "tag": "#LQ0C29JLY",
-  "clan": "Reaper Two",
-  "th": 16,
-  "wars": 2,
-  "attacksUsed": 4,
-  "attacksAvailable": 4,
-  "missed": 0,
-  "stars": 11,
-  "threeStars": 3,
-  "avgStarsPerAttack": 2.75,
-  "avgDestruction": 96.8
  },
  {
   "name": "krkic",
@@ -996,20 +1010,6 @@
  {
   "name": "Adam",
   "tag": "#90PCYCLY",
-  "clan": "Reaper Two",
-  "th": 16,
-  "wars": 1,
-  "attacksUsed": 2,
-  "attacksAvailable": 2,
-  "missed": 0,
-  "stars": 6,
-  "threeStars": 2,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
- },
- {
-  "name": "GGWP:SAYONO",
-  "tag": "#92V28VQVP",
   "clan": "Reaper Two",
   "th": 16,
   "wars": 1,
@@ -1106,6 +1106,34 @@
   "avgDestruction": 100.0
  },
  {
+  "name": "SS GOURAV ⚔️",
+  "tag": "#QVY908C2C",
+  "clan": "Reaper Two",
+  "th": 15,
+  "wars": 2,
+  "attacksUsed": 4,
+  "attacksAvailable": 4,
+  "missed": 0,
+  "stars": 8,
+  "threeStars": 1,
+  "avgStarsPerAttack": 2.0,
+  "avgDestruction": 92.5
+ },
+ {
+  "name": "SS GOURAV ⚔️",
+  "tag": "#GGLVL09UY",
+  "clan": "Reaper Two",
+  "th": 15,
+  "wars": 2,
+  "attacksUsed": 4,
+  "attacksAvailable": 4,
+  "missed": 0,
+  "stars": 7,
+  "threeStars": 1,
+  "avgStarsPerAttack": 1.75,
+  "avgDestruction": 61.5
+ },
+ {
   "name": "Amoo 2.0",
   "tag": "#8JCLJLVLQ",
   "clan": "Reaper Two",
@@ -1192,12 +1220,12 @@
  {
   "name": "Неадекватный",
   "tag": "#QLRJ928JQ",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Two",
   "th": 15,
-  "wars": 1,
+  "wars": 2,
   "attacksUsed": 2,
-  "attacksAvailable": 2,
-  "missed": 0,
+  "attacksAvailable": 4,
+  "missed": 2,
   "stars": 6,
   "threeStars": 2,
   "avgStarsPerAttack": 3.0,
@@ -1208,42 +1236,14 @@
   "tag": "#QQYJ0R0J",
   "clan": "Reaper Two",
   "th": 15,
-  "wars": 2,
+  "wars": 3,
   "attacksUsed": 2,
-  "attacksAvailable": 4,
-  "missed": 2,
+  "attacksAvailable": 6,
+  "missed": 4,
   "stars": 5,
   "threeStars": 1,
   "avgStarsPerAttack": 2.5,
   "avgDestruction": 98.5
- },
- {
-  "name": "SS GOURAV ⚔️",
-  "tag": "#GGLVL09UY",
-  "clan": "Reaper Two",
-  "th": 15,
-  "wars": 1,
-  "attacksUsed": 2,
-  "attacksAvailable": 2,
-  "missed": 0,
-  "stars": 5,
-  "threeStars": 1,
-  "avgStarsPerAttack": 2.5,
-  "avgDestruction": 94.5
- },
- {
-  "name": "SS GOURAV ⚔️",
-  "tag": "#QVY908C2C",
-  "clan": "Reaper Two",
-  "th": 15,
-  "wars": 1,
-  "attacksUsed": 2,
-  "attacksAvailable": 2,
-  "missed": 0,
-  "stars": 5,
-  "threeStars": 1,
-  "avgStarsPerAttack": 2.5,
-  "avgDestruction": 94.5
  },
  {
   "name": "Ttisn",
@@ -1286,6 +1286,20 @@
   "threeStars": 0,
   "avgStarsPerAttack": 1.0,
   "avgDestruction": 11.5
+ },
+ {
+  "name": "LovyLevi!",
+  "tag": "#G890V8RQP",
+  "clan": "Reaper Two",
+  "th": 15,
+  "wars": 1,
+  "attacksUsed": 0,
+  "attacksAvailable": 2,
+  "missed": 2,
+  "stars": 0,
+  "threeStars": 0,
+  "avgStarsPerAttack": null,
+  "avgDestruction": null
  },
  {
   "name": "Manthan 07",
@@ -1344,18 +1358,32 @@
   "avgDestruction": 63.0
  },
  {
+  "name": "Joao 4",
+  "tag": "#LR8JJY0PQ",
+  "clan": "Reaper Two",
+  "th": 14,
+  "wars": 1,
+  "attacksUsed": 0,
+  "attacksAvailable": 2,
+  "missed": 2,
+  "stars": 0,
+  "threeStars": 0,
+  "avgStarsPerAttack": null,
+  "avgDestruction": null
+ },
+ {
   "name": "Bondokk",
   "tag": "#GJPG0P08C",
   "clan": "Reaper Two",
   "th": 13,
-  "wars": 2,
-  "attacksUsed": 4,
-  "attacksAvailable": 4,
+  "wars": 3,
+  "attacksUsed": 6,
+  "attacksAvailable": 6,
   "missed": 0,
-  "stars": 12,
-  "threeStars": 4,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
+  "stars": 17,
+  "threeStars": 5,
+  "avgStarsPerAttack": 2.83,
+  "avgDestruction": 98.2
  },
  {
   "name": "Piko Stephan",
@@ -1376,10 +1404,10 @@
   "tag": "#G8UQ0YLVV",
   "clan": "Reaper Two",
   "th": 13,
-  "wars": 2,
+  "wars": 3,
   "attacksUsed": 2,
-  "attacksAvailable": 4,
-  "missed": 2,
+  "attacksAvailable": 6,
+  "missed": 4,
   "stars": 5,
   "threeStars": 1,
   "avgStarsPerAttack": 2.5,
