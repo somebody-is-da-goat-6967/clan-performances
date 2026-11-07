@@ -5502,12 +5502,12 @@
   "tag": "#VRRPCLP",
   "th": 17,
   "pos": 13,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%"
  },
  {
   "date": "2026-11-07T05:06:10Z",
@@ -10689,12 +10689,12 @@
   "tag": "#R2JJ0JP9G",
   "th": 15,
   "pos": 6,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 78.0,
+  "attackDetail": "2★ 78%"
  },
  {
   "date": "2026-11-07T12:50:50Z",
