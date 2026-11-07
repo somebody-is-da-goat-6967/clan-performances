@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T13:47:42Z",
+ "updatedAt": "2026-11-07T14:02:29Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -31,7 +31,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 21,
+   "members": 22,
    "level": 9,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -40,7 +40,7 @@
   {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
-   "members": 42,
+   "members": 43,
    "level": 19,
    "warLeague": "Master League II",
    "warWins": 218,
@@ -68,8 +68,6 @@
   "500 unknownException on /leaguegroup/%238CV0LC8/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "500 unknownException on /leaguegroup/%238U09QR0/1790571600",
-  "520  on /players/%238GYGPUV8U",
-  "525  on /leaguegroup/%23928QPRQ/1793595600"
+  "500 unknownException on /leaguegroup/%238U09QR0/1790571600"
  ]
 }
