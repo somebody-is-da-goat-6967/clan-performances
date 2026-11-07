@@ -14489,12 +14489,12 @@
   "tag": "#GJPG0P08C",
   "th": 13,
   "pos": 10,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 74.0,
+  "attackDetail": "2★ 74%"
  },
  {
   "date": "2026-11-07T12:50:50Z",
