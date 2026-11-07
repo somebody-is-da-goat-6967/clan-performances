@@ -144,12 +144,12 @@
   "tag": "#2RP8QC0J9",
   "th": 18,
   "pos": 14,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 96.0,
+  "attackDetail": "2★ 96%"
  },
  {
   "date": "2026-11-07T08:32:03Z",
