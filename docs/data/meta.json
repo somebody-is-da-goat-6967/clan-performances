@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T09:02:38Z",
+ "updatedAt": "2026-11-07T09:17:38Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -13,7 +13,7 @@
   {
    "tag": "#2JR2Y8G0V",
    "name": "Reaper Two",
-   "members": 22,
+   "members": 23,
    "level": 8,
    "warLeague": "Unranked",
    "warWins": 44,
@@ -31,7 +31,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 23,
+   "members": 22,
    "level": 9,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -67,6 +67,7 @@
   "500 unknownException on /leaguegroup/%238CV0LC8/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "500 unknownException on /leaguegroup/%238U09QR0/1790571600"
+  "500 unknownException on /leaguegroup/%238U09QR0/1790571600",
+  "520  on /players/%2328GQU9V0"
  ]
 }
