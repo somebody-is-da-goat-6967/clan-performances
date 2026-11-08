@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T17:03:05Z",
+ "updatedAt": "2026-11-08T17:17:28Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -40,7 +40,7 @@
   {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
-   "members": 36,
+   "members": 37,
    "level": 19,
    "warLeague": "Master League II",
    "warWins": 218,
@@ -68,7 +68,6 @@
   "500 unknownException on /leaguegroup/%238CV0LC8/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "500 unknownException on /leaguegroup/%238U09QR0/1790571600",
-  "525  on /players/%238RQP0UVUU"
+  "500 unknownException on /leaguegroup/%238U09QR0/1790571600"
  ]
 }
