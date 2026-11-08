@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-08T17:47:20Z",
+ "updatedAt": "2026-11-08T18:02:44Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 35,
+   "members": 34,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
@@ -40,7 +40,7 @@
   {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
-   "members": 39,
+   "members": 37,
    "level": 19,
    "warLeague": "Master League II",
    "warWins": 218,
@@ -68,6 +68,9 @@
   "500 unknownException on /leaguegroup/%238CV0LC8/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "500 unknownException on /leaguegroup/%238U09QR0/1790571600"
+  "500 unknownException on /leaguegroup/%238U09QR0/1790571600",
+  "520  on /players/%23LYLJLRVUR",
+  "525  on /players/%23G8UQ0YLVV",
+  "525  on /players/%23GYQUC29CP"
  ]
 }
