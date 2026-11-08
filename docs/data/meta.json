@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T18:17:41Z",
+ "updatedAt": "2026-11-08T18:32:22Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -8,15 +8,6 @@
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
-   "isWarLogPublic": true
-  },
-  {
-   "tag": "#2JR2Y8G0V",
-   "name": "Reaper Two",
-   "members": 13,
-   "level": 8,
-   "warLeague": "Unranked",
-   "warWins": 45,
    "isWarLogPublic": true
   },
   {
@@ -69,10 +60,6 @@
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
   "500 unknownException on /leaguegroup/%238U09QR0/1790571600",
-  "520  on /players/%239Y8CUYU02",
-  "525  on /players/%239UCGVVYJJ",
-  "525  on /players/%239ULVL8RVV",
-  "525  on /players/%239UVLYUVU9",
-  "525  on /players/%239VJP2Q89J"
+  "520  on /clans/%232JR2Y8G0V"
  ]
 }
