@@ -3640,12 +3640,12 @@
   "tag": "#QVY908C2C",
   "th": 15,
   "pos": 14,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 58.5,
+  "attackDetail": "0★ 27%, 2★ 90%"
  },
  {
   "date": "2026-11-08T10:49:24Z",
