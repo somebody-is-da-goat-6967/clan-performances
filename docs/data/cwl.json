@@ -277,12 +277,12 @@
   "tag": "#R0980PPU8",
   "th": 18,
   "pos": 9,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 97.0,
+  "attackDetail": "1★ 97%"
  },
  {
   "date": "2026-11-08T05:20:23Z",
