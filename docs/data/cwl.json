@@ -16066,12 +16066,12 @@
   "tag": "#GJPG0P08C",
   "th": 13,
   "pos": 11,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 58.0,
+  "attackDetail": "2★ 58%"
  },
  {
   "date": "2026-11-08T13:29:37Z",
