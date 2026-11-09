@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-09T05:47:42Z",
+ "updatedAt": "2026-11-09T06:02:36Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 39,
+   "members": 42,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
@@ -40,7 +40,7 @@
   {
    "tag": "#22VU0GV8L",
    "name": "Syndicate",
-   "members": 34,
+   "members": 36,
    "level": 19,
    "warLeague": "Master League II",
    "warWins": 218,
@@ -49,7 +49,7 @@
   {
    "tag": "#2J900Y9V0",
    "name": "Freaker Crew",
-   "members": 10,
+   "members": 12,
    "level": 6,
    "warLeague": "Crystal League III",
    "warWins": 0,
@@ -63,10 +63,11 @@
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238CLVVPV/1790571600",
   "500 unknownException on /leaguegroup/%238CQV09P/1790571600",
-  "500 unknownException on /leaguegroup/%238CUGUGC/1790571600",
   "500 unknownException on /leaguegroup/%238CV0LC8/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "500 unknownException on /leaguegroup/%238UG00UC/1792990800"
+  "500 unknownException on /leaguegroup/%238UG00UC/1792990800",
+  "520  on /players/%23G2L8J2RY9",
+  "520  on /players/%23PCVP0U92U"
  ]
 }
