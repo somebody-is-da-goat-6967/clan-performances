@@ -13444,12 +13444,12 @@
   "tag": "#QLRJ928JQ",
   "th": 15,
   "pos": 3,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 92.0,
+  "attackDetail": "2★ 92%"
  },
  {
   "date": "2026-11-08T09:36:49Z",
