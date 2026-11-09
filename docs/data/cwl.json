@@ -828,12 +828,12 @@
   "tag": "#LVU2UGCVR",
   "th": 18,
   "pos": 8,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 97.0,
+  "attackDetail": "2★ 97%"
  },
  {
   "date": "2026-11-08T09:36:49Z",
