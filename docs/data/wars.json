@@ -2101,12 +2101,12 @@
   "tag": "#LC9LLVCRJ",
   "th": 17,
   "pos": 9,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 4,
+  "avgDestruction": 93.5,
+  "attackDetail": "3★ 100%, 1★ 87%"
  },
  {
   "date": "2026-11-06T09:26:01Z",
