@@ -7269,12 +7269,12 @@
   "tag": "#GG9UPV2UV",
   "th": 17,
   "pos": 10,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 1,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 94.0,
+  "attackDetail": "2★ 94%"
  },
  {
   "date": "2026-11-09T09:37:00Z",
