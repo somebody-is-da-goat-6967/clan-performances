@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-10T09:32:37Z",
+ "updatedAt": "2026-11-10T09:48:03Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 43,
+   "members": 42,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 244,
@@ -31,7 +31,7 @@
   {
    "tag": "#2R0R982RC",
    "name": "Band of Reapers",
-   "members": 14,
+   "members": 15,
    "level": 9,
    "warLeague": "Master League I",
    "warWins": 0,
@@ -42,7 +42,7 @@
    "name": "Syndicate",
    "members": 29,
    "level": 19,
-   "warLeague": "Master League II",
+   "warLeague": "Master League I",
    "warWins": 218,
    "isWarLogPublic": true
   },
