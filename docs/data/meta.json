@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T14:03:03Z",
+ "updatedAt": "2026-11-10T14:17:37Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -45,6 +45,15 @@
    "warLeague": "Master League I",
    "warWins": 218,
    "isWarLogPublic": true
+  },
+  {
+   "tag": "#2J900Y9V0",
+   "name": "Freaker Crew",
+   "members": 9,
+   "level": 6,
+   "warLeague": "Crystal League III",
+   "warWins": 0,
+   "isWarLogPublic": true
   }
  ],
  "errors": [
@@ -55,12 +64,6 @@
   "500 unknownException on /leaguegroup/%238CLVVPV/1790571600",
   "500 unknownException on /leaguegroup/%238CV0LC8/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
-  "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "520  on /players/%23200J2PCPL",
-  "520  on /players/%2320VYLVL2Q",
-  "520  on /players/%2322U2R0JQJ",
-  "520  on /players/%232VCUV90J8",
-  "525  on /clans/%232J900Y9V0",
-  "525  on /players/%238CGJ92R28"
+  "500 unknownException on /leaguegroup/%238GQPC2C/1792990800"
  ]
 }
