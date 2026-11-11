@@ -201,6 +201,61 @@ def crawl_members(api, clan_tags, players_db, errors):
     return clans_meta, fresh
 
 
+def crawl_loot(api, players_db, loot_store, errors):
+    """Keep a rolling month of observed attack loot from each player's battlelog."""
+    cutoff = datetime.now(timezone.utc).timestamp() - 32 * 86400
+
+    def fetch(tag):
+        try:
+            data = api.get(f"/players/{enc(tag)}/battlelog")
+            return tag, (data or {}).get("items", [])
+        except ApiError as e:
+            errors.append(str(e))
+            return tag, []
+
+    active_tags = sorted(tag for tag, player in players_db.items() if player.get("status") == "in clan")
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        for tag, items in ex.map(fetch, active_tags):
+            old = loot_store.setdefault(tag, {})
+            for item in items:
+                if not item.get("attack"):
+                    continue
+                stamp = item.get("battleTimestamp", "")
+                try:
+                    when = datetime.strptime(stamp[:15], "%Y%m%dT%H%M%S").replace(tzinfo=timezone.utc)
+                except ValueError:
+                    continue
+                if when.timestamp() < cutoff:
+                    continue
+                amounts = {r.get("name"): r.get("amount", 0) for r in item.get("lootedResources", [])}
+                key = f"{stamp}:{item.get('opponentPlayerTag', '')}"
+                old[key] = {
+                    "time": when.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                    "gold": amounts.get("Gold", 0),
+                    "elixir": amounts.get("Elixir", 0),
+                    "darkElixir": amounts.get("DarkElixir", 0),
+                }
+            loot_store[tag] = {k: v for k, v in old.items() if _iso_timestamp(v.get("time")) >= cutoff}
+
+
+def _iso_timestamp(value):
+    try:
+        return datetime.strptime(value, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc).timestamp()
+    except (TypeError, ValueError):
+        return 0
+
+
+def loot_rows(loot_store, players_db):
+    rows = []
+    for tag, entries in loot_store.items():
+        player = players_db.get(tag, {})
+        rows.append({
+            "tag": tag, "name": player.get("name", ""), "clan": player.get("clan", ""),
+            "th": player.get("th"), "entries": list(entries.values()),
+        })
+    return th_sort(rows, "th", "name")
+
+
 # ----------------------------------------------------------------------- ranked
 def season_start(season_id):
     """Season ids are epoch seconds of the season start."""
@@ -460,6 +515,7 @@ def run(api, clan_tags, out_dir, state_path):
 
     crawl_ranked(api, fresh, state.setdefault("ranked", {}), errors, out_dir / "ranked_sample.json")
     crawl_wars(api, clan_tags, state, errors)
+    crawl_loot(api, players_db, state.setdefault("loot", {}), errors)
 
     members = th_sort(list(players_db.values()), "th", "trophies")
     wars = war_rows({k: v for k, v in state["wars"].items()}, players_db)
@@ -471,6 +527,7 @@ def run(api, clan_tags, out_dir, state_path):
     save(out_dir / "cwl.json", cwl)
     save(out_dir / "war_summary.json", war_summary(wars))
     save(out_dir / "cwl_summary.json", war_summary(cwl))
+    save(out_dir / "loot.json", loot_rows(state["loot"], players_db))
     save(out_dir / "meta.json", {"updatedAt": now_iso(), "clans": clans_meta, "errors": sorted(set(errors))[:50]})
     save(state_path, state)
     return errors

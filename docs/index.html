@@ -52,19 +52,29 @@
   <span class="grp" id="lbCtl">
     <label>Mode
       <select id="mode">
+        <option value="all">All</option>
         <option value="ranked">Ranked</option>
         <option value="war">War</option>
         <option value="cwl">CWL</option>
+        <option value="loot">Loot</option>
       </select>
     </label>
     <label>Rank by
       <select id="metric">
+        <option value="total">All stars</option>
         <option value="avg">Avg ★ per attack</option>
         <option value="stars">Total ★</option>
         <option value="three">3★ rate</option>
         <option value="destr">Avg destruction %</option>
         <option value="n">Total attacks</option>
+        <option value="gold">Gold looted</option>
+        <option value="elixir">Elixir looted</option>
+        <option value="darkElixir">Dark elixir looted</option>
+        <option value="lootTotal">Total loot</option>
       </select>
+    </label>
+    <label id="lootWindowLabel" style="display:none">Period
+      <select id="lootWindow"><option value="3600000">1 hour</option><option value="86400000">1 day</option><option value="604800000">7 days</option><option value="2592000000">1 month</option></select>
     </label>
     <label>Min attacks <input id="minAtt" type="number" min="0" step="1" value="10"></label>
   </span>
@@ -107,22 +117,25 @@ const col = (key, label, o = {}) => ({ key, label, ...o });
 const TH = col("th", "TH", { num: 1, html: R.th });
 const NAME = col("name", "Player", { html: R.name });
 const CLAN = col("clan", "Clan");
+const LEAGUE = col("league", "League", { html: R.league });
 
 // ---- leaderboard settings
-const MODES = { ranked: "Ranked", war: "War", cwl: "CWL" };
-const MIN_DEFAULT = { ranked: 10, war: 4, cwl: 3 };
-const METRIC_KEY = { avg: "avg", stars: "stars", three: "threePct", destr: "destr", n: "n" };
-const METRIC_LABEL = { avg: "average stars per attack", stars: "total stars", three: "3-star rate", destr: "average destruction", n: "total attacks" };
+const MODES = { all: "All", ranked: "Ranked", war: "War", cwl: "CWL", loot: "Loot" };
+const MIN_DEFAULT = { all: 0, ranked: 10, war: 4, cwl: 3, loot: 0 };
+const METRIC_KEY = { total: "totalStars", avg: "avg", stars: "stars", three: "threePct", destr: "destr", n: "n", gold: "gold", elixir: "elixir", darkElixir: "darkElixir", lootTotal: "lootTotal" };
+const METRIC_LABEL = { total: "total stars across Ranked, War and CWL", avg: "average stars per attack", stars: "total stars", three: "3-star rate", destr: "average destruction", n: "total attacks", gold: "gold looted", elixir: "elixir looted", darkElixir: "dark elixir looted", lootTotal: "total loot" };
 
 const TABS = {
   leaderboard: { label: "Leaderboard",
-    cols: () => [col("rank", "#", { num: 1, asc: 1, html: R.pos }), TH, NAME, CLAN,
+    cols: () => [col("rank", "#", { num: 1, asc: 1, html: R.pos }), TH, NAME, CLAN, LEAGUE,
       col("n", "Attacks", { num: 1 }), col("stars", "Total ★", { num: 1 }), col("avg", "Avg ★", { num: 1, html: R.n2 }),
       col("threePct", "3★ rate", { num: 1, html: R.pct }), col("destr", "Destr %", { num: 1, html: R.n1 })]
-      .concat($("mode").value === "ranked" ? [] : [col("missed", "Missed", { num: 1 })]),
-    note: () => `${MODES[$("mode").value]} players ranked by ${METRIC_LABEL[$("metric").value]}. Averages use logged attacks; players under the minimum attacks are hidden. ` +
+      .concat($("mode").value === "loot" ? [col("gold", "Gold", { num: 1 }), col("elixir", "Elixir", { num: 1 }), col("darkElixir", "Dark elixir", { num: 1 }), col("lootTotal", "Total loot", { num: 1 })] : [])
+      .concat(["ranked", "loot"].includes($("mode").value) ? [] : [col("missed", "Missed", { num: 1 })]),
+    note: () => $("mode").value === "loot" ? `Attack loot in the last ${$("lootWindow").selectedOptions[0].text}. Only gold, elixir and dark elixir are counted. Data is collected every crawl; older history depends on when tracking began.` :
+      `${MODES[$("mode").value]} players ranked by ${METRIC_LABEL[$("metric").value]}. Averages use logged attacks; players under the minimum attacks are hidden. ` +
       `Filter by Town Hall to compare like with like. Clan shown is the player's current clan.` +
-      ($("mode").value === "ranked" ? " Season: pick one week or all stored weeks." : " Only wars that have ended and been recorded count.") },
+      ($("mode").value === "ranked" ? " Season: pick one week or all stored weeks." : " All combines Ranked, War and CWL attacks. Only wars that have ended and been recorded count.") },
   members: { label: "Members", file: "members.json",
     note: "Every player the tracker has ever stored, wherever they are now. Sorted by Town Hall, high to low.",
     cols: [TH, NAME, col("clan", "Clan"), col("league", "League", { html: R.league }),
@@ -136,27 +149,28 @@ const TABS = {
            col("attackAvgDestruction", "Destr %", { num: 1, html: R.n1 })] },
   war_summary: { label: "War summary", file: "war_summary.json", player: true, currentTH: true,
     note: "Totals across regular wars that have ended since tracking began.",
-    cols: [TH, NAME, CLAN, col("wars", "Wars", { num: 1 }), col("attacksUsed", "Attacks", { num: 1 }),
+    cols: [TH, NAME, CLAN, LEAGUE, col("wars", "Wars", { num: 1 }), col("attacksUsed", "Attacks", { num: 1 }),
            col("missed", "Missed", { num: 1 }), col("stars", "Total ★", { num: 1 }),
            col("avgStarsPerAttack", "Avg ★", { num: 1, html: R.n2 }), col("threeStars", "3★", { num: 1 }),
            col("avgDestruction", "Destr %", { num: 1, html: R.n1 })] },
   wars: { label: "Wars", file: "wars.json",
     note: "One row per player per regular war. Sorted by Town Hall, then newest war.",
-    cols: [TH, NAME, CLAN, col("date", "War", { html: R.date }), col("opponent", "Opponent"),
+    cols: [TH, NAME, CLAN, LEAGUE, col("date", "War", { html: R.date }), col("opponent", "Opponent"),
            col("result", "Result", { html: R.result }), col("attacksUsed", "Atk", { num: 1, html: R.used }),
            col("stars", "★", { num: 1 }), col("avgDestruction", "Destr %", { num: 1, html: R.n1 }), col("attackDetail", "Attacks")] },
   cwl_summary: { label: "CWL summary", file: "cwl_summary.json", player: true, currentTH: true,
     note: "Totals across Clan War League days that have ended since tracking began.",
-    cols: [TH, NAME, CLAN, col("wars", "Days", { num: 1 }), col("attacksUsed", "Attacks", { num: 1 }),
+    cols: [TH, NAME, CLAN, LEAGUE, col("wars", "Days", { num: 1 }), col("attacksUsed", "Attacks", { num: 1 }),
            col("missed", "Missed", { num: 1 }), col("stars", "Total ★", { num: 1 }),
            col("avgStarsPerAttack", "Avg ★", { num: 1, html: R.n2 }), col("threeStars", "3★", { num: 1 }),
            col("avgDestruction", "Destr %", { num: 1, html: R.n1 })] },
   cwl: { label: "CWL", file: "cwl.json",
     note: "One row per player per CWL day. Sorted by Town Hall, then newest war.",
-    cols: [TH, NAME, CLAN, col("season", "Season"), col("date", "Day", { html: R.date }), col("opponent", "Opponent"),
+    cols: [TH, NAME, CLAN, LEAGUE, col("season", "Season"), col("date", "Day", { html: R.date }), col("opponent", "Opponent"),
            col("result", "Result", { html: R.result }), col("attacksUsed", "Atk", { num: 1, html: R.used }),
            col("stars", "★", { num: 1 }), col("avgDestruction", "Destr %", { num: 1, html: R.n1 }), col("attackDetail", "Attack")] },
 };
+for (const [id, t] of Object.entries(TABS)) if (t.cols && id !== "leaderboard") t.cols = [col("rowRank", "#", { num: 1, asc: 1 }), ...t.cols];
 const colsFor = t => typeof t.cols === "function" ? t.cols() : t.cols;
 
 const state = { tab: "leaderboard", data: {}, sortKey: "rank", sortDir: 1 };
@@ -179,7 +193,7 @@ function prep() {
       const p = dir.get(x.tag);
       x.inClan = p ? p.status === "in clan" : undefined;
       if (!p || id === "members" || !t.player) return;
-      x.clan = p.clan; x.name = p.name;
+      x.clan = p.clan; x.name = p.name; x.league = p.league; x.leagueIcon = p.leagueIcon;
       if (t.currentTH) x.th = p.th;
     });
   }
@@ -187,8 +201,9 @@ function prep() {
 
 async function init() {
   const files = Object.entries(TABS).filter(([, t]) => t.file);
-  const [meta, ...datas] = await Promise.all([getJSON("meta.json", {}), ...files.map(([, t]) => getJSON(t.file, []))]);
+  const [meta, ...datas] = await Promise.all([getJSON("meta.json", {}), ...files.map(([, t]) => getJSON(t.file, [])), getJSON("loot.json", [])]);
   files.forEach(([id], i) => state.data[id] = datas[i]);
+  state.data.loot = datas[files.length];
   prep();
 
   const clans = meta.clans || [];
@@ -209,7 +224,7 @@ async function init() {
     b.onclick = () => selectTab(id);
     $("tabs").append(b);
   });
-  ["q", "clan", "th", "season", "minAtt"].forEach(id => $(id).addEventListener("input", render));
+  ["q", "clan", "th", "season", "minAtt", "lootWindow"].forEach(id => $(id).addEventListener("input", render));
   $("mode").addEventListener("input", () => { $("minAtt").value = MIN_DEFAULT[$("mode").value]; resetSort(); updateControls(); render(); });
   $("metric").addEventListener("input", () => { resetSort(); render(); });
   $("csv").onclick = downloadCSV;
@@ -225,6 +240,11 @@ function updateControls() {
   const lb = state.tab === "leaderboard";
   $("lbCtl").style.display = lb ? "" : "none";
   $("season").style.display = (state.tab === "ranked" || (lb && $("mode").value === "ranked")) ? "" : "none";
+  $("lootWindowLabel").style.display = lb && $("mode").value === "loot" ? "" : "none";
+  const loot = lb && $("mode").value === "loot";
+  for (const o of $("metric").options) o.hidden = loot ? !["gold", "elixir", "darkElixir", "lootTotal"].includes(o.value) : ["gold", "elixir", "darkElixir", "lootTotal"].includes(o.value);
+  if (loot && !["gold", "elixir", "darkElixir", "lootTotal"].includes($("metric").value)) $("metric").value = "lootTotal";
+  if (!loot && ["gold", "elixir", "darkElixir", "lootTotal"].includes($("metric").value)) $("metric").value = "total";
   const t = TABS[state.tab];
   $("note").textContent = typeof t.note === "function" ? t.note() : t.note;
 }
@@ -258,22 +278,45 @@ function lbBase() {
     s.n += n; s.stars += stars; s.three += three; s.missed += missed;
     if (destr != null && n) { s.dsum += destr * n; s.dn += n; }
   };
-  if (mode === "ranked") {
+  if (mode === "loot") {
+    const minTime = Date.now() - Number($("lootWindow").value);
+    (state.data.loot || []).forEach(r => {
+      const s = { fb: r, gold: 0, elixir: 0, darkElixir: 0 };
+      (r.entries || []).forEach(e => {
+        if (Date.parse(e.time) < minTime) return;
+        s.gold += e.gold || 0; s.elixir += e.elixir || 0; s.darkElixir += e.darkElixir || 0;
+      });
+      agg.set(r.tag, s);
+    });
+    return [...agg.values()].map(s => {
+      const p = dir.get(s.fb.tag) || {};
+      return { tag: s.fb.tag, name: p.name || s.fb.name, th: p.th ?? s.fb.th, clan: p.clan ?? s.fb.clan,
+        league: p.league, leagueIcon: p.leagueIcon,
+        inClan: p.status ? p.status === "in clan" : undefined, n: 0, stars: 0, avg: null, threePct: null, destr: null,
+        gold: s.gold, elixir: s.elixir, darkElixir: s.darkElixir, lootTotal: s.gold + s.elixir + s.darkElixir };
+    });
+  }
+  if (mode === "ranked" || mode === "all") {
     const sid = $("season").value;
     (state.data.ranked || []).forEach(r => {
-      if (sid && r.seasonId !== sid) return;
+      if (mode === "ranked" && sid && r.seasonId !== sid) return;
       add(r, r.attacksLogged ?? r.attacks ?? 0, r.attackStars || 0, r.attackThreeStars || 0, r.attackAvgDestruction, 0);
     });
-  } else {
-    (state.data[mode === "war" ? "war_summary" : "cwl_summary"] || []).forEach(r =>
+  }
+  if (mode === "war" || mode === "all") {
+    (state.data.war_summary || []).forEach(r =>
       add(r, r.attacksUsed || 0, r.stars || 0, r.threeStars || 0, r.avgDestruction, r.missed || 0));
   }
+  if (mode === "cwl" || mode === "all") (state.data.cwl_summary || []).forEach(r =>
+    add(r, r.attacksUsed || 0, r.stars || 0, r.threeStars || 0, r.avgDestruction, r.missed || 0));
   return [...agg.values()].map(s => {
     const p = dir.get(s.fb.tag) || {};
     return {
       tag: s.fb.tag, name: p.name || s.fb.name, th: p.th ?? s.fb.th, clan: p.clan ?? s.fb.clan,
+      league: p.league, leagueIcon: p.leagueIcon,
       inClan: p.status ? p.status === "in clan" : undefined,
       n: s.n, stars: s.stars, avg: s.n ? s.stars / s.n : null,
+      totalStars: s.stars,
       threePct: s.n ? 100 * s.three / s.n : null, destr: s.dn ? s.dsum / s.dn : null, missed: s.missed,
     };
   });
@@ -300,7 +343,7 @@ function rows() {
   if (q) r = r.filter(x => (x.name || "").toLowerCase().includes(q) || (x.tag || "").toLowerCase().includes(q));
   if (id === "leaderboard") r = lbRank(r);
   const k = state.sortKey, d = state.sortDir;
-  return [...r].sort((a, b) => {
+  const sorted = [...r].sort((a, b) => {
     const x = a[k], y = b[k];
     if (x == null && y == null) return 0;
     if (x == null) return 1;
@@ -309,6 +352,8 @@ function rows() {
     if (c === 0 && k !== "th") c = (a.th || 0) - (b.th || 0);
     return c * d;
   });
+  sorted.forEach((x, i) => { if (id !== "leaderboard") x.rowRank = i + 1; });
+  return sorted;
 }
 
 function render() {
