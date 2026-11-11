@@ -5673,6 +5673,13 @@
     "elixir": 124027,
     "darkElixir": 3605,
     "battleTime": 56
+   },
+   {
+    "time": "2026-11-11T05:33:00Z",
+    "gold": 41394,
+    "elixir": 955906,
+    "darkElixir": 5783,
+    "battleTime": 57
    }
   ]
  },
@@ -13445,6 +13452,20 @@
     "elixir": 1109120,
     "darkElixir": 17770,
     "battleTime": 68
+   },
+   {
+    "time": "2026-11-11T05:45:39Z",
+    "gold": 829205,
+    "elixir": 880478,
+    "darkElixir": 12522,
+    "battleTime": 104
+   },
+   {
+    "time": "2026-11-11T05:47:25Z",
+    "gold": 862018,
+    "elixir": 831208,
+    "darkElixir": 7924,
+    "battleTime": 72
    }
   ]
  },
@@ -13621,7 +13642,7 @@
  {
   "tag": "#GJPG0P08C",
   "name": "Bondokk",
-  "clan": "Freaker Crew",
+  "clan": "Reaper Two",
   "th": 13,
   "entries": [
    {
@@ -13756,6 +13777,20 @@
     "elixir": 2017799,
     "darkElixir": 21825,
     "battleTime": 39
+   },
+   {
+    "time": "2026-11-11T05:41:24Z",
+    "gold": 1864732,
+    "elixir": 1638372,
+    "darkElixir": 16708,
+    "battleTime": 142
+   },
+   {
+    "time": "2026-11-11T05:43:04Z",
+    "gold": 1252786,
+    "elixir": 1308896,
+    "darkElixir": 11074,
+    "battleTime": 63
    }
   ]
  },
