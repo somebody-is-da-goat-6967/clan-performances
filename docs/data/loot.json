@@ -815,6 +815,62 @@
     "elixir": 667846,
     "darkElixir": 10767,
     "battleTime": 28
+   },
+   {
+    "time": "2026-11-11T03:38:44Z",
+    "gold": 0,
+    "elixir": 1262805,
+    "darkElixir": 8883,
+    "battleTime": 29
+   },
+   {
+    "time": "2026-11-11T03:39:46Z",
+    "gold": 386285,
+    "elixir": 333149,
+    "darkElixir": 15804,
+    "battleTime": 31
+   },
+   {
+    "time": "2026-11-11T03:40:59Z",
+    "gold": 146305,
+    "elixir": 164970,
+    "darkElixir": 13994,
+    "battleTime": 29
+   },
+   {
+    "time": "2026-11-11T03:42:01Z",
+    "gold": 612288,
+    "elixir": 669945,
+    "darkElixir": 15684,
+    "battleTime": 18
+   },
+   {
+    "time": "2026-11-11T03:42:39Z",
+    "gold": 119212,
+    "elixir": 14488,
+    "darkElixir": 12663,
+    "battleTime": 16
+   },
+   {
+    "time": "2026-11-11T03:43:34Z",
+    "gold": 409524,
+    "elixir": 226996,
+    "darkElixir": 16552,
+    "battleTime": 37
+   },
+   {
+    "time": "2026-11-11T03:44:32Z",
+    "gold": 533822,
+    "elixir": 2015140,
+    "darkElixir": 17048,
+    "battleTime": 36
+   },
+   {
+    "time": "2026-11-11T03:45:07Z",
+    "gold": 121446,
+    "elixir": 942826,
+    "darkElixir": 11060,
+    "battleTime": 10
    }
   ]
  },
@@ -9905,6 +9961,13 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 122
+   },
+   {
+    "time": "2026-11-11T03:44:14Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 115
    }
   ]
  },
@@ -12229,6 +12292,27 @@
     "gold": 609897,
     "elixir": 1023000,
     "darkElixir": 10300,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-11T03:33:20Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 152
+   },
+   {
+    "time": "2026-11-11T03:36:36Z",
+    "gold": 820484,
+    "elixir": 979302,
+    "darkElixir": 10300,
+    "battleTime": 130
+   },
+   {
+    "time": "2026-11-11T03:40:58Z",
+    "gold": 613800,
+    "elixir": 818400,
+    "darkElixir": 8240,
     "battleTime": 180
    }
   ]
