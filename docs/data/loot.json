@@ -3454,6 +3454,20 @@
     "elixir": 353603,
     "darkElixir": 5817,
     "battleTime": 23
+   },
+   {
+    "time": "2026-11-11T09:17:56Z",
+    "gold": 362387,
+    "elixir": 302009,
+    "darkElixir": 15263,
+    "battleTime": 21
+   },
+   {
+    "time": "2026-11-11T09:18:52Z",
+    "gold": 381915,
+    "elixir": 434262,
+    "darkElixir": 15400,
+    "battleTime": 28
    }
   ]
  },
@@ -4574,7 +4588,7 @@
  {
   "tag": "#2G2R2RUL",
   "name": "Maxim",
-  "clan": "",
+  "clan": "3 Star in SUN",
   "th": 18,
   "entries": [
    {
@@ -9632,7 +9646,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "سلطان",
+  "clan": "Arg slang hokii",
   "th": 17,
   "entries": [
    {
@@ -15531,6 +15545,62 @@
     "elixir": 1008007,
     "darkElixir": 10404,
     "battleTime": 16
+   },
+   {
+    "time": "2026-11-11T09:27:05Z",
+    "gold": 1429322,
+    "elixir": 1893532,
+    "darkElixir": 5248,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-11T09:27:28Z",
+    "gold": 310013,
+    "elixir": 317513,
+    "darkElixir": 4944,
+    "battleTime": 8
+   },
+   {
+    "time": "2026-11-11T09:27:53Z",
+    "gold": 680344,
+    "elixir": 532772,
+    "darkElixir": 4984,
+    "battleTime": 10
+   },
+   {
+    "time": "2026-11-11T09:29:21Z",
+    "gold": 1211826,
+    "elixir": 1118991,
+    "darkElixir": 12189,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-11T09:30:02Z",
+    "gold": 839486,
+    "elixir": 868912,
+    "darkElixir": 7945,
+    "battleTime": 7
+   },
+   {
+    "time": "2026-11-11T09:30:31Z",
+    "gold": 884899,
+    "elixir": 797547,
+    "darkElixir": 2706,
+    "battleTime": 9
+   },
+   {
+    "time": "2026-11-11T09:31:14Z",
+    "gold": 1039625,
+    "elixir": 1413729,
+    "darkElixir": 12128,
+    "battleTime": 10
+   },
+   {
+    "time": "2026-11-11T09:31:38Z",
+    "gold": 941633,
+    "elixir": 1013508,
+    "darkElixir": 12540,
+    "battleTime": 6
    }
   ]
  },
