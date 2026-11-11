@@ -3222,6 +3222,62 @@
     "elixir": 179284,
     "darkElixir": 10238,
     "battleTime": 43
+   },
+   {
+    "time": "2026-11-11T08:53:05Z",
+    "gold": 46957,
+    "elixir": 134177,
+    "darkElixir": 10323,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-11T08:54:23Z",
+    "gold": 854589,
+    "elixir": 733371,
+    "darkElixir": 18929,
+    "battleTime": 37
+   },
+   {
+    "time": "2026-11-11T08:55:32Z",
+    "gold": 23385,
+    "elixir": 14684,
+    "darkElixir": 11521,
+    "battleTime": 32
+   },
+   {
+    "time": "2026-11-11T08:56:09Z",
+    "gold": 236530,
+    "elixir": 187494,
+    "darkElixir": 6759,
+    "battleTime": 21
+   },
+   {
+    "time": "2026-11-11T08:56:59Z",
+    "gold": 733934,
+    "elixir": 759382,
+    "darkElixir": 9263,
+    "battleTime": 37
+   },
+   {
+    "time": "2026-11-11T08:58:02Z",
+    "gold": 2086196,
+    "elixir": 1945812,
+    "darkElixir": 10811,
+    "battleTime": 36
+   },
+   {
+    "time": "2026-11-11T08:59:50Z",
+    "gold": 2204802,
+    "elixir": 1288154,
+    "darkElixir": 14111,
+    "battleTime": 38
+   },
+   {
+    "time": "2026-11-11T09:01:22Z",
+    "gold": 80633,
+    "elixir": 36314,
+    "darkElixir": 7440,
+    "battleTime": 28
    }
   ]
  },
@@ -4231,6 +4287,34 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 140
+   },
+   {
+    "time": "2026-11-11T08:47:35Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 155
+   },
+   {
+    "time": "2026-11-11T08:51:41Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 140
+   },
+   {
+    "time": "2026-11-11T08:55:17Z",
+    "gold": 750590,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 159
+   },
+   {
+    "time": "2026-11-11T08:59:14Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 4915,
+    "battleTime": 163
    }
   ]
  },
@@ -7325,6 +7409,20 @@
     "elixir": 1335190,
     "darkElixir": 11035,
     "battleTime": 32
+   },
+   {
+    "time": "2026-11-11T09:00:31Z",
+    "gold": 941157,
+    "elixir": 876068,
+    "darkElixir": 12559,
+    "battleTime": 37
+   },
+   {
+    "time": "2026-11-11T09:01:20Z",
+    "gold": 887513,
+    "elixir": 2439200,
+    "darkElixir": 17623,
+    "battleTime": 39
    }
   ]
  },
@@ -13499,7 +13597,7 @@
  {
   "tag": "#GJVQPR8UG",
   "name": "Mia",
-  "clan": "Syndicate",
+  "clan": "تپه",
   "th": 15,
   "entries": [
    {
@@ -15230,6 +15328,13 @@
     "elixir": 1823142,
     "darkElixir": 13113,
     "battleTime": 25
+   },
+   {
+    "time": "2026-11-11T09:00:47Z",
+    "gold": 995140,
+    "elixir": 971657,
+    "darkElixir": 5436,
+    "battleTime": 16
    }
   ]
  },
