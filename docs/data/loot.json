@@ -568,6 +568,41 @@
     "elixir": 1035000,
     "darkElixir": 10082,
     "battleTime": 180
+   },
+   {
+    "time": "2026-11-11T11:48:03Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 145
+   },
+   {
+    "time": "2026-11-11T11:51:14Z",
+    "gold": 828000,
+    "elixir": 777453,
+    "darkElixir": 8280,
+    "battleTime": 177
+   },
+   {
+    "time": "2026-11-11T11:54:44Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 169
+   },
+   {
+    "time": "2026-11-11T11:57:58Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 161
+   },
+   {
+    "time": "2026-11-11T12:01:23Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 163
    }
   ]
  },
@@ -5144,6 +5179,13 @@
     "elixir": 564245,
     "darkElixir": 7524,
     "battleTime": 151
+   },
+   {
+    "time": "2026-11-11T11:52:14Z",
+    "gold": 948865,
+    "elixir": 1106991,
+    "darkElixir": 22393,
+    "battleTime": 105
    }
   ]
  },
@@ -9356,6 +9398,13 @@
     "elixir": 1350248,
     "darkElixir": 13400,
     "battleTime": 116
+   },
+   {
+    "time": "2026-11-11T12:00:39Z",
+    "gold": 2174624,
+    "elixir": 2052268,
+    "darkElixir": 12645,
+    "battleTime": 114
    }
   ]
  },
@@ -15575,6 +15624,34 @@
     "elixir": 963471,
     "darkElixir": 12836,
     "battleTime": 180
+   },
+   {
+    "time": "2026-11-11T11:49:15Z",
+    "gold": 832660,
+    "elixir": 639978,
+    "darkElixir": 11737,
+    "battleTime": 133
+   },
+   {
+    "time": "2026-11-11T11:50:59Z",
+    "gold": 113851,
+    "elixir": 35342,
+    "darkElixir": 10003,
+    "battleTime": 52
+   },
+   {
+    "time": "2026-11-11T11:53:53Z",
+    "gold": 988348,
+    "elixir": 1070662,
+    "darkElixir": 11307,
+    "battleTime": 106
+   },
+   {
+    "time": "2026-11-11T11:56:32Z",
+    "gold": 582653,
+    "elixir": 590983,
+    "darkElixir": 5466,
+    "battleTime": 91
    }
   ]
  },
@@ -16854,6 +16931,62 @@
     "elixir": 1081984,
     "darkElixir": 6586,
     "battleTime": 35
+   },
+   {
+    "time": "2026-11-11T11:56:47Z",
+    "gold": 984191,
+    "elixir": 1117618,
+    "darkElixir": 3444,
+    "battleTime": 8
+   },
+   {
+    "time": "2026-11-11T11:57:59Z",
+    "gold": 864006,
+    "elixir": 1691461,
+    "darkElixir": 7262,
+    "battleTime": 11
+   },
+   {
+    "time": "2026-11-11T11:58:26Z",
+    "gold": 1738510,
+    "elixir": 1610361,
+    "darkElixir": 0,
+    "battleTime": 11
+   },
+   {
+    "time": "2026-11-11T11:59:26Z",
+    "gold": 757405,
+    "elixir": 807792,
+    "darkElixir": 387,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-11T12:00:40Z",
+    "gold": 926687,
+    "elixir": 661843,
+    "darkElixir": 9720,
+    "battleTime": 23
+   },
+   {
+    "time": "2026-11-11T12:01:05Z",
+    "gold": 945305,
+    "elixir": 846962,
+    "darkElixir": 10613,
+    "battleTime": 10
+   },
+   {
+    "time": "2026-11-11T12:01:41Z",
+    "gold": 1288502,
+    "elixir": 959479,
+    "darkElixir": 8245,
+    "battleTime": 17
+   },
+   {
+    "time": "2026-11-11T12:02:11Z",
+    "gold": 691767,
+    "elixir": 893462,
+    "darkElixir": 0,
+    "battleTime": 15
    }
   ]
  },
