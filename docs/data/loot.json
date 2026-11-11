@@ -6006,6 +6006,27 @@
     "elixir": 673581,
     "darkElixir": 7954,
     "battleTime": 19
+   },
+   {
+    "time": "2026-11-11T18:38:28Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 133
+   },
+   {
+    "time": "2026-11-11T18:41:30Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 134
+   },
+   {
+    "time": "2026-11-11T18:45:26Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 111
    }
   ]
  },
@@ -7453,7 +7474,7 @@
  {
   "tag": "#8PPRV9RP",
   "name": "Rana",
-  "clan": "Reaper Crew",
+  "clan": "SQUAD SARAWAK",
   "th": 18,
   "entries": [
    {
@@ -9663,6 +9684,27 @@
     "elixir": 652054,
     "darkElixir": 14150,
     "battleTime": 32
+   },
+   {
+    "time": "2026-11-11T18:33:49Z",
+    "gold": 179622,
+    "elixir": 249777,
+    "darkElixir": 7464,
+    "battleTime": 6
+   },
+   {
+    "time": "2026-11-11T18:34:19Z",
+    "gold": 174589,
+    "elixir": 224799,
+    "darkElixir": 6070,
+    "battleTime": 21
+   },
+   {
+    "time": "2026-11-11T18:35:40Z",
+    "gold": 167048,
+    "elixir": 182411,
+    "darkElixir": 4809,
+    "battleTime": 180
    }
   ]
  },
@@ -11857,6 +11899,20 @@
     "elixir": 1868612,
     "darkElixir": 16873,
     "battleTime": 105
+   },
+   {
+    "time": "2026-11-11T18:35:05Z",
+    "gold": 1424396,
+    "elixir": 1708744,
+    "darkElixir": 10317,
+    "battleTime": 103
+   },
+   {
+    "time": "2026-11-11T18:42:40Z",
+    "gold": 1048335,
+    "elixir": 880337,
+    "darkElixir": 28675,
+    "battleTime": 147
    }
   ]
  },
