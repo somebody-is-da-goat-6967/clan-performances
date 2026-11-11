@@ -253,7 +253,8 @@ def loot_rows(loot_store, players_db):
             "tag": tag, "name": player.get("name", ""), "clan": player.get("clan", ""),
             "th": player.get("th"), "entries": list(entries.values()),
         })
-    return th_sort(rows, "th", "name")
+    rows.sort(key=lambda r: (-(r.get("th") or 0), (r.get("name") or "").lower()))
+    return rows
 
 
 # ----------------------------------------------------------------------- ranked
