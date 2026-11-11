@@ -1382,6 +1382,20 @@
     "elixir": 331902,
     "darkElixir": 16757,
     "battleTime": 43
+   },
+   {
+    "time": "2026-11-11T22:46:29Z",
+    "gold": 674069,
+    "elixir": 527380,
+    "darkElixir": 20470,
+    "battleTime": 23
+   },
+   {
+    "time": "2026-11-11T22:47:25Z",
+    "gold": 541381,
+    "elixir": 218701,
+    "darkElixir": 20319,
+    "battleTime": 30
    }
   ]
  },
@@ -1991,7 +2005,7 @@
  {
   "tag": "#28R82CJQ9",
   "name": "ASL",
-  "clan": "Reaper Crew",
+  "clan": "3 Star in SUN",
   "th": 18,
   "entries": [
    {
@@ -2778,6 +2792,62 @@
     "elixir": 556659,
     "darkElixir": 11284,
     "battleTime": 16
+   },
+   {
+    "time": "2026-11-11T22:55:45Z",
+    "gold": 12210,
+    "elixir": 0,
+    "darkElixir": 8229,
+    "battleTime": 5
+   },
+   {
+    "time": "2026-11-11T22:56:23Z",
+    "gold": 66788,
+    "elixir": 4880,
+    "darkElixir": 11738,
+    "battleTime": 22
+   },
+   {
+    "time": "2026-11-11T22:57:45Z",
+    "gold": 2234236,
+    "elixir": 2111217,
+    "darkElixir": 16047,
+    "battleTime": 53
+   },
+   {
+    "time": "2026-11-11T22:58:41Z",
+    "gold": 211822,
+    "elixir": 167276,
+    "darkElixir": 15225,
+    "battleTime": 30
+   },
+   {
+    "time": "2026-11-11T22:59:25Z",
+    "gold": 150331,
+    "elixir": 30355,
+    "darkElixir": 7956,
+    "battleTime": 22
+   },
+   {
+    "time": "2026-11-11T23:00:03Z",
+    "gold": 69760,
+    "elixir": 376356,
+    "darkElixir": 16300,
+    "battleTime": 20
+   },
+   {
+    "time": "2026-11-11T23:01:02Z",
+    "gold": 354087,
+    "elixir": 388267,
+    "darkElixir": 11219,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-11T23:02:05Z",
+    "gold": 768878,
+    "elixir": 799829,
+    "darkElixir": 10192,
+    "battleTime": 17
    }
   ]
  },
