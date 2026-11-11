@@ -5631,6 +5631,55 @@
     "elixir": 1180798,
     "darkElixir": 1681,
     "battleTime": 64
+   },
+   {
+    "time": "2026-11-11T09:48:35Z",
+    "gold": 596649,
+    "elixir": 605388,
+    "darkElixir": 8087,
+    "battleTime": 13
+   },
+   {
+    "time": "2026-11-11T09:48:56Z",
+    "gold": 935145,
+    "elixir": 768140,
+    "darkElixir": 8650,
+    "battleTime": 12
+   },
+   {
+    "time": "2026-11-11T09:49:32Z",
+    "gold": 1837032,
+    "elixir": 500092,
+    "darkElixir": 8000,
+    "battleTime": 28
+   },
+   {
+    "time": "2026-11-11T09:49:54Z",
+    "gold": 660427,
+    "elixir": 935674,
+    "darkElixir": 10255,
+    "battleTime": 13
+   },
+   {
+    "time": "2026-11-11T09:50:30Z",
+    "gold": 625155,
+    "elixir": 664556,
+    "darkElixir": 5221,
+    "battleTime": 18
+   },
+   {
+    "time": "2026-11-11T09:50:55Z",
+    "gold": 815195,
+    "elixir": 1102717,
+    "darkElixir": 9510,
+    "battleTime": 16
+   },
+   {
+    "time": "2026-11-11T09:55:22Z",
+    "gold": 538946,
+    "elixir": 899089,
+    "darkElixir": 11032,
+    "battleTime": 180
    }
   ]
  },
@@ -9660,7 +9709,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "Arg slang hokii",
+  "clan": "ميدان الرجال",
   "th": 17,
   "entries": [
    {
@@ -15671,6 +15720,62 @@
     "elixir": 92514,
     "darkElixir": 12429,
     "battleTime": 7
+   },
+   {
+    "time": "2026-11-11T09:55:48Z",
+    "gold": 988032,
+    "elixir": 1105349,
+    "darkElixir": 10680,
+    "battleTime": 7
+   },
+   {
+    "time": "2026-11-11T09:56:27Z",
+    "gold": 989631,
+    "elixir": 989632,
+    "darkElixir": 10155,
+    "battleTime": 10
+   },
+   {
+    "time": "2026-11-11T09:57:41Z",
+    "gold": 1013841,
+    "elixir": 869223,
+    "darkElixir": 6000,
+    "battleTime": 21
+   },
+   {
+    "time": "2026-11-11T09:58:19Z",
+    "gold": 1107350,
+    "elixir": 746686,
+    "darkElixir": 3600,
+    "battleTime": 24
+   },
+   {
+    "time": "2026-11-11T09:59:06Z",
+    "gold": 1209732,
+    "elixir": 962614,
+    "darkElixir": 15891,
+    "battleTime": 27
+   },
+   {
+    "time": "2026-11-11T10:00:14Z",
+    "gold": 719642,
+    "elixir": 767254,
+    "darkElixir": 7585,
+    "battleTime": 30
+   },
+   {
+    "time": "2026-11-11T10:00:42Z",
+    "gold": 1021512,
+    "elixir": 1021676,
+    "darkElixir": 3922,
+    "battleTime": 13
+   },
+   {
+    "time": "2026-11-11T10:01:28Z",
+    "gold": 1329784,
+    "elixir": 1242897,
+    "darkElixir": 7681,
+    "battleTime": 28
    }
   ]
  },
