@@ -4555,6 +4555,27 @@
     "elixir": 1578617,
     "darkElixir": 11143,
     "battleTime": 95
+   },
+   {
+    "time": "2026-11-11T17:47:47Z",
+    "gold": 1052652,
+    "elixir": 1461485,
+    "darkElixir": 18887,
+    "battleTime": 70
+   },
+   {
+    "time": "2026-11-11T17:53:57Z",
+    "gold": 453322,
+    "elixir": 315960,
+    "darkElixir": 12538,
+    "battleTime": 75
+   },
+   {
+    "time": "2026-11-11T18:01:23Z",
+    "gold": 1878137,
+    "elixir": 491014,
+    "darkElixir": 11365,
+    "battleTime": 87
    }
   ]
  },
@@ -7026,6 +7047,34 @@
     "elixir": 1196310,
     "darkElixir": 4536,
     "battleTime": 22
+   },
+   {
+    "time": "2026-11-11T17:51:53Z",
+    "gold": 23558,
+    "elixir": 60368,
+    "darkElixir": 10225,
+    "battleTime": 24
+   },
+   {
+    "time": "2026-11-11T17:52:32Z",
+    "gold": 196076,
+    "elixir": 240672,
+    "darkElixir": 7383,
+    "battleTime": 30
+   },
+   {
+    "time": "2026-11-11T17:53:03Z",
+    "gold": 141023,
+    "elixir": 163996,
+    "darkElixir": 1211,
+    "battleTime": 24
+   },
+   {
+    "time": "2026-11-11T17:53:34Z",
+    "gold": 353313,
+    "elixir": 501798,
+    "darkElixir": 7565,
+    "battleTime": 23
    }
   ]
  },
@@ -7265,6 +7314,70 @@
     "elixir": 730328,
     "darkElixir": 10173,
     "battleTime": 25
+   }
+  ]
+ },
+ {
+  "tag": "#8PPRV9RP",
+  "name": "Rana",
+  "clan": "Reaper Crew",
+  "th": 18,
+  "entries": [
+   {
+    "time": "2026-11-11T11:04:19Z",
+    "gold": 69677,
+    "elixir": 212299,
+    "darkElixir": 9194,
+    "battleTime": 65
+   },
+   {
+    "time": "2026-11-11T13:28:20Z",
+    "gold": 513751,
+    "elixir": 788184,
+    "darkElixir": 17128,
+    "battleTime": 136
+   },
+   {
+    "time": "2026-11-11T13:30:30Z",
+    "gold": 1013290,
+    "elixir": 1304707,
+    "darkElixir": 20603,
+    "battleTime": 106
+   },
+   {
+    "time": "2026-11-11T13:32:44Z",
+    "gold": 494021,
+    "elixir": 335373,
+    "darkElixir": 15800,
+    "battleTime": 99
+   },
+   {
+    "time": "2026-11-11T13:35:24Z",
+    "gold": 526519,
+    "elixir": 1058549,
+    "darkElixir": 16160,
+    "battleTime": 62
+   },
+   {
+    "time": "2026-11-11T16:36:59Z",
+    "gold": 1067519,
+    "elixir": 703708,
+    "darkElixir": 12427,
+    "battleTime": 145
+   },
+   {
+    "time": "2026-11-11T16:40:20Z",
+    "gold": 396062,
+    "elixir": 1398698,
+    "darkElixir": 10542,
+    "battleTime": 112
+   },
+   {
+    "time": "2026-11-11T16:43:36Z",
+    "gold": 636844,
+    "elixir": 339153,
+    "darkElixir": 9246,
+    "battleTime": 151
    }
   ]
  },
@@ -9888,7 +10001,7 @@
  {
   "tag": "#Q8JUGYLQL",
   "name": "XLG⚡️BLACKBEARD",
-  "clan": "Reaper Crew",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -10389,6 +10502,62 @@
     "elixir": 507059,
     "darkElixir": 14362,
     "battleTime": 55
+   },
+   {
+    "time": "2026-11-11T17:56:49Z",
+    "gold": 225035,
+    "elixir": 359085,
+    "darkElixir": 6899,
+    "battleTime": 5
+   },
+   {
+    "time": "2026-11-11T17:57:41Z",
+    "gold": 56213,
+    "elixir": 96295,
+    "darkElixir": 7646,
+    "battleTime": 41
+   },
+   {
+    "time": "2026-11-11T17:58:02Z",
+    "gold": 840724,
+    "elixir": 72668,
+    "darkElixir": 8087,
+    "battleTime": 9
+   },
+   {
+    "time": "2026-11-11T17:58:57Z",
+    "gold": 251243,
+    "elixir": 53774,
+    "darkElixir": 9093,
+    "battleTime": 23
+   },
+   {
+    "time": "2026-11-11T17:59:46Z",
+    "gold": 323446,
+    "elixir": 326316,
+    "darkElixir": 7439,
+    "battleTime": 7
+   },
+   {
+    "time": "2026-11-11T18:00:00Z",
+    "gold": 4224,
+    "elixir": 162846,
+    "darkElixir": 6333,
+    "battleTime": 7
+   },
+   {
+    "time": "2026-11-11T18:00:43Z",
+    "gold": 25288,
+    "elixir": 0,
+    "darkElixir": 7040,
+    "battleTime": 6
+   },
+   {
+    "time": "2026-11-11T18:01:43Z",
+    "gold": 403470,
+    "elixir": 854102,
+    "darkElixir": 10551,
+    "battleTime": 21
    }
   ]
  },
@@ -12761,6 +12930,48 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 163
+   },
+   {
+    "time": "2026-11-11T17:53:36Z",
+    "gold": 798266,
+    "elixir": 832528,
+    "darkElixir": 10021,
+    "battleTime": 119
+   },
+   {
+    "time": "2026-11-11T17:55:06Z",
+    "gold": 886308,
+    "elixir": 842825,
+    "darkElixir": 8298,
+    "battleTime": 23
+   },
+   {
+    "time": "2026-11-11T17:56:11Z",
+    "gold": 903766,
+    "elixir": 704551,
+    "darkElixir": 3352,
+    "battleTime": 38
+   },
+   {
+    "time": "2026-11-11T17:57:40Z",
+    "gold": 1227454,
+    "elixir": 2018298,
+    "darkElixir": 21474,
+    "battleTime": 41
+   },
+   {
+    "time": "2026-11-11T17:58:55Z",
+    "gold": 3088996,
+    "elixir": 2819472,
+    "darkElixir": 21895,
+    "battleTime": 37
+   },
+   {
+    "time": "2026-11-11T18:00:21Z",
+    "gold": 801217,
+    "elixir": 815110,
+    "darkElixir": 7026,
+    "battleTime": 19
    }
   ]
  },
@@ -15505,7 +15716,7 @@
  {
   "tag": "#PJ202YRPG",
   "name": "乙モUち",
-  "clan": "Reaper Crew",
+  "clan": "...",
   "th": 16,
   "entries": [
    {
@@ -20630,6 +20841,34 @@
     "elixir": 115690,
     "darkElixir": 2667,
     "battleTime": 12
+   },
+   {
+    "time": "2026-11-11T17:47:49Z",
+    "gold": 787421,
+    "elixir": 564506,
+    "darkElixir": 0,
+    "battleTime": 7
+   },
+   {
+    "time": "2026-11-11T17:48:25Z",
+    "gold": 1505414,
+    "elixir": 1505419,
+    "darkElixir": 12960,
+    "battleTime": 9
+   },
+   {
+    "time": "2026-11-11T17:49:33Z",
+    "gold": 860561,
+    "elixir": 612574,
+    "darkElixir": 10063,
+    "battleTime": 9
+   },
+   {
+    "time": "2026-11-11T17:50:59Z",
+    "gold": 1183073,
+    "elixir": 1439178,
+    "darkElixir": 3600,
+    "battleTime": 22
    }
   ]
  },
@@ -21272,6 +21511,13 @@
     "elixir": 305717,
     "darkElixir": 12251,
     "battleTime": 20
+   },
+   {
+    "time": "2026-11-11T18:01:05Z",
+    "gold": 981277,
+    "elixir": 1116688,
+    "darkElixir": 11763,
+    "battleTime": 11
    }
   ]
  },
