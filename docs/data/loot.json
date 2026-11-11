@@ -4588,7 +4588,7 @@
  {
   "tag": "#2G2R2RUL",
   "name": "Maxim",
-  "clan": "3 Star in SUN",
+  "clan": "My First Story",
   "th": 18,
   "entries": [
    {
@@ -8268,6 +8268,20 @@
     "elixir": 2122215,
     "darkElixir": 11304,
     "battleTime": 26
+   },
+   {
+    "time": "2026-11-11T09:35:59Z",
+    "gold": 1039045,
+    "elixir": 741621,
+    "darkElixir": 16830,
+    "battleTime": 123
+   },
+   {
+    "time": "2026-11-11T09:38:20Z",
+    "gold": 1616521,
+    "elixir": 806198,
+    "darkElixir": 18695,
+    "battleTime": 112
    }
   ]
  },
@@ -13977,7 +13991,7 @@
  {
   "tag": "#LVJVRCVLR",
   "name": "outlaw",
-  "clan": "Syndicate",
+  "clan": "kabayan clan",
   "th": 15,
   "entries": [
    {
@@ -15601,6 +15615,62 @@
     "elixir": 1013508,
     "darkElixir": 12540,
     "battleTime": 6
+   },
+   {
+    "time": "2026-11-11T09:42:03Z",
+    "gold": 1077801,
+    "elixir": 857782,
+    "darkElixir": 12305,
+    "battleTime": 7
+   },
+   {
+    "time": "2026-11-11T09:42:24Z",
+    "gold": 1120980,
+    "elixir": 1164320,
+    "darkElixir": 13215,
+    "battleTime": 8
+   },
+   {
+    "time": "2026-11-11T09:43:31Z",
+    "gold": 1376943,
+    "elixir": 1374476,
+    "darkElixir": 14653,
+    "battleTime": 8
+   },
+   {
+    "time": "2026-11-11T09:44:10Z",
+    "gold": 1347715,
+    "elixir": 1347719,
+    "darkElixir": 2844,
+    "battleTime": 9
+   },
+   {
+    "time": "2026-11-11T09:44:31Z",
+    "gold": 793297,
+    "elixir": 817096,
+    "darkElixir": 2894,
+    "battleTime": 6
+   },
+   {
+    "time": "2026-11-11T09:45:20Z",
+    "gold": 891431,
+    "elixir": 1134852,
+    "darkElixir": 10338,
+    "battleTime": 11
+   },
+   {
+    "time": "2026-11-11T09:46:16Z",
+    "gold": 1021435,
+    "elixir": 1125116,
+    "darkElixir": 11787,
+    "battleTime": 9
+   },
+   {
+    "time": "2026-11-11T09:46:44Z",
+    "gold": 1132458,
+    "elixir": 92514,
+    "darkElixir": 12429,
+    "battleTime": 7
    }
   ]
  },
