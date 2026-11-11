@@ -109,6 +109,25 @@ const R = {
   date: v => esc(v ? v.slice(0, 10) : ""),
   n2:   v => v == null ? dash : Number(v).toFixed(2),
   n1:   v => v == null ? dash : Number(v).toFixed(1),
+  compact: v => {
+    if (v == null) return dash;
+    const n = Number(v), abs = Math.abs(n);
+    const units = [[1e12, "t"], [1e9, "b"], [1e6, "m"], [1e3, "k"]];
+    const unit = units.find(([size]) => abs >= size);
+    if (!unit) return new Intl.NumberFormat().format(n);
+    const scaled = n / unit[0], digits = Math.abs(scaled) >= 100 ? 0 : Math.abs(scaled) >= 10 ? 1 : 2;
+    return `${Number(scaled.toFixed(digits))}${unit[1]}`;
+  },
+  duration: v => {
+    let seconds = Math.max(0, Math.floor(Number(v) || 0));
+    const days = Math.floor(seconds / 86400); seconds %= 86400;
+    const hours = Math.floor(seconds / 3600); seconds %= 3600;
+    const minutes = Math.floor(seconds / 60); seconds %= 60;
+    if (days) return `${days}d ${hours}h`;
+    if (hours) return `${hours}h ${minutes}m`;
+    if (minutes) return `${minutes}m ${seconds}s`;
+    return `${seconds}s`;
+  },
   pct:  v => v == null ? dash : Math.round(v) + "%",
   result: v => v ? `<span class="${v === "win" ? "win" : v === "loss" ? "loss" : "muted"}">${v}</span>` : "",
   rank: (v, r) => v == null ? dash : `${v}<span class="dim">/${r.groupSize ?? "?"}</span>`,
@@ -139,8 +158,9 @@ const TABS = {
       ($("mode").value === "ranked" ? " Season: pick one week or all stored weeks." : " All combines Ranked, War and CWL attacks. Only wars that have ended and been recorded count.") },
   loot: { label: "Loot", file: "loot.json", player: true, currentTH: true,
     note: () => `Attack loot in the last ${$("lootWindow").selectedOptions[0].text}, ranked by total loot. Only gold, elixir and dark elixir are counted. Data is collected every crawl; older history depends on when tracking began.`,
-    cols: [TH, NAME, CLAN, LEAGUE, col("gold", "Gold", { num: 1 }), col("elixir", "Elixir", { num: 1 }),
-      col("darkElixir", "Dark elixir", { num: 1 }), col("lootTotal", "Total loot", { num: 1 })] },
+    cols: [TH, NAME, CLAN, LEAGUE, col("gold", "Gold", { num: 1, html: R.compact }), col("elixir", "Elixir", { num: 1, html: R.compact }),
+      col("darkElixir", "Dark elixir", { num: 1, html: R.compact }), col("battleTime", "Battle time", { num: 1, html: R.duration }),
+      col("lootTotal", "Total loot", { num: 1, html: R.compact })] },
   members: { label: "Members", file: "members.json",
     note: "Every player the tracker has ever stored, wherever they are now. Sorted by Town Hall, high to low.",
     cols: [TH, NAME, col("clan", "Clan"), col("league", "League", { html: R.league }),
@@ -309,10 +329,11 @@ function lbBase() {
 function lootBase() {
   const minTime = Date.now() - Number($("lootWindow").value);
   return (state.data.loot || []).map(r => {
-    const totals = { gold: 0, elixir: 0, darkElixir: 0 };
+    const totals = { gold: 0, elixir: 0, darkElixir: 0, battleTime: 0 };
     (r.entries || []).forEach(e => {
       if (Date.parse(e.time) < minTime) return;
       totals.gold += e.gold || 0; totals.elixir += e.elixir || 0; totals.darkElixir += e.darkElixir || 0;
+      totals.battleTime += e.battleTime || 0;
     });
     return { ...r, ...totals, lootTotal: totals.gold + totals.elixir + totals.darkElixir };
   });

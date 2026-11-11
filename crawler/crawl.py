@@ -234,6 +234,7 @@ def crawl_loot(api, players_db, loot_store, errors):
                     "gold": amounts.get("Gold", 0),
                     "elixir": amounts.get("Elixir", 0),
                     "darkElixir": amounts.get("DarkElixir", 0),
+                    "battleTime": item.get("battleTime", 0) or 0,
                 }
             loot_store[tag] = {k: v for k, v in old.items() if _iso_timestamp(v.get("time")) >= cutoff}
 
