@@ -56,7 +56,6 @@
         <option value="ranked">Ranked</option>
         <option value="war">War</option>
         <option value="cwl">CWL</option>
-        <option value="loot">Loot</option>
       </select>
     </label>
     <label>Rank by
@@ -67,16 +66,14 @@
         <option value="three">3★ rate</option>
         <option value="destr">Avg destruction %</option>
         <option value="n">Total attacks</option>
-        <option value="gold">Gold looted</option>
-        <option value="elixir">Elixir looted</option>
-        <option value="darkElixir">Dark elixir looted</option>
-        <option value="lootTotal">Total loot</option>
       </select>
     </label>
-    <label id="lootWindowLabel" style="display:none">Period
+    <label>Min attacks <input id="minAtt" type="number" min="0" step="1" value="10"></label>
+  </span>
+  <span class="grp" id="lootCtl" style="display:none">
+    <label>Period
       <select id="lootWindow"><option value="3600000">1 hour</option><option value="86400000">1 day</option><option value="604800000">7 days</option><option value="2592000000">1 month</option></select>
     </label>
-    <label>Min attacks <input id="minAtt" type="number" min="0" step="1" value="10"></label>
   </span>
   <input id="q" type="search" placeholder="Search name or tag">
   <select id="clan"><option value="">All clans</option></select>
@@ -93,6 +90,12 @@
 // ---- Image sources (change here if an icon 404s; a missing icon is hidden and the number/name still shows)
 const ASSETS = "https://assets.clashk.ing";
 const thIcon = lvl => `${ASSETS}/buildings/home-village/town_hall/level_${lvl}.webp`;
+const leagueIcon = (name, fallback) => {
+  const m = String(name || "").match(/legend(?:\s+league)?\s*(i{1,3}|[123])\b/i);
+  if (!m) return fallback;
+  const tier = ({ i: 1, ii: 2, iii: 3 })[m[1].toLowerCase()] || Number(m[1]);
+  return `${ASSETS}/leagues/league-tier/legend_league_${tier}.png`;
+};
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
 const img = (src, alt) => src ? `<img src="${esc(src)}" alt="${esc(alt)}" loading="lazy" onerror="this.remove()">` : "";
@@ -102,7 +105,7 @@ const dash = `<span class="dim">–</span>`;
 const R = {
   th:   v => v ? `<span class="ico">${img(thIcon(v), "TH" + v)}<b>${v}</b></span>` : "",
   name: (v, r) => `<div class="nm">${esc(v)}<small>${esc(r.tag)}</small></div>`,
-  league: (v, r) => v ? `<span class="ico">${img(r.leagueIcon, v)}<span>${esc(v)}</span></span>` : dash,
+  league: (v, r) => v ? `<span class="ico">${img(leagueIcon(v, r.leagueIcon), v)}<span>${esc(v)}</span></span>` : dash,
   date: v => esc(v ? v.slice(0, 10) : ""),
   n2:   v => v == null ? dash : Number(v).toFixed(2),
   n1:   v => v == null ? dash : Number(v).toFixed(1),
@@ -120,22 +123,24 @@ const CLAN = col("clan", "Clan");
 const LEAGUE = col("league", "League", { html: R.league });
 
 // ---- leaderboard settings
-const MODES = { all: "All", ranked: "Ranked", war: "War", cwl: "CWL", loot: "Loot" };
-const MIN_DEFAULT = { all: 0, ranked: 10, war: 4, cwl: 3, loot: 0 };
-const METRIC_KEY = { total: "totalStars", avg: "avg", stars: "stars", three: "threePct", destr: "destr", n: "n", gold: "gold", elixir: "elixir", darkElixir: "darkElixir", lootTotal: "lootTotal" };
-const METRIC_LABEL = { total: "total stars across Ranked, War and CWL", avg: "average stars per attack", stars: "total stars", three: "3-star rate", destr: "average destruction", n: "total attacks", gold: "gold looted", elixir: "elixir looted", darkElixir: "dark elixir looted", lootTotal: "total loot" };
+const MODES = { all: "All", ranked: "Ranked", war: "War", cwl: "CWL" };
+const MIN_DEFAULT = { all: 0, ranked: 10, war: 4, cwl: 3 };
+const METRIC_KEY = { total: "totalStars", avg: "avg", stars: "stars", three: "threePct", destr: "destr", n: "n" };
+const METRIC_LABEL = { total: "total stars across Ranked, War and CWL", avg: "average stars per attack", stars: "total stars", three: "3-star rate", destr: "average destruction", n: "total attacks" };
 
 const TABS = {
   leaderboard: { label: "Leaderboard",
     cols: () => [col("rank", "#", { num: 1, asc: 1, html: R.pos }), TH, NAME, CLAN, LEAGUE,
       col("n", "Attacks", { num: 1 }), col("stars", "Total ★", { num: 1 }), col("avg", "Avg ★", { num: 1, html: R.n2 }),
       col("threePct", "3★ rate", { num: 1, html: R.pct }), col("destr", "Destr %", { num: 1, html: R.n1 })]
-      .concat($("mode").value === "loot" ? [col("gold", "Gold", { num: 1 }), col("elixir", "Elixir", { num: 1 }), col("darkElixir", "Dark elixir", { num: 1 }), col("lootTotal", "Total loot", { num: 1 })] : [])
-      .concat(["ranked", "loot"].includes($("mode").value) ? [] : [col("missed", "Missed", { num: 1 })]),
-    note: () => $("mode").value === "loot" ? `Attack loot in the last ${$("lootWindow").selectedOptions[0].text}. Only gold, elixir and dark elixir are counted. Data is collected every crawl; older history depends on when tracking began.` :
-      `${MODES[$("mode").value]} players ranked by ${METRIC_LABEL[$("metric").value]}. Averages use logged attacks; players under the minimum attacks are hidden. ` +
+      .concat($("mode").value === "ranked" ? [] : [col("missed", "Missed", { num: 1 })]),
+    note: () => `${MODES[$("mode").value]} players ranked by ${METRIC_LABEL[$("metric").value]}. Averages use logged attacks; players under the minimum attacks are hidden. ` +
       `Filter by Town Hall to compare like with like. Clan shown is the player's current clan.` +
       ($("mode").value === "ranked" ? " Season: pick one week or all stored weeks." : " All combines Ranked, War and CWL attacks. Only wars that have ended and been recorded count.") },
+  loot: { label: "Loot", file: "loot.json", player: true, currentTH: true,
+    note: () => `Attack loot in the last ${$("lootWindow").selectedOptions[0].text}, ranked by total loot. Only gold, elixir and dark elixir are counted. Data is collected every crawl; older history depends on when tracking began.`,
+    cols: [TH, NAME, CLAN, LEAGUE, col("gold", "Gold", { num: 1 }), col("elixir", "Elixir", { num: 1 }),
+      col("darkElixir", "Dark elixir", { num: 1 }), col("lootTotal", "Total loot", { num: 1 })] },
   members: { label: "Members", file: "members.json",
     note: "Every player the tracker has ever stored, wherever they are now. Sorted by Town Hall, high to low.",
     cols: [TH, NAME, col("clan", "Clan"), col("league", "League", { html: R.league }),
@@ -201,9 +206,8 @@ function prep() {
 
 async function init() {
   const files = Object.entries(TABS).filter(([, t]) => t.file);
-  const [meta, ...datas] = await Promise.all([getJSON("meta.json", {}), ...files.map(([, t]) => getJSON(t.file, [])), getJSON("loot.json", [])]);
+  const [meta, ...datas] = await Promise.all([getJSON("meta.json", {}), ...files.map(([, t]) => getJSON(t.file, []))]);
   files.forEach(([id], i) => state.data[id] = datas[i]);
-  state.data.loot = datas[files.length];
   prep();
 
   const clans = meta.clans || [];
@@ -239,19 +243,17 @@ function resetSort() {
 function updateControls() {
   const lb = state.tab === "leaderboard";
   $("lbCtl").style.display = lb ? "" : "none";
+  $("lootCtl").style.display = state.tab === "loot" ? "" : "none";
   $("season").style.display = (state.tab === "ranked" || (lb && $("mode").value === "ranked")) ? "" : "none";
-  $("lootWindowLabel").style.display = lb && $("mode").value === "loot" ? "" : "none";
-  const loot = lb && $("mode").value === "loot";
-  for (const o of $("metric").options) o.hidden = loot ? !["gold", "elixir", "darkElixir", "lootTotal"].includes(o.value) : ["gold", "elixir", "darkElixir", "lootTotal"].includes(o.value);
-  if (loot && !["gold", "elixir", "darkElixir", "lootTotal"].includes($("metric").value)) $("metric").value = "lootTotal";
-  if (!loot && ["gold", "elixir", "darkElixir", "lootTotal"].includes($("metric").value)) $("metric").value = "total";
   const t = TABS[state.tab];
   $("note").textContent = typeof t.note === "function" ? t.note() : t.note;
 }
 
 function selectTab(id) {
   state.tab = id;
-  if (id === "leaderboard") { state.sortKey = "rank"; state.sortDir = 1; } else { state.sortKey = "th"; state.sortDir = -1; }
+  if (id === "leaderboard") { state.sortKey = "rank"; state.sortDir = 1; }
+  else if (id === "loot") { state.sortKey = "lootTotal"; state.sortDir = -1; }
+  else { state.sortKey = "th"; state.sortDir = -1; }
   document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-selected", b.dataset.id === id));
   updateControls();
   render();
@@ -278,24 +280,6 @@ function lbBase() {
     s.n += n; s.stars += stars; s.three += three; s.missed += missed;
     if (destr != null && n) { s.dsum += destr * n; s.dn += n; }
   };
-  if (mode === "loot") {
-    const minTime = Date.now() - Number($("lootWindow").value);
-    (state.data.loot || []).forEach(r => {
-      const s = { fb: r, gold: 0, elixir: 0, darkElixir: 0 };
-      (r.entries || []).forEach(e => {
-        if (Date.parse(e.time) < minTime) return;
-        s.gold += e.gold || 0; s.elixir += e.elixir || 0; s.darkElixir += e.darkElixir || 0;
-      });
-      agg.set(r.tag, s);
-    });
-    return [...agg.values()].map(s => {
-      const p = dir.get(s.fb.tag) || {};
-      return { tag: s.fb.tag, name: p.name || s.fb.name, th: p.th ?? s.fb.th, clan: p.clan ?? s.fb.clan,
-        league: p.league, leagueIcon: p.leagueIcon,
-        inClan: p.status ? p.status === "in clan" : undefined, n: 0, stars: 0, avg: null, threePct: null, destr: null,
-        gold: s.gold, elixir: s.elixir, darkElixir: s.darkElixir, lootTotal: s.gold + s.elixir + s.darkElixir };
-    });
-  }
   if (mode === "ranked" || mode === "all") {
     const sid = $("season").value;
     (state.data.ranked || []).forEach(r => {
@@ -322,6 +306,18 @@ function lbBase() {
   });
 }
 
+function lootBase() {
+  const minTime = Date.now() - Number($("lootWindow").value);
+  return (state.data.loot || []).map(r => {
+    const totals = { gold: 0, elixir: 0, darkElixir: 0 };
+    (r.entries || []).forEach(e => {
+      if (Date.parse(e.time) < minTime) return;
+      totals.gold += e.gold || 0; totals.elixir += e.elixir || 0; totals.darkElixir += e.darkElixir || 0;
+    });
+    return { ...r, ...totals, lootTotal: totals.gold + totals.elixir + totals.darkElixir };
+  });
+}
+
 const descNullLast = (a, b) => (a == null && b == null) ? 0 : a == null ? 1 : b == null ? -1 : b - a;
 
 function lbRank(r) {
@@ -335,7 +331,7 @@ function lbRank(r) {
 function rows() {
   const id = state.tab, t = TABS[id];
   const q = $("q").value.trim().toLowerCase(), clan = $("clan").value, th = $("th").value;
-  let r = id === "leaderboard" ? lbBase() : (state.data[id] || []);
+  let r = id === "leaderboard" ? lbBase() : id === "loot" ? lootBase() : (state.data[id] || []);
   if (t.season && $("season").value) r = r.filter(x => x.seasonId === $("season").value);
   if (clan === "__none__") r = r.filter(x => x.inClan === false);
   else if (clan) r = r.filter(x => x.clan === clan);
