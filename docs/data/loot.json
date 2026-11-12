@@ -14494,6 +14494,182 @@
   ]
  },
  {
+  "tag": "#8VU9VQYPQ",
+  "name": "Dexツ",
+  "clan": "Reaper Crew",
+  "th": 17,
+  "entries": [
+   {
+    "time": "2026-11-09T20:22:39Z",
+    "gold": 770283,
+    "elixir": 943731,
+    "darkElixir": 12516,
+    "battleTime": 33
+   },
+   {
+    "time": "2026-11-09T20:23:34Z",
+    "gold": 1055444,
+    "elixir": 454745,
+    "darkElixir": 8429,
+    "battleTime": 21
+   },
+   {
+    "time": "2026-11-10T04:15:48Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 157
+   },
+   {
+    "time": "2026-11-10T04:18:00Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 100
+   },
+   {
+    "time": "2026-11-10T04:20:24Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 110
+   },
+   {
+    "time": "2026-11-10T04:22:40Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 101
+   },
+   {
+    "time": "2026-11-10T04:25:07Z",
+    "gold": 614400,
+    "elixir": 614400,
+    "darkElixir": 0,
+    "battleTime": 99
+   },
+   {
+    "time": "2026-11-10T04:27:33Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 123
+   },
+   {
+    "time": "2026-11-10T04:30:15Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 138
+   },
+   {
+    "time": "2026-11-10T04:32:50Z",
+    "gold": 819200,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 120
+   },
+   {
+    "time": "2026-11-10T04:34:46Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 85
+   },
+   {
+    "time": "2026-11-10T04:37:14Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 112
+   },
+   {
+    "time": "2026-11-10T04:39:22Z",
+    "gold": 819200,
+    "elixir": 442842,
+    "darkElixir": 8248,
+    "battleTime": 96
+   },
+   {
+    "time": "2026-11-10T04:41:15Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 95
+   },
+   {
+    "time": "2026-11-10T04:43:29Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 97
+   },
+   {
+    "time": "2026-11-10T04:46:16Z",
+    "gold": 819200,
+    "elixir": 1024000,
+    "darkElixir": 3629,
+    "battleTime": 178
+   },
+   {
+    "time": "2026-11-10T04:48:38Z",
+    "gold": 819200,
+    "elixir": 819200,
+    "darkElixir": 8248,
+    "battleTime": 133
+   },
+   {
+    "time": "2026-11-10T04:50:31Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 95
+   },
+   {
+    "time": "2026-11-11T02:44:04Z",
+    "gold": 184359,
+    "elixir": 1626057,
+    "darkElixir": 1457,
+    "battleTime": 59
+   },
+   {
+    "time": "2026-11-11T02:45:58Z",
+    "gold": 111286,
+    "elixir": 102226,
+    "darkElixir": 1536,
+    "battleTime": 83
+   },
+   {
+    "time": "2026-11-11T23:55:30Z",
+    "gold": 886204,
+    "elixir": 652739,
+    "darkElixir": 4364,
+    "battleTime": 63
+   },
+   {
+    "time": "2026-11-11T23:57:42Z",
+    "gold": 1599661,
+    "elixir": 1526511,
+    "darkElixir": 11188,
+    "battleTime": 90
+   },
+   {
+    "time": "2026-11-11T23:59:19Z",
+    "gold": 1130587,
+    "elixir": 1130823,
+    "darkElixir": 10143,
+    "battleTime": 61
+   },
+   {
+    "time": "2026-11-11T23:59:50Z",
+    "gold": 11505,
+    "elixir": 5260,
+    "darkElixir": 176,
+    "battleTime": 4
+   }
+  ]
+ },
+ {
   "tag": "#LC9LLVCRJ",
   "name": "EK THA PRO",
   "clan": "THE WARRIOR",
@@ -20281,6 +20457,13 @@
     "elixir": 293657,
     "darkElixir": 6582,
     "battleTime": 29
+   },
+   {
+    "time": "2026-11-12T02:46:34Z",
+    "gold": 299931,
+    "elixir": 269532,
+    "darkElixir": 3802,
+    "battleTime": 9
    }
   ]
  },
