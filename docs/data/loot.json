@@ -708,6 +708,13 @@
     "elixir": 2030178,
     "darkElixir": 13763,
     "battleTime": 59
+   },
+   {
+    "time": "2026-11-12T11:00:31Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 179
    }
   ]
  },
@@ -6881,6 +6888,62 @@
     "elixir": 816603,
     "darkElixir": 8244,
     "battleTime": 25
+   },
+   {
+    "time": "2026-11-12T10:56:06Z",
+    "gold": 0,
+    "elixir": 52,
+    "darkElixir": 3999,
+    "battleTime": 3
+   },
+   {
+    "time": "2026-11-12T10:56:47Z",
+    "gold": 316497,
+    "elixir": 484669,
+    "darkElixir": 8956,
+    "battleTime": 23
+   },
+   {
+    "time": "2026-11-12T10:57:38Z",
+    "gold": 841630,
+    "elixir": 604597,
+    "darkElixir": 20442,
+    "battleTime": 43
+   },
+   {
+    "time": "2026-11-12T10:58:14Z",
+    "gold": 140052,
+    "elixir": 736892,
+    "darkElixir": 9418,
+    "battleTime": 25
+   },
+   {
+    "time": "2026-11-12T10:59:08Z",
+    "gold": 597938,
+    "elixir": 569979,
+    "darkElixir": 24110,
+    "battleTime": 36
+   },
+   {
+    "time": "2026-11-12T10:59:56Z",
+    "gold": 139620,
+    "elixir": 276064,
+    "darkElixir": 12826,
+    "battleTime": 40
+   },
+   {
+    "time": "2026-11-12T11:00:24Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 8217,
+    "battleTime": 5
+   },
+   {
+    "time": "2026-11-12T11:01:18Z",
+    "gold": 1094682,
+    "elixir": 1288346,
+    "darkElixir": 18786,
+    "battleTime": 46
    }
   ]
  },
@@ -21704,7 +21767,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "12:30",
   "th": 16,
   "entries": [
    {
