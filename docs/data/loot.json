@@ -715,6 +715,13 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 179
+   },
+   {
+    "time": "2026-11-12T11:04:28Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 161
    }
   ]
  },
@@ -6944,6 +6951,62 @@
     "elixir": 1288346,
     "darkElixir": 18786,
     "battleTime": 46
+   },
+   {
+    "time": "2026-11-12T11:14:39Z",
+    "gold": 1018858,
+    "elixir": 1275174,
+    "darkElixir": 15391,
+    "battleTime": 55
+   },
+   {
+    "time": "2026-11-12T11:14:58Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 7450,
+    "battleTime": 2
+   },
+   {
+    "time": "2026-11-12T11:15:07Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 8341,
+    "battleTime": 2
+   },
+   {
+    "time": "2026-11-12T11:15:18Z",
+    "gold": 85789,
+    "elixir": 91083,
+    "darkElixir": 9493,
+    "battleTime": 5
+   },
+   {
+    "time": "2026-11-12T11:16:44Z",
+    "gold": 175934,
+    "elixir": 0,
+    "darkElixir": 13097,
+    "battleTime": 2
+   },
+   {
+    "time": "2026-11-12T11:16:51Z",
+    "gold": 3776,
+    "elixir": 0,
+    "darkElixir": 108,
+    "battleTime": 2
+   },
+   {
+    "time": "2026-11-12T11:17:03Z",
+    "gold": 49544,
+    "elixir": 0,
+    "darkElixir": 6498,
+    "battleTime": 4
+   },
+   {
+    "time": "2026-11-12T11:17:11Z",
+    "gold": 0,
+    "elixir": 3632,
+    "darkElixir": 224,
+    "battleTime": 2
    }
   ]
  },
@@ -23292,7 +23355,7 @@
  {
   "tag": "#8JCLJLVLQ",
   "name": "Amoo 2.0",
-  "clan": "THE WARRIOR",
+  "clan": "GBSxReaperxRE",
   "th": 15,
   "entries": [
    {
