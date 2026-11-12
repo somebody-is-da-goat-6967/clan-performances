@@ -2600,7 +2600,7 @@
  {
   "tag": "#28R82CJQ9",
   "name": "ASL",
-  "clan": "Reaper Crew",
+  "clan": "3☆ on the ⓜⓞⓞⓝ",
   "th": 18,
   "entries": [
    {
@@ -6543,6 +6543,62 @@
     "elixir": 494372,
     "darkElixir": 5448,
     "battleTime": 25
+   },
+   {
+    "time": "2026-11-12T11:48:50Z",
+    "gold": 778973,
+    "elixir": 774858,
+    "darkElixir": 11562,
+    "battleTime": 43
+   },
+   {
+    "time": "2026-11-12T11:49:41Z",
+    "gold": 1117382,
+    "elixir": 1119705,
+    "darkElixir": 12577,
+    "battleTime": 33
+   },
+   {
+    "time": "2026-11-12T11:50:51Z",
+    "gold": 1968381,
+    "elixir": 445451,
+    "darkElixir": 11625,
+    "battleTime": 61
+   },
+   {
+    "time": "2026-11-12T11:51:30Z",
+    "gold": 481128,
+    "elixir": 550249,
+    "darkElixir": 1415,
+    "battleTime": 29
+   },
+   {
+    "time": "2026-11-12T11:52:09Z",
+    "gold": 527638,
+    "elixir": 914958,
+    "darkElixir": 10257,
+    "battleTime": 30
+   },
+   {
+    "time": "2026-11-12T11:52:51Z",
+    "gold": 370315,
+    "elixir": 363877,
+    "darkElixir": 4586,
+    "battleTime": 27
+   },
+   {
+    "time": "2026-11-12T11:53:40Z",
+    "gold": 726519,
+    "elixir": 754060,
+    "darkElixir": 13757,
+    "battleTime": 32
+   },
+   {
+    "time": "2026-11-12T11:54:41Z",
+    "gold": 709254,
+    "elixir": 268119,
+    "darkElixir": 5928,
+    "battleTime": 48
    }
   ]
  },
@@ -6873,6 +6929,20 @@
     "elixir": 227793,
     "darkElixir": 18753,
     "battleTime": 19
+   },
+   {
+    "time": "2026-11-12T11:51:20Z",
+    "gold": 584537,
+    "elixir": 505899,
+    "darkElixir": 5243,
+    "battleTime": 45
+   },
+   {
+    "time": "2026-11-12T11:53:13Z",
+    "gold": 1049841,
+    "elixir": 904880,
+    "darkElixir": 3782,
+    "battleTime": 45
    }
   ]
  },
@@ -21935,7 +22005,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "12:30",
+  "clan": "ميدان الرجال",
   "th": 16,
   "entries": [
    {
@@ -29618,6 +29688,34 @@
     "elixir": 2100000,
     "darkElixir": 16564,
     "battleTime": 8
+   },
+   {
+    "time": "2026-11-12T11:49:46Z",
+    "gold": 375059,
+    "elixir": 398405,
+    "darkElixir": 0,
+    "battleTime": 8
+   },
+   {
+    "time": "2026-11-12T11:50:58Z",
+    "gold": 1362172,
+    "elixir": 1391799,
+    "darkElixir": 16010,
+    "battleTime": 26
+   },
+   {
+    "time": "2026-11-12T11:51:49Z",
+    "gold": 1137503,
+    "elixir": 1154259,
+    "darkElixir": 11782,
+    "battleTime": 17
+   },
+   {
+    "time": "2026-11-12T11:55:02Z",
+    "gold": 981038,
+    "elixir": 979713,
+    "darkElixir": 10867,
+    "battleTime": 98
    }
   ]
  },
