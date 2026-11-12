@@ -8805,7 +8805,7 @@
  {
   "tag": "#CLG88L0C",
   "name": "RohanVirus",
-  "clan": "THE WARRIOR",
+  "clan": "sub2termynater_",
   "th": 18,
   "entries": [
    {
@@ -9734,6 +9734,62 @@
     "elixir": 316136,
     "darkElixir": 2546,
     "battleTime": 56
+   },
+   {
+    "time": "2026-11-12T00:05:45Z",
+    "gold": 759072,
+    "elixir": 502662,
+    "darkElixir": 11418,
+    "battleTime": 56
+   },
+   {
+    "time": "2026-11-12T00:07:09Z",
+    "gold": 253788,
+    "elixir": 36993,
+    "darkElixir": 1325,
+    "battleTime": 56
+   },
+   {
+    "time": "2026-11-12T00:08:35Z",
+    "gold": 203189,
+    "elixir": 199656,
+    "darkElixir": 2018,
+    "battleTime": 58
+   },
+   {
+    "time": "2026-11-12T00:10:00Z",
+    "gold": 288934,
+    "elixir": 200326,
+    "darkElixir": 2771,
+    "battleTime": 58
+   },
+   {
+    "time": "2026-11-12T00:11:28Z",
+    "gold": 1022720,
+    "elixir": 1206814,
+    "darkElixir": 11255,
+    "battleTime": 59
+   },
+   {
+    "time": "2026-11-12T00:12:55Z",
+    "gold": 251660,
+    "elixir": 276247,
+    "darkElixir": 4107,
+    "battleTime": 55
+   },
+   {
+    "time": "2026-11-12T00:14:21Z",
+    "gold": 357441,
+    "elixir": 206224,
+    "darkElixir": 9054,
+    "battleTime": 57
+   },
+   {
+    "time": "2026-11-12T00:15:47Z",
+    "gold": 1456793,
+    "elixir": 1469382,
+    "darkElixir": 8674,
+    "battleTime": 57
    }
   ]
  },
@@ -16197,6 +16253,27 @@
     "elixir": 1025000,
     "darkElixir": 10320,
     "battleTime": 142
+   },
+   {
+    "time": "2026-11-12T00:03:57Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 141
+   },
+   {
+    "time": "2026-11-12T00:07:04Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 140
+   },
+   {
+    "time": "2026-11-12T00:09:40Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 132
    }
   ]
  },
