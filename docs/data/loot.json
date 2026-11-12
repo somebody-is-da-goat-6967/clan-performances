@@ -11340,6 +11340,20 @@
     "elixir": 1089430,
     "darkElixir": 16967,
     "battleTime": 29
+   },
+   {
+    "time": "2026-11-12T15:49:02Z",
+    "gold": 405324,
+    "elixir": 458671,
+    "darkElixir": 6526,
+    "battleTime": 39
+   },
+   {
+    "time": "2026-11-12T15:50:36Z",
+    "gold": 884036,
+    "elixir": 1172137,
+    "darkElixir": 10424,
+    "battleTime": 34
    }
   ]
  },
@@ -12662,6 +12676,34 @@
     "elixir": 138662,
     "darkElixir": 8116,
     "battleTime": 80
+   },
+   {
+    "time": "2026-11-12T15:45:21Z",
+    "gold": 936307,
+    "elixir": 987869,
+    "darkElixir": 12260,
+    "battleTime": 70
+   },
+   {
+    "time": "2026-11-12T15:46:29Z",
+    "gold": 706487,
+    "elixir": 302274,
+    "darkElixir": 10558,
+    "battleTime": 51
+   },
+   {
+    "time": "2026-11-12T15:47:34Z",
+    "gold": 660864,
+    "elixir": 837188,
+    "darkElixir": 6303,
+    "battleTime": 50
+   },
+   {
+    "time": "2026-11-12T15:49:33Z",
+    "gold": 1033595,
+    "elixir": 1513790,
+    "darkElixir": 6197,
+    "battleTime": 97
    }
   ]
  },
@@ -16030,6 +16072,13 @@
     "elixir": 546727,
     "darkElixir": 4086,
     "battleTime": 45
+   },
+   {
+    "time": "2026-11-12T15:49:06Z",
+    "gold": 599291,
+    "elixir": 717851,
+    "darkElixir": 8239,
+    "battleTime": 57
    }
   ]
  },
@@ -19651,6 +19700,13 @@
     "elixir": 684073,
     "darkElixir": 1211,
     "battleTime": 130
+   },
+   {
+    "time": "2026-11-12T15:41:45Z",
+    "gold": 2456708,
+    "elixir": 2685894,
+    "darkElixir": 18317,
+    "battleTime": 132
    }
   ]
  },
@@ -28078,6 +28134,20 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 159
+   },
+   {
+    "time": "2026-11-12T15:45:44Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 142
+   },
+   {
+    "time": "2026-11-12T15:48:57Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 127
    }
   ]
  },
@@ -30514,6 +30584,27 @@
     "elixir": 979713,
     "darkElixir": 10867,
     "battleTime": 98
+   },
+   {
+    "time": "2026-11-12T15:39:43Z",
+    "gold": 1076839,
+    "elixir": 1390368,
+    "darkElixir": 12543,
+    "battleTime": 9
+   },
+   {
+    "time": "2026-11-12T15:41:22Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 13825,
+    "battleTime": 8
+   },
+   {
+    "time": "2026-11-12T15:41:50Z",
+    "gold": 682748,
+    "elixir": 836645,
+    "darkElixir": 10567,
+    "battleTime": 12
    }
   ]
  },
@@ -30668,7 +30759,7 @@
  {
   "tag": "#R2YY0R88G",
   "name": "Blinne 4.0",
-  "clan": "Band of Reapers",
+  "clan": "Freaker Crew",
   "th": 12,
   "entries": [
    {
