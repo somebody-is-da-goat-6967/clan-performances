@@ -8185,7 +8185,7 @@
  {
   "tag": "#GYQQC8L20",
   "name": "Mr.Sam",
-  "clan": "",
+  "clan": "TAMIZHAN YT",
   "th": 18,
   "entries": [
    {
@@ -10057,6 +10057,27 @@
     "elixir": 847846,
     "darkElixir": 12073,
     "battleTime": 27
+   },
+   {
+    "time": "2026-11-12T03:45:28Z",
+    "gold": 383711,
+    "elixir": 889390,
+    "darkElixir": 11037,
+    "battleTime": 20
+   },
+   {
+    "time": "2026-11-12T03:46:05Z",
+    "gold": 130010,
+    "elixir": 8498,
+    "darkElixir": 989,
+    "battleTime": 28
+   },
+   {
+    "time": "2026-11-12T03:46:55Z",
+    "gold": 1000013,
+    "elixir": 860117,
+    "darkElixir": 12187,
+    "battleTime": 37
    }
   ]
  },
@@ -15931,6 +15952,13 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T03:38:06Z",
+    "gold": 25722,
+    "elixir": 37464,
+    "darkElixir": 869,
+    "battleTime": 28
    }
   ]
  },
@@ -26607,6 +26635,41 @@
     "elixir": 394800,
     "darkElixir": 2018,
     "battleTime": 172
+   },
+   {
+    "time": "2026-11-12T03:32:01Z",
+    "gold": 968130,
+    "elixir": 987000,
+    "darkElixir": 10090,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T03:36:49Z",
+    "gold": 863757,
+    "elixir": 667257,
+    "darkElixir": 10090,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T03:39:28Z",
+    "gold": 592200,
+    "elixir": 592200,
+    "darkElixir": 2018,
+    "battleTime": 139
+   },
+   {
+    "time": "2026-11-12T03:42:21Z",
+    "gold": 778342,
+    "elixir": 449464,
+    "darkElixir": 8400,
+    "battleTime": 160
+   },
+   {
+    "time": "2026-11-12T03:46:20Z",
+    "gold": 987000,
+    "elixir": 972133,
+    "darkElixir": 2018,
+    "battleTime": 180
    }
   ]
  },
