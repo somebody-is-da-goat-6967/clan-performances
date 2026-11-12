@@ -419,7 +419,7 @@
  {
   "tag": "#GPQVGYJYC",
   "name": "AL|£Ñ Z©",
-  "clan": "INDIAN WARRIORS",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -617,6 +617,62 @@
     "elixir": 1003709,
     "darkElixir": 10350,
     "battleTime": 180
+   },
+   {
+    "time": "2026-11-11T13:48:01Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 169
+   },
+   {
+    "time": "2026-11-12T06:29:33Z",
+    "gold": 984453,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 169
+   },
+   {
+    "time": "2026-11-12T06:32:43Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 140
+   },
+   {
+    "time": "2026-11-12T06:36:06Z",
+    "gold": 1035000,
+    "elixir": 1034687,
+    "darkElixir": 10350,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T06:39:24Z",
+    "gold": 924278,
+    "elixir": 828000,
+    "darkElixir": 9190,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T06:43:24Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T06:46:56Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 169
+   },
+   {
+    "time": "2026-11-12T09:15:15Z",
+    "gold": 1194723,
+    "elixir": 1097641,
+    "darkElixir": 9532,
+    "battleTime": 31
    }
   ]
  },
@@ -6172,6 +6228,62 @@
     "elixir": 2444757,
     "darkElixir": 17146,
     "battleTime": 56
+   },
+   {
+    "time": "2026-11-12T09:07:49Z",
+    "gold": 440435,
+    "elixir": 633292,
+    "darkElixir": 9093,
+    "battleTime": 45
+   },
+   {
+    "time": "2026-11-12T09:08:43Z",
+    "gold": 611538,
+    "elixir": 613457,
+    "darkElixir": 8453,
+    "battleTime": 42
+   },
+   {
+    "time": "2026-11-12T09:09:42Z",
+    "gold": 161869,
+    "elixir": 193030,
+    "darkElixir": 2310,
+    "battleTime": 46
+   },
+   {
+    "time": "2026-11-12T09:10:30Z",
+    "gold": 1564292,
+    "elixir": 1349512,
+    "darkElixir": 18743,
+    "battleTime": 38
+   },
+   {
+    "time": "2026-11-12T09:12:37Z",
+    "gold": 676997,
+    "elixir": 1043097,
+    "darkElixir": 10069,
+    "battleTime": 41
+   },
+   {
+    "time": "2026-11-12T09:13:20Z",
+    "gold": 59712,
+    "elixir": 79747,
+    "darkElixir": 963,
+    "battleTime": 32
+   },
+   {
+    "time": "2026-11-12T09:13:54Z",
+    "gold": 577846,
+    "elixir": 336893,
+    "darkElixir": 9300,
+    "battleTime": 19
+   },
+   {
+    "time": "2026-11-12T09:14:42Z",
+    "gold": 229467,
+    "elixir": 363946,
+    "darkElixir": 798,
+    "battleTime": 16
    }
   ]
  },
@@ -9088,6 +9200,13 @@
     "elixir": 1158790,
     "darkElixir": 12692,
     "battleTime": 22
+   },
+   {
+    "time": "2026-11-12T09:14:12Z",
+    "gold": 1698537,
+    "elixir": 2153465,
+    "darkElixir": 15193,
+    "battleTime": 47
    }
   ]
  },
@@ -10710,7 +10829,7 @@
  {
   "tag": "#8PPRV9RP",
   "name": "Rana",
-  "clan": "INDIAN LEGENDS",
+  "clan": "DARK NIGHT",
   "th": 18,
   "entries": [
    {
@@ -12448,6 +12567,41 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 149
+   },
+   {
+    "time": "2026-11-12T09:03:10Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 165
+   },
+   {
+    "time": "2026-11-12T09:06:59Z",
+    "gold": 1035000,
+    "elixir": 1026878,
+    "darkElixir": 10350,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T09:10:08Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 144
+   },
+   {
+    "time": "2026-11-12T09:12:52Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 134
+   },
+   {
+    "time": "2026-11-12T09:16:10Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 147
    }
   ]
  },
@@ -12652,6 +12806,20 @@
     "elixir": 844435,
     "darkElixir": 10584,
     "battleTime": 25
+   },
+   {
+    "time": "2026-11-12T09:06:26Z",
+    "gold": 454864,
+    "elixir": 436349,
+    "darkElixir": 10418,
+    "battleTime": 130
+   },
+   {
+    "time": "2026-11-12T09:08:57Z",
+    "gold": 587834,
+    "elixir": 214400,
+    "darkElixir": 1355,
+    "battleTime": 106
    }
   ]
  },
@@ -13718,6 +13886,20 @@
     "elixir": 105982,
     "darkElixir": 7655,
     "battleTime": 10
+   },
+   {
+    "time": "2026-11-12T09:03:50Z",
+    "gold": 306290,
+    "elixir": 387159,
+    "darkElixir": 11646,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T09:10:54Z",
+    "gold": 196342,
+    "elixir": 58779,
+    "darkElixir": 8596,
+    "battleTime": 25
    }
   ]
  },
@@ -15678,6 +15860,27 @@
     "elixir": 777264,
     "darkElixir": 9048,
     "battleTime": 17
+   },
+   {
+    "time": "2026-11-12T09:01:43Z",
+    "gold": 378309,
+    "elixir": 640555,
+    "darkElixir": 12409,
+    "battleTime": 7
+   },
+   {
+    "time": "2026-11-12T09:02:26Z",
+    "gold": 892333,
+    "elixir": 984618,
+    "darkElixir": 12435,
+    "battleTime": 26
+   },
+   {
+    "time": "2026-11-12T09:02:57Z",
+    "gold": 871935,
+    "elixir": 884833,
+    "darkElixir": 11076,
+    "battleTime": 21
    }
   ]
  },
@@ -16190,6 +16393,13 @@
     "elixir": 897361,
     "darkElixir": 9519,
     "battleTime": 27
+   },
+   {
+    "time": "2026-11-12T09:02:09Z",
+    "gold": 867642,
+    "elixir": 820634,
+    "darkElixir": 7763,
+    "battleTime": 22
    }
   ]
  },
