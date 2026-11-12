@@ -3317,6 +3317,55 @@
     "elixir": 106272,
     "darkElixir": 10279,
     "battleTime": 14
+   },
+   {
+    "time": "2026-11-12T05:48:11Z",
+    "gold": 903126,
+    "elixir": 694303,
+    "darkElixir": 15232,
+    "battleTime": 47
+   },
+   {
+    "time": "2026-11-12T05:48:47Z",
+    "gold": 370284,
+    "elixir": 156515,
+    "darkElixir": 12399,
+    "battleTime": 16
+   },
+   {
+    "time": "2026-11-12T05:49:59Z",
+    "gold": 143264,
+    "elixir": 143272,
+    "darkElixir": 13290,
+    "battleTime": 13
+   },
+   {
+    "time": "2026-11-12T05:51:20Z",
+    "gold": 53409,
+    "elixir": 285271,
+    "darkElixir": 10708,
+    "battleTime": 23
+   },
+   {
+    "time": "2026-11-12T05:51:58Z",
+    "gold": 511926,
+    "elixir": 449077,
+    "darkElixir": 14226,
+    "battleTime": 18
+   },
+   {
+    "time": "2026-11-12T05:52:39Z",
+    "gold": 1785067,
+    "elixir": 1124123,
+    "darkElixir": 26207,
+    "battleTime": 22
+   },
+   {
+    "time": "2026-11-12T06:01:35Z",
+    "gold": 1092595,
+    "elixir": 2195416,
+    "darkElixir": 12041,
+    "battleTime": 17
    }
   ]
  },
@@ -7376,6 +7425,34 @@
     "elixir": 791958,
     "darkElixir": 8009,
     "battleTime": 149
+   },
+   {
+    "time": "2026-11-12T05:48:45Z",
+    "gold": 886955,
+    "elixir": 1004802,
+    "darkElixir": 9973,
+    "battleTime": 150
+   },
+   {
+    "time": "2026-11-12T05:53:53Z",
+    "gold": 1791831,
+    "elixir": 1599641,
+    "darkElixir": 13236,
+    "battleTime": 164
+   },
+   {
+    "time": "2026-11-12T05:56:51Z",
+    "gold": 1257755,
+    "elixir": 1231964,
+    "darkElixir": 9553,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T05:59:57Z",
+    "gold": 2886165,
+    "elixir": 3202773,
+    "darkElixir": 29319,
+    "battleTime": 123
    }
   ]
  },
@@ -7735,6 +7812,13 @@
     "elixir": 989511,
     "darkElixir": 9404,
     "battleTime": 170
+   },
+   {
+    "time": "2026-11-12T05:47:46Z",
+    "gold": 0,
+    "elixir": 65616,
+    "darkElixir": 0,
+    "battleTime": 32
    }
   ]
  },
@@ -19702,7 +19786,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "Band of Reapers",
+  "clan": "ميدان الرجال",
   "th": 16,
   "entries": [
    {
@@ -24638,7 +24722,7 @@
  {
   "tag": "#L8JPGRG2R",
   "name": "ᵀᴛᵀ‿ＶＯＩＤ多",
-  "clan": "",
+  "clan": "Rising Rain",
   "th": 15,
   "entries": [
    {
