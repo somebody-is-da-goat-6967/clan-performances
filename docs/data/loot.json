@@ -5353,6 +5353,41 @@
     "elixir": 1723381,
     "darkElixir": 10260,
     "battleTime": 47
+   },
+   {
+    "time": "2026-11-12T03:18:18Z",
+    "gold": 1009766,
+    "elixir": 1007063,
+    "darkElixir": 12833,
+    "battleTime": 36
+   },
+   {
+    "time": "2026-11-12T03:19:22Z",
+    "gold": 1236641,
+    "elixir": 2564209,
+    "darkElixir": 23217,
+    "battleTime": 48
+   },
+   {
+    "time": "2026-11-12T03:20:45Z",
+    "gold": 1598655,
+    "elixir": 1553315,
+    "darkElixir": 10697,
+    "battleTime": 62
+   },
+   {
+    "time": "2026-11-12T03:21:35Z",
+    "gold": 576221,
+    "elixir": 519963,
+    "darkElixir": 7682,
+    "battleTime": 37
+   },
+   {
+    "time": "2026-11-12T03:22:38Z",
+    "gold": 2380674,
+    "elixir": 2345856,
+    "darkElixir": 18108,
+    "battleTime": 51
    }
   ]
  },
@@ -8150,7 +8185,7 @@
  {
   "tag": "#GYQQC8L20",
   "name": "Mr.Sam",
-  "clan": "Reaper Crew",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -10015,6 +10050,13 @@
     "elixir": 585864,
     "darkElixir": 5544,
     "battleTime": 50
+   },
+   {
+    "time": "2026-11-12T03:17:06Z",
+    "gold": 959953,
+    "elixir": 847846,
+    "darkElixir": 12073,
+    "battleTime": 27
    }
   ]
  },
@@ -26537,6 +26579,34 @@
     "elixir": 908963,
     "darkElixir": 10090,
     "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T03:17:17Z",
+    "gold": 592200,
+    "elixir": 596907,
+    "darkElixir": 0,
+    "battleTime": 141
+   },
+   {
+    "time": "2026-11-12T03:21:09Z",
+    "gold": 987000,
+    "elixir": 394800,
+    "darkElixir": 10090,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T03:25:20Z",
+    "gold": 785044,
+    "elixir": 987000,
+    "darkElixir": 4796,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T03:28:35Z",
+    "gold": 587495,
+    "elixir": 394800,
+    "darkElixir": 2018,
+    "battleTime": 172
    }
   ]
  },
