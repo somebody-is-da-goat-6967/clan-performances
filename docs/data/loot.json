@@ -673,6 +673,41 @@
     "elixir": 1097641,
     "darkElixir": 9532,
     "battleTime": 31
+   },
+   {
+    "time": "2026-11-12T09:33:24Z",
+    "gold": 1186824,
+    "elixir": 841390,
+    "darkElixir": 12911,
+    "battleTime": 39
+   },
+   {
+    "time": "2026-11-12T09:34:22Z",
+    "gold": 2248945,
+    "elixir": 2154642,
+    "darkElixir": 9250,
+    "battleTime": 36
+   },
+   {
+    "time": "2026-11-12T09:36:25Z",
+    "gold": 2628851,
+    "elixir": 2702243,
+    "darkElixir": 20650,
+    "battleTime": 60
+   },
+   {
+    "time": "2026-11-12T09:37:28Z",
+    "gold": 1819221,
+    "elixir": 1817883,
+    "darkElixir": 16257,
+    "battleTime": 40
+   },
+   {
+    "time": "2026-11-12T09:38:50Z",
+    "gold": 2027780,
+    "elixir": 2030178,
+    "darkElixir": 13763,
+    "battleTime": 59
    }
   ]
  },
@@ -5308,6 +5343,13 @@
     "elixir": 1831867,
     "darkElixir": 11023,
     "battleTime": 34
+   },
+   {
+    "time": "2026-11-12T09:47:00Z",
+    "gold": 647895,
+    "elixir": 658723,
+    "darkElixir": 7867,
+    "battleTime": 33
    }
   ]
  },
@@ -10829,7 +10871,7 @@
  {
   "tag": "#8PPRV9RP",
   "name": "Rana",
-  "clan": "DARK NIGHT",
+  "clan": "SQUAD SARAWAK",
   "th": 18,
   "entries": [
    {
@@ -20460,6 +20502,55 @@
     "elixir": 682615,
     "darkElixir": 4608,
     "battleTime": 17
+   },
+   {
+    "time": "2026-11-12T09:38:05Z",
+    "gold": 1205747,
+    "elixir": 564827,
+    "darkElixir": 7733,
+    "battleTime": 57
+   },
+   {
+    "time": "2026-11-12T09:38:43Z",
+    "gold": 679704,
+    "elixir": 615558,
+    "darkElixir": 1650,
+    "battleTime": 21
+   },
+   {
+    "time": "2026-11-12T09:39:25Z",
+    "gold": 934855,
+    "elixir": 939913,
+    "darkElixir": 12628,
+    "battleTime": 13
+   },
+   {
+    "time": "2026-11-12T09:39:53Z",
+    "gold": 24374,
+    "elixir": 140412,
+    "darkElixir": 287,
+    "battleTime": 10
+   },
+   {
+    "time": "2026-11-12T09:40:21Z",
+    "gold": 974256,
+    "elixir": 1041323,
+    "darkElixir": 13149,
+    "battleTime": 16
+   },
+   {
+    "time": "2026-11-12T09:41:19Z",
+    "gold": 550936,
+    "elixir": 509211,
+    "darkElixir": 4719,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-12T09:42:00Z",
+    "gold": 647743,
+    "elixir": 474224,
+    "darkElixir": 6326,
+    "battleTime": 26
    }
   ]
  },
