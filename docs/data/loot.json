@@ -12602,6 +12602,20 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 147
+   },
+   {
+    "time": "2026-11-12T09:20:10Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T09:23:06Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 148
    }
   ]
  },
@@ -17631,6 +17645,20 @@
     "elixir": 303204,
     "darkElixir": 9788,
     "battleTime": 44
+   },
+   {
+    "time": "2026-11-12T09:30:46Z",
+    "gold": 534730,
+    "elixir": 517396,
+    "darkElixir": 8202,
+    "battleTime": 22
+   },
+   {
+    "time": "2026-11-12T09:31:40Z",
+    "gold": 365098,
+    "elixir": 821444,
+    "darkElixir": 1562,
+    "battleTime": 37
    }
   ]
  },
