@@ -885,12 +885,12 @@
   "tag": "#9JJP09P02",
   "th": 18,
   "pos": 25,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 3.5,
+  "attackDetail": "1★ 3%, 1★ 4%"
  },
  {
   "date": "2026-11-12T20:30:59Z",
