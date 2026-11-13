@@ -619,12 +619,12 @@
   "tag": "#8JQR80YVV",
   "th": 18,
   "pos": 19,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 94.5,
+  "attackDetail": "2★ 97%, 1★ 92%"
  },
  {
   "date": "2026-11-12T20:30:59Z",
