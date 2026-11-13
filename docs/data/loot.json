@@ -1052,6 +1052,34 @@
     "elixir": 828000,
     "darkElixir": 10350,
     "battleTime": 180
+   },
+   {
+    "time": "2026-11-12T23:52:35Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 159
+   },
+   {
+    "time": "2026-11-12T23:56:30Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 8538,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-13T00:00:11Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180
+   },
+   {
+    "time": "2026-11-13T00:03:30Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 154
    }
   ]
  },
@@ -3820,6 +3848,34 @@
     "elixir": 1992806,
     "darkElixir": 11670,
     "battleTime": 148
+   },
+   {
+    "time": "2026-11-12T23:49:50Z",
+    "gold": 2173508,
+    "elixir": 2173557,
+    "darkElixir": 15892,
+    "battleTime": 126
+   },
+   {
+    "time": "2026-11-13T00:00:55Z",
+    "gold": 2257652,
+    "elixir": 2253525,
+    "darkElixir": 16811,
+    "battleTime": 167
+   },
+   {
+    "time": "2026-11-13T00:03:22Z",
+    "gold": 343255,
+    "elixir": 343255,
+    "darkElixir": 898,
+    "battleTime": 7
+   },
+   {
+    "time": "2026-11-13T00:04:22Z",
+    "gold": 27621,
+    "elixir": 19798,
+    "darkElixir": 252,
+    "battleTime": 34
    }
   ]
  },
@@ -15038,6 +15094,27 @@
     "elixir": 526595,
     "darkElixir": 4349,
     "battleTime": 12
+   },
+   {
+    "time": "2026-11-12T23:49:42Z",
+    "gold": 166883,
+    "elixir": 107923,
+    "darkElixir": 1189,
+    "battleTime": 19
+   },
+   {
+    "time": "2026-11-12T23:50:22Z",
+    "gold": 285755,
+    "elixir": 438692,
+    "darkElixir": 4580,
+    "battleTime": 27
+   },
+   {
+    "time": "2026-11-12T23:51:00Z",
+    "gold": 541890,
+    "elixir": 523672,
+    "darkElixir": 12070,
+    "battleTime": 11
    }
   ]
  },
@@ -30550,7 +30627,7 @@
  {
   "tag": "#GVU2JCP2Q",
   "name": "carbonfin th2",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Two",
   "th": 15,
   "entries": [
    {
