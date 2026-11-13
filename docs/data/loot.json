@@ -25953,6 +25953,72 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 10
+   },
+   {
+    "time": "2026-11-13T12:48:18Z",
+    "gold": 100041,
+    "elixir": 191572,
+    "darkElixir": 16244,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
+   },
+   {
+    "time": "2026-11-13T12:49:44Z",
+    "gold": 1086363,
+    "elixir": 88678,
+    "darkElixir": 12516,
+    "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
+   },
+   {
+    "time": "2026-11-13T12:50:46Z",
+    "gold": 6818,
+    "elixir": 24486,
+    "darkElixir": 656,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 2
+   },
+   {
+    "time": "2026-11-13T12:51:32Z",
+    "gold": 393872,
+    "elixir": 438354,
+    "darkElixir": 10264,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 7
+   },
+   {
+    "time": "2026-11-13T12:52:59Z",
+    "gold": 99148,
+    "elixir": 46640,
+    "darkElixir": 8290,
+    "battleTime": 67,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 44
+   },
+   {
+    "time": "2026-11-13T12:59:47Z",
+    "gold": 187490,
+    "elixir": 672249,
+    "darkElixir": 13491,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
    }
   ]
  },
@@ -45795,6 +45861,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-13T12:50:02Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T12:52:42Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 135,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
