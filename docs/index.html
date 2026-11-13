@@ -318,7 +318,8 @@ function lbBase() {
   if (mode === "legend" || mode === "all") {
     const legends = new Map();
     (state.data.loot || []).forEach(player => (player.entries || []).forEach(e => {
-      if (!/legend/i.test(e.league || "") || e.stars == null) return;
+      if (e.battleType !== "LEGEND" && !/legend/i.test(e.league || "")) return;
+      if (e.stars == null) return;
       const s = legends.get(player.tag) || { fb: player, n: 0, stars: 0, three: 0, dsum: 0, dn: 0 };
       s.n++; s.stars += Number(e.stars) || 0;
       if (Number(e.stars) === 3) s.three++;

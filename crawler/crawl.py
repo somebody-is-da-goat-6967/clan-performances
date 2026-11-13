@@ -236,8 +236,9 @@ def crawl_loot(api, players_db, loot_store, errors):
                     "darkElixir": amounts.get("DarkElixir", 0),
                     "battleTime": item.get("battleTime", 0) or 0,
                     "league": (item.get("league") or {}).get("name", ""),
-                    "stars": (item.get("attack") or {}).get("stars"),
-                    "destruction": (item.get("attack") or {}).get("destructionPercentage"),
+                    "battleType": item.get("battleType", ""),
+                    "stars": item.get("stars"),
+                    "destruction": item.get("destructionPercentage"),
                 }
             loot_store[tag] = {k: v for k, v in old.items() if _iso_timestamp(v.get("time")) >= cutoff}
 
