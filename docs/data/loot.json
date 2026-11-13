@@ -18963,6 +18963,94 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 82
+   },
+   {
+    "time": "2026-11-13T20:18:15Z",
+    "gold": 688588,
+    "elixir": 962309,
+    "darkElixir": 11897,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-13T20:21:37Z",
+    "gold": 1361119,
+    "elixir": 971691,
+    "darkElixir": 8399,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 46
+   },
+   {
+    "time": "2026-11-13T20:22:48Z",
+    "gold": 680516,
+    "elixir": 531448,
+    "darkElixir": 11342,
+    "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-13T20:24:26Z",
+    "gold": 1259363,
+    "elixir": 735743,
+    "darkElixir": 15201,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-13T20:25:51Z",
+    "gold": 85881,
+    "elixir": 814855,
+    "darkElixir": 10895,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-13T20:26:55Z",
+    "gold": 540983,
+    "elixir": 699475,
+    "darkElixir": 10081,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-13T20:29:03Z",
+    "gold": 651705,
+    "elixir": 574169,
+    "darkElixir": 13180,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-13T20:31:36Z",
+    "gold": 927023,
+    "elixir": 873656,
+    "darkElixir": 10387,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
    }
   ]
  },
@@ -26564,6 +26652,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 51
+   },
+   {
+    "time": "2026-11-13T20:21:44Z",
+    "gold": 208908,
+    "elixir": 0,
+    "darkElixir": 5473,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 10
    }
   ]
  },
@@ -27135,6 +27234,83 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-13T20:22:50Z",
+    "gold": 1080000,
+    "elixir": 1446276,
+    "darkElixir": 10876,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 25
+   },
+   {
+    "time": "2026-11-13T20:26:27Z",
+    "gold": 195615,
+    "elixir": 779053,
+    "darkElixir": 5694,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 33
+   },
+   {
+    "time": "2026-11-13T20:28:05Z",
+    "gold": 429630,
+    "elixir": 443306,
+    "darkElixir": 14473,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 41
+   },
+   {
+    "time": "2026-11-13T20:29:08Z",
+    "gold": 522346,
+    "elixir": 460322,
+    "darkElixir": 8119,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 42
+   },
+   {
+    "time": "2026-11-13T20:29:58Z",
+    "gold": 81130,
+    "elixir": 194872,
+    "darkElixir": 5792,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
+   },
+   {
+    "time": "2026-11-13T20:30:35Z",
+    "gold": 247189,
+    "elixir": 94790,
+    "darkElixir": 12752,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-13T20:31:22Z",
+    "gold": 162535,
+    "elixir": 134759,
+    "darkElixir": 4632,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 27
    }
   ]
  },
