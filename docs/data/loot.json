@@ -17639,7 +17639,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "Reaper Crew",
+  "clan": "Smoke N Glory",
   "th": 18,
   "entries": [
    {
@@ -28018,7 +28018,7 @@
  {
   "tag": "#Q8JUGYLQL",
   "name": "XLG⚡️BLACKBEARD",
-  "clan": "Reaper Crew",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -38801,6 +38801,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-13T12:03:48Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
+   },
+   {
+    "time": "2026-11-13T12:06:28Z",
+    "gold": 553933,
+    "elixir": 820000,
+    "darkElixir": 8256,
+    "battleTime": 153,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 85
    }
   ]
  },
