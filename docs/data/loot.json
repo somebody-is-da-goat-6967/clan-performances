@@ -15983,6 +15983,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-13T15:59:10Z",
+    "gold": 884952,
+    "elixir": 893480,
+    "darkElixir": 9575,
+    "battleTime": 148,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -27367,6 +27378,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 33
+   },
+   {
+    "time": "2026-11-13T15:56:46Z",
+    "gold": 1143399,
+    "elixir": 379243,
+    "darkElixir": 9726,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
+   },
+   {
+    "time": "2026-11-13T15:59:49Z",
+    "gold": 98098,
+    "elixir": 0,
+    "darkElixir": 7629,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 14
    }
   ]
  },
@@ -47493,7 +47526,7 @@
  {
   "tag": "#LP2RGJVL0",
   "name": "⚓DrkEagle⚓",
-  "clan": "THE WARRIOR",
+  "clan": "NT Gaming",
   "th": 15,
   "entries": [
    {
@@ -52013,6 +52046,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-13T15:56:26Z",
+    "gold": 695519,
+    "elixir": 680508,
+    "darkElixir": 7725,
+    "battleTime": 87,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T15:58:13Z",
+    "gold": 832757,
+    "elixir": 946490,
+    "darkElixir": 8793,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
