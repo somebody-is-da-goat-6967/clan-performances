@@ -17428,6 +17428,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-13T14:36:52Z",
+    "gold": 886052,
+    "elixir": 1040998,
+    "darkElixir": 6198,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-13T14:38:42Z",
+    "gold": 843401,
+    "elixir": 1330484,
+    "darkElixir": 19496,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-13T14:40:09Z",
+    "gold": 632629,
+    "elixir": 1048946,
+    "darkElixir": 14477,
+    "battleTime": 45,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-13T14:42:27Z",
+    "gold": 1230454,
+    "elixir": 403385,
+    "darkElixir": 16009,
+    "battleTime": 67,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 48
+   },
+   {
+    "time": "2026-11-13T14:43:32Z",
+    "gold": 734179,
+    "elixir": 399921,
+    "darkElixir": 10124,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-13T14:44:41Z",
+    "gold": 1031886,
+    "elixir": 1644071,
+    "darkElixir": 17037,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
    }
   ]
  },
@@ -36199,6 +36265,50 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-13T14:34:00Z",
+    "gold": 581428,
+    "elixir": 923493,
+    "darkElixir": 4503,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T14:35:18Z",
+    "gold": 667360,
+    "elixir": 718883,
+    "darkElixir": 8221,
+    "battleTime": 64,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T14:36:44Z",
+    "gold": 2644112,
+    "elixir": 2491281,
+    "darkElixir": 20023,
+    "battleTime": 70,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T14:38:06Z",
+    "gold": 548108,
+    "elixir": 492081,
+    "darkElixir": 4947,
+    "battleTime": 66,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -50450,6 +50560,72 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 21
+   },
+   {
+    "time": "2026-11-13T14:33:23Z",
+    "gold": 2350000,
+    "elixir": 2200000,
+    "darkElixir": 14400,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
+   },
+   {
+    "time": "2026-11-13T14:33:46Z",
+    "gold": 39003,
+    "elixir": 100302,
+    "darkElixir": 7496,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 6
+   },
+   {
+    "time": "2026-11-13T14:34:41Z",
+    "gold": 186976,
+    "elixir": 0,
+    "darkElixir": 10800,
+    "battleTime": 3,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 6
+   },
+   {
+    "time": "2026-11-13T14:35:12Z",
+    "gold": 1229618,
+    "elixir": 1364754,
+    "darkElixir": 12392,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
+   },
+   {
+    "time": "2026-11-13T14:37:26Z",
+    "gold": 392682,
+    "elixir": 148736,
+    "darkElixir": 14310,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-13T14:38:18Z",
+    "gold": 671873,
+    "elixir": 926163,
+    "darkElixir": 10800,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
    }
   ]
  },
