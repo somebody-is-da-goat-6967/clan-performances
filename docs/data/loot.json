@@ -382,6 +382,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-13T19:03:21Z",
+    "gold": 1153163,
+    "elixir": 1080968,
+    "darkElixir": 7548,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-13T19:04:01Z",
+    "gold": 671639,
+    "elixir": 675660,
+    "darkElixir": 9425,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-13T19:05:02Z",
+    "gold": 486127,
+    "elixir": 587713,
+    "darkElixir": 9780,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
    }
   ]
  },
@@ -1944,6 +1977,17 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-13T19:13:50Z",
+    "gold": 1035000,
+    "elixir": 1031853,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 99
    }
   ]
  },
@@ -16270,7 +16314,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "Silent Island",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -16786,6 +16830,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 12
+   },
+   {
+    "time": "2026-11-13T16:48:26Z",
+    "gold": 393037,
+    "elixir": 171907,
+    "darkElixir": 0,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 22
+   },
+   {
+    "time": "2026-11-13T16:51:31Z",
+    "gold": 2851199,
+    "elixir": 2766012,
+    "darkElixir": 26726,
+    "battleTime": 145,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T19:08:18Z",
+    "gold": 2393807,
+    "elixir": 2341719,
+    "darkElixir": 8840,
+    "battleTime": 163,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 92
    }
   ]
  },
@@ -21396,6 +21473,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-13T19:08:36Z",
+    "gold": 382805,
+    "elixir": 254386,
+    "darkElixir": 1500,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 33
    }
   ]
  },
@@ -29053,6 +29141,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 19
+   },
+   {
+    "time": "2026-11-13T19:04:19Z",
+    "gold": 21563,
+    "elixir": 69088,
+    "darkElixir": 10049,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
+   },
+   {
+    "time": "2026-11-13T19:06:42Z",
+    "gold": 154344,
+    "elixir": 132408,
+    "darkElixir": 12928,
+    "battleTime": 118,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 11
+   },
+   {
+    "time": "2026-11-13T19:07:51Z",
+    "gold": 224710,
+    "elixir": 477606,
+    "darkElixir": 13237,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 15
    }
   ]
  },
@@ -31427,6 +31548,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 72
+   },
+   {
+    "time": "2026-11-13T19:16:02Z",
+    "gold": 1223590,
+    "elixir": 1004215,
+    "darkElixir": 12185,
+    "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
@@ -50894,7 +51026,7 @@
  {
   "tag": "#9G8LJ9VV9",
   "name": "MD. NAHIDUL -04",
-  "clan": "",
+  "clan": "عالم الانمي",
   "th": 14,
   "entries": [
    {

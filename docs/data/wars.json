@@ -676,12 +676,12 @@
   "tag": "#LCL9JRVU",
   "th": 18,
   "pos": 23,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 5,
+  "avgDestruction": 92.0,
+  "attackDetail": "3★ 100%, 2★ 84%"
  },
  {
   "date": "2026-11-12T20:30:59Z",
