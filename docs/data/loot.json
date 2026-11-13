@@ -2120,6 +2120,39 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 95
+   },
+   {
+    "time": "2026-11-13T19:50:22Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 97
+   },
+   {
+    "time": "2026-11-13T19:54:16Z",
+    "gold": 828000,
+    "elixir": 622776,
+    "darkElixir": 2070,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-13T19:57:56Z",
+    "gold": 1035000,
+    "elixir": 847881,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
@@ -26195,7 +26228,7 @@
  {
   "tag": "#Q8CCQUQL9",
   "name": "SS GOURAV ⚔️",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -31502,6 +31535,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 70
+   },
+   {
+    "time": "2026-11-13T19:50:20Z",
+    "gold": 1818047,
+    "elixir": 469379,
+    "darkElixir": 11090,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-13T19:51:09Z",
+    "gold": 1108043,
+    "elixir": 823890,
+    "darkElixir": 9881,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-13T19:53:04Z",
+    "gold": 1210642,
+    "elixir": 1131263,
+    "darkElixir": 13327,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-13T19:53:54Z",
+    "gold": 840588,
+    "elixir": 836470,
+    "darkElixir": 8497,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 74
    }
   ]
  },
@@ -37512,6 +37589,17 @@
     "elixir": 2685894,
     "darkElixir": 18317,
     "battleTime": 132,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T19:59:31Z",
+    "gold": 2372563,
+    "elixir": 1079806,
+    "darkElixir": 10615,
+    "battleTime": 108,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -53403,6 +53491,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-13T19:59:11Z",
+    "gold": 932707,
+    "elixir": 1034303,
+    "darkElixir": 12848,
+    "battleTime": 49,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 47
+   },
+   {
+    "time": "2026-11-13T20:00:23Z",
+    "gold": 967413,
+    "elixir": 1032014,
+    "darkElixir": 11696,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-13T20:01:39Z",
+    "gold": 434085,
+    "elixir": 638855,
+    "darkElixir": 702,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
    }
   ]
  },
@@ -54634,6 +54755,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 24
+   },
+   {
+    "time": "2026-11-13T19:55:08Z",
+    "gold": 2693350,
+    "elixir": 2703568,
+    "darkElixir": 17364,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 26
+   },
+   {
+    "time": "2026-11-13T19:57:33Z",
+    "gold": 1796885,
+    "elixir": 1799108,
+    "darkElixir": 16200,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
    }
   ]
  },
@@ -55625,7 +55768,7 @@
  {
   "tag": "#GRJVYL00V",
   "name": "JeRRy5",
-  "clan": "[C/H/A/M/P]",
+  "clan": "Reaper Two",
   "th": 11,
   "entries": [
    {
