@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T13:32:34Z",
+ "updatedAt": "2026-11-13T13:47:43Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -11,9 +11,18 @@
    "isWarLogPublic": true
   },
   {
+   "tag": "#2JR2Y8G0V",
+   "name": "Reaper Two",
+   "members": 16,
+   "level": 8,
+   "warLeague": "Unranked",
+   "warWins": 46,
+   "isWarLogPublic": true
+  },
+  {
    "tag": "#QQR8892U",
    "name": "THE WARRIOR",
-   "members": 42,
+   "members": 41,
    "level": 29,
    "warLeague": "Champion League III",
    "warWins": 640,
@@ -56,14 +65,6 @@
   "500 unknownException on /leaguegroup/%238CV0LC8/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "520  on /clans/%232JR2Y8G0V",
-  "520  on /players/%23Q80Q20LP0",
-  "520  on /players/%23R0LUUG9Y2",
-  "525  on /players/%23G00J22GGQ",
-  "525  on /players/%23G08GLYPGR",
-  "525  on /players/%23G08GVU2R8",
-  "525  on /players/%23G0CGYR99J",
-  "525  on /players/%23G0CPUL8QG",
-  "525  on /players/%23GJVQPR8UG"
+  "520  on /players/%2320QUCQRQY"
  ]
 }
