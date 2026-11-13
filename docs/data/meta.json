@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T01:35:02Z",
+ "updatedAt": "2026-11-13T03:57:49Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -22,7 +22,7 @@
   {
    "tag": "#QQR8892U",
    "name": "THE WARRIOR",
-   "members": 37,
+   "members": 40,
    "level": 29,
    "warLeague": "Champion League III",
    "warWins": 640,
@@ -57,13 +57,13 @@
   }
  ],
  "errors": [
+  "0 network on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
   "500 unknownException on /leaguegroup/%23800UR9P/1792990800",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238CLVVPV/1790571600",
   "500 unknownException on /leaguegroup/%238CV0LC8/1790571600",
-  "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800"
  ]
 }
