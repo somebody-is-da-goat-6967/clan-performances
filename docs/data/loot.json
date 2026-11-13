@@ -882,7 +882,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "GBSxReaperxRE",
+  "clan": "Lotus",
   "th": 18,
   "entries": [
    {
@@ -3273,6 +3273,13 @@
     "elixir": 200235,
     "darkElixir": 4622,
     "battleTime": 108
+   },
+   {
+    "time": "2026-11-13T01:21:52Z",
+    "gold": 2079229,
+    "elixir": 798276,
+    "darkElixir": 5556,
+    "battleTime": 45
    }
   ]
  },
@@ -7029,6 +7036,55 @@
     "elixir": 1958874,
     "darkElixir": 16692,
     "battleTime": 55
+   },
+   {
+    "time": "2026-11-13T01:26:11Z",
+    "gold": 1676059,
+    "elixir": 1637477,
+    "darkElixir": 13500,
+    "battleTime": 50
+   },
+   {
+    "time": "2026-11-13T01:27:07Z",
+    "gold": 556605,
+    "elixir": 633351,
+    "darkElixir": 10972,
+    "battleTime": 36
+   },
+   {
+    "time": "2026-11-13T01:28:15Z",
+    "gold": 908274,
+    "elixir": 892980,
+    "darkElixir": 12779,
+    "battleTime": 47
+   },
+   {
+    "time": "2026-11-13T01:29:44Z",
+    "gold": 1343928,
+    "elixir": 1372510,
+    "darkElixir": 14331,
+    "battleTime": 51
+   },
+   {
+    "time": "2026-11-13T01:32:04Z",
+    "gold": 1498852,
+    "elixir": 1357018,
+    "darkElixir": 9124,
+    "battleTime": 52
+   },
+   {
+    "time": "2026-11-13T01:33:41Z",
+    "gold": 2155814,
+    "elixir": 1936067,
+    "darkElixir": 16280,
+    "battleTime": 65
+   },
+   {
+    "time": "2026-11-13T01:34:45Z",
+    "gold": 859457,
+    "elixir": 969390,
+    "darkElixir": 10262,
+    "battleTime": 40
    }
   ]
  },
@@ -11950,6 +12006,62 @@
     "elixir": 701306,
     "darkElixir": 4838,
     "battleTime": 19
+   },
+   {
+    "time": "2026-11-13T01:23:48Z",
+    "gold": 26653,
+    "elixir": 60088,
+    "darkElixir": 647,
+    "battleTime": 16
+   },
+   {
+    "time": "2026-11-13T01:24:17Z",
+    "gold": 458067,
+    "elixir": 525666,
+    "darkElixir": 14863,
+    "battleTime": 12
+   },
+   {
+    "time": "2026-11-13T01:24:51Z",
+    "gold": 29056,
+    "elixir": 37409,
+    "darkElixir": 988,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-13T01:25:19Z",
+    "gold": 299846,
+    "elixir": 469976,
+    "darkElixir": 8062,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-13T01:25:41Z",
+    "gold": 330772,
+    "elixir": 550963,
+    "darkElixir": 1902,
+    "battleTime": 10
+   },
+   {
+    "time": "2026-11-13T01:26:08Z",
+    "gold": 359838,
+    "elixir": 378945,
+    "darkElixir": 6200,
+    "battleTime": 15
+   },
+   {
+    "time": "2026-11-13T01:26:29Z",
+    "gold": 141590,
+    "elixir": 132390,
+    "darkElixir": 3238,
+    "battleTime": 10
+   },
+   {
+    "time": "2026-11-13T01:27:01Z",
+    "gold": 469703,
+    "elixir": 459582,
+    "darkElixir": 6233,
+    "battleTime": 12
    }
   ]
  },
@@ -31206,7 +31318,7 @@
  {
   "tag": "#GQ9QL0YUC",
   "name": "Blinne 2.0",
-  "clan": "Syndicate",
+  "clan": "Brazilian Storm",
   "th": 15,
   "entries": [
    {
