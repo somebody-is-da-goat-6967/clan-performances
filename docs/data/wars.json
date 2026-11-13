@@ -524,12 +524,12 @@
   "tag": "#9VJP2Q89J",
   "th": 18,
   "pos": 20,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 31.5,
+  "attackDetail": "1★ 28%, 1★ 35%"
  },
  {
   "date": "2026-11-12T20:30:59Z",
