@@ -25865,6 +25865,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 37
+   },
+   {
+    "time": "2026-11-13T12:28:46Z",
+    "gold": 1060585,
+    "elixir": 612903,
+    "darkElixir": 9146,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-13T12:30:10Z",
+    "gold": 423958,
+    "elixir": 536776,
+    "darkElixir": 4675,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 25
    }
   ]
  },
@@ -40335,7 +40357,7 @@
  {
   "tag": "#PJ202YRPG",
   "name": "乙モUち",
-  "clan": "GBSxReaperxRE",
+  "clan": "Reaper crew",
   "th": 16,
   "entries": [
    {
@@ -45641,6 +45663,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 63
+   },
+   {
+    "time": "2026-11-13T12:28:12Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T12:31:23Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
