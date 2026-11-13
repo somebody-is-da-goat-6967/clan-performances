@@ -9633,7 +9633,7 @@
  {
   "tag": "#R0980PPU8",
   "name": "FanTong",
-  "clan": "",
+  "clan": "AVENGERS",
   "th": 18,
   "entries": [
    {
@@ -23056,6 +23056,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-13T11:39:50Z",
+    "gold": 773843,
+    "elixir": 888220,
+    "darkElixir": 19204,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T11:41:53Z",
+    "gold": 1269577,
+    "elixir": 809213,
+    "darkElixir": 10189,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -31803,6 +31825,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-13T11:45:15Z",
+    "gold": 2192014,
+    "elixir": 2123126,
+    "darkElixir": 10931,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -33314,7 +33347,7 @@
  {
   "tag": "#QL80LUUYU",
   "name": "sq",
-  "clan": "GBSxReaperxRE",
+  "clan": "Reaper Crew",
   "th": 17,
   "entries": [
    {
@@ -33322,35 +33355,55 @@
     "gold": 1035000,
     "elixir": 1035000,
     "darkElixir": 10350,
-    "battleTime": 167
+    "battleTime": 167,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    },
    {
     "time": "2026-11-05T21:26:01Z",
     "gold": 931500,
     "elixir": 1028868,
     "darkElixir": 10350,
-    "battleTime": 152
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 85
    },
    {
     "time": "2026-11-09T15:21:08Z",
     "gold": 1179615,
     "elixir": 1378692,
     "darkElixir": 12797,
-    "battleTime": 40
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    },
    {
     "time": "2026-11-09T22:39:28Z",
     "gold": 1035000,
     "elixir": 1035000,
     "darkElixir": 10350,
-    "battleTime": 137
+    "battleTime": 137,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    },
    {
     "time": "2026-11-09T22:42:34Z",
     "gold": 828000,
     "elixir": 828000,
     "darkElixir": 5606,
-    "battleTime": 180
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 96
    },
    {
     "time": "2026-11-05T19:53:55Z",
@@ -38568,6 +38621,72 @@
     "elixir": 1025000,
     "darkElixir": 10320,
     "battleTime": 141,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T11:31:44Z",
+    "gold": 820000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-13T11:34:18Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 147,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T11:36:48Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 129,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T11:38:43Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 100,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T11:41:20Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-13T11:43:52Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 138,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
