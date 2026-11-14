@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "Reaper Crew",
+  "clan": "angry birds",
   "th": 18,
   "entries": [
    {
@@ -984,6 +984,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 63
+   },
+   {
+    "time": "2026-11-14T11:30:46Z",
+    "gold": 561764,
+    "elixir": 963440,
+    "darkElixir": 15032,
+    "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-14T11:31:49Z",
+    "gold": 604893,
+    "elixir": 582488,
+    "darkElixir": 8956,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
    }
   ]
  },
@@ -11833,6 +11855,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-14T11:29:05Z",
+    "gold": 882333,
+    "elixir": 352995,
+    "darkElixir": 7108,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 75
    }
   ]
  },
@@ -12627,6 +12660,72 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-14T11:18:42Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T11:20:53Z",
+    "gold": 621000,
+    "elixir": 828000,
+    "darkElixir": 8723,
+    "battleTime": 115,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-14T11:23:27Z",
+    "gold": 828000,
+    "elixir": 906417,
+    "darkElixir": 2070,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-14T11:25:50Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 122,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-14T11:27:43Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 96,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T11:29:53Z",
+    "gold": 676599,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 108,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 62
    }
   ]
  },
@@ -48888,7 +48987,7 @@
  {
   "tag": "#GJU88CG9G",
   "name": "アディティア",
-  "clan": "WARRIORS",
+  "clan": "⚡RAJPUT⚡",
   "th": 17,
   "entries": [
    {
