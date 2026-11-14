@@ -17224,6 +17224,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 54
+   },
+   {
+    "time": "2026-11-14T12:46:48Z",
+    "gold": 79456,
+    "elixir": 214410,
+    "darkElixir": 1436,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
    }
   ]
  },
@@ -31557,6 +31568,94 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-14T12:51:02Z",
+    "gold": 581465,
+    "elixir": 933637,
+    "darkElixir": 5196,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-14T12:52:28Z",
+    "gold": 1009764,
+    "elixir": 986877,
+    "darkElixir": 4522,
+    "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-14T12:53:53Z",
+    "gold": 297543,
+    "elixir": 356416,
+    "darkElixir": 9125,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-14T12:55:17Z",
+    "gold": 542083,
+    "elixir": 59464,
+    "darkElixir": 1501,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
+   },
+   {
+    "time": "2026-11-14T12:56:41Z",
+    "gold": 164450,
+    "elixir": 428514,
+    "darkElixir": 4217,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-14T12:58:03Z",
+    "gold": 181717,
+    "elixir": 1196390,
+    "darkElixir": 5377,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 45
+   },
+   {
+    "time": "2026-11-14T12:59:28Z",
+    "gold": 194610,
+    "elixir": 481036,
+    "darkElixir": 1921,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-14T13:00:55Z",
+    "gold": 246012,
+    "elixir": 298827,
+    "darkElixir": 6878,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
    }
   ]
  },
@@ -56462,7 +56561,7 @@
  {
   "tag": "#PJ202YRPG",
   "name": "乙モUち",
-  "clan": "",
+  "clan": "KING & QUEEN",
   "th": 16,
   "entries": [
    {
