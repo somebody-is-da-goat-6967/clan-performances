@@ -18588,6 +18588,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 81
+   },
+   {
+    "time": "2026-11-14T19:17:29Z",
+    "gold": 679510,
+    "elixir": 530294,
+    "darkElixir": 7366,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-14T19:19:46Z",
+    "gold": 394025,
+    "elixir": 615035,
+    "darkElixir": 4198,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-14T19:20:48Z",
+    "gold": 928903,
+    "elixir": 313929,
+    "darkElixir": 3253,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 64
    }
   ]
  },
@@ -42341,6 +42374,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-14T19:25:47Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -54714,7 +54758,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "Reaper Crew",
+  "clan": "",
   "th": 16,
   "entries": [
    {
