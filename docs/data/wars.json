@@ -258,12 +258,12 @@
   "tag": "#YGR89L22L",
   "th": 18,
   "pos": 18,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 11.0,
+  "attackDetail": "1★ 10%, 1★ 12%"
  },
  {
   "date": "2026-11-13T01:39:09Z",
