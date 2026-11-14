@@ -24913,6 +24913,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 59
+   },
+   {
+    "time": "2026-11-14T15:07:54Z",
+    "gold": 802115,
+    "elixir": 738020,
+    "darkElixir": 9063,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-14T15:09:57Z",
+    "gold": 786344,
+    "elixir": 167529,
+    "darkElixir": 5006,
+    "battleTime": 71,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-14T15:13:17Z",
+    "gold": 2415268,
+    "elixir": 2431466,
+    "darkElixir": 19015,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 41
    }
   ]
  },
@@ -41034,6 +41067,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-14T15:09:50Z",
+    "gold": 1479633,
+    "elixir": 1487782,
+    "darkElixir": 2628,
+    "battleTime": 84,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 83
+   },
+   {
+    "time": "2026-11-14T15:11:31Z",
+    "gold": 1431803,
+    "elixir": 1475069,
+    "darkElixir": 12860,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 82
    }
   ]
  },
@@ -42990,6 +43045,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 21
+   },
+   {
+    "time": "2026-11-14T15:04:46Z",
+    "gold": 175394,
+    "elixir": 209400,
+    "darkElixir": 2606,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-14T15:05:20Z",
+    "gold": 140599,
+    "elixir": 251981,
+    "darkElixir": 2081,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
    }
   ]
  },
@@ -65082,7 +65159,7 @@
  {
   "tag": "#9G8LJ9VV9",
   "name": "MD. NAHIDUL -04",
-  "clan": "عالم الانمي",
+  "clan": "",
   "th": 14,
   "entries": [
    {
