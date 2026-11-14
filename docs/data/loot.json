@@ -8455,6 +8455,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-14T15:59:48Z",
+    "gold": 1200946,
+    "elixir": 1135063,
+    "darkElixir": 9494,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-14T16:00:41Z",
+    "gold": 1114198,
+    "elixir": 987117,
+    "darkElixir": 9174,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T16:02:01Z",
+    "gold": 716871,
+    "elixir": 796196,
+    "darkElixir": 7990,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -41844,7 +41877,7 @@
  {
   "tag": "#9JJP09P02",
   "name": "Неизвестный",
-  "clan": "Band of Reapers",
+  "clan": "Reaper Two",
   "th": 18,
   "entries": [
    {
@@ -61109,6 +61142,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-14T15:59:39Z",
+    "gold": 841476,
+    "elixir": 567544,
+    "darkElixir": 358,
+    "battleTime": 110,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 49
    }
   ]
  },
@@ -67620,7 +67664,7 @@
  {
   "tag": "#Q9V9URUG0",
   "name": "Geralt",
-  "clan": "Reaper Two",
+  "clan": "THE WARRIOR",
   "th": 13,
   "entries": [
    {
