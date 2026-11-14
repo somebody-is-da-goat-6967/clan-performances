@@ -1404,7 +1404,7 @@
  {
   "tag": "#L080P9YR0",
   "name": "Alpha Sierra",
-  "clan": "THE WARRIOR",
+  "clan": "REQ N REQ N GO",
   "th": 18,
   "entries": [
    {
@@ -1983,7 +1983,7 @@
  {
   "tag": "#GPQVGYJYC",
   "name": "AL|£Ñ Z©",
-  "clan": "Reaper Crew",
+  "clan": "3 Star in SUN",
   "th": 18,
   "entries": [
    {
@@ -8279,6 +8279,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 83
+   },
+   {
+    "time": "2026-11-14T15:31:12Z",
+    "gold": 706610,
+    "elixir": 942129,
+    "darkElixir": 8433,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 67
    }
   ]
  },
@@ -41089,6 +41100,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 82
+   },
+   {
+    "time": "2026-11-14T15:21:00Z",
+    "gold": 976305,
+    "elixir": 1504289,
+    "darkElixir": 12968,
+    "battleTime": 78,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T15:29:48Z",
+    "gold": 694686,
+    "elixir": 840469,
+    "darkElixir": 14826,
+    "battleTime": 78,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T15:31:08Z",
+    "gold": 433514,
+    "elixir": 1405008,
+    "darkElixir": 4845,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
