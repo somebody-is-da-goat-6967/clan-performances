@@ -1504,7 +1504,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "aaaaa",
+  "clan": "KERALA",
   "th": 18,
   "entries": [
    {
@@ -19214,7 +19214,7 @@
  {
   "tag": "#2G2R2RUL",
   "name": "Maxim",
-  "clan": "Reaper Crew",
+  "clan": "3☆ on the ⓜⓞⓞⓝ",
   "th": 18,
   "entries": [
    {
@@ -30793,7 +30793,7 @@
  {
   "tag": "#28GQU9V0",
   "name": "Toasty",
-  "clan": "Reaper Crew",
+  "clan": "3☆ in the ⓢⓤⓝ",
   "th": 18,
   "entries": [
    {
@@ -34574,6 +34574,61 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 35
+   },
+   {
+    "time": "2026-11-14T07:17:58Z",
+    "gold": 531255,
+    "elixir": 721503,
+    "darkElixir": 13329,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 16
+   },
+   {
+    "time": "2026-11-14T07:19:43Z",
+    "gold": 745917,
+    "elixir": 786425,
+    "darkElixir": 6811,
+    "battleTime": 80,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 29
+   },
+   {
+    "time": "2026-11-14T07:21:32Z",
+    "gold": 99762,
+    "elixir": 116243,
+    "darkElixir": 15074,
+    "battleTime": 92,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 44
+   },
+   {
+    "time": "2026-11-14T07:22:37Z",
+    "gold": 892523,
+    "elixir": 1487865,
+    "darkElixir": 17962,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 29
+   },
+   {
+    "time": "2026-11-14T07:24:42Z",
+    "gold": 523294,
+    "elixir": 567230,
+    "darkElixir": 17168,
+    "battleTime": 92,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 20
    }
   ]
  },
@@ -52459,7 +52514,7 @@
  {
   "tag": "#PJ202YRPG",
   "name": "乙モUち",
-  "clan": "KING & QUEEN",
+  "clan": "...",
   "th": 16,
   "entries": [
    {
