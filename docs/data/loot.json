@@ -11719,6 +11719,39 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-14T14:47:38Z",
+    "gold": 937371,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 148,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 90
+   },
+   {
+    "time": "2026-11-14T14:50:14Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T14:52:41Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 114,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -44323,6 +44356,61 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 20
+   },
+   {
+    "time": "2026-11-14T14:46:25Z",
+    "gold": 10536,
+    "elixir": 6017,
+    "darkElixir": 5856,
+    "battleTime": 5,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 10
+   },
+   {
+    "time": "2026-11-14T14:46:54Z",
+    "gold": 67645,
+    "elixir": 455328,
+    "darkElixir": 5388,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 30
+   },
+   {
+    "time": "2026-11-14T14:47:49Z",
+    "gold": 911114,
+    "elixir": 1337067,
+    "darkElixir": 13684,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-14T14:49:01Z",
+    "gold": 48057,
+    "elixir": 31989,
+    "darkElixir": 7228,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 10
+   },
+   {
+    "time": "2026-11-14T14:49:55Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 5205,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 7
    }
   ]
  },
@@ -69246,7 +69334,7 @@
  {
   "tag": "#R8JVQLC8V",
   "name": "ABIR 7525",
-  "clan": "Reaper Two",
+  "clan": "GREEK FAM",
   "th": 11,
   "entries": []
  },
