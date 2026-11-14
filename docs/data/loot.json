@@ -12790,6 +12790,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 54
+   },
+   {
+    "time": "2026-11-14T17:49:06Z",
+    "gold": 683301,
+    "elixir": 1639109,
+    "darkElixir": 11292,
+    "battleTime": 72,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -30489,6 +30500,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-14T17:55:04Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 168,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 94
+   },
+   {
+    "time": "2026-11-14T18:01:43Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 158,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -31284,6 +31317,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 40
+   },
+   {
+    "time": "2026-11-14T17:53:53Z",
+    "gold": 862846,
+    "elixir": 256807,
+    "darkElixir": 4894,
+    "battleTime": 121,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-14T17:55:32Z",
+    "gold": 1686919,
+    "elixir": 1372337,
+    "darkElixir": 12891,
+    "battleTime": 70,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 68
    }
   ]
  },
@@ -49065,7 +49120,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "سلطان",
+  "clan": "EDARAH COMPOUND",
   "th": 17,
   "entries": [
    {
@@ -56911,6 +56966,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-14T17:53:41Z",
+    "gold": 730577,
+    "elixir": 817409,
+    "darkElixir": 11495,
+    "battleTime": 106,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T17:56:11Z",
+    "gold": 952975,
+    "elixir": 889022,
+    "darkElixir": 9045,
+    "battleTime": 109,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -63628,6 +63705,17 @@
     "elixir": 1297541,
     "darkElixir": 13343,
     "battleTime": 89,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T18:01:01Z",
+    "gold": 1144279,
+    "elixir": 1105460,
+    "darkElixir": 4784,
+    "battleTime": 96,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
