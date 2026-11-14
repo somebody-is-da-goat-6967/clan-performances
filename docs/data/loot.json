@@ -8488,6 +8488,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-14T16:05:34Z",
+    "gold": 907170,
+    "elixir": 444695,
+    "darkElixir": 4340,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-14T16:06:27Z",
+    "gold": 852040,
+    "elixir": 959132,
+    "darkElixir": 9684,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 90
+   },
+   {
+    "time": "2026-11-14T16:07:42Z",
+    "gold": 1103464,
+    "elixir": 1034934,
+    "darkElixir": 11997,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 84
    }
   ]
  },
@@ -19103,6 +19136,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 61
+   },
+   {
+    "time": "2026-11-14T16:15:35Z",
+    "gold": 14400,
+    "elixir": 12801,
+    "darkElixir": 1154,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-14T16:16:35Z",
+    "gold": 626964,
+    "elixir": 684820,
+    "darkElixir": 5322,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -24440,6 +24495,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-14T16:07:02Z",
+    "gold": 674683,
+    "elixir": 171806,
+    "darkElixir": 7108,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-14T16:13:47Z",
+    "gold": 634875,
+    "elixir": 366469,
+    "darkElixir": 11220,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-14T16:14:27Z",
+    "gold": 170002,
+    "elixir": 169974,
+    "darkElixir": 954,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
    }
   ]
  },
@@ -41877,7 +41965,7 @@
  {
   "tag": "#9JJP09P02",
   "name": "Неизвестный",
-  "clan": "Reaper Two",
+  "clan": "THE WARRIOR",
   "th": 18,
   "entries": [
    {
@@ -48234,6 +48322,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-14T16:03:39Z",
+    "gold": 1272187,
+    "elixir": 885905,
+    "darkElixir": 10343,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 72
    }
   ]
  },
@@ -55276,6 +55375,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-14T16:13:44Z",
+    "gold": 769621,
+    "elixir": 1294861,
+    "darkElixir": 8626,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-14T16:14:40Z",
+    "gold": 865534,
+    "elixir": 863165,
+    "darkElixir": 6948,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-14T16:15:55Z",
+    "gold": 854628,
+    "elixir": 994407,
+    "darkElixir": 6280,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
    }
   ]
  },
@@ -55773,7 +55905,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "50 SPECIAL !!",
   "th": 16,
   "entries": [
    {
@@ -64729,6 +64861,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 98
+   },
+   {
+    "time": "2026-11-14T16:16:33Z",
+    "gold": 1012000,
+    "elixir": 1012000,
+    "darkElixir": 10240,
+    "battleTime": 158,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -67664,7 +67807,7 @@
  {
   "tag": "#Q9V9URUG0",
   "name": "Geralt",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Two",
   "th": 13,
   "entries": [
    {
