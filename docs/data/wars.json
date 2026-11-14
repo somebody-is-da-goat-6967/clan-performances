@@ -106,12 +106,12 @@
   "tag": "#L0LJP9C8C",
   "th": 18,
   "pos": 7,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 60.5,
+  "attackDetail": "1★ 57%, 1★ 64%"
  },
  {
   "date": "2026-11-13T01:39:09Z",
