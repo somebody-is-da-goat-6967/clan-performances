@@ -503,6 +503,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-14T02:34:08Z",
+    "gold": 1699567,
+    "elixir": 1368036,
+    "darkElixir": 8649,
+    "battleTime": 45,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 69
    }
   ]
  },
@@ -1863,7 +1874,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "Reaper Crew",
+  "clan": "July",
   "th": 18,
   "entries": [
    {
@@ -45131,6 +45142,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-14T02:38:44Z",
+    "gold": 234522,
+    "elixir": 232352,
+    "darkElixir": 2746,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T02:39:52Z",
+    "gold": 796588,
+    "elixir": 886309,
+    "darkElixir": 10726,
+    "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -51037,6 +51070,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 41
+   },
+   {
+    "time": "2026-11-14T02:41:19Z",
+    "gold": 344784,
+    "elixir": 365365,
+    "darkElixir": 4403,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-14T02:42:04Z",
+    "gold": 73190,
+    "elixir": 131902,
+    "darkElixir": 2093,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
