@@ -2009,7 +2009,7 @@
  {
   "tag": "#GPQVGYJYC",
   "name": "AL|£Ñ Z©",
-  "clan": "",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -10648,6 +10648,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 14
+   },
+   {
+    "time": "2026-11-15T11:15:42Z",
+    "gold": 1438363,
+    "elixir": 1500563,
+    "darkElixir": 9047,
+    "battleTime": 49,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 82
    }
   ]
  },
@@ -14827,7 +14838,7 @@
  {
   "tag": "#992CCVJPY",
   "name": "CHAPO GUZHMAN",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -15882,6 +15893,61 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 108,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T11:03:26Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T11:05:56Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 147,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T11:08:59Z",
+    "gold": 621000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 89
+   },
+   {
+    "time": "2026-11-15T11:11:25Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 136,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T11:13:56Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 143,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -74093,6 +74159,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 29
+   },
+   {
+    "time": "2026-11-15T11:03:14Z",
+    "gold": 1299876,
+    "elixir": 1148146,
+    "darkElixir": 15521,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
    }
   ]
  },
