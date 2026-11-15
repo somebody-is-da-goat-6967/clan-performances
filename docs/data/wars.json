@@ -6395,12 +6395,12 @@
   "tag": "#QGJP2L0CQ",
   "th": 15,
   "pos": 39,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 19.0,
+  "attackDetail": "1★ 19%"
  },
  {
   "date": "2026-11-15T01:50:45Z",
