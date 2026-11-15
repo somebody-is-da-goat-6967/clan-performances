@@ -2975,7 +2975,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "Reaper Crew",
+  "clan": "GBSxReaperxRE",
   "th": 18,
   "entries": [
    {
@@ -16441,7 +16441,7 @@
  {
   "tag": "#Y9JPGRURQ",
   "name": "Chief Kugo",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 18,
   "entries": [
    {
@@ -33817,6 +33817,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-15T21:31:29Z",
+    "gold": 75361,
+    "elixir": 39684,
+    "darkElixir": 865,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-15T21:31:45Z",
+    "gold": 128446,
+    "elixir": 210913,
+    "darkElixir": 1123,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-15T21:32:09Z",
+    "gold": 428935,
+    "elixir": 288258,
+    "darkElixir": 5934,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-15T21:32:28Z",
+    "gold": 747964,
+    "elixir": 297733,
+    "darkElixir": 6982,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
    }
   ]
  },
@@ -39366,6 +39410,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 149,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T21:30:17Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 161,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -57880,6 +57935,72 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 119,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T21:17:46Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T21:20:37Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T21:23:19Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 153,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T21:26:20Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-15T21:28:57Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T21:31:35Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 144,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -76957,7 +77078,7 @@
  {
   "tag": "#GG2RQ9UPY",
   "name": "Ishtiaq Bai",
-  "clan": "GBSxReaperxRE",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
@@ -77307,6 +77428,17 @@
     "elixir": 812540,
     "darkElixir": 11543,
     "battleTime": 74,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T17:12:30Z",
+    "gold": 938583,
+    "elixir": 953426,
+    "darkElixir": 10652,
+    "battleTime": 116,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -87617,6 +87749,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-15T21:27:07Z",
+    "gold": 1012000,
+    "elixir": 774106,
+    "darkElixir": 10240,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 93
+   },
+   {
+    "time": "2026-11-15T21:30:41Z",
+    "gold": 1012000,
+    "elixir": 1012000,
+    "darkElixir": 10240,
+    "battleTime": 171,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -91823,7 +91977,7 @@
  {
   "tag": "#G22UGCQYJ",
   "name": "EdgarFire",
-  "clan": "L2K OFICIAL",
+  "clan": "",
   "th": 12,
   "entries": [
    {
