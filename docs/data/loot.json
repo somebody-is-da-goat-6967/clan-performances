@@ -11761,6 +11761,50 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-15T02:02:33Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T02:05:11Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 128,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T02:07:10Z",
+    "gold": 1021224,
+    "elixir": 566286,
+    "darkElixir": 10350,
+    "battleTime": 85,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-15T02:09:07Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -33912,7 +33956,7 @@
  {
   "tag": "#GPP0V0Q92",
   "name": "Somebody",
-  "clan": "3 Star in SUN",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
