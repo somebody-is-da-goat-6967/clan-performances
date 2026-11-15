@@ -16441,7 +16441,7 @@
  {
   "tag": "#Y9JPGRURQ",
   "name": "Chief Kugo",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -33861,6 +33861,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-15T21:42:20Z",
+    "gold": 175526,
+    "elixir": 151731,
+    "darkElixir": 2328,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-15T21:43:04Z",
+    "gold": 558304,
+    "elixir": 305975,
+    "darkElixir": 7666,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-15T21:43:26Z",
+    "gold": 46663,
+    "elixir": 83316,
+    "darkElixir": 6243,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-15T21:44:10Z",
+    "gold": 51176,
+    "elixir": 62945,
+    "darkElixir": 3323,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-15T21:44:27Z",
+    "gold": 1032924,
+    "elixir": 778769,
+    "darkElixir": 8937,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-15T21:44:45Z",
+    "gold": 458489,
+    "elixir": 472338,
+    "darkElixir": 6656,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-15T21:45:09Z",
+    "gold": 457378,
+    "elixir": 398459,
+    "darkElixir": 4262,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-15T21:45:28Z",
+    "gold": 1556718,
+    "elixir": 552852,
+    "darkElixir": 1675,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
    }
   ]
  },
@@ -39425,6 +39513,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-15T21:34:52Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -53467,6 +53566,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 53
+   },
+   {
+    "time": "2026-11-15T21:37:36Z",
+    "gold": 36534,
+    "elixir": 367076,
+    "darkElixir": 10844,
+    "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
+   },
+   {
+    "time": "2026-11-15T21:39:20Z",
+    "gold": 744704,
+    "elixir": 194655,
+    "darkElixir": 11046,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-15T21:41:22Z",
+    "gold": 0,
+    "elixir": 99009,
+    "darkElixir": 8268,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 8
+   },
+   {
+    "time": "2026-11-15T21:42:50Z",
+    "gold": 178139,
+    "elixir": 219727,
+    "darkElixir": 10194,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 15
+   },
+   {
+    "time": "2026-11-15T21:44:37Z",
+    "gold": 193927,
+    "elixir": 255672,
+    "darkElixir": 8968,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 25
    }
   ]
  },
@@ -68634,7 +68788,7 @@
  {
   "tag": "#GQUL8P0LR",
   "name": "Toast3r",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 17,
   "entries": [
    {
@@ -72190,7 +72344,7 @@
  {
   "tag": "#90PCYCLY",
   "name": "Adam",
-  "clan": "GBSxReaperxRE",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
@@ -76832,6 +76986,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-15T21:44:32Z",
+    "gold": 915311,
+    "elixir": 1550775,
+    "darkElixir": 12469,
+    "battleTime": 103,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -80429,7 +80594,7 @@
  {
   "tag": "#8JCLJLVLQ",
   "name": "Amoo 2.0",
-  "clan": "GBSxReaperxRE",
+  "clan": "THE WARRIOR",
   "th": 15,
   "entries": [
    {
