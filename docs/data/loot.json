@@ -1945,7 +1945,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "KERALA",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -7745,6 +7745,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 65
+   },
+   {
+    "time": "2026-11-15T07:42:00Z",
+    "gold": 2368915,
+    "elixir": 2324449,
+    "darkElixir": 18828,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-15T07:43:05Z",
+    "gold": 1187797,
+    "elixir": 1415019,
+    "darkElixir": 11583,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-15T07:43:48Z",
+    "gold": 1541844,
+    "elixir": 1537520,
+    "darkElixir": 4388,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-15T07:45:19Z",
+    "gold": 2102550,
+    "elixir": 2102550,
+    "darkElixir": 12360,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 62
    }
   ]
  },
@@ -19046,6 +19090,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-15T07:42:35Z",
+    "gold": 545763,
+    "elixir": 522363,
+    "darkElixir": 15774,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-15T07:43:17Z",
+    "gold": 296976,
+    "elixir": 216444,
+    "darkElixir": 10731,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 27
+   },
+   {
+    "time": "2026-11-15T07:44:50Z",
+    "gold": 96124,
+    "elixir": 215668,
+    "darkElixir": 6949,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
+   },
+   {
+    "time": "2026-11-15T07:46:34Z",
+    "gold": 471111,
+    "elixir": 571642,
+    "darkElixir": 6359,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 48
    }
   ]
  },
@@ -47388,7 +47476,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "FC Dojo",
+  "clan": "# Req n Leave",
   "th": 18,
   "entries": [
    {
