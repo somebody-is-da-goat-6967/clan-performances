@@ -41237,6 +41237,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 22
+   },
+   {
+    "time": "2026-11-15T00:18:02Z",
+    "gold": 1506066,
+    "elixir": 148748,
+    "darkElixir": 17219,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
+   },
+   {
+    "time": "2026-11-15T00:20:11Z",
+    "gold": 83704,
+    "elixir": 70227,
+    "darkElixir": 3414,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-15T00:27:21Z",
+    "gold": 371484,
+    "elixir": 464453,
+    "darkElixir": 18131,
+    "battleTime": 101,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 44
    }
   ]
  },
@@ -52316,7 +52349,7 @@
  {
   "tag": "#PJQGUCGC2",
   "name": "SIDDHARTH",
-  "clan": "Reaper Crew",
+  "clan": "",
   "th": 17,
   "entries": [
    {
