@@ -2975,7 +2975,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "",
+  "clan": "GBSxReaperxRE",
   "th": 18,
   "entries": [
    {
@@ -19549,6 +19549,94 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 43
+   },
+   {
+    "time": "2026-11-15T17:40:52Z",
+    "gold": 895352,
+    "elixir": 1485852,
+    "darkElixir": 11417,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 48
+   },
+   {
+    "time": "2026-11-15T17:41:36Z",
+    "gold": 439520,
+    "elixir": 686204,
+    "darkElixir": 10314,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 49
+   },
+   {
+    "time": "2026-11-15T17:42:58Z",
+    "gold": 1816470,
+    "elixir": 1827060,
+    "darkElixir": 10221,
+    "battleTime": 71,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 81
+   },
+   {
+    "time": "2026-11-15T17:43:47Z",
+    "gold": 1055726,
+    "elixir": 899163,
+    "darkElixir": 12192,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-15T17:44:40Z",
+    "gold": 1067881,
+    "elixir": 842181,
+    "darkElixir": 10335,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-15T17:45:13Z",
+    "gold": 844918,
+    "elixir": 836844,
+    "darkElixir": 0,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 43
+   },
+   {
+    "time": "2026-11-15T17:45:53Z",
+    "gold": 502430,
+    "elixir": 555350,
+    "darkElixir": 12385,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-15T17:46:48Z",
+    "gold": 1215767,
+    "elixir": 741436,
+    "darkElixir": 7127,
+    "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
    }
   ]
  },
@@ -29434,6 +29522,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-15T17:43:17Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -37276,6 +37375,28 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 151,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T17:42:29Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 138,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T17:46:51Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 160,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -74205,6 +74326,50 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 70
+   },
+   {
+    "time": "2026-11-15T17:38:43Z",
+    "gold": 799200,
+    "elixir": 799200,
+    "darkElixir": 10160,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-15T17:41:14Z",
+    "gold": 999000,
+    "elixir": 566544,
+    "darkElixir": 10160,
+    "battleTime": 151,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-15T17:44:02Z",
+    "gold": 799200,
+    "elixir": 799200,
+    "darkElixir": 8128,
+    "battleTime": 126,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-15T17:46:40Z",
+    "gold": 999000,
+    "elixir": 999000,
+    "darkElixir": 10160,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -75982,7 +76147,7 @@
  {
   "tag": "#P2JP9JGLQ",
   "name": "Sonu the Great",
-  "clan": "Oro Jackson",
+  "clan": "CORONA",
   "th": 16,
   "entries": [
    {
