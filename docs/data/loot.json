@@ -219,7 +219,7 @@
  {
   "tag": "#Q882U0V8L",
   "name": "[SPP] Stephan",
-  "clan": "soLO-STephan",
+  "clan": "THE WARRIOR",
   "th": 18,
   "entries": [
    {
@@ -227,7 +227,11 @@
     "gold": 1831129,
     "elixir": 1831122,
     "darkElixir": 10660,
-    "battleTime": 85
+    "battleTime": 85,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
