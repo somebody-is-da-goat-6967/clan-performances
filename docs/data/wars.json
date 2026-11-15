@@ -942,12 +942,12 @@
   "tag": "#YVPYGG8UQ",
   "th": 18,
   "pos": 14,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 80.0,
+  "attackDetail": "1★ 80%"
  },
  {
   "date": "2026-11-13T01:39:09Z",
