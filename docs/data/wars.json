@@ -600,12 +600,12 @@
   "tag": "#8Q22RY0G",
   "th": 18,
   "pos": 25,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 4,
+  "avgDestruction": 90.0,
+  "attackDetail": "2★ 99%, 2★ 81%"
  },
  {
   "date": "2026-11-14T20:36:25Z",
