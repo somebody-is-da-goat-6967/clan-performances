@@ -14827,7 +14827,7 @@
  {
   "tag": "#992CCVJPY",
   "name": "CHAPO GUZHMAN",
-  "clan": "",
+  "clan": "3☆ on the ⓜⓞⓞⓝ",
   "th": 18,
   "entries": [
    {
@@ -15845,6 +15845,39 @@
    },
    {
     "time": "2026-11-15T10:38:58Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 108,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T10:56:13Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 172,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 95
+   },
+   {
+    "time": "2026-11-15T10:58:36Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 131,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T11:00:45Z",
     "gold": 1035000,
     "elixir": 1035000,
     "darkElixir": 10350,
@@ -74016,6 +74049,50 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 19
+   },
+   {
+    "time": "2026-11-15T11:00:31Z",
+    "gold": 1351334,
+    "elixir": 1543090,
+    "darkElixir": 19676,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-15T11:01:02Z",
+    "gold": 318449,
+    "elixir": 304234,
+    "darkElixir": 6333,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-15T11:01:29Z",
+    "gold": 35566,
+    "elixir": 138834,
+    "darkElixir": 103,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 15
+   },
+   {
+    "time": "2026-11-15T11:02:19Z",
+    "gold": 1096999,
+    "elixir": 1056407,
+    "darkElixir": 13376,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 29
    }
   ]
  },
