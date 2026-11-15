@@ -2009,7 +2009,7 @@
  {
   "tag": "#GPQVGYJYC",
   "name": "AL|£Ñ Z©",
-  "clan": "Reaper Crew",
+  "clan": "9325先锋队",
   "th": 18,
   "entries": [
    {
@@ -7668,6 +7668,83 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-15T07:33:41Z",
+    "gold": 1888937,
+    "elixir": 1499078,
+    "darkElixir": 7995,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-15T07:34:32Z",
+    "gold": 1202953,
+    "elixir": 1134678,
+    "darkElixir": 7894,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-15T07:35:05Z",
+    "gold": 994156,
+    "elixir": 1173532,
+    "darkElixir": 13228,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
+   },
+   {
+    "time": "2026-11-15T07:35:39Z",
+    "gold": 1120685,
+    "elixir": 862577,
+    "darkElixir": 8306,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 35
+   },
+   {
+    "time": "2026-11-15T07:36:41Z",
+    "gold": 835478,
+    "elixir": 984392,
+    "darkElixir": 8847,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-15T07:38:11Z",
+    "gold": 856504,
+    "elixir": 751216,
+    "darkElixir": 17741,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-15T07:40:06Z",
+    "gold": 1013141,
+    "elixir": 1001657,
+    "darkElixir": 5994,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 65
    }
   ]
  },
@@ -13573,7 +13650,7 @@
  {
   "tag": "#992CCVJPY",
   "name": "CHAPO GUZHMAN",
-  "clan": "Reaper Crew",
+  "clan": "3☆ on the ⓜⓞⓞⓝ",
   "th": 18,
   "entries": [
    {
@@ -18903,6 +18980,72 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 46
+   },
+   {
+    "time": "2026-11-15T07:32:34Z",
+    "gold": 124801,
+    "elixir": 41732,
+    "darkElixir": 10938,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
+   },
+   {
+    "time": "2026-11-15T07:33:25Z",
+    "gold": 111614,
+    "elixir": 205652,
+    "darkElixir": 11230,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 25
+   },
+   {
+    "time": "2026-11-15T07:34:17Z",
+    "gold": 463871,
+    "elixir": 638863,
+    "darkElixir": 11416,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 21
+   },
+   {
+    "time": "2026-11-15T07:37:56Z",
+    "gold": 136681,
+    "elixir": 505730,
+    "darkElixir": 12656,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 15
+   },
+   {
+    "time": "2026-11-15T07:40:13Z",
+    "gold": 587048,
+    "elixir": 756625,
+    "darkElixir": 13974,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
+   },
+   {
+    "time": "2026-11-15T07:40:59Z",
+    "gold": 786578,
+    "elixir": 1504498,
+    "darkElixir": 9482,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
    }
   ]
  },
