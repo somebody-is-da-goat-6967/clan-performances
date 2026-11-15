@@ -5426,12 +5426,12 @@
   "tag": "#Q0Q0VL0LV",
   "th": 16,
   "pos": 31,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 4,
+  "avgDestruction": 83.5,
+  "attackDetail": "2★ 75%, 2★ 92%"
  },
  {
   "date": "2026-11-15T01:50:45Z",
