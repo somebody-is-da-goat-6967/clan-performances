@@ -2590,7 +2590,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "dc.gg/koths",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -21457,6 +21457,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 66
+   },
+   {
+    "time": "2026-11-15T02:32:59Z",
+    "gold": 1859406,
+    "elixir": 1790536,
+    "darkElixir": 17014,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-15T02:33:37Z",
+    "gold": 870898,
+    "elixir": 1008617,
+    "darkElixir": 10033,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-15T02:34:33Z",
+    "gold": 624960,
+    "elixir": 200925,
+    "darkElixir": 11350,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T02:35:05Z",
+    "gold": 233042,
+    "elixir": 235702,
+    "darkElixir": 11975,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-15T02:35:42Z",
+    "gold": 834958,
+    "elixir": 867170,
+    "darkElixir": 11651,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
    }
   ]
  },
@@ -38524,6 +38579,17 @@
     "elixir": 2302500,
     "darkElixir": 16867,
     "battleTime": 155,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T02:45:35Z",
+    "gold": 586844,
+    "elixir": 350121,
+    "darkElixir": 4162,
+    "battleTime": 119,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
