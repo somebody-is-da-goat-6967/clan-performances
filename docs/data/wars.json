@@ -144,12 +144,12 @@
   "tag": "#R0980PPU8",
   "th": 18,
   "pos": 7,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%"
  },
  {
   "date": "2026-11-15T01:50:45Z",
@@ -5483,12 +5483,12 @@
   "tag": "#99UL0J92Q",
   "th": 16,
   "pos": 29,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 4,
+  "avgDestruction": 88.5,
+  "attackDetail": "3★ 100%, 1★ 77%"
  },
  {
   "date": "2026-11-14T20:36:25Z",
