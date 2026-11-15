@@ -8229,6 +8229,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 60
+   },
+   {
+    "time": "2026-11-15T09:05:19Z",
+    "gold": 2197514,
+    "elixir": 1761506,
+    "darkElixir": 19520,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-15T09:07:28Z",
+    "gold": 996941,
+    "elixir": 1025776,
+    "darkElixir": 12035,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-15T09:08:46Z",
+    "gold": 981524,
+    "elixir": 1016855,
+    "darkElixir": 7555,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-15T09:12:02Z",
+    "gold": 1180429,
+    "elixir": 681376,
+    "darkElixir": 2224,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-15T09:14:42Z",
+    "gold": 1130816,
+    "elixir": 1056765,
+    "darkElixir": 16612,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
    }
   ]
  },
@@ -40240,7 +40295,7 @@
  {
   "tag": "#PJQQGUCCY",
   "name": "sᴀʜɪʟ",
-  "clan": "Reaper Crew",
+  "clan": "GROWN ups",
   "th": 18,
   "entries": [
    {
@@ -53264,7 +53319,7 @@
  {
   "tag": "#LC9LLVCRJ",
   "name": "EK THA PRO",
-  "clan": "THE WARRIOR",
+  "clan": "Payitaht",
   "th": 17,
   "entries": [
    {
@@ -59980,6 +60035,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-15T09:10:11Z",
+    "gold": 783725,
+    "elixir": 714044,
+    "darkElixir": 3484,
+    "battleTime": 65,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
