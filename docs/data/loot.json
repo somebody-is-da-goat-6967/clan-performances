@@ -22782,6 +22782,50 @@
     "battleType": "legend",
     "stars": 1,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-15T04:03:59Z",
+    "gold": 534873,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 153,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-15T04:07:19Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T04:10:36Z",
+    "gold": 656334,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-15T04:14:00Z",
+    "gold": 1035000,
+    "elixir": 872280,
+    "darkElixir": 10350,
+    "battleTime": 177,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 92
    }
   ]
  },
@@ -45910,7 +45954,7 @@
  {
   "tag": "#Q8JUGYLQL",
   "name": "XLG⚡️BLACKBEARD",
-  "clan": "",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
