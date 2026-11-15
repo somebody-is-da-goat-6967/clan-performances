@@ -2590,7 +2590,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "Reaper Crew",
+  "clan": "dc.gg/koths",
   "th": 18,
   "entries": [
    {
@@ -21369,6 +21369,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 75
+   },
+   {
+    "time": "2026-11-15T02:25:11Z",
+    "gold": 157953,
+    "elixir": 113967,
+    "darkElixir": 595,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-15T02:26:13Z",
+    "gold": 317390,
+    "elixir": 549452,
+    "darkElixir": 4522,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-15T02:27:01Z",
+    "gold": 1746038,
+    "elixir": 1313158,
+    "darkElixir": 10554,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 78
+   },
+   {
+    "time": "2026-11-15T02:28:21Z",
+    "gold": 1714514,
+    "elixir": 1883790,
+    "darkElixir": 15376,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-15T02:29:22Z",
+    "gold": 615617,
+    "elixir": 762938,
+    "darkElixir": 8722,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-15T02:30:20Z",
+    "gold": 273047,
+    "elixir": 874510,
+    "darkElixir": 1953,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-15T02:31:03Z",
+    "gold": 766464,
+    "elixir": 753974,
+    "darkElixir": 10376,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-15T02:31:38Z",
+    "gold": 946119,
+    "elixir": 854383,
+    "darkElixir": 9002,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
    }
   ]
  },
