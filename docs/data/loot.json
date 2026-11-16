@@ -56377,7 +56377,7 @@
  {
   "tag": "#PJQQGUCCY",
   "name": "sᴀʜɪʟ",
-  "clan": "BEST OF WAR",
+  "clan": "GROWN ups",
   "th": 18,
   "entries": [
    {
@@ -72071,6 +72071,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 39
+   },
+   {
+    "time": "2026-11-16T08:48:35Z",
+    "gold": 6822,
+    "elixir": 8907,
+    "darkElixir": 285,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 14
+   },
+   {
+    "time": "2026-11-16T08:52:06Z",
+    "gold": 452766,
+    "elixir": 394395,
+    "darkElixir": 4808,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 31
+   },
+   {
+    "time": "2026-11-16T08:53:47Z",
+    "gold": 536992,
+    "elixir": 359881,
+    "darkElixir": 5942,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 49
    }
   ]
  },
