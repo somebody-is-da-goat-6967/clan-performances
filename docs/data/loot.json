@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "",
+  "clan": "angry birds",
   "th": 18,
   "entries": [
    {
@@ -44925,6 +44925,83 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 10
+   },
+   {
+    "time": "2026-11-16T08:38:00Z",
+    "gold": 712047,
+    "elixir": 1127071,
+    "darkElixir": 8606,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 35
+   },
+   {
+    "time": "2026-11-16T08:38:41Z",
+    "gold": 35203,
+    "elixir": 49205,
+    "darkElixir": 84,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-16T08:39:14Z",
+    "gold": 252611,
+    "elixir": 360809,
+    "darkElixir": 2272,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 24
+   },
+   {
+    "time": "2026-11-16T08:41:08Z",
+    "gold": 194658,
+    "elixir": 423446,
+    "darkElixir": 1166,
+    "battleTime": 72,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
+   },
+   {
+    "time": "2026-11-16T08:41:59Z",
+    "gold": 395989,
+    "elixir": 393746,
+    "darkElixir": 4076,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-16T08:42:18Z",
+    "gold": 146621,
+    "elixir": 233409,
+    "darkElixir": 1654,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 10
+   },
+   {
+    "time": "2026-11-16T08:43:16Z",
+    "gold": 283344,
+    "elixir": 561364,
+    "darkElixir": 7946,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 33
    }
   ]
  },
@@ -61761,6 +61838,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 6
+   },
+   {
+    "time": "2026-11-16T08:44:11Z",
+    "gold": 1800000,
+    "elixir": 1720000,
+    "darkElixir": 5459,
+    "battleTime": 114,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 51
    }
   ]
  },
@@ -67130,7 +67218,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "FC Dojo",
+  "clan": "ELITE SPEC OPS",
   "th": 18,
   "entries": [
    {
@@ -97077,6 +97165,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 60
+   },
+   {
+    "time": "2026-11-16T08:44:09Z",
+    "gold": 7796,
+    "elixir": 1949,
+    "darkElixir": 0,
+    "battleTime": 3,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
    }
   ]
  },
