@@ -26345,7 +26345,7 @@
  {
   "tag": "#9VJP2Q89J",
   "name": "Het",
-  "clan": "Reaper Crew",
+  "clan": "DANGEROUS",
   "th": 18,
   "entries": [
    {
@@ -40196,6 +40196,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-16T11:04:57Z",
+    "gold": 509638,
+    "elixir": 550539,
+    "darkElixir": 5882,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-16T11:05:30Z",
+    "gold": 395739,
+    "elixir": 822959,
+    "darkElixir": 3778,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-16T11:05:59Z",
+    "gold": 348873,
+    "elixir": 323054,
+    "darkElixir": 6282,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 67
+   },
+   {
+    "time": "2026-11-16T11:06:35Z",
+    "gold": 595840,
+    "elixir": 1372975,
+    "darkElixir": 8007,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-16T11:07:31Z",
+    "gold": 371727,
+    "elixir": 453266,
+    "darkElixir": 3971,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-16T11:08:28Z",
+    "gold": 418443,
+    "elixir": 685107,
+    "darkElixir": 6662,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-16T11:08:59Z",
+    "gold": 298543,
+    "elixir": 314919,
+    "darkElixir": 3655,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-16T11:09:21Z",
+    "gold": 1422137,
+    "elixir": 1407542,
+    "darkElixir": 4527,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 83
    }
   ]
  },
@@ -88760,7 +88848,7 @@
  {
   "tag": "#GG2RQ9UPY",
   "name": "Ishtiaq Bai",
-  "clan": "GBSxReaperxRE",
+  "clan": "",
   "th": 16,
   "entries": [
    {
@@ -103508,6 +103596,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 23
+   },
+   {
+    "time": "2026-11-16T11:02:44Z",
+    "gold": 413360,
+    "elixir": 1065327,
+    "darkElixir": 4883,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 32
+   },
+   {
+    "time": "2026-11-16T11:04:38Z",
+    "gold": 1371283,
+    "elixir": 1233600,
+    "darkElixir": 7884,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 21
+   },
+   {
+    "time": "2026-11-16T11:05:31Z",
+    "gold": 419729,
+    "elixir": 427460,
+    "darkElixir": 1948,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
    }
   ]
  },
