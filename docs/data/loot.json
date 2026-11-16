@@ -41835,6 +41835,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-16T05:41:36Z",
+    "gold": 1564133,
+    "elixir": 1295231,
+    "darkElixir": 5819,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-16T05:42:51Z",
+    "gold": 779443,
+    "elixir": 959359,
+    "darkElixir": 9896,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-16T05:43:56Z",
+    "gold": 943278,
+    "elixir": 779990,
+    "darkElixir": 4115,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-16T05:44:27Z",
+    "gold": 681731,
+    "elixir": 885373,
+    "darkElixir": 6248,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 37
+   },
+   {
+    "time": "2026-11-16T05:45:01Z",
+    "gold": 744289,
+    "elixir": 776859,
+    "darkElixir": 7882,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 39
+   },
+   {
+    "time": "2026-11-16T05:45:32Z",
+    "gold": 1044263,
+    "elixir": 831164,
+    "darkElixir": 4384,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-16T05:46:36Z",
+    "gold": 983835,
+    "elixir": 986252,
+    "darkElixir": 2818,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 97
+   },
+   {
+    "time": "2026-11-16T05:47:43Z",
+    "gold": 383299,
+    "elixir": 355659,
+    "darkElixir": 2205,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
    }
   ]
  },
@@ -80276,6 +80364,50 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-16T05:36:30Z",
+    "gold": 33864,
+    "elixir": 21948,
+    "darkElixir": 0,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 3
+   },
+   {
+    "time": "2026-11-16T05:38:47Z",
+    "gold": 278819,
+    "elixir": 392096,
+    "darkElixir": 8473,
+    "battleTime": 90,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-16T05:43:58Z",
+    "gold": 913656,
+    "elixir": 997200,
+    "darkElixir": 3799,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-16T05:45:59Z",
+    "gold": 170585,
+    "elixir": 295638,
+    "darkElixir": 3699,
+    "battleTime": 76,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -80935,7 +81067,7 @@
  {
   "tag": "#90PCYCLY",
   "name": "Adam",
-  "clan": "THE WARRIOR",
+  "clan": "GBSxReaperxRE",
   "th": 16,
   "entries": [
    {
@@ -89889,7 +90021,7 @@
  {
   "tag": "#8JCLJLVLQ",
   "name": "Amoo 2.0",
-  "clan": "GBSxReaperxRE",
+  "clan": "THE WARRIOR",
   "th": 15,
   "entries": [
    {
@@ -97432,6 +97564,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 69
+   },
+   {
+    "time": "2026-11-16T05:44:40Z",
+    "gold": 565627,
+    "elixir": 479103,
+    "darkElixir": 4681,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-16T05:47:33Z",
+    "gold": 498343,
+    "elixir": 644884,
+    "darkElixir": 7532,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
    }
   ]
  },
@@ -102020,7 +102174,7 @@
  {
   "tag": "#G22UGCQYJ",
   "name": "EdgarFire",
-  "clan": "Guerra 24/7",
+  "clan": "Arkal",
   "th": 12,
   "entries": [
    {
