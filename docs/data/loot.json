@@ -50142,7 +50142,7 @@
  {
   "tag": "#9GL8P0J8L",
   "name": "Shivam",
-  "clan": "trojan warriors",
+  "clan": "ETERNAL KNIGHTS",
   "th": 18,
   "entries": [
    {
@@ -103420,6 +103420,94 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 11
+   },
+   {
+    "time": "2026-11-16T10:52:37Z",
+    "gold": 706477,
+    "elixir": 571780,
+    "darkElixir": 6847,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-16T10:53:38Z",
+    "gold": 507191,
+    "elixir": 491761,
+    "darkElixir": 1828,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
+   },
+   {
+    "time": "2026-11-16T10:56:26Z",
+    "gold": 538118,
+    "elixir": 517367,
+    "darkElixir": 5676,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-16T10:58:10Z",
+    "gold": 114924,
+    "elixir": 122045,
+    "darkElixir": 10794,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-16T10:59:16Z",
+    "gold": 270699,
+    "elixir": 396395,
+    "darkElixir": 3935,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 32
+   },
+   {
+    "time": "2026-11-16T11:00:43Z",
+    "gold": 148079,
+    "elixir": 230402,
+    "darkElixir": 6340,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-16T11:01:32Z",
+    "gold": 607457,
+    "elixir": 683639,
+    "darkElixir": 7500,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-16T11:02:11Z",
+    "gold": 375725,
+    "elixir": 478692,
+    "darkElixir": 3804,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 23
    }
   ]
  },
