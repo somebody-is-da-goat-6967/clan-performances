@@ -6528,12 +6528,12 @@
   "tag": "#90PCYCLY",
   "th": 16,
   "pos": 24,
-  "attacksUsed": 1,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 3,
+  "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%"
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-11-17T05:06:48Z",
@@ -6642,12 +6642,12 @@
   "tag": "#LQ0C29JLY",
   "th": 16,
   "pos": 40,
-  "attacksUsed": 1,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 2,
-  "avgDestruction": 75.0,
-  "attackDetail": "2★ 75%"
+  "stars": 5,
+  "avgDestruction": 87.5,
+  "attackDetail": "2★ 75%, 3★ 100%"
  },
  {
   "date": "2026-11-16T20:30:57Z",
