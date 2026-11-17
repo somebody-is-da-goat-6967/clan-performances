@@ -12272,6 +12272,94 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T11:02:10Z",
+    "gold": 150760,
+    "elixir": 1127658,
+    "darkElixir": 8509,
+    "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-17T11:04:10Z",
+    "gold": 964530,
+    "elixir": 1154207,
+    "darkElixir": 8763,
+    "battleTime": 75,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-17T11:05:35Z",
+    "gold": 903186,
+    "elixir": 490821,
+    "darkElixir": 7240,
+    "battleTime": 45,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-17T11:07:15Z",
+    "gold": 1538094,
+    "elixir": 1653815,
+    "darkElixir": 10917,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-17T11:09:27Z",
+    "gold": 1093462,
+    "elixir": 330305,
+    "darkElixir": 1465,
+    "battleTime": 62,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-17T11:11:04Z",
+    "gold": 810967,
+    "elixir": 849790,
+    "darkElixir": 2065,
+    "battleTime": 79,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-17T11:12:20Z",
+    "gold": 446804,
+    "elixir": 528825,
+    "darkElixir": 4182,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-17T11:14:30Z",
+    "gold": 1809942,
+    "elixir": 1807232,
+    "darkElixir": 6897,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 63
    }
   ]
  },
@@ -64367,7 +64455,7 @@
  {
   "tag": "#9VJP2Q89J",
   "name": "Het",
-  "clan": "TEAM BHARAT",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -71093,6 +71181,39 @@
     "elixir": 602163,
     "darkElixir": 4851,
     "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-17T11:15:00Z",
+    "gold": 139854,
+    "elixir": 389596,
+    "darkElixir": 2197,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-17T11:15:38Z",
+    "gold": 445251,
+    "elixir": 1323598,
+    "darkElixir": 4190,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-17T11:16:36Z",
+    "gold": 669599,
+    "elixir": 454728,
+    "darkElixir": 4340,
+    "battleTime": 25,
     "league": "",
     "battleType": "homeVillage",
     "stars": 1,
