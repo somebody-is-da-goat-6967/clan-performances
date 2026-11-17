@@ -30395,6 +30395,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-17T10:32:08Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 148,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-17T10:40:03Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -64345,7 +64367,7 @@
  {
   "tag": "#9VJP2Q89J",
   "name": "Het",
-  "clan": "Reaper Crew",
+  "clan": "TEAM BHARAT",
   "th": 18,
   "entries": [
    {
@@ -118557,6 +118579,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T10:40:33Z",
+    "gold": 1638478,
+    "elixir": 1474441,
+    "darkElixir": 15895,
+    "battleTime": 100,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-17T10:44:11Z",
+    "gold": 1651158,
+    "elixir": 1265044,
+    "darkElixir": 12205,
+    "battleTime": 113,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 63
    }
   ]
  },
