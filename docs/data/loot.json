@@ -3889,7 +3889,7 @@
  {
   "tag": "#992CCVJPY",
   "name": "CHAPO GUZHMAN",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "БРЯНСКИЕ ВОЛКИ",
   "th": 19,
   "entries": [
    {
@@ -15461,6 +15461,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 59
+   },
+   {
+    "time": "2026-11-17T17:57:03Z",
+    "gold": 494698,
+    "elixir": 686176,
+    "darkElixir": 1497,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-17T17:57:27Z",
+    "gold": 1259237,
+    "elixir": 1225144,
+    "darkElixir": 1639,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-17T17:58:26Z",
+    "gold": 157495,
+    "elixir": 1387382,
+    "darkElixir": 10921,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-17T17:59:25Z",
+    "gold": 1727101,
+    "elixir": 1542484,
+    "darkElixir": 10448,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-17T18:00:09Z",
+    "gold": 882956,
+    "elixir": 405142,
+    "darkElixir": 10040,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 80
    }
   ]
  },
@@ -113598,6 +113653,17 @@
     "elixir": 1025000,
     "darkElixir": 10320,
     "battleTime": 161,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-17T18:01:48Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 177,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
