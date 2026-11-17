@@ -6642,12 +6642,12 @@
   "tag": "#LQ0C29JLY",
   "th": 16,
   "pos": 40,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 75.0,
+  "attackDetail": "2★ 75%"
  },
  {
   "date": "2026-11-16T20:30:57Z",
