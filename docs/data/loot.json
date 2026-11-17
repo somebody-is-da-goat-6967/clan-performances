@@ -2220,6 +2220,17 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T16:19:13Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 160,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -59673,6 +59684,94 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T16:18:46Z",
+    "gold": 2608,
+    "elixir": 140743,
+    "darkElixir": 550,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-17T16:19:21Z",
+    "gold": 498955,
+    "elixir": 660247,
+    "darkElixir": 6679,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-17T16:19:45Z",
+    "gold": 654130,
+    "elixir": 513560,
+    "darkElixir": 7162,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-17T16:20:17Z",
+    "gold": 157532,
+    "elixir": 305245,
+    "darkElixir": 3344,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-17T16:20:38Z",
+    "gold": 408488,
+    "elixir": 421111,
+    "darkElixir": 4091,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-17T16:20:58Z",
+    "gold": 277983,
+    "elixir": 292072,
+    "darkElixir": 3502,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-17T16:21:54Z",
+    "gold": 1332098,
+    "elixir": 1388307,
+    "darkElixir": 6854,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-17T16:22:33Z",
+    "gold": 806597,
+    "elixir": 1628687,
+    "darkElixir": 11787,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 79
    }
   ]
  },
@@ -103490,7 +103589,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 16,
   "entries": [
    {
