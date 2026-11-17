@@ -6597,6 +6597,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-17T19:28:52Z",
+    "gold": 573380,
+    "elixir": 312203,
+    "darkElixir": 3896,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-17T19:29:18Z",
+    "gold": 161821,
+    "elixir": 162405,
+    "darkElixir": 828,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-17T19:29:46Z",
+    "gold": 450567,
+    "elixir": 127200,
+    "darkElixir": 3248,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
    }
   ]
  },
@@ -11245,6 +11278,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-17T19:26:35Z",
+    "gold": 777453,
+    "elixir": 797431,
+    "darkElixir": 8280,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 92
    }
   ]
  },
@@ -23250,6 +23294,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 84
+   },
+   {
+    "time": "2026-11-17T19:26:55Z",
+    "gold": 828017,
+    "elixir": 1800332,
+    "darkElixir": 13952,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 98
+   },
+   {
+    "time": "2026-11-17T19:27:49Z",
+    "gold": 631332,
+    "elixir": 876404,
+    "darkElixir": 6620,
+    "battleTime": 42,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-17T19:28:51Z",
+    "gold": 379511,
+    "elixir": 1651167,
+    "darkElixir": 3884,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 89
+   },
+   {
+    "time": "2026-11-17T19:29:56Z",
+    "gold": 698530,
+    "elixir": 934638,
+    "darkElixir": 15718,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 60
    }
   ]
  },
@@ -68184,7 +68272,7 @@
  {
   "tag": "#9VJP2Q89J",
   "name": "Het",
-  "clan": "DANGEROUS",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
