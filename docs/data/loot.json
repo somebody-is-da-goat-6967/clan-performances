@@ -8234,6 +8234,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T14:32:10Z",
+    "gold": 796709,
+    "elixir": 693209,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 87
    }
   ]
  },
@@ -9045,7 +9056,7 @@
  {
   "tag": "#2R0GQ99CV",
   "name": "Levantine",
-  "clan": "الملوك .",
+  "clan": "Bahay Empire",
   "th": 19,
   "entries": [
    {
@@ -24989,6 +25000,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 92
+   },
+   {
+    "time": "2026-11-17T14:33:33Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-17T14:43:18Z",
+    "gold": 1035000,
+    "elixir": 621000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 75
    }
   ]
  },
@@ -73214,6 +73247,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 77
+   },
+   {
+    "time": "2026-11-17T14:46:12Z",
+    "gold": 633896,
+    "elixir": 533004,
+    "darkElixir": 7492,
+    "battleTime": 88,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -121303,7 +121347,7 @@
  {
   "tag": "#2GQGJ0GCC",
   "name": "♦️BŁUE³♠️",
-  "clan": "Reaper Crew",
+  "clan": "G6’s Clan",
   "th": 15,
   "entries": [
    {
