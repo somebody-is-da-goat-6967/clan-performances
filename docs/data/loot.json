@@ -3718,6 +3718,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-17T15:31:27Z",
+    "gold": 379790,
+    "elixir": 639873,
+    "darkElixir": 1910,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-17T15:33:30Z",
+    "gold": 1310201,
+    "elixir": 1259713,
+    "darkElixir": 3877,
+    "battleTime": 70,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -13031,6 +13053,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 67
+   },
+   {
+    "time": "2026-11-17T15:52:19Z",
+    "gold": 1072793,
+    "elixir": 283379,
+    "darkElixir": 9494,
+    "battleTime": 79,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 64
    }
   ]
  },
@@ -25121,6 +25154,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T15:39:28Z",
+    "gold": 823571,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
@@ -70800,7 +70844,7 @@
  {
   "tag": "#2G2R2RUL",
   "name": "Maxim",
-  "clan": "Chestnut Clan",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -104903,6 +104947,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-17T15:36:28Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -108100,6 +108155,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T15:33:55Z",
+    "gold": 129967,
+    "elixir": 265097,
+    "darkElixir": 10503,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 33
    }
   ]
  },
@@ -109268,6 +109334,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 92
+   },
+   {
+    "time": "2026-11-17T15:43:08Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 158,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -112363,7 +112440,7 @@
  {
   "tag": "#PJ202YRPG",
   "name": "乙モUち",
-  "clan": "KING & QUEEN",
+  "clan": "Reaper crew",
   "th": 16,
   "entries": [
    {
@@ -118455,6 +118532,39 @@
     "battleType": "ranked",
     "stars": 0,
     "destruction": 0
+   },
+   {
+    "time": "2026-11-17T15:34:49Z",
+    "gold": 819200,
+    "elixir": 819200,
+    "darkElixir": 8248,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 94
+   },
+   {
+    "time": "2026-11-17T15:39:18Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 170,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-17T15:49:39Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 147,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
