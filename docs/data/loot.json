@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -45589,6 +45589,102 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   }
+  ]
+ },
+ {
+  "tag": "#9G29YR88",
+  "name": "—Rayquaza—",
+  "clan": "Reaper Crew",
+  "th": 19,
+  "entries": [
+   {
+    "time": "2026-11-16T17:57:12Z",
+    "gold": 25394,
+    "elixir": 28161,
+    "darkElixir": 3978,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-16T17:57:31Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 2448,
+    "battleTime": 3,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 4
+   },
+   {
+    "time": "2026-11-16T17:58:37Z",
+    "gold": 731889,
+    "elixir": 159597,
+    "darkElixir": 11220,
+    "battleTime": 47,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-16T17:59:33Z",
+    "gold": 174050,
+    "elixir": 337455,
+    "darkElixir": 6661,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-16T17:59:56Z",
+    "gold": 14288,
+    "elixir": 22045,
+    "darkElixir": 2678,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 5
+   },
+   {
+    "time": "2026-11-16T18:00:45Z",
+    "gold": 150728,
+    "elixir": 249593,
+    "darkElixir": 2779,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-16T23:43:46Z",
+    "gold": 1030548,
+    "elixir": 533174,
+    "darkElixir": 11374,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 49
+   },
+   {
+    "time": "2026-11-16T23:44:43Z",
+    "gold": 730980,
+    "elixir": 291282,
+    "darkElixir": 216,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
    }
   ]
  },
