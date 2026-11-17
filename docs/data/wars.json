@@ -695,12 +695,12 @@
   "tag": "#8Q22RY0G",
   "th": 18,
   "pos": 26,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 52.0,
+  "attackDetail": "1★ 50%, 1★ 54%"
  },
  {
   "date": "2026-11-16T20:30:57Z",
