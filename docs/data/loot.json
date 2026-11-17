@@ -2462,6 +2462,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 18
+   },
+   {
+    "time": "2026-11-17T22:37:04Z",
+    "gold": 361251,
+    "elixir": 379139,
+    "darkElixir": 7050,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
    }
   ]
  },
@@ -124764,7 +124775,7 @@
  {
   "tag": "#QLJP9JY2Y",
   "name": "Ttisn",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 15,
   "entries": [
    {
