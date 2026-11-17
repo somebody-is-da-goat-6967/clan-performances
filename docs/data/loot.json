@@ -7237,6 +7237,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-17T13:17:55Z",
+    "gold": 1515941,
+    "elixir": 544492,
+    "darkElixir": 10479,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-17T13:19:14Z",
+    "gold": 1239507,
+    "elixir": 98534,
+    "darkElixir": 5267,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-17T13:20:05Z",
+    "gold": 1470672,
+    "elixir": 1283424,
+    "darkElixir": 13348,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-17T13:20:52Z",
+    "gold": 525243,
+    "elixir": 729006,
+    "darkElixir": 2273,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
    }
   ]
  },
@@ -99967,7 +100011,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "REQ N LEAVE",
+  "clan": "Everdraco™",
   "th": 17,
   "entries": [
    {
