@@ -714,12 +714,12 @@
   "tag": "#20QUCQRQY",
   "th": 18,
   "pos": 6,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 54.5,
+  "attackDetail": "1★ 53%, 1★ 56%"
  },
  {
   "date": "2026-11-16T20:30:57Z",
