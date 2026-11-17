@@ -6938,6 +6938,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 60
+   },
+   {
+    "time": "2026-11-17T19:54:19Z",
+    "gold": 1768641,
+    "elixir": 1768586,
+    "darkElixir": 12113,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-17T19:54:41Z",
+    "gold": 456770,
+    "elixir": 461478,
+    "darkElixir": 3107,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-17T19:55:37Z",
+    "gold": 25823,
+    "elixir": 5691,
+    "darkElixir": 45,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-17T19:56:00Z",
+    "gold": 807969,
+    "elixir": 256721,
+    "darkElixir": 3825,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-17T19:56:23Z",
+    "gold": 254334,
+    "elixir": 289680,
+    "darkElixir": 8465,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 45
+   },
+   {
+    "time": "2026-11-17T19:56:54Z",
+    "gold": 975474,
+    "elixir": 437822,
+    "darkElixir": 8285,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
    }
   ]
  },
@@ -99519,7 +99585,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "La Rupture",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {

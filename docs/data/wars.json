@@ -125,12 +125,12 @@
   "tag": "#9U8Y92RJ",
   "th": 19,
   "pos": 13,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 19.0,
+  "attackDetail": "1★ 20%, 1★ 18%"
  },
  {
   "date": "2026-11-16T20:30:57Z",
