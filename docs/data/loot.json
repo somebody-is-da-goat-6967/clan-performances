@@ -54205,6 +54205,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-17T05:20:57Z",
+    "gold": 1102094,
+    "elixir": 1133804,
+    "darkElixir": 14345,
+    "battleTime": 62,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-17T05:21:56Z",
+    "gold": 1919926,
+    "elixir": 1917889,
+    "darkElixir": 11263,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 31
    }
   ]
  },
@@ -72178,7 +72200,7 @@
  {
   "tag": "#GYQQC8L20",
   "name": "Mr.Sam",
-  "clan": "Reaper Crew",
+  "clan": "TAMIZHAN YT",
   "th": 18,
   "entries": [
    {
@@ -95641,6 +95663,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T05:24:22Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 142,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-17T05:28:19Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -95919,7 +95963,7 @@
  {
   "tag": "#GL2JQP000",
   "name": "×͜× ᴅ ʀ ᴀ ᴄ ᴏ 亗",
-  "clan": "Happy3friends",
+  "clan": "",
   "th": 17,
   "entries": [
    {
@@ -105740,6 +105784,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T05:28:04Z",
+    "gold": 615000,
+    "elixir": 615000,
+    "darkElixir": 8256,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 81
    }
   ]
  },
