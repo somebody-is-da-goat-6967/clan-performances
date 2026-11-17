@@ -7039,6 +7039,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-17T10:17:53Z",
+    "gold": 1370905,
+    "elixir": 35589,
+    "darkElixir": 3785,
+    "battleTime": 75,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-17T10:19:49Z",
+    "gold": 656542,
+    "elixir": 498004,
+    "darkElixir": 1368,
+    "battleTime": 66,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-17T10:23:46Z",
+    "gold": 1528956,
+    "elixir": 849895,
+    "darkElixir": 1512,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-17T10:25:50Z",
+    "gold": 307839,
+    "elixir": 381344,
+    "darkElixir": 7542,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
    }
   ]
  },
@@ -12234,7 +12278,7 @@
  {
   "tag": "#GCVY89CGY",
   "name": "MIRAJ",
-  "clan": "UZBEK",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -102728,6 +102772,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 34
+   },
+   {
+    "time": "2026-11-17T10:25:50Z",
+    "gold": 1814217,
+    "elixir": 1814221,
+    "darkElixir": 12448,
+    "battleTime": 134,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
