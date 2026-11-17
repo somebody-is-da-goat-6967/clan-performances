@@ -7149,6 +7149,94 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-17T13:10:49Z",
+    "gold": 437855,
+    "elixir": 466892,
+    "darkElixir": 1355,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-17T13:11:16Z",
+    "gold": 345341,
+    "elixir": 260796,
+    "darkElixir": 6506,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-17T13:12:13Z",
+    "gold": 1444006,
+    "elixir": 1444224,
+    "darkElixir": 761,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-17T13:13:06Z",
+    "gold": 1457150,
+    "elixir": 1347741,
+    "darkElixir": 1078,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-17T13:14:08Z",
+    "gold": 1187075,
+    "elixir": 1802038,
+    "darkElixir": 10225,
+    "battleTime": 42,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 49
+   },
+   {
+    "time": "2026-11-17T13:14:45Z",
+    "gold": 41031,
+    "elixir": 87087,
+    "darkElixir": 146,
+    "battleTime": 4,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 10
+   },
+   {
+    "time": "2026-11-17T13:15:15Z",
+    "gold": 519198,
+    "elixir": 690119,
+    "darkElixir": 2355,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-17T13:16:35Z",
+    "gold": 2374183,
+    "elixir": 1616806,
+    "darkElixir": 16172,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 80
    }
   ]
  },
@@ -30714,6 +30802,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-17T13:10:47Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-17T13:15:08Z",
+    "gold": 828000,
+    "elixir": 643430,
+    "darkElixir": 8280,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 94
    }
   ]
  },
@@ -99857,7 +99967,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Reaper Two",
+  "clan": "REQ N LEAVE",
   "th": 17,
   "entries": [
    {
