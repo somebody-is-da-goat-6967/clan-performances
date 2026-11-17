@@ -6795,6 +6795,83 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-17T19:43:30Z",
+    "gold": 702494,
+    "elixir": 94547,
+    "darkElixir": 25,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-17T19:43:56Z",
+    "gold": 254136,
+    "elixir": 335872,
+    "darkElixir": 4948,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-17T19:44:32Z",
+    "gold": 1050919,
+    "elixir": 1150749,
+    "darkElixir": 1931,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-17T19:45:28Z",
+    "gold": 397318,
+    "elixir": 274991,
+    "darkElixir": 4139,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-17T19:46:19Z",
+    "gold": 140896,
+    "elixir": 370865,
+    "darkElixir": 2122,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-17T19:47:29Z",
+    "gold": 465518,
+    "elixir": 823221,
+    "darkElixir": 1707,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-17T19:48:24Z",
+    "gold": 256157,
+    "elixir": 205168,
+    "darkElixir": 3790,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
    }
   ]
  },
@@ -11461,6 +11538,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 158,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-17T19:46:07Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 127,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -99365,7 +99453,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "Farme Minérios",
+  "clan": "La Rupture",
   "th": 17,
   "entries": [
    {
