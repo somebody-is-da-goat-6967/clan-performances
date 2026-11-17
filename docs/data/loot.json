@@ -6718,6 +6718,83 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 57
+   },
+   {
+    "time": "2026-11-17T19:39:40Z",
+    "gold": 377713,
+    "elixir": 429422,
+    "darkElixir": 4198,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-17T19:40:10Z",
+    "gold": 758251,
+    "elixir": 661104,
+    "darkElixir": 3641,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-17T19:40:54Z",
+    "gold": 47398,
+    "elixir": 1087665,
+    "darkElixir": 10553,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-17T19:41:34Z",
+    "gold": 1130999,
+    "elixir": 553040,
+    "darkElixir": 10838,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-17T19:42:07Z",
+    "gold": 254564,
+    "elixir": 224277,
+    "darkElixir": 3824,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-17T19:42:34Z",
+    "gold": 557288,
+    "elixir": 786188,
+    "darkElixir": 4076,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-17T19:43:00Z",
+    "gold": 268139,
+    "elixir": 304908,
+    "darkElixir": 1050,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
    }
   ]
  },
@@ -28605,6 +28682,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 98
+   },
+   {
+    "time": "2026-11-17T19:42:06Z",
+    "gold": 621000,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 86
    }
   ]
  },
@@ -99277,7 +99365,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "سلطان",
+  "clan": "Farme Minérios",
   "th": 17,
   "entries": [
    {
