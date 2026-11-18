@@ -19571,6 +19571,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:41:48Z",
+    "gold": 1428056,
+    "elixir": 1428126,
+    "darkElixir": 8281,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:45:19Z",
+    "gold": 2437170,
+    "elixir": 1881354,
+    "darkElixir": 19983,
+    "battleTime": 140,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -100412,7 +100434,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "FC Dojo",
+  "clan": "ELITE SPEC OPS",
   "th": 18,
   "entries": [
    {
@@ -120845,7 +120867,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "Alfuraat Empire",
+  "clan": "Jura Tempest",
   "th": 16,
   "entries": [
    {
