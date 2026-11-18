@@ -32671,6 +32671,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 84
+   },
+   {
+    "time": "2026-11-18T14:58:26Z",
+    "gold": 1821434,
+    "elixir": 1821364,
+    "darkElixir": 11880,
+    "battleTime": 128,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:01:34Z",
+    "gold": 1835248,
+    "elixir": 686950,
+    "darkElixir": 7943,
+    "battleTime": 117,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -103166,6 +103188,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:56:59Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 135,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:00:11Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 164,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -105018,6 +105062,17 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 116,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:00:21Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 107,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -107605,7 +107660,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "언저리",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {
@@ -122435,6 +122490,17 @@
     "elixir": 2081171,
     "darkElixir": 10611,
     "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:58:00Z",
+    "gold": 936062,
+    "elixir": 809575,
+    "darkElixir": 13618,
+    "battleTime": 100,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
