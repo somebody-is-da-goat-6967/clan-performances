@@ -8421,6 +8421,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:01:43Z",
+    "gold": 195783,
+    "elixir": 112781,
+    "darkElixir": 1821,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
    }
   ]
  },
@@ -19633,6 +19644,17 @@
     "elixir": 2287206,
     "darkElixir": 8790,
     "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:59:02Z",
+    "gold": 808772,
+    "elixir": 1824517,
+    "darkElixir": 5985,
+    "battleTime": 100,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -112140,7 +112162,7 @@
  {
   "tag": "#9JVGJGL8Q",
   "name": "Who's Next ❓",
-  "clan": "# Req n Leave",
+  "clan": "BEST OF WAR",
   "th": 17,
   "entries": [
    {
