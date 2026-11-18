@@ -85403,6 +85403,39 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-18T16:50:18Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 78
+   },
+   {
+    "time": "2026-11-18T16:53:19Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 136,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:56:26Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -105595,6 +105628,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:53:12Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -122135,7 +122179,7 @@
  {
   "tag": "#GG2RQ9UPY",
   "name": "Ishtiaq Bai",
-  "clan": "",
+  "clan": "%%RoCk★★★StAr%%",
   "th": 16,
   "entries": [
    {
