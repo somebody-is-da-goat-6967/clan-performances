@@ -91066,6 +91066,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T01:17:12Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
@@ -102964,7 +102975,7 @@
  {
   "tag": "#GQUL8P0LR",
   "name": "Toast3r",
-  "clan": "Reaper Crew",
+  "clan": "123",
   "th": 17,
   "entries": [
    {
