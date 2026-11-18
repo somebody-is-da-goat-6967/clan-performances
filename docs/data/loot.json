@@ -20407,6 +20407,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T23:07:11Z",
+    "gold": 618910,
+    "elixir": 244166,
+    "darkElixir": 10076,
+    "battleTime": 92,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -33077,7 +33088,7 @@
  {
   "tag": "#L8220CQUU",
   "name": "Roy RR",
-  "clan": "THE WARRIOR",
+  "clan": "3☆ in the ⓢⓤⓝ",
   "th": 19,
   "entries": [
    {
@@ -139645,6 +139656,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T23:09:46Z",
+    "gold": 1025000,
+    "elixir": 855754,
+    "darkElixir": 10320,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 72
    }
   ]
  },
