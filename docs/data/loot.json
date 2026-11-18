@@ -54447,7 +54447,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "req and go",
+  "clan": "KERALA",
   "th": 18,
   "entries": [
    {
@@ -69608,6 +69608,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 77
+   },
+   {
+    "time": "2026-11-18T16:27:28Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-18T16:30:21Z",
+    "gold": 644313,
+    "elixir": 656236,
+    "darkElixir": 10350,
+    "battleTime": 109,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 79
    }
   ]
  },
@@ -85271,6 +85293,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-18T16:29:10Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 88
    }
   ]
  },
@@ -87922,6 +87955,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-18T16:29:07Z",
+    "gold": 242064,
+    "elixir": 211119,
+    "darkElixir": 2976,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
    }
   ]
  },
@@ -121851,7 +121895,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "مش مهم انتو اهم",
+  "clan": "ميدان الرجال",
   "th": 16,
   "entries": [
    {
@@ -136717,6 +136761,17 @@
     "battleTime": 141,
     "league": "",
     "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:30:10Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 150,
+    "league": "",
+    "battleType": "ranked",
     "stars": 3,
     "destruction": 100
    }
