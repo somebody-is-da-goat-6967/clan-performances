@@ -19626,6 +19626,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:55:32Z",
+    "gold": 2284339,
+    "elixir": 2287206,
+    "darkElixir": 8790,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -112129,7 +112140,7 @@
  {
   "tag": "#9JVGJGL8Q",
   "name": "Who's Next ❓",
-  "clan": "BEST OF WAR",
+  "clan": "# Req n Leave",
   "th": 17,
   "entries": [
    {
@@ -125068,6 +125079,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-18T15:54:34Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 135,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
