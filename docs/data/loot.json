@@ -79019,6 +79019,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-18T06:18:48Z",
+    "gold": 621000,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-18T06:21:52Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 2070,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 73
    }
   ]
  },
@@ -107499,7 +107521,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Loonaticz v2",
+  "clan": "bro",
   "th": 17,
   "entries": [
    {
@@ -135502,6 +135524,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-18T06:16:58Z",
+    "gold": 366097,
+    "elixir": 224941,
+    "darkElixir": 1989,
+    "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
