@@ -13619,6 +13619,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 2
+   },
+   {
+    "time": "2026-11-18T21:50:45Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 177,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -32535,7 +32546,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "point",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -127325,6 +127336,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:47:02Z",
+    "gold": 924940,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
    }
   ]
  },
@@ -138218,6 +138240,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:50:27Z",
+    "gold": 615000,
+    "elixir": 758737,
+    "darkElixir": 8256,
+    "battleTime": 179,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 85
    }
   ]
  },
