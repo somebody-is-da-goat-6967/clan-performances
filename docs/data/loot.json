@@ -19593,6 +19593,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:47:11Z",
+    "gold": 1243308,
+    "elixir": 1694343,
+    "darkElixir": 12096,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:49:32Z",
+    "gold": 134703,
+    "elixir": 766321,
+    "darkElixir": 9809,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:51:03Z",
+    "gold": 427103,
+    "elixir": 424535,
+    "darkElixir": 8260,
+    "battleTime": 62,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -104751,6 +104784,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:47:53Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 124,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -120867,7 +120911,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "Jura Tempest",
+  "clan": "LaureTole OGs",
   "th": 16,
   "entries": [
    {
