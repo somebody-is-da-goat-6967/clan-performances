@@ -18603,6 +18603,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-18T06:26:58Z",
+    "gold": 2255701,
+    "elixir": 775946,
+    "darkElixir": 18136,
+    "battleTime": 90,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -79041,6 +79052,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 73
+   },
+   {
+    "time": "2026-11-18T06:25:47Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 179,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -104757,7 +104779,7 @@
  {
   "tag": "#GQUL8P0LR",
   "name": "Toast3r",
-  "clan": "123",
+  "clan": "",
   "th": 17,
   "entries": [
    {
@@ -107521,7 +107543,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "bro",
+  "clan": "Everdraco™",
   "th": 17,
   "entries": [
    {
