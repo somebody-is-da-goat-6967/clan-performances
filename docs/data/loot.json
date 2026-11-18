@@ -14380,6 +14380,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 86
+   },
+   {
+    "time": "2026-11-18T10:06:08Z",
+    "gold": 557259,
+    "elixir": 828000,
+    "darkElixir": 2587,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-18T10:09:11Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
    }
   ]
  },
@@ -87321,6 +87343,50 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T10:08:22Z",
+    "gold": 914266,
+    "elixir": 566936,
+    "darkElixir": 7291,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T10:09:00Z",
+    "gold": 591704,
+    "elixir": 981071,
+    "darkElixir": 7017,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T10:09:40Z",
+    "gold": 701557,
+    "elixir": 587330,
+    "darkElixir": 7701,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T10:10:27Z",
+    "gold": 1954772,
+    "elixir": 1943275,
+    "darkElixir": 4614,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -90518,7 +90584,7 @@
  {
   "tag": "#PJQQGUCCY",
   "name": "sᴀʜɪʟ",
-  "clan": "ClashGaurdian38",
+  "clan": "GROWN ups",
   "th": 18,
   "entries": [
    {
