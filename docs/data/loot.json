@@ -17602,6 +17602,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 66
+   },
+   {
+    "time": "2026-11-18T02:14:57Z",
+    "gold": 655484,
+    "elixir": 1297427,
+    "darkElixir": 15572,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-18T02:17:19Z",
+    "gold": 192422,
+    "elixir": 1325045,
+    "darkElixir": 10490,
+    "battleTime": 115,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
    }
   ]
  },
@@ -28213,7 +28235,7 @@
  {
   "tag": "#CLG88L0C",
   "name": "RohanVirus",
-  "clan": "",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -98962,6 +98984,17 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 139,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T02:15:31Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 128,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
