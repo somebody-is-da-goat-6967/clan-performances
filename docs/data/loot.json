@@ -101095,7 +101095,7 @@
  {
   "tag": "#GJU88CG9G",
   "name": "アディティア",
-  "clan": "WARRIORS",
+  "clan": "⚡RAJPUT⚡",
   "th": 18,
   "entries": [
    {
@@ -103144,6 +103144,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:51:20Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 150,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:54:13Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -104985,6 +105007,17 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:55:14Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 116,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -107572,7 +107605,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "☆ 별 헤는 밤 ☆",
+  "clan": "언저리",
   "th": 17,
   "entries": [
    {
@@ -122393,6 +122426,17 @@
     "battleTime": 130,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:55:00Z",
+    "gold": 2084708,
+    "elixir": 2081171,
+    "darkElixir": 10611,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
