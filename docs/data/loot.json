@@ -20385,6 +20385,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T22:58:37Z",
+    "gold": 733150,
+    "elixir": 568283,
+    "darkElixir": 8779,
+    "battleTime": 79,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -83956,6 +83967,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 67
+   },
+   {
+    "time": "2026-11-18T22:57:34Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 138,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T23:00:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 141,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -139579,6 +139612,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 90
+   },
+   {
+    "time": "2026-11-18T22:57:50Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 149,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -147942,7 +147986,7 @@
  {
   "tag": "#RPPY92V0P",
   "name": "Prazy",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 6,
   "entries": []
  },
