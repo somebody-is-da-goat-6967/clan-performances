@@ -84831,6 +84831,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:08:13Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -102790,7 +102801,7 @@
  {
   "tag": "#2JQLRUY8G",
   "name": "Creaamy",
-  "clan": "Reaper Crew",
+  "clan": "FREAK!NCLASHERS",
   "th": 17,
   "entries": [
    {
@@ -117099,6 +117110,17 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 126,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:10:58Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 154,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
