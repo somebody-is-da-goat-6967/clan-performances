@@ -17668,6 +17668,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 42
+   },
+   {
+    "time": "2026-11-18T02:28:06Z",
+    "gold": 260666,
+    "elixir": 1054140,
+    "darkElixir": 9486,
+    "battleTime": 135,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-18T02:30:50Z",
+    "gold": 129228,
+    "elixir": 25799,
+    "darkElixir": 8629,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 29
    }
   ]
  },
@@ -48634,7 +48656,7 @@
  {
   "tag": "#LVYGJQGRP",
   "name": "AGENT~FuRiOuS",
-  "clan": "Reaper Crew",
+  "clan": "LOVER OF INDIA",
   "th": 18,
   "entries": [
    {
@@ -98572,6 +98594,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T02:31:05Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 113,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -99083,6 +99116,28 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 135,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T02:28:47Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 98
+   },
+   {
+    "time": "2026-11-18T02:31:14Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 128,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
