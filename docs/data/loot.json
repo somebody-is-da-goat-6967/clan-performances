@@ -19945,6 +19945,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:16:29Z",
+    "gold": 1364531,
+    "elixir": 1223151,
+    "darkElixir": 17330,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -31741,6 +31752,28 @@
    },
    {
     "time": "2026-11-18T21:10:47Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:13:19Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 149,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:15:48Z",
     "gold": 1035000,
     "elixir": 1035000,
     "darkElixir": 10350,
@@ -51981,6 +52014,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:12:18Z",
+    "gold": 5191,
+    "elixir": 100750,
+    "darkElixir": 9532,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-18T21:13:33Z",
+    "gold": 978695,
+    "elixir": 712059,
+    "darkElixir": 12972,
+    "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 45
    }
   ]
  },
@@ -139381,7 +139436,7 @@
  {
   "tag": "#L8JPGRG2R",
   "name": "ᵀᴛᵀ‿ＶＯＩＤ多",
-  "clan": "",
+  "clan": "GolemLegion",
   "th": 15,
   "entries": [
    {
