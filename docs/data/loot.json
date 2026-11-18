@@ -956,6 +956,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 65
+   },
+   {
+    "time": "2026-11-18T04:37:31Z",
+    "gold": 680938,
+    "elixir": 714007,
+    "darkElixir": 6587,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -8014,6 +8025,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T04:37:06Z",
+    "gold": 211716,
+    "elixir": 414000,
+    "darkElixir": 8280,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-18T04:39:34Z",
+    "gold": 207000,
+    "elixir": 595726,
+    "darkElixir": 8280,
+    "battleTime": 101,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 54
    }
   ]
  },
@@ -98231,6 +98264,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T04:38:56Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 75,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T04:41:27Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -134275,7 +134330,7 @@
  {
   "tag": "#R00P99LC9",
   "name": "Mini Mochi",
-  "clan": "Syndicate",
+  "clan": "THE WARRIOR",
   "th": 11,
   "entries": [
    {
