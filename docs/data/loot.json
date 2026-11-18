@@ -18900,6 +18900,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-18T07:28:13Z",
+    "gold": 1380471,
+    "elixir": 382332,
+    "darkElixir": 14677,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 78
    }
   ]
  },
@@ -97073,6 +97084,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-18T07:30:11Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
    }
   ]
  },
@@ -99635,6 +99657,17 @@
     "elixir": 794110,
     "darkElixir": 12602,
     "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T07:27:41Z",
+    "gold": 786681,
+    "elixir": 811095,
+    "darkElixir": 10583,
+    "battleTime": 48,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -116595,6 +116628,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 97
+   },
+   {
+    "time": "2026-11-18T07:27:11Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 173,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -135885,7 +135929,7 @@
  {
   "tag": "#R8JVQLC8V",
   "name": "ABIR 7525",
-  "clan": "",
+  "clan": "ABIR 7525",
   "th": 11,
   "entries": []
  },
