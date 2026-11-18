@@ -51506,7 +51506,7 @@
  {
   "tag": "#29LGJLPPP",
   "name": "Adønis",
-  "clan": "Lightborn",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -85304,6 +85304,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-18T16:33:59Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 165,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -92724,6 +92735,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-18T16:33:12Z",
+    "gold": 1849386,
+    "elixir": 1849678,
+    "darkElixir": 2787,
+    "battleTime": 115,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:34:50Z",
+    "gold": 902101,
+    "elixir": 829396,
+    "darkElixir": 9796,
+    "battleTime": 88,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:37:35Z",
+    "gold": 690234,
+    "elixir": 722374,
+    "darkElixir": 8095,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -121959,7 +122003,7 @@
  {
   "tag": "#GG2RQ9UPY",
   "name": "Ishtiaq Bai",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 16,
   "entries": [
    {
@@ -136770,6 +136814,17 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 150,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:36:31Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 141,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
