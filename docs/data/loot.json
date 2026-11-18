@@ -71384,6 +71384,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 57
+   },
+   {
+    "time": "2026-11-18T19:44:55Z",
+    "gold": 885258,
+    "elixir": 194146,
+    "darkElixir": 10129,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-18T19:45:13Z",
+    "gold": 449342,
+    "elixir": 451330,
+    "darkElixir": 6525,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-18T19:45:33Z",
+    "gold": 1138381,
+    "elixir": 1073114,
+    "darkElixir": 10582,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-18T19:45:58Z",
+    "gold": 514392,
+    "elixir": 497421,
+    "darkElixir": 2229,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 95
+   },
+   {
+    "time": "2026-11-18T19:46:19Z",
+    "gold": 1035998,
+    "elixir": 1035179,
+    "darkElixir": 2872,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 78
    }
   ]
  },
@@ -85750,7 +85805,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "fc",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -87351,6 +87406,39 @@
     "elixir": 292999,
     "darkElixir": 6846,
     "battleTime": 151,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T18:22:11Z",
+    "gold": 32536,
+    "elixir": 27580,
+    "darkElixir": 3183,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-18T18:49:43Z",
+    "gold": 38785,
+    "elixir": 42388,
+    "darkElixir": 0,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 3
+   },
+   {
+    "time": "2026-11-18T19:09:09Z",
+    "gold": 647733,
+    "elixir": 490491,
+    "darkElixir": 3793,
+    "battleTime": 128,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
