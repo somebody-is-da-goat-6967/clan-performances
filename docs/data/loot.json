@@ -70169,6 +70169,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-18T17:37:38Z",
+    "gold": 413654,
+    "elixir": 356890,
+    "darkElixir": 6157,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-18T17:37:55Z",
+    "gold": 318240,
+    "elixir": 295367,
+    "darkElixir": 3742,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-18T17:38:12Z",
+    "gold": 303032,
+    "elixir": 270152,
+    "darkElixir": 546,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-18T17:38:27Z",
+    "gold": 211667,
+    "elixir": 258316,
+    "darkElixir": 360,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-18T17:38:50Z",
+    "gold": 587783,
+    "elixir": 550698,
+    "darkElixir": 6113,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-18T17:39:24Z",
+    "gold": 1041567,
+    "elixir": 1306017,
+    "darkElixir": 3148,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
    }
   ]
  },
@@ -109472,7 +109538,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "VOLD team",
+  "clan": "flamingo",
   "th": 17,
   "entries": [
    {
@@ -124588,6 +124654,17 @@
     "elixir": 1025000,
     "darkElixir": 10320,
     "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T17:40:43Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 148,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
