@@ -31595,6 +31595,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T20:34:25Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 2838,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 89
    }
   ]
  },
@@ -32216,7 +32227,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "THE WARRIOR",
+  "clan": "DARK AVENGERS",
   "th": 19,
   "entries": [
    {
