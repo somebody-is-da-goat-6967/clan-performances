@@ -9221,6 +9221,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-18T08:15:41Z",
+    "gold": 234360,
+    "elixir": 512780,
+    "darkElixir": 8077,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 83
    }
   ]
  },
@@ -35826,6 +35837,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 0
+   },
+   {
+    "time": "2026-11-18T08:12:39Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-18T08:14:02Z",
+    "gold": 92810,
+    "elixir": 58483,
+    "darkElixir": 1205,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 39
+   },
+   {
+    "time": "2026-11-18T08:15:26Z",
+    "gold": 143980,
+    "elixir": 49119,
+    "darkElixir": 47,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 10
    }
   ]
  },
@@ -88967,7 +89011,7 @@
  {
   "tag": "#PJQQGUCCY",
   "name": "sᴀʜɪʟ",
-  "clan": "GROWN ups",
+  "clan": "WAR PLAYERS",
   "th": 18,
   "entries": [
    {
