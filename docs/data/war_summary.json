@@ -1,5 +1,33 @@
 [
  {
+  "name": "Vitosya17",
+  "tag": "#8LC0Y2U9L",
+  "clan": "THE WARRIOR",
+  "th": 19,
+  "wars": 6,
+  "attacksUsed": 12,
+  "attacksAvailable": 12,
+  "missed": 0,
+  "stars": 34,
+  "threeStars": 11,
+  "avgStarsPerAttack": 2.83,
+  "avgDestruction": 99.5
+ },
+ {
+  "name": "VorReel",
+  "tag": "#9U8Y92RJ",
+  "clan": "THE WARRIOR",
+  "th": 19,
+  "wars": 6,
+  "attacksUsed": 12,
+  "attacksAvailable": 12,
+  "missed": 0,
+  "stars": 32,
+  "threeStars": 10,
+  "avgStarsPerAttack": 2.67,
+  "avgDestruction": 86.5
+ },
+ {
   "name": "Неизвестный",
   "tag": "#9VLYJG8VQ",
   "clan": "Reaper Crew",
@@ -12,6 +40,20 @@
   "threeStars": 9,
   "avgStarsPerAttack": 2.5,
   "avgDestruction": 96.8
+ },
+ {
+  "name": "MIRAJ",
+  "tag": "#GCVY89CGY",
+  "clan": "THE WARRIOR",
+  "th": 19,
+  "wars": 5,
+  "attacksUsed": 10,
+  "attacksAvailable": 10,
+  "missed": 0,
+  "stars": 25,
+  "threeStars": 7,
+  "avgStarsPerAttack": 2.5,
+  "avgDestruction": 91.1
  },
  {
   "name": "Amoo",
@@ -98,6 +140,20 @@
   "avgDestruction": 88.1
  },
  {
+  "name": "[SPP] Stephan",
+  "tag": "#Q882U0V8L",
+  "clan": "THE WARRIOR",
+  "th": 19,
+  "wars": 3,
+  "attacksUsed": 6,
+  "attacksAvailable": 6,
+  "missed": 0,
+  "stars": 17,
+  "threeStars": 5,
+  "avgStarsPerAttack": 2.83,
+  "avgDestruction": 96.5
+ },
+ {
   "name": "oscer",
   "tag": "#LCL9JRVU",
   "clan": "Reaper Crew",
@@ -126,6 +182,20 @@
   "avgDestruction": 84.0
  },
  {
+  "name": "demon empire",
+  "tag": "#L0LJP9C8C",
+  "clan": "THE WARRIOR",
+  "th": 19,
+  "wars": 4,
+  "attacksUsed": 6,
+  "attacksAvailable": 8,
+  "missed": 2,
+  "stars": 13,
+  "threeStars": 3,
+  "avgStarsPerAttack": 2.17,
+  "avgDestruction": 84.0
+ },
+ {
   "name": "King siddharth",
   "tag": "#PRCJVPUPJ",
   "clan": "Reaper Crew",
@@ -138,6 +208,20 @@
   "threeStars": 3,
   "avgStarsPerAttack": 2.17,
   "avgDestruction": 70.7
+ },
+ {
+  "name": "RohanVirus",
+  "tag": "#CLG88L0C",
+  "clan": "THE WARRIOR",
+  "th": 19,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 12,
+  "threeStars": 2,
+  "avgStarsPerAttack": 1.5,
+  "avgDestruction": 33.1
  },
  {
   "name": "TrueG",
@@ -168,6 +252,20 @@
   "avgDestruction": 100.0
  },
  {
+  "name": "Levi Hero!",
+  "tag": "#Y2RL98L20",
+  "clan": "THE WARRIOR",
+  "th": 19,
+  "wars": 4,
+  "attacksUsed": 2,
+  "attacksAvailable": 8,
+  "missed": 6,
+  "stars": 6,
+  "threeStars": 2,
+  "avgStarsPerAttack": 3.0,
+  "avgDestruction": 100.0
+ },
+ {
   "name": "SS GOURAV ⚔️",
   "tag": "#Q8CCQUQL9",
   "clan": "Reaper Crew",
@@ -180,6 +278,20 @@
   "threeStars": 12,
   "avgStarsPerAttack": 2.86,
   "avgDestruction": 99.3
+ },
+ {
+  "name": "Muhfli Pakoda",
+  "tag": "#LVU2UGCVR",
+  "clan": "THE WARRIOR",
+  "th": 18,
+  "wars": 7,
+  "attacksUsed": 14,
+  "attacksAvailable": 14,
+  "missed": 0,
+  "stars": 35,
+  "threeStars": 8,
+  "avgStarsPerAttack": 2.5,
+  "avgDestruction": 93.4
  },
  {
   "name": "Het",
@@ -210,46 +322,18 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "Muhfli Pakoda",
-  "tag": "#LVU2UGCVR",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 6,
-  "attacksUsed": 12,
-  "attacksAvailable": 12,
-  "missed": 0,
-  "stars": 30,
-  "threeStars": 7,
-  "avgStarsPerAttack": 2.5,
-  "avgDestruction": 93.1
- },
- {
-  "name": "VorReel",
-  "tag": "#9U8Y92RJ",
+  "name": "asianmaster8",
+  "tag": "#U0J88QLL",
   "clan": "THE WARRIOR",
   "th": 18,
   "wars": 5,
   "attacksUsed": 10,
   "attacksAvailable": 10,
   "missed": 0,
-  "stars": 30,
-  "threeStars": 10,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
- },
- {
-  "name": "Vitosya17",
-  "tag": "#8LC0Y2U9L",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 5,
-  "attacksUsed": 10,
-  "attacksAvailable": 10,
-  "missed": 0,
-  "stars": 28,
+  "stars": 29,
   "threeStars": 9,
-  "avgStarsPerAttack": 2.8,
-  "avgDestruction": 99.4
+  "avgStarsPerAttack": 2.9,
+  "avgDestruction": 99.3
  },
  {
   "name": "Mochi",
@@ -308,20 +392,6 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "asianmaster8",
-  "tag": "#U0J88QLL",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 4,
-  "attacksUsed": 8,
-  "attacksAvailable": 8,
-  "missed": 0,
-  "stars": 23,
-  "threeStars": 7,
-  "avgStarsPerAttack": 2.88,
-  "avgDestruction": 99.1
- },
- {
   "name": "Bondokk",
   "tag": "#2LPRVL8CY",
   "clan": "Reaper Crew",
@@ -334,6 +404,20 @@
   "threeStars": 7,
   "avgStarsPerAttack": 2.88,
   "avgDestruction": 99.9
+ },
+ {
+  "name": "Alpha Sierra",
+  "tag": "#L080P9YR0",
+  "clan": "THE WARRIOR",
+  "th": 18,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 22,
+  "threeStars": 7,
+  "avgStarsPerAttack": 2.75,
+  "avgDestruction": 93.1
  },
  {
   "name": "ASL",
@@ -350,6 +434,34 @@
   "avgDestruction": 97.4
  },
  {
+  "name": "Nurbek",
+  "tag": "#G99JUCYRJ",
+  "clan": "THE WARRIOR",
+  "th": 18,
+  "wars": 5,
+  "attacksUsed": 10,
+  "attacksAvailable": 10,
+  "missed": 0,
+  "stars": 22,
+  "threeStars": 6,
+  "avgStarsPerAttack": 2.2,
+  "avgDestruction": 83.0
+ },
+ {
+  "name": "Soloo",
+  "tag": "#GJQJ80VRG",
+  "clan": "THE WARRIOR",
+  "th": 18,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 22,
+  "threeStars": 6,
+  "avgStarsPerAttack": 2.75,
+  "avgDestruction": 96.0
+ },
+ {
   "name": "CHAPO GUZHMAN",
   "tag": "#992CCVJPY",
   "clan": "Reaper Crew",
@@ -362,20 +474,6 @@
   "threeStars": 5,
   "avgStarsPerAttack": 2.38,
   "avgDestruction": 92.2
- },
- {
-  "name": "MIRAJ",
-  "tag": "#GCVY89CGY",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 4,
-  "attacksUsed": 8,
-  "attacksAvailable": 8,
-  "missed": 0,
-  "stars": 19,
-  "threeStars": 5,
-  "avgStarsPerAttack": 2.38,
-  "avgDestruction": 88.9
  },
  {
   "name": "Arc'Zen",
@@ -448,8 +546,8 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "Soloo",
-  "tag": "#GJQJ80VRG",
+  "name": "FanTong",
+  "tag": "#R0980PPU8",
   "clan": "THE WARRIOR",
   "th": 18,
   "wars": 3,
@@ -459,35 +557,7 @@
   "stars": 17,
   "threeStars": 5,
   "avgStarsPerAttack": 2.83,
-  "avgDestruction": 95.7
- },
- {
-  "name": "Alpha Sierra",
-  "tag": "#L080P9YR0",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 16,
-  "threeStars": 5,
-  "avgStarsPerAttack": 2.67,
-  "avgDestruction": 90.8
- },
- {
-  "name": "Nurbek",
-  "tag": "#G99JUCYRJ",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 4,
-  "attacksUsed": 8,
-  "attacksAvailable": 8,
-  "missed": 0,
-  "stars": 16,
-  "threeStars": 4,
-  "avgStarsPerAttack": 2.0,
-  "avgDestruction": 78.8
+  "avgDestruction": 99.5
  },
  {
   "name": "Waltuhh",
@@ -560,46 +630,18 @@
   "avgDestruction": 64.5
  },
  {
-  "name": "[SPP] Stephan",
-  "tag": "#Q882U0V8L",
-  "clan": "Reaper Crew",
-  "th": 18,
-  "wars": 2,
-  "attacksUsed": 4,
-  "attacksAvailable": 4,
-  "missed": 0,
-  "stars": 11,
-  "threeStars": 3,
-  "avgStarsPerAttack": 2.75,
-  "avgDestruction": 94.8
- },
- {
-  "name": "FanTong",
-  "tag": "#R0980PPU8",
+  "name": "RohanVIRU5",
+  "tag": "#YGR89L22L",
   "clan": "THE WARRIOR",
   "th": 18,
-  "wars": 2,
-  "attacksUsed": 4,
-  "attacksAvailable": 4,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
   "missed": 0,
   "stars": 11,
-  "threeStars": 3,
-  "avgStarsPerAttack": 2.75,
-  "avgDestruction": 99.2
- },
- {
-  "name": "RohanVirus",
-  "tag": "#CLG88L0C",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 10,
-  "threeStars": 2,
-  "avgStarsPerAttack": 1.67,
-  "avgDestruction": 39.7
+  "threeStars": 1,
+  "avgStarsPerAttack": 1.38,
+  "avgDestruction": 32.0
  },
  {
   "name": "MD. NAHIDUL",
@@ -616,20 +658,6 @@
   "avgDestruction": 97.2
  },
  {
-  "name": "RohanVIRU5",
-  "tag": "#YGR89L22L",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 9,
-  "threeStars": 1,
-  "avgStarsPerAttack": 1.5,
-  "avgDestruction": 36.8
- },
- {
   "name": "Yuutaa",
   "tag": "#8J9GUUG2G",
   "clan": "Reaper Crew",
@@ -642,20 +670,6 @@
   "threeStars": 1,
   "avgStarsPerAttack": 2.25,
   "avgDestruction": 81.8
- },
- {
-  "name": "demon empire",
-  "tag": "#L0LJP9C8C",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 3,
-  "attacksUsed": 4,
-  "attacksAvailable": 6,
-  "missed": 2,
-  "stars": 8,
-  "threeStars": 2,
-  "avgStarsPerAttack": 2.0,
-  "avgDestruction": 80.2
  },
  {
   "name": "Levantine",
@@ -672,14 +686,28 @@
   "avgDestruction": 58.2
  },
  {
+  "name": "Billy Drain III",
+  "tag": "#PPJ80L0UU",
+  "clan": "THE WARRIOR",
+  "th": 18,
+  "wars": 2,
+  "attacksUsed": 4,
+  "attacksAvailable": 4,
+  "missed": 0,
+  "stars": 6,
+  "threeStars": 0,
+  "avgStarsPerAttack": 1.5,
+  "avgDestruction": 85.0
+ },
+ {
   "name": "Joao",
   "tag": "#9LVRQY02L",
   "clan": "THE WARRIOR",
   "th": 18,
-  "wars": 3,
+  "wars": 4,
   "attacksUsed": 2,
-  "attacksAvailable": 6,
-  "missed": 4,
+  "attacksAvailable": 8,
+  "missed": 6,
   "stars": 6,
   "threeStars": 2,
   "avgStarsPerAttack": 3.0,
@@ -714,20 +742,6 @@
   "avgDestruction": 99.5
  },
  {
-  "name": "Billy Drain III",
-  "tag": "#PPJ80L0UU",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 1,
-  "attacksUsed": 2,
-  "attacksAvailable": 2,
-  "missed": 0,
-  "stars": 3,
-  "threeStars": 0,
-  "avgStarsPerAttack": 1.5,
-  "avgDestruction": 84.0
- },
- {
   "name": "faraaz",
   "tag": "#P0UCYCU2P",
   "clan": "THE WARRIOR",
@@ -744,20 +758,6 @@
  {
   "name": "Farhan",
   "tag": "#99UG9LVL9",
-  "clan": "THE WARRIOR",
-  "th": 18,
-  "wars": 3,
-  "attacksUsed": 0,
-  "attacksAvailable": 6,
-  "missed": 6,
-  "stars": 0,
-  "threeStars": 0,
-  "avgStarsPerAttack": null,
-  "avgDestruction": null
- },
- {
-  "name": "Levi Hero!",
-  "tag": "#Y2RL98L20",
   "clan": "THE WARRIOR",
   "th": 18,
   "wars": 3,
@@ -802,14 +802,14 @@
   "tag": "#LC9LLVCRJ",
   "clan": "THE WARRIOR",
   "th": 17,
-  "wars": 6,
-  "attacksUsed": 12,
-  "attacksAvailable": 12,
+  "wars": 7,
+  "attacksUsed": 14,
+  "attacksAvailable": 14,
   "missed": 0,
-  "stars": 26,
+  "stars": 28,
   "threeStars": 6,
-  "avgStarsPerAttack": 2.17,
-  "avgDestruction": 79.2
+  "avgStarsPerAttack": 2.0,
+  "avgDestruction": 78.9
  },
  {
   "name": "꧁✰BŁUE✰꧂✈︎",
@@ -830,14 +830,56 @@
   "tag": "#GQUL8P0LR",
   "clan": "THE WARRIOR",
   "th": 17,
-  "wars": 5,
+  "wars": 6,
   "attacksUsed": 8,
-  "attacksAvailable": 10,
-  "missed": 2,
+  "attacksAvailable": 12,
+  "missed": 4,
   "stars": 22,
   "threeStars": 6,
   "avgStarsPerAttack": 2.75,
   "avgDestruction": 97.9
+ },
+ {
+  "name": "《GENERAL》",
+  "tag": "#GP8VVG9JY",
+  "clan": "THE WARRIOR",
+  "th": 17,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 20,
+  "threeStars": 5,
+  "avgStarsPerAttack": 2.5,
+  "avgDestruction": 93.8
+ },
+ {
+  "name": "I N F E R N O",
+  "tag": "#2UY0YR2YG",
+  "clan": "THE WARRIOR",
+  "th": 17,
+  "wars": 3,
+  "attacksUsed": 6,
+  "attacksAvailable": 6,
+  "missed": 0,
+  "stars": 18,
+  "threeStars": 6,
+  "avgStarsPerAttack": 3.0,
+  "avgDestruction": 100.0
+ },
+ {
+  "name": "Lucifer",
+  "tag": "#PCVP0U92U",
+  "clan": "THE WARRIOR",
+  "th": 17,
+  "wars": 4,
+  "attacksUsed": 6,
+  "attacksAvailable": 8,
+  "missed": 2,
+  "stars": 18,
+  "threeStars": 6,
+  "avgStarsPerAttack": 3.0,
+  "avgDestruction": 100.0
  },
  {
   "name": "liam",
@@ -854,20 +896,6 @@
   "avgDestruction": 91.8
  },
  {
-  "name": "《GENERAL》",
-  "tag": "#GP8VVG9JY",
-  "clan": "THE WARRIOR",
-  "th": 17,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 15,
-  "threeStars": 4,
-  "avgStarsPerAttack": 2.5,
-  "avgDestruction": 92.5
- },
- {
   "name": "sq",
   "tag": "#QL80LUUYU",
   "clan": "Reaper Crew",
@@ -880,34 +908,6 @@
   "threeStars": 4,
   "avgStarsPerAttack": 2.33,
   "avgDestruction": 84.0
- },
- {
-  "name": "I N F E R N O",
-  "tag": "#2UY0YR2YG",
-  "clan": "THE WARRIOR",
-  "th": 17,
-  "wars": 2,
-  "attacksUsed": 4,
-  "attacksAvailable": 4,
-  "missed": 0,
-  "stars": 12,
-  "threeStars": 4,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
- },
- {
-  "name": "Lucifer",
-  "tag": "#PCVP0U92U",
-  "clan": "THE WARRIOR",
-  "th": 17,
-  "wars": 3,
-  "attacksUsed": 4,
-  "attacksAvailable": 6,
-  "missed": 2,
-  "stars": 12,
-  "threeStars": 4,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
  },
  {
   "name": "Osmir",
@@ -924,6 +924,34 @@
   "avgDestruction": 100.0
  },
  {
+  "name": "RohanV1RUS",
+  "tag": "#PPQLV29P0",
+  "clan": "THE WARRIOR",
+  "th": 17,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 12,
+  "threeStars": 2,
+  "avgStarsPerAttack": 1.5,
+  "avgDestruction": 31.6
+ },
+ {
+  "name": "TEGH THE GREAT",
+  "tag": "#2R9JLPL9Y",
+  "clan": "THE WARRIOR",
+  "th": 17,
+  "wars": 4,
+  "attacksUsed": 5,
+  "attacksAvailable": 8,
+  "missed": 3,
+  "stars": 12,
+  "threeStars": 3,
+  "avgStarsPerAttack": 2.4,
+  "avgDestruction": 95.6
+ },
+ {
   "name": "MORITZ",
   "tag": "#VRRPCLP",
   "clan": "THE WARRIOR",
@@ -936,34 +964,6 @@
   "threeStars": 3,
   "avgStarsPerAttack": 2.75,
   "avgDestruction": 94.8
- },
- {
-  "name": "RohanV1RUS",
-  "tag": "#PPQLV29P0",
-  "clan": "THE WARRIOR",
-  "th": 17,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 10,
-  "threeStars": 2,
-  "avgStarsPerAttack": 1.67,
-  "avgDestruction": 38.8
- },
- {
-  "name": "TEGH THE GREAT",
-  "tag": "#2R9JLPL9Y",
-  "clan": "THE WARRIOR",
-  "th": 17,
-  "wars": 3,
-  "attacksUsed": 3,
-  "attacksAvailable": 6,
-  "missed": 3,
-  "stars": 8,
-  "threeStars": 2,
-  "avgStarsPerAttack": 2.67,
-  "avgDestruction": 97.7
  },
  {
   "name": "Who's Next ❓",
@@ -1054,14 +1054,42 @@
   "tag": "#90PCYCLY",
   "clan": "THE WARRIOR",
   "th": 16,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
   "missed": 0,
-  "stars": 18,
-  "threeStars": 6,
+  "stars": 24,
+  "threeStars": 8,
   "avgStarsPerAttack": 3.0,
   "avgDestruction": 100.0
+ },
+ {
+  "name": "Dark God 2",
+  "tag": "#GCY8JPU8L",
+  "clan": "THE WARRIOR",
+  "th": 16,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 23,
+  "threeStars": 7,
+  "avgStarsPerAttack": 2.88,
+  "avgDestruction": 99.9
+ },
+ {
+  "name": "BEAST HUNTER",
+  "tag": "#Q0Q0VL0LV",
+  "clan": "THE WARRIOR",
+  "th": 16,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 20,
+  "threeStars": 4,
+  "avgStarsPerAttack": 2.5,
+  "avgDestruction": 90.9
  },
  {
   "name": "GGWP:SAYONO",
@@ -1092,8 +1120,8 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "Dark God 2",
-  "tag": "#GCY8JPU8L",
+  "name": "Ishtiaq Bro",
+  "tag": "#Y9LG9GLVL",
   "clan": "THE WARRIOR",
   "th": 16,
   "wars": 3,
@@ -1103,7 +1131,7 @@
   "stars": 17,
   "threeStars": 5,
   "avgStarsPerAttack": 2.83,
-  "avgDestruction": 99.8
+  "avgDestruction": 99.2
  },
  {
   "name": "krkic",
@@ -1120,32 +1148,32 @@
   "avgDestruction": 98.7
  },
  {
-  "name": "BEAST HUNTER",
-  "tag": "#Q0Q0VL0LV",
+  "name": "MD. NAHIDUL ❣️",
+  "tag": "#99UL0J92Q",
   "clan": "THE WARRIOR",
   "th": 16,
-  "wars": 3,
+  "wars": 4,
   "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 14,
-  "threeStars": 2,
-  "avgStarsPerAttack": 2.33,
-  "avgDestruction": 87.8
+  "attacksAvailable": 8,
+  "missed": 2,
+  "stars": 16,
+  "threeStars": 5,
+  "avgStarsPerAttack": 2.67,
+  "avgDestruction": 96.2
  },
  {
-  "name": "E Drag Spammer",
-  "tag": "#Y9LG9GLVL",
+  "name": "Ishtiaq Bai",
+  "tag": "#GG2RQ9UPY",
   "clan": "THE WARRIOR",
   "th": 16,
   "wars": 2,
   "attacksUsed": 4,
   "attacksAvailable": 4,
   "missed": 0,
-  "stars": 11,
-  "threeStars": 3,
-  "avgStarsPerAttack": 2.75,
-  "avgDestruction": 98.8
+  "stars": 12,
+  "threeStars": 4,
+  "avgStarsPerAttack": 3.0,
+  "avgDestruction": 100.0
  },
  {
   "name": "Fortress",
@@ -1176,20 +1204,6 @@
   "avgDestruction": 99.2
  },
  {
-  "name": "MD. NAHIDUL ❣️",
-  "tag": "#99UL0J92Q",
-  "clan": "THE WARRIOR",
-  "th": 16,
-  "wars": 3,
-  "attacksUsed": 4,
-  "attacksAvailable": 6,
-  "missed": 2,
-  "stars": 10,
-  "threeStars": 3,
-  "avgStarsPerAttack": 2.5,
-  "avgDestruction": 94.2
- },
- {
   "name": "Huzefa",
   "tag": "#Q2LCUV9P9",
   "clan": "Reaper Crew",
@@ -1204,32 +1218,46 @@
   "avgDestruction": 65.5
  },
  {
-  "name": "Ishtiaq Bai",
-  "tag": "#GG2RQ9UPY",
-  "clan": "THE WARRIOR",
-  "th": 16,
-  "wars": 1,
-  "attacksUsed": 2,
-  "attacksAvailable": 2,
-  "missed": 0,
-  "stars": 6,
-  "threeStars": 2,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
- },
- {
   "name": "Amoo 2.0",
   "tag": "#8JCLJLVLQ",
   "clan": "THE WARRIOR",
   "th": 15,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
   "missed": 0,
-  "stars": 18,
-  "threeStars": 6,
+  "stars": 24,
+  "threeStars": 8,
   "avgStarsPerAttack": 3.0,
   "avgDestruction": 100.0
+ },
+ {
+  "name": "Неадекватный",
+  "tag": "#QLRJ928JQ",
+  "clan": "THE WARRIOR",
+  "th": 15,
+  "wars": 6,
+  "attacksUsed": 8,
+  "attacksAvailable": 12,
+  "missed": 4,
+  "stars": 20,
+  "threeStars": 6,
+  "avgStarsPerAttack": 2.5,
+  "avgDestruction": 78.4
+ },
+ {
+  "name": "⚓DrkEagle⚓",
+  "tag": "#LP2RGJVL0",
+  "clan": "THE WARRIOR",
+  "th": 15,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 19,
+  "threeStars": 5,
+  "avgStarsPerAttack": 2.38,
+  "avgDestruction": 92.8
  },
  {
   "name": "carbonfin th2",
@@ -1260,18 +1288,32 @@
   "avgDestruction": 100.0
  },
  {
-  "name": "Неадекватный",
-  "tag": "#QLRJ928JQ",
+  "name": "WE MD. NAHIDUL",
+  "tag": "#9P9GRLCPJ",
   "clan": "THE WARRIOR",
   "th": 15,
-  "wars": 5,
+  "wars": 4,
   "attacksUsed": 6,
-  "attacksAvailable": 10,
-  "missed": 4,
+  "attacksAvailable": 8,
+  "missed": 2,
   "stars": 18,
   "threeStars": 6,
   "avgStarsPerAttack": 3.0,
   "avgDestruction": 100.0
+ },
+ {
+  "name": "Ttisn",
+  "tag": "#QLJP9JY2Y",
+  "clan": "THE WARRIOR",
+  "th": 15,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
+  "missed": 0,
+  "stars": 17,
+  "threeStars": 4,
+  "avgStarsPerAttack": 2.12,
+  "avgDestruction": 84.4
  },
  {
   "name": "KlausfromBD",
@@ -1288,34 +1330,6 @@
   "avgDestruction": 86.5
  },
  {
-  "name": "Ttisn",
-  "tag": "#QLJP9JY2Y",
-  "clan": "THE WARRIOR",
-  "th": 15,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 15,
-  "threeStars": 4,
-  "avgStarsPerAttack": 2.5,
-  "avgDestruction": 93.8
- },
- {
-  "name": "⚓DrkEagle⚓",
-  "tag": "#LP2RGJVL0",
-  "clan": "THE WARRIOR",
-  "th": 15,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
-  "missed": 0,
-  "stars": 15,
-  "threeStars": 4,
-  "avgStarsPerAttack": 2.5,
-  "avgDestruction": 94.2
- },
- {
   "name": "SS GOURAV ⚔️",
   "tag": "#GGLVL09UY",
   "clan": "Reaper Two",
@@ -1330,32 +1344,18 @@
   "avgDestruction": 74.3
  },
  {
-  "name": "WE MD. NAHIDUL",
-  "tag": "#9P9GRLCPJ",
-  "clan": "THE WARRIOR",
-  "th": 15,
-  "wars": 3,
-  "attacksUsed": 4,
-  "attacksAvailable": 6,
-  "missed": 2,
-  "stars": 12,
-  "threeStars": 4,
-  "avgStarsPerAttack": 3.0,
-  "avgDestruction": 100.0
- },
- {
   "name": "Hithem V2",
   "tag": "#G0UGCQGQU",
   "clan": "THE WARRIOR",
   "th": 15,
-  "wars": 3,
-  "attacksUsed": 6,
-  "attacksAvailable": 6,
+  "wars": 4,
+  "attacksUsed": 8,
+  "attacksAvailable": 8,
   "missed": 0,
-  "stars": 10,
+  "stars": 12,
   "threeStars": 2,
-  "avgStarsPerAttack": 1.67,
-  "avgDestruction": 47.2
+  "avgStarsPerAttack": 1.5,
+  "avgDestruction": 39.4
  },
  {
   "name": "SS GOURAV ⚔️",
