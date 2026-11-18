@@ -46604,7 +46604,7 @@
  {
   "tag": "#Q8JUGYLQL",
   "name": "XLG⚡️BLACKBEARD",
-  "clan": "We Ain't Good",
+  "clan": "Barbs Brew Crew",
   "th": 19,
   "entries": [
    {
@@ -133131,6 +133131,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 63
+   },
+   {
+    "time": "2026-11-18T12:10:32Z",
+    "gold": 266373,
+    "elixir": 263697,
+    "darkElixir": 11259,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
