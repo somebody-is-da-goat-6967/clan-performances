@@ -8212,13 +8212,46 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 75
+   },
+   {
+    "time": "2026-11-18T05:25:54Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T05:28:37Z",
+    "gold": 828000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 164,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-18T05:31:21Z",
+    "gold": 670873,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 177,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 84
    }
   ]
  },
  {
   "tag": "#992CCVJPY",
   "name": "CHAPO GUZHMAN",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
