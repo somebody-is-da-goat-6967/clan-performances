@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "3 Star in SUN",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -8339,7 +8339,7 @@
  {
   "tag": "#992CCVJPY",
   "name": "CHAPO GUZHMAN",
-  "clan": "Reaper Crew",
+  "clan": "3☆ on the ⓜⓞⓞⓝ",
   "th": 19,
   "entries": [
    {
@@ -36398,6 +36398,50 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 35
+   },
+   {
+    "time": "2026-11-18T08:26:34Z",
+    "gold": 28880,
+    "elixir": 52170,
+    "darkElixir": 223,
+    "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 27
+   },
+   {
+    "time": "2026-11-18T08:27:57Z",
+    "gold": 234410,
+    "elixir": 205932,
+    "darkElixir": 1199,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 42
+   },
+   {
+    "time": "2026-11-18T08:29:20Z",
+    "gold": 45436,
+    "elixir": 87342,
+    "darkElixir": 1628,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 40
+   },
+   {
+    "time": "2026-11-18T08:30:45Z",
+    "gold": 38283,
+    "elixir": 82637,
+    "darkElixir": 0,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
    }
   ]
  },
@@ -127287,6 +127331,17 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 143,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T08:28:48Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 163,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
