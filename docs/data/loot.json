@@ -46604,7 +46604,7 @@
  {
   "tag": "#Q8JUGYLQL",
   "name": "XLG⚡️BLACKBEARD",
-  "clan": "Reaper Crew",
+  "clan": "We Ain't Good",
   "th": 19,
   "entries": [
    {
@@ -71065,6 +71065,50 @@
     "elixir": 1043780,
     "darkElixir": 4445,
     "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T11:11:25Z",
+    "gold": 511683,
+    "elixir": 696525,
+    "darkElixir": 12886,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T11:12:23Z",
+    "gold": 481217,
+    "elixir": 720410,
+    "darkElixir": 11234,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T11:13:10Z",
+    "gold": 719989,
+    "elixir": 776793,
+    "darkElixir": 3231,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T11:14:02Z",
+    "gold": 699880,
+    "elixir": 867534,
+    "darkElixir": 7734,
+    "battleTime": 28,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
