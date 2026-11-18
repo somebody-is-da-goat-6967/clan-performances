@@ -276,6 +276,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T19:32:03Z",
+    "gold": 548073,
+    "elixir": 586473,
+    "darkElixir": 8341,
+    "battleTime": 94,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -127400,6 +127411,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 86
+   },
+   {
+    "time": "2026-11-18T19:33:45Z",
+    "gold": 820000,
+    "elixir": 820000,
+    "darkElixir": 10320,
+    "battleTime": 142,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 70
    }
   ]
  },
@@ -138629,7 +138651,7 @@
  {
   "tag": "#2GQGJ0GCC",
   "name": "♦️BŁUE³♠️",
-  "clan": "G3 wars",
+  "clan": "G6’s Clan",
   "th": 15,
   "entries": [
    {
