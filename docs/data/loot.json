@@ -33474,6 +33474,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T18:28:34Z",
+    "gold": 308680,
+    "elixir": 666424,
+    "darkElixir": 3756,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-18T18:28:56Z",
+    "gold": 605310,
+    "elixir": 859330,
+    "darkElixir": 8820,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-18T18:29:47Z",
+    "gold": 1187470,
+    "elixir": 948374,
+    "darkElixir": 1893,
+    "battleTime": 49,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -85140,7 +85173,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "THE BROTHERHOOD",
+  "clan": "It'z KABILA™",
   "th": 18,
   "entries": [
    {
@@ -105183,6 +105216,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-18T18:28:22Z",
+    "gold": 595025,
+    "elixir": 583233,
+    "darkElixir": 4662,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-18T18:29:36Z",
+    "gold": 548845,
+    "elixir": 596809,
+    "darkElixir": 2351,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 47
    }
   ]
  },
