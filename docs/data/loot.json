@@ -20374,6 +20374,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T22:55:51Z",
+    "gold": 379576,
+    "elixir": 838637,
+    "darkElixir": 10973,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -83934,6 +83945,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T22:54:40Z",
+    "gold": 640254,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 139,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 67
    }
   ]
  },
@@ -107929,7 +107951,7 @@
  {
   "tag": "#2JQLRUY8G",
   "name": "Creaamy",
-  "clan": "FREAK!NCLASHERS",
+  "clan": "Reaper Crew",
   "th": 17,
   "entries": [
    {
@@ -108393,6 +108415,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:09:40Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 160,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:13:01Z",
+    "gold": 1028019,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 94
    }
   ]
  },
