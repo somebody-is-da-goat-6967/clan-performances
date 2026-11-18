@@ -995,7 +995,7 @@
  {
   "tag": "#GPQVGYJYC",
   "name": "AL|£Ñ Z©",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -14314,6 +14314,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 76
+   },
+   {
+    "time": "2026-11-18T09:47:07Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T09:50:24Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 168,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -86898,6 +86920,50 @@
     "gold": 1471279,
     "elixir": 402412,
     "darkElixir": 9359,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T09:46:53Z",
+    "gold": 1691368,
+    "elixir": 1987812,
+    "darkElixir": 13149,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T09:48:40Z",
+    "gold": 945841,
+    "elixir": 1109395,
+    "darkElixir": 8600,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T09:49:34Z",
+    "gold": 758902,
+    "elixir": 1345781,
+    "darkElixir": 14204,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T09:50:40Z",
+    "gold": 792805,
+    "elixir": 1758257,
+    "darkElixir": 6869,
     "battleTime": 30,
     "league": "",
     "battleType": "homeVillage",
