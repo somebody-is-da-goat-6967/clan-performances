@@ -118395,7 +118395,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "◥꧁★彡[ ÀVEÑGÈRS]",
+  "clan": "Everdraco™",
   "th": 17,
   "entries": [
    {
@@ -130719,6 +130719,50 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T23:26:40Z",
+    "gold": 494445,
+    "elixir": 400017,
+    "darkElixir": 2727,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T23:27:52Z",
+    "gold": 424335,
+    "elixir": 378704,
+    "darkElixir": 4992,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 78
+   },
+   {
+    "time": "2026-11-18T23:28:11Z",
+    "gold": 825818,
+    "elixir": 700255,
+    "darkElixir": 9007,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-18T23:28:34Z",
+    "gold": 550158,
+    "elixir": 570813,
+    "darkElixir": 5822,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -140365,6 +140409,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 72
+   },
+   {
+    "time": "2026-11-18T23:26:23Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 174,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
