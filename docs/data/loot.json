@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "",
+  "clan": "3☆ on the ⓜⓞⓞⓝ",
   "th": 19,
   "entries": [
    {
@@ -91051,6 +91051,17 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 172,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T01:13:58Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 144,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
