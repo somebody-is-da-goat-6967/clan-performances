@@ -47199,6 +47199,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 15
+   },
+   {
+    "time": "2026-11-18T06:45:58Z",
+    "gold": 0,
+    "elixir": 60603,
+    "darkElixir": 10375,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
+   },
+   {
+    "time": "2026-11-18T06:46:12Z",
+    "gold": 2255,
+    "elixir": 4502,
+    "darkElixir": 8156,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 14
    }
   ]
  },
@@ -107623,7 +107645,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "Emperadores",
+  "clan": "The fallen",
   "th": 17,
   "entries": [
    {
