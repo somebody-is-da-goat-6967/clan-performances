@@ -18724,6 +18724,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-18T06:57:08Z",
+    "gold": 969854,
+    "elixir": 1445255,
+    "darkElixir": 8093,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-18T06:59:46Z",
+    "gold": 306484,
+    "elixir": 680767,
+    "darkElixir": 11408,
+    "battleTime": 79,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -107689,7 +107711,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "The Shield's",
+  "clan": "",
   "th": 17,
   "entries": [
    {
@@ -116298,6 +116320,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-18T06:59:01Z",
+    "gold": 1035000,
+    "elixir": 984453,
+    "darkElixir": 10350,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 80
    }
   ]
  },
