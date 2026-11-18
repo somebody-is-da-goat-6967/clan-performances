@@ -51129,6 +51129,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 95
+   },
+   {
+    "time": "2026-11-18T18:58:31Z",
+    "gold": 2332259,
+    "elixir": 2260005,
+    "darkElixir": 16768,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T19:00:17Z",
+    "gold": 2065352,
+    "elixir": 2064708,
+    "darkElixir": 12295,
+    "battleTime": 114,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -85206,7 +85228,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "It'z KABILA™",
+  "clan": "fc",
   "th": 18,
   "entries": [
    {
@@ -135123,6 +135145,28 @@
     "elixir": 664959,
     "darkElixir": 7695,
     "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T18:57:56Z",
+    "gold": 1487058,
+    "elixir": 1438837,
+    "darkElixir": 15135,
+    "battleTime": 49,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T18:59:32Z",
+    "gold": 871249,
+    "elixir": 446344,
+    "darkElixir": 4235,
+    "battleTime": 42,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
