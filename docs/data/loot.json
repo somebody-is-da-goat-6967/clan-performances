@@ -78975,6 +78975,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 71
+   },
+   {
+    "time": "2026-11-18T06:08:17Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 2070,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 72
    }
   ]
  },
@@ -107455,7 +107466,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Everdraco™",
+  "clan": "Loonaticz v2",
   "th": 17,
   "entries": [
    {
