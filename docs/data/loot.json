@@ -12523,6 +12523,61 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 82
+   },
+   {
+    "time": "2026-11-18T17:26:54Z",
+    "gold": 668499,
+    "elixir": 320345,
+    "darkElixir": 3988,
+    "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-18T17:27:33Z",
+    "gold": 822237,
+    "elixir": 775812,
+    "darkElixir": 9438,
+    "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-18T17:29:10Z",
+    "gold": 414179,
+    "elixir": 396614,
+    "darkElixir": 4822,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-18T17:30:22Z",
+    "gold": 447940,
+    "elixir": 480189,
+    "darkElixir": 8694,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 81
+   },
+   {
+    "time": "2026-11-18T17:30:55Z",
+    "gold": 889232,
+    "elixir": 472664,
+    "darkElixir": 5883,
+    "battleTime": 70,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 55
    }
   ]
  },
@@ -51781,7 +51836,7 @@
  {
   "tag": "#29LGJLPPP",
   "name": "Adønis",
-  "clan": "",
+  "clan": "Lightborn",
   "th": 18,
   "entries": [
    {
@@ -70004,6 +70059,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T17:28:58Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 179,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 94
    }
   ]
  },
@@ -85828,6 +85894,17 @@
     "elixir": 195514,
     "darkElixir": 2922,
     "battleTime": 139,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T17:28:57Z",
+    "gold": 161555,
+    "elixir": 1224764,
+    "darkElixir": 7187,
+    "battleTime": 144,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -113377,6 +113454,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-18T17:27:41Z",
+    "gold": 1013000,
+    "elixir": 853086,
+    "darkElixir": 5809,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 86
+   },
+   {
+    "time": "2026-11-18T17:30:17Z",
+    "gold": 1013000,
+    "elixir": 1013000,
+    "darkElixir": 10250,
+    "battleTime": 176,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -114119,6 +114218,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-18T17:29:35Z",
+    "gold": 725835,
+    "elixir": 662808,
+    "darkElixir": 7300,
+    "battleTime": 81,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -116366,7 +116476,7 @@
  {
   "tag": "#90PCYCLY",
   "name": "Adam",
-  "clan": "THE WARRIOR",
+  "clan": "...",
   "th": 16,
   "entries": [
    {
@@ -122654,7 +122764,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "هہڊوٍء",
+  "clan": "ميدان الرجال",
   "th": 16,
   "entries": [
    {
