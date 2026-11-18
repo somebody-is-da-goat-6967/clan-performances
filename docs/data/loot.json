@@ -21935,6 +21935,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-18T16:19:56Z",
+    "gold": 468338,
+    "elixir": 1784610,
+    "darkElixir": 11868,
+    "battleTime": 178,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:21:33Z",
+    "gold": 924867,
+    "elixir": 1019283,
+    "darkElixir": 4514,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 83
+   },
+   {
+    "time": "2026-11-18T16:22:09Z",
+    "gold": 695684,
+    "elixir": 794656,
+    "darkElixir": 3719,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 90
+   },
+   {
+    "time": "2026-11-18T16:22:47Z",
+    "gold": 2213766,
+    "elixir": 2391385,
+    "darkElixir": 8281,
+    "battleTime": 68,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -27527,6 +27571,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:19:17Z",
+    "gold": 290323,
+    "elixir": 339099,
+    "darkElixir": 4159,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-18T16:19:42Z",
+    "gold": 1804283,
+    "elixir": 72531,
+    "darkElixir": 8240,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 86
    }
   ]
  },
@@ -50491,6 +50557,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 92
+   },
+   {
+    "time": "2026-11-18T16:23:16Z",
+    "gold": 1734232,
+    "elixir": 1813734,
+    "darkElixir": 10140,
+    "battleTime": 174,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -51397,6 +51474,28 @@
     "elixir": 964498,
     "darkElixir": 12071,
     "battleTime": 67,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:18:45Z",
+    "gold": 2021351,
+    "elixir": 2432979,
+    "darkElixir": 11102,
+    "battleTime": 89,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:21:50Z",
+    "gold": 1693161,
+    "elixir": 1675997,
+    "darkElixir": 8112,
+    "battleTime": 55,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -54348,7 +54447,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "KERALA",
+  "clan": "req and go",
   "th": 18,
   "entries": [
    {
@@ -69487,6 +69586,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:17:26Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 136,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:24:02Z",
+    "gold": 828000,
+    "elixir": 700044,
+    "darkElixir": 8342,
+    "battleTime": 139,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 77
    }
   ]
  },
@@ -74593,6 +74714,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:19:26Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 9
    }
   ]
  },
@@ -105232,6 +105364,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T16:18:29Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -121708,7 +121851,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "مش مهم انتو اهم",
   "th": 16,
   "entries": [
    {
@@ -125327,7 +125470,7 @@
  {
   "tag": "#GYY29R8LG",
   "name": "R.a.d.o.w.a.n 2",
-  "clan": "THE WARRIOR",
+  "clan": "DARK HOUNDS",
   "th": 16,
   "entries": [
    {
