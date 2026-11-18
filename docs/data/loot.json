@@ -27912,6 +27912,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 86
+   },
+   {
+    "time": "2026-11-18T18:21:16Z",
+    "gold": 387217,
+    "elixir": 754138,
+    "darkElixir": 9578,
+    "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 84
+   },
+   {
+    "time": "2026-11-18T18:25:23Z",
+    "gold": 2343454,
+    "elixir": 1338239,
+    "darkElixir": 11328,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 80
+   },
+   {
+    "time": "2026-11-18T18:26:39Z",
+    "gold": 858336,
+    "elixir": 369956,
+    "darkElixir": 3046,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
    }
   ]
  },
@@ -85107,7 +85140,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "Reaper Crew",
+  "clan": "THE BROTHERHOOD",
   "th": 18,
   "entries": [
    {
