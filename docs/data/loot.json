@@ -13630,6 +13630,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:54:09Z",
+    "gold": 933906,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
@@ -20011,6 +20022,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:54:15Z",
+    "gold": 1857825,
+    "elixir": 1858457,
+    "darkElixir": 10960,
+    "battleTime": 96,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T21:55:47Z",
+    "gold": 2511791,
+    "elixir": 1873307,
+    "darkElixir": 16660,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -25719,6 +25752,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 43
+   },
+   {
+    "time": "2026-11-18T21:52:46Z",
+    "gold": 536283,
+    "elixir": 524883,
+    "darkElixir": 2910,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-18T21:54:06Z",
+    "gold": 2033433,
+    "elixir": 2033433,
+    "darkElixir": 11618,
+    "battleTime": 64,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 69
    }
   ]
  },
@@ -32546,7 +32601,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "",
+  "clan": "DARK AVENGERS",
   "th": 19,
   "entries": [
    {
@@ -110711,7 +110766,7 @@
  {
   "tag": "#PCVP0U92U",
   "name": "Lucifer",
-  "clan": "...",
+  "clan": "THE WARRIOR",
   "th": 17,
   "entries": [
    {
@@ -138251,6 +138306,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-18T21:55:00Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 138,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
