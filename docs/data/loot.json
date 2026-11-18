@@ -19527,6 +19527,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T15:23:45Z",
+    "gold": 583628,
+    "elixir": 1223016,
+    "darkElixir": 9546,
+    "battleTime": 76,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -54100,6 +54111,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-18T15:25:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 126,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -120746,7 +120768,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "LaureTole OGs",
+  "clan": "MARCO",
   "th": 16,
   "entries": [
    {
