@@ -18812,6 +18812,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 79
+   },
+   {
+    "time": "2026-11-18T07:13:34Z",
+    "gold": 663994,
+    "elixir": 657848,
+    "darkElixir": 13412,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 92
+   },
+   {
+    "time": "2026-11-18T07:15:11Z",
+    "gold": 146233,
+    "elixir": 123917,
+    "darkElixir": 8796,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 93
+   },
+   {
+    "time": "2026-11-18T07:15:50Z",
+    "gold": 231670,
+    "elixir": 474479,
+    "darkElixir": 11608,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 58
    }
   ]
  },
@@ -29417,6 +29450,70 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 60
+   }
+  ]
+ },
+ {
+  "tag": "#8PPRV9RP",
+  "name": "Rana",
+  "clan": "Indian legends",
+  "th": 19,
+  "entries": [
+   {
+    "time": "2026-11-11T11:04:19Z",
+    "gold": 69677,
+    "elixir": 212299,
+    "darkElixir": 9194,
+    "battleTime": 65
+   },
+   {
+    "time": "2026-11-11T13:28:20Z",
+    "gold": 513751,
+    "elixir": 788184,
+    "darkElixir": 17128,
+    "battleTime": 136
+   },
+   {
+    "time": "2026-11-11T13:30:30Z",
+    "gold": 1013290,
+    "elixir": 1304707,
+    "darkElixir": 20603,
+    "battleTime": 106
+   },
+   {
+    "time": "2026-11-11T13:32:44Z",
+    "gold": 494021,
+    "elixir": 335373,
+    "darkElixir": 15800,
+    "battleTime": 99
+   },
+   {
+    "time": "2026-11-11T13:35:24Z",
+    "gold": 526519,
+    "elixir": 1058549,
+    "darkElixir": 16160,
+    "battleTime": 62
+   },
+   {
+    "time": "2026-11-11T16:36:59Z",
+    "gold": 1067519,
+    "elixir": 703708,
+    "darkElixir": 12427,
+    "battleTime": 145
+   },
+   {
+    "time": "2026-11-11T16:40:20Z",
+    "gold": 396062,
+    "elixir": 1398698,
+    "darkElixir": 10542,
+    "battleTime": 112
+   },
+   {
+    "time": "2026-11-11T16:43:36Z",
+    "gold": 636844,
+    "elixir": 339153,
+    "darkElixir": 9246,
+    "battleTime": 151
    }
   ]
  },
@@ -86465,70 +86562,6 @@
   ]
  },
  {
-  "tag": "#8PPRV9RP",
-  "name": "Rana",
-  "clan": "Indian legends",
-  "th": 18,
-  "entries": [
-   {
-    "time": "2026-11-11T11:04:19Z",
-    "gold": 69677,
-    "elixir": 212299,
-    "darkElixir": 9194,
-    "battleTime": 65
-   },
-   {
-    "time": "2026-11-11T13:28:20Z",
-    "gold": 513751,
-    "elixir": 788184,
-    "darkElixir": 17128,
-    "battleTime": 136
-   },
-   {
-    "time": "2026-11-11T13:30:30Z",
-    "gold": 1013290,
-    "elixir": 1304707,
-    "darkElixir": 20603,
-    "battleTime": 106
-   },
-   {
-    "time": "2026-11-11T13:32:44Z",
-    "gold": 494021,
-    "elixir": 335373,
-    "darkElixir": 15800,
-    "battleTime": 99
-   },
-   {
-    "time": "2026-11-11T13:35:24Z",
-    "gold": 526519,
-    "elixir": 1058549,
-    "darkElixir": 16160,
-    "battleTime": 62
-   },
-   {
-    "time": "2026-11-11T16:36:59Z",
-    "gold": 1067519,
-    "elixir": 703708,
-    "darkElixir": 12427,
-    "battleTime": 145
-   },
-   {
-    "time": "2026-11-11T16:40:20Z",
-    "gold": 396062,
-    "elixir": 1398698,
-    "darkElixir": 10542,
-    "battleTime": 112
-   },
-   {
-    "time": "2026-11-11T16:43:36Z",
-    "gold": 636844,
-    "elixir": 339153,
-    "darkElixir": 9246,
-    "battleTime": 151
-   }
-  ]
- },
- {
   "tag": "#YGR89L22L",
   "name": "RohanVIRU5",
   "clan": "THE WARRIOR",
@@ -126454,6 +126487,17 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 176,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T07:13:13Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 143,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
