@@ -8113,6 +8113,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 95
+   },
+   {
+    "time": "2026-11-18T04:53:17Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T04:55:59Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 2070,
+    "battleTime": 151,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 76
    }
   ]
  },
@@ -96578,7 +96600,7 @@
  {
   "tag": "#LC9LLVCRJ",
   "name": "EK THA PRO",
-  "clan": "THE WARRIOR",
+  "clan": "i am person",
   "th": 17,
   "entries": [
    {
@@ -101160,6 +101182,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T04:53:48Z",
+    "gold": 828000,
+    "elixir": 589709,
+    "darkElixir": 8280,
+    "battleTime": 163,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 77
    }
   ]
  },
@@ -129458,7 +129491,7 @@
  {
   "tag": "#9G8LJ9VV9",
   "name": "MD. NAHIDUL -04",
-  "clan": "",
+  "clan": "KING WITH BD",
   "th": 14,
   "entries": [
    {
