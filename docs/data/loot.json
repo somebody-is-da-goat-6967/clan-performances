@@ -51110,7 +51110,7 @@
  {
   "tag": "#29LGJLPPP",
   "name": "Adønis",
-  "clan": "Reaper Crew",
+  "clan": "Lightborn",
   "th": 18,
   "entries": [
    {
@@ -102795,6 +102795,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:23:55Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -113063,6 +113074,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:24:43Z",
+    "gold": 906092,
+    "elixir": 940174,
+    "darkElixir": 10310,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
    }
   ]
  },
@@ -121965,6 +121987,28 @@
     "elixir": 1872115,
     "darkElixir": 12571,
     "battleTime": 96,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:22:10Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 150,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T14:24:24Z",
+    "gold": 980500,
+    "elixir": 1212495,
+    "darkElixir": 13363,
+    "battleTime": 90,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
