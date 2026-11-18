@@ -126479,7 +126479,7 @@
  {
   "tag": "#92V28VQVP",
   "name": "GGWP:SAYONO",
-  "clan": "THE WARRIOR",
+  "clan": "Legacy 1.0",
   "th": 16,
   "entries": [
    {
@@ -140416,6 +140416,17 @@
     "elixir": 1025000,
     "darkElixir": 10320,
     "battleTime": 174,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-18T23:36:53Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 173,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
