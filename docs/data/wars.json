@@ -410,12 +410,12 @@
   "tag": "#PPJ80L0UU",
   "th": 18,
   "pos": 14,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 79.0,
+  "attackDetail": "2★ 79%"
  },
  {
   "date": "2026-11-17T05:06:48Z",
