@@ -141289,7 +141289,7 @@
  {
   "tag": "#QU0Q0PU29",
   "name": "Naruto",
-  "clan": "LOS GUERREROS",
+  "clan": "NICE WAR 100%",
   "th": 15,
   "entries": [
    {
@@ -150794,6 +150794,28 @@
     "elixir": 224941,
     "darkElixir": 1989,
     "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T05:22:53Z",
+    "gold": 514735,
+    "elixir": 619087,
+    "darkElixir": 2481,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-19T05:24:33Z",
+    "gold": 690903,
+    "elixir": 974792,
+    "darkElixir": 9011,
+    "battleTime": 107,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
