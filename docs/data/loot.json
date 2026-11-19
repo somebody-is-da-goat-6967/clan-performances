@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "shsjen",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -25582,6 +25582,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 38
+   },
+   {
+    "time": "2026-11-19T15:20:55Z",
+    "gold": 474059,
+    "elixir": 501065,
+    "darkElixir": 5117,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
    }
   ]
  },
@@ -86485,6 +86496,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-19T15:19:11Z",
+    "gold": 2906675,
+    "elixir": 2809165,
+    "darkElixir": 21833,
+    "battleTime": 165,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
