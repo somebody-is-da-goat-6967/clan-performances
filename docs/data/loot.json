@@ -2016,7 +2016,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "Reaper Crew",
+  "clan": "July",
   "th": 19,
   "entries": [
    {
@@ -15414,6 +15414,83 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-19T04:46:43Z",
+    "gold": 696817,
+    "elixir": 469992,
+    "darkElixir": 504,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-19T04:47:59Z",
+    "gold": 847503,
+    "elixir": 876752,
+    "darkElixir": 8111,
+    "battleTime": 75,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 98
+   },
+   {
+    "time": "2026-11-19T04:48:31Z",
+    "gold": 403243,
+    "elixir": 742732,
+    "darkElixir": 11707,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 83
+   },
+   {
+    "time": "2026-11-19T04:48:58Z",
+    "gold": 663620,
+    "elixir": 571463,
+    "darkElixir": 5654,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-19T04:50:04Z",
+    "gold": 285163,
+    "elixir": 498106,
+    "darkElixir": 3361,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 83
+   },
+   {
+    "time": "2026-11-19T04:50:41Z",
+    "gold": 427045,
+    "elixir": 465997,
+    "darkElixir": 6826,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-19T04:51:25Z",
+    "gold": 498020,
+    "elixir": 488515,
+    "darkElixir": 1826,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 82
    }
   ]
  },
@@ -45154,6 +45231,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T04:50:26Z",
+    "gold": 385740,
+    "elixir": 428252,
+    "darkElixir": 4983,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
    }
   ]
  },
@@ -91059,6 +91147,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 9
+   },
+   {
+    "time": "2026-11-19T04:46:51Z",
+    "gold": 23092,
+    "elixir": 115484,
+    "darkElixir": 5450,
+    "battleTime": 42,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-19T04:49:44Z",
+    "gold": 674118,
+    "elixir": 619783,
+    "darkElixir": 7142,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -114658,7 +114768,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "سلطان",
+  "clan": "RAIN",
   "th": 17,
   "entries": [
    {
