@@ -331,6 +331,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T19:03:35Z",
+    "gold": 412786,
+    "elixir": 418517,
+    "darkElixir": 5178,
+    "battleTime": 76,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -106429,7 +106440,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "!!WAR HERO!!",
+  "clan": "INDIA",
   "th": 18,
   "entries": [
    {
