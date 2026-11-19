@@ -20814,6 +20814,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:03:04Z",
+    "gold": 2001618,
+    "elixir": 1958384,
+    "darkElixir": 8457,
+    "battleTime": 114,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:04:22Z",
+    "gold": 431084,
+    "elixir": 389407,
+    "darkElixir": 4475,
+    "battleTime": 62,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -35850,7 +35872,7 @@
  {
   "tag": "#GPP0V0Q92",
   "name": "Somebody",
-  "clan": "ROYAL MATES",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -40715,6 +40737,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 6
+   },
+   {
+    "time": "2026-11-19T03:04:09Z",
+    "gold": 204721,
+    "elixir": 1111838,
+    "darkElixir": 3735,
+    "battleTime": 122,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -133920,7 +133953,7 @@
  {
   "tag": "#LGCU8YP92",
   "name": "Atas",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 15,
   "entries": [
    {
