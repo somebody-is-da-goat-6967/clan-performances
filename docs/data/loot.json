@@ -41056,6 +41056,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:38:13Z",
+    "gold": 501012,
+    "elixir": 585397,
+    "darkElixir": 7204,
+    "battleTime": 138,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:41:04Z",
+    "gold": 2098518,
+    "elixir": 394767,
+    "darkElixir": 11773,
+    "battleTime": 133,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -100470,7 +100492,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "INDIA",
+  "clan": "CFS BOSS",
   "th": 18,
   "entries": [
    {
@@ -114433,7 +114455,7 @@
  {
   "tag": "#PJQGUCGC2",
   "name": "SIDDHARTH",
-  "clan": "REQ N LEAVE",
+  "clan": "",
   "th": 17,
   "entries": [
    {
