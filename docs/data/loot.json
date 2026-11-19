@@ -30905,6 +30905,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-19T17:29:24Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -76638,7 +76649,7 @@
  {
   "tag": "#9UVLYUVU9",
   "name": "DK_Fau",
-  "clan": "MAD",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -83999,6 +84010,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T17:27:00Z",
+    "gold": 779082,
+    "elixir": 665073,
+    "darkElixir": 5202,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 73
    }
   ]
  },
@@ -131178,6 +131200,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T17:26:59Z",
+    "gold": 1076133,
+    "elixir": 1044333,
+    "darkElixir": 8054,
+    "battleTime": 84,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
