@@ -126103,7 +126103,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "EverWarLeague™",
+  "clan": "Everdraco™",
   "th": 17,
   "entries": [
    {
@@ -141579,7 +141579,7 @@
  {
   "tag": "#LGCU8YP92",
   "name": "Atas",
-  "clan": "",
+  "clan": "SPARTA",
   "th": 15,
   "entries": [
    {
@@ -150704,6 +150704,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T21:22:09Z",
+    "gold": 1012000,
+    "elixir": 1012000,
+    "darkElixir": 10240,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 98
+   },
+   {
+    "time": "2026-11-19T21:26:01Z",
+    "gold": 1012000,
+    "elixir": 809600,
+    "darkElixir": 10240,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
