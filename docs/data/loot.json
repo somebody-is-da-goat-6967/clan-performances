@@ -6692,6 +6692,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T12:39:43Z",
+    "gold": 632488,
+    "elixir": 554960,
+    "darkElixir": 11395,
+    "battleTime": 79,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T12:41:14Z",
+    "gold": 109381,
+    "elixir": 1474982,
+    "darkElixir": 8579,
+    "battleTime": 105,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -135969,6 +135991,133 @@
   ]
  },
  {
+  "tag": "#LVJVRCVLR",
+  "name": "outlaw",
+  "clan": "kabayan clan",
+  "th": 16,
+  "entries": [
+   {
+    "time": "2026-11-03T03:43:11Z",
+    "gold": 1000000,
+    "elixir": 1000000,
+    "darkElixir": 10170,
+    "battleTime": 76
+   },
+   {
+    "time": "2026-11-03T03:44:36Z",
+    "gold": 600000,
+    "elixir": 524921,
+    "darkElixir": 8136,
+    "battleTime": 56
+   },
+   {
+    "time": "2026-11-03T03:45:51Z",
+    "gold": 729234,
+    "elixir": 510810,
+    "darkElixir": 5232,
+    "battleTime": 57
+   },
+   {
+    "time": "2026-11-03T03:47:10Z",
+    "gold": 400000,
+    "elixir": 800000,
+    "darkElixir": 2034,
+    "battleTime": 61
+   },
+   {
+    "time": "2026-11-03T03:49:33Z",
+    "gold": 1000000,
+    "elixir": 1000000,
+    "darkElixir": 10170,
+    "battleTime": 138
+   },
+   {
+    "time": "2026-11-03T03:50:46Z",
+    "gold": 755952,
+    "elixir": 1000000,
+    "darkElixir": 10170,
+    "battleTime": 58
+   },
+   {
+    "time": "2026-11-03T03:51:53Z",
+    "gold": 295348,
+    "elixir": 234782,
+    "darkElixir": 3474,
+    "battleTime": 44
+   },
+   {
+    "time": "2026-11-03T03:53:28Z",
+    "gold": 915674,
+    "elixir": 1000000,
+    "darkElixir": 6102,
+    "battleTime": 66
+   },
+   {
+    "time": "2026-11-03T03:54:50Z",
+    "gold": 358601,
+    "elixir": 314043,
+    "darkElixir": 6357,
+    "battleTime": 67
+   },
+   {
+    "time": "2026-11-03T03:56:18Z",
+    "gold": 800000,
+    "elixir": 356739,
+    "darkElixir": 7780,
+    "battleTime": 51
+   },
+   {
+    "time": "2026-11-03T03:57:35Z",
+    "gold": 198749,
+    "elixir": 400000,
+    "darkElixir": 0,
+    "battleTime": 59
+   },
+   {
+    "time": "2026-11-04T09:44:14Z",
+    "gold": 1579785,
+    "elixir": 1646590,
+    "darkElixir": 13696,
+    "battleTime": 75
+   },
+   {
+    "time": "2026-11-04T09:46:23Z",
+    "gold": 1210943,
+    "elixir": 2392441,
+    "darkElixir": 19920,
+    "battleTime": 74
+   },
+   {
+    "time": "2026-11-07T12:30:36Z",
+    "gold": 989870,
+    "elixir": 1159740,
+    "darkElixir": 7156,
+    "battleTime": 59
+   },
+   {
+    "time": "2026-11-07T12:32:37Z",
+    "gold": 2362070,
+    "elixir": 2386350,
+    "darkElixir": 17238,
+    "battleTime": 68
+   },
+   {
+    "time": "2026-11-07T12:36:33Z",
+    "gold": 2162397,
+    "elixir": 2242325,
+    "darkElixir": 17611,
+    "battleTime": 63
+   },
+   {
+    "time": "2026-11-07T12:39:11Z",
+    "gold": 1147256,
+    "elixir": 1234568,
+    "darkElixir": 17821,
+    "battleTime": 55
+   }
+  ]
+ },
+ {
   "tag": "#GYY29R8LG",
   "name": "R.a.d.o.w.a.n 2",
   "clan": "DARK HOUNDS",
@@ -143987,133 +144136,6 @@
     "elixir": 899684,
     "darkElixir": 8886,
     "battleTime": 90
-   }
-  ]
- },
- {
-  "tag": "#LVJVRCVLR",
-  "name": "outlaw",
-  "clan": "kabayan clan",
-  "th": 15,
-  "entries": [
-   {
-    "time": "2026-11-03T03:43:11Z",
-    "gold": 1000000,
-    "elixir": 1000000,
-    "darkElixir": 10170,
-    "battleTime": 76
-   },
-   {
-    "time": "2026-11-03T03:44:36Z",
-    "gold": 600000,
-    "elixir": 524921,
-    "darkElixir": 8136,
-    "battleTime": 56
-   },
-   {
-    "time": "2026-11-03T03:45:51Z",
-    "gold": 729234,
-    "elixir": 510810,
-    "darkElixir": 5232,
-    "battleTime": 57
-   },
-   {
-    "time": "2026-11-03T03:47:10Z",
-    "gold": 400000,
-    "elixir": 800000,
-    "darkElixir": 2034,
-    "battleTime": 61
-   },
-   {
-    "time": "2026-11-03T03:49:33Z",
-    "gold": 1000000,
-    "elixir": 1000000,
-    "darkElixir": 10170,
-    "battleTime": 138
-   },
-   {
-    "time": "2026-11-03T03:50:46Z",
-    "gold": 755952,
-    "elixir": 1000000,
-    "darkElixir": 10170,
-    "battleTime": 58
-   },
-   {
-    "time": "2026-11-03T03:51:53Z",
-    "gold": 295348,
-    "elixir": 234782,
-    "darkElixir": 3474,
-    "battleTime": 44
-   },
-   {
-    "time": "2026-11-03T03:53:28Z",
-    "gold": 915674,
-    "elixir": 1000000,
-    "darkElixir": 6102,
-    "battleTime": 66
-   },
-   {
-    "time": "2026-11-03T03:54:50Z",
-    "gold": 358601,
-    "elixir": 314043,
-    "darkElixir": 6357,
-    "battleTime": 67
-   },
-   {
-    "time": "2026-11-03T03:56:18Z",
-    "gold": 800000,
-    "elixir": 356739,
-    "darkElixir": 7780,
-    "battleTime": 51
-   },
-   {
-    "time": "2026-11-03T03:57:35Z",
-    "gold": 198749,
-    "elixir": 400000,
-    "darkElixir": 0,
-    "battleTime": 59
-   },
-   {
-    "time": "2026-11-04T09:44:14Z",
-    "gold": 1579785,
-    "elixir": 1646590,
-    "darkElixir": 13696,
-    "battleTime": 75
-   },
-   {
-    "time": "2026-11-04T09:46:23Z",
-    "gold": 1210943,
-    "elixir": 2392441,
-    "darkElixir": 19920,
-    "battleTime": 74
-   },
-   {
-    "time": "2026-11-07T12:30:36Z",
-    "gold": 989870,
-    "elixir": 1159740,
-    "darkElixir": 7156,
-    "battleTime": 59
-   },
-   {
-    "time": "2026-11-07T12:32:37Z",
-    "gold": 2362070,
-    "elixir": 2386350,
-    "darkElixir": 17238,
-    "battleTime": 68
-   },
-   {
-    "time": "2026-11-07T12:36:33Z",
-    "gold": 2162397,
-    "elixir": 2242325,
-    "darkElixir": 17611,
-    "battleTime": 63
-   },
-   {
-    "time": "2026-11-07T12:39:11Z",
-    "gold": 1147256,
-    "elixir": 1234568,
-    "darkElixir": 17821,
-    "battleTime": 55
    }
   ]
  },
