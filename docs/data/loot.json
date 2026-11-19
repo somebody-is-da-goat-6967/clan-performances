@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "",
+  "clan": "shsjen",
   "th": 19,
   "entries": [
    {
@@ -25545,6 +25545,17 @@
     "elixir": 434190,
     "darkElixir": 4704,
     "battleTime": 125,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T15:10:38Z",
+    "gold": 310831,
+    "elixir": 922752,
+    "darkElixir": 13002,
+    "battleTime": 147,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -86430,6 +86441,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T15:10:29Z",
+    "gold": 512361,
+    "elixir": 1234763,
+    "darkElixir": 6850,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -118263,7 +118285,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "Бойцовский клуб",
+  "clan": "Starting 5",
   "th": 17,
   "entries": [
    {
