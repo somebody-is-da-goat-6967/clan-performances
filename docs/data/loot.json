@@ -108028,6 +108028,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-19T07:26:48Z",
+    "gold": 559563,
+    "elixir": 548300,
+    "darkElixir": 6657,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-19T07:27:50Z",
+    "gold": 2002691,
+    "elixir": 2042693,
+    "darkElixir": 13870,
+    "battleTime": 100,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-19T07:28:38Z",
+    "gold": 1267708,
+    "elixir": 1031972,
+    "darkElixir": 17205,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 75
    }
   ]
  },
@@ -111380,6 +111413,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T07:27:21Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 93,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T07:30:27Z",
+    "gold": 844990,
+    "elixir": 852394,
+    "darkElixir": 10320,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -120749,7 +120804,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "HINDU RASHTRA",
+  "clan": "G6’s Clan",
   "th": 17,
   "entries": [
    {
