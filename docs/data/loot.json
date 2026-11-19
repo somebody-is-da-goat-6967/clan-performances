@@ -15678,6 +15678,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-19T09:13:19Z",
+    "gold": 412284,
+    "elixir": 520774,
+    "darkElixir": 3346,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
    }
   ]
  },
@@ -42349,6 +42360,39 @@
     "gold": 0,
     "elixir": 0,
     "darkElixir": 238,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-19T09:11:57Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 832,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-19T09:13:21Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-19T09:14:46Z",
+    "gold": 32239,
+    "elixir": 0,
+    "darkElixir": 0,
     "battleTime": 51,
     "league": "",
     "battleType": "homeVillage",
@@ -116470,7 +116514,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "援軍村",
+  "clan": "TH9™",
   "th": 17,
   "entries": [
    {
@@ -121498,6 +121542,17 @@
     "elixir": 662808,
     "darkElixir": 7300,
     "battleTime": 81,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T09:12:41Z",
+    "gold": 2397167,
+    "elixir": 2529107,
+    "darkElixir": 5783,
+    "battleTime": 140,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
