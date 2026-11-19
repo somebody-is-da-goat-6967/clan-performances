@@ -30861,6 +30861,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T17:16:10Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 90
    }
   ]
  },
@@ -45549,6 +45560,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 7
+   },
+   {
+    "time": "2026-11-19T17:11:59Z",
+    "gold": 167985,
+    "elixir": 150966,
+    "darkElixir": 1203,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 21
    }
   ]
  },
@@ -88827,6 +88849,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T17:11:56Z",
+    "gold": 724725,
+    "elixir": 458175,
+    "darkElixir": 3082,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-19T17:13:05Z",
+    "gold": 460584,
+    "elixir": 460818,
+    "darkElixir": 3750,
+    "battleTime": 69,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -124360,7 +124404,7 @@
  {
   "tag": "#9JVGJGL8Q",
   "name": "Who's Next ❓",
-  "clan": "GROWN ups",
+  "clan": "Reaper Crew",
   "th": 17,
   "entries": [
    {
