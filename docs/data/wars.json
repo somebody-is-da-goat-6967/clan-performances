@@ -5920,12 +5920,12 @@
   "tag": "#Y9LG9GLVL",
   "th": 17,
   "pos": 36,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%"
  },
  {
   "date": "2026-11-19T06:01:25Z",
@@ -7877,12 +7877,12 @@
   "tag": "#Y2Q202JJJ",
   "th": 16,
   "pos": 40,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%"
  },
  {
   "date": "2026-11-18T22:43:57Z",
