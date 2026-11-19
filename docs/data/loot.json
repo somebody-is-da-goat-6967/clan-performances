@@ -9913,6 +9913,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:29:31Z",
+    "gold": 1013000,
+    "elixir": 1013000,
+    "darkElixir": 10250,
+    "battleTime": 116,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -33465,6 +33476,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 63
+   },
+   {
+    "time": "2026-11-19T03:31:02Z",
+    "gold": 389536,
+    "elixir": 260668,
+    "darkElixir": 3045,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 76
    }
   ]
  },
@@ -110946,6 +110968,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:29:11Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -114334,7 +114367,7 @@
  {
   "tag": "#PJQGUCGC2",
   "name": "SIDDHARTH",
-  "clan": "Req and leave",
+  "clan": "",
   "th": 17,
   "entries": [
    {
