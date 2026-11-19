@@ -114256,6 +114256,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 78
+   },
+   {
+    "time": "2026-11-19T05:02:48Z",
+    "gold": 612315,
+    "elixir": 732088,
+    "darkElixir": 7761,
+    "battleTime": 88,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -115010,7 +115021,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "jali jjebbleh",
+  "clan": "aespa",
   "th": 17,
   "entries": [
    {
@@ -119094,6 +119105,17 @@
     "elixir": 838496,
     "darkElixir": 7507,
     "battleTime": 170,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T05:03:51Z",
+    "gold": 719563,
+    "elixir": 411571,
+    "darkElixir": 6266,
+    "battleTime": 164,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -131484,6 +131506,39 @@
     "elixir": 1794521,
     "darkElixir": 9971,
     "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T05:01:45Z",
+    "gold": 1714206,
+    "elixir": 1666825,
+    "darkElixir": 14198,
+    "battleTime": 108,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T05:03:44Z",
+    "gold": 517547,
+    "elixir": 488542,
+    "darkElixir": 8601,
+    "battleTime": 107,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T05:05:11Z",
+    "gold": 783187,
+    "elixir": 1693907,
+    "darkElixir": 4858,
+    "battleTime": 114,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
