@@ -809,12 +809,12 @@
   "tag": "#9UVLYUVU9",
   "th": 18,
   "pos": 28,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 4,
+  "avgDestruction": 95.0,
+  "attackDetail": "1★ 90%, 3★ 100%"
  },
  {
   "date": "2026-11-18T22:43:57Z",

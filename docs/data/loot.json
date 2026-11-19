@@ -5240,7 +5240,7 @@
  {
   "tag": "#QQ0UU980",
   "name": "Briscoe",
-  "clan": "Reaper Crew",
+  "clan": "3☆ in the ⓢⓤⓝ",
   "th": 19,
   "entries": [
    {
@@ -117818,6 +117818,17 @@
     "elixir": 431389,
     "darkElixir": 3308,
     "battleTime": 103,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T02:49:36Z",
+    "gold": 510445,
+    "elixir": 363920,
+    "darkElixir": 1926,
+    "battleTime": 144,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
