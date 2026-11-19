@@ -2038,7 +2038,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "July",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -3501,6 +3501,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 164,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T04:48:28Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 176,
     "league": "",
     "battleType": "legend",
     "stars": 3,
