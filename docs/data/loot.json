@@ -2016,7 +2016,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -3406,6 +3406,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 59
+   },
+   {
+    "time": "2026-11-19T04:15:10Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -50591,7 +50602,7 @@
  {
   "tag": "#Q8JUGYLQL",
   "name": "XLG⚡️BLACKBEARD",
-  "clan": "We Ain't Good",
+  "clan": "Barbs Brew Crew",
   "th": 19,
   "entries": [
    {
