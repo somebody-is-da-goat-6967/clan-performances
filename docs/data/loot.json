@@ -41749,6 +41749,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T07:54:01Z",
+    "gold": 347047,
+    "elixir": 352136,
+    "darkElixir": 3392,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-19T07:55:22Z",
+    "gold": 251591,
+    "elixir": 246279,
+    "darkElixir": 2189,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-19T07:56:46Z",
+    "gold": 552987,
+    "elixir": 377481,
+    "darkElixir": 5137,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 73
    }
   ]
  },
@@ -111213,7 +111246,7 @@
  {
   "tag": "#LQ9P02L0Q",
   "name": "ES \\ SHEENU",
-  "clan": "Reaper Crew",
+  "clan": "@ te@m",
   "th": 17,
   "entries": [
    {
