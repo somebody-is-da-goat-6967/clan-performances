@@ -5240,7 +5240,7 @@
  {
   "tag": "#QQ0UU980",
   "name": "Briscoe",
-  "clan": "3☆ in the ⓢⓤⓝ",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -33487,6 +33487,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 76
+   },
+   {
+    "time": "2026-11-19T03:31:32Z",
+    "gold": 2063900,
+    "elixir": 2022790,
+    "darkElixir": 17600,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-19T03:32:35Z",
+    "gold": 1067558,
+    "elixir": 366615,
+    "darkElixir": 8153,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 72
    }
   ]
  },
@@ -41008,6 +41030,28 @@
     "elixir": 1572437,
     "darkElixir": 6110,
     "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:31:00Z",
+    "gold": 531289,
+    "elixir": 398018,
+    "darkElixir": 7558,
+    "battleTime": 103,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:34:19Z",
+    "gold": 436669,
+    "elixir": 1396340,
+    "darkElixir": 8998,
+    "battleTime": 95,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -100181,6 +100225,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:34:16Z",
+    "gold": 573434,
+    "elixir": 590347,
+    "darkElixir": 7733,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:36:01Z",
+    "gold": 593015,
+    "elixir": 473655,
+    "darkElixir": 10024,
+    "battleTime": 65,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -114367,7 +114433,7 @@
  {
   "tag": "#PJQGUCGC2",
   "name": "SIDDHARTH",
-  "clan": "",
+  "clan": "REQ N LEAVE",
   "th": 17,
   "entries": [
    {
