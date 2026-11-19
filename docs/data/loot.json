@@ -30916,6 +30916,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T17:32:38Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 146,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -76649,7 +76660,7 @@
  {
   "tag": "#9UVLYUVU9",
   "name": "DK_Fau",
-  "clan": "",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
