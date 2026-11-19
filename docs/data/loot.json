@@ -31081,6 +31081,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T18:44:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-19T18:46:19Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 95,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -106363,7 +106385,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "INDIA",
+  "clan": "!!WAR HERO!!",
   "th": 18,
   "entries": [
    {
@@ -134709,7 +134731,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "الأبطال",
+  "clan": "ميدان الرجال",
   "th": 16,
   "entries": [
    {
@@ -135702,6 +135724,17 @@
     "gold": 1929852,
     "elixir": 1969731,
     "darkElixir": 6883,
+    "battleTime": 95,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T18:44:53Z",
+    "gold": 565569,
+    "elixir": 659058,
+    "darkElixir": 7101,
     "battleTime": 95,
     "league": "",
     "battleType": "homeVillage",
