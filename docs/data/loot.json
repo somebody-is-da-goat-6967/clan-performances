@@ -25560,6 +25560,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T15:13:34Z",
+    "gold": 603382,
+    "elixir": 1849488,
+    "darkElixir": 16587,
+    "battleTime": 157,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T15:15:43Z",
+    "gold": 51604,
+    "elixir": 857105,
+    "darkElixir": 1000,
+    "battleTime": 104,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 38
    }
   ]
  },
@@ -86452,6 +86474,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 97
+   },
+   {
+    "time": "2026-11-19T15:14:27Z",
+    "gold": 1852733,
+    "elixir": 1946689,
+    "darkElixir": 2570,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 93
    }
   ]
  },
@@ -118285,7 +118318,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "Starting 5",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {
