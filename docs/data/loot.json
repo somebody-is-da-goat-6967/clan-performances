@@ -90900,6 +90900,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-19T09:35:59Z",
+    "gold": 222985,
+    "elixir": 20128,
+    "darkElixir": 1042,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
    }
   ]
  },
@@ -116591,7 +116602,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "clan pro",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {
@@ -130257,7 +130268,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "Nữ Nhi Quốc",
+  "clan": "",
   "th": 16,
   "entries": [
    {
