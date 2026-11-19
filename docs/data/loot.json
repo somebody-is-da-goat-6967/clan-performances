@@ -42442,6 +42442,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 0
+   },
+   {
+    "time": "2026-11-19T09:24:45Z",
+    "gold": 17066,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
    }
   ]
  },
@@ -51960,6 +51971,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 95
+   },
+   {
+    "time": "2026-11-19T09:23:03Z",
+    "gold": 616583,
+    "elixir": 590515,
+    "darkElixir": 9931,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 95
+   },
+   {
+    "time": "2026-11-19T09:23:54Z",
+    "gold": 1449157,
+    "elixir": 49818,
+    "darkElixir": 5495,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -116558,7 +116591,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "J n M",
+  "clan": "千招万式皆虚妄，唯有手下见真章",
   "th": 17,
   "entries": [
    {
@@ -130224,7 +130257,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "Jura Tempest",
+  "clan": "Limitless",
   "th": 16,
   "entries": [
    {
