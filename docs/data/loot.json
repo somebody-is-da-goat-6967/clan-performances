@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -49856,6 +49856,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T20:53:17Z",
+    "gold": 454066,
+    "elixir": 436097,
+    "darkElixir": 4532,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -53801,6 +53812,72 @@
     "elixir": 1021723,
     "darkElixir": 3377,
     "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-19T20:51:53Z",
+    "gold": 447622,
+    "elixir": 495255,
+    "darkElixir": 4009,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
+   },
+   {
+    "time": "2026-11-19T20:52:03Z",
+    "gold": 1012833,
+    "elixir": 677053,
+    "darkElixir": 15544,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 49
+   },
+   {
+    "time": "2026-11-19T20:52:14Z",
+    "gold": 259146,
+    "elixir": 240975,
+    "darkElixir": 8402,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-19T20:52:25Z",
+    "gold": 420151,
+    "elixir": 399155,
+    "darkElixir": 3491,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-19T20:52:36Z",
+    "gold": 496210,
+    "elixir": 243484,
+    "darkElixir": 4638,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-19T20:53:32Z",
+    "gold": 485112,
+    "elixir": 431129,
+    "darkElixir": 6206,
+    "battleTime": 17,
     "league": "",
     "battleType": "homeVillage",
     "stars": 1,
