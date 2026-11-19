@@ -30076,7 +30076,7 @@
  {
   "tag": "#G99JUCYRJ",
   "name": "Nurbek",
-  "clan": "THE WARRIOR",
+  "clan": "WEKIL ICIN",
   "th": 19,
   "entries": [
    {
@@ -79185,7 +79185,7 @@
  {
   "tag": "#LC9LLVCRJ",
   "name": "EK THA PRO",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -99809,7 +99809,7 @@
  {
   "tag": "#LVU2UGCVR",
   "name": "Muhfli Pakoda",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -124617,6 +124617,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-19T20:25:25Z",
+    "gold": 690413,
+    "elixir": 782671,
+    "darkElixir": 7033,
+    "battleTime": 146,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
