@@ -86837,6 +86837,72 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T15:52:19Z",
+    "gold": 600726,
+    "elixir": 1156293,
+    "darkElixir": 7181,
+    "battleTime": 80,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T15:53:14Z",
+    "gold": 1159714,
+    "elixir": 896196,
+    "darkElixir": 45,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-19T15:54:06Z",
+    "gold": 341453,
+    "elixir": 1348337,
+    "darkElixir": 9737,
+    "battleTime": 108,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 84
+   },
+   {
+    "time": "2026-11-19T15:55:00Z",
+    "gold": 1141371,
+    "elixir": 688442,
+    "darkElixir": 10977,
+    "battleTime": 62,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-19T15:55:39Z",
+    "gold": 2026049,
+    "elixir": 685702,
+    "darkElixir": 2996,
+    "battleTime": 74,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-19T15:56:13Z",
+    "gold": 549596,
+    "elixir": 519923,
+    "darkElixir": 6760,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -123095,7 +123161,7 @@
  {
   "tag": "#9JVGJGL8Q",
   "name": "Who's Next ❓",
-  "clan": "Engineer",
+  "clan": "Reaper Crew",
   "th": 17,
   "entries": [
    {
