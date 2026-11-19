@@ -120375,7 +120375,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Everdraco™",
+  "clan": "Jotunheim@War",
   "th": 17,
   "entries": [
    {
@@ -150820,6 +150820,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T05:27:05Z",
+    "gold": 526372,
+    "elixir": 350533,
+    "darkElixir": 6048,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 44
+   },
+   {
+    "time": "2026-11-19T05:28:40Z",
+    "gold": 263952,
+    "elixir": 374992,
+    "darkElixir": 753,
+    "battleTime": 77,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
    }
   ]
  },
