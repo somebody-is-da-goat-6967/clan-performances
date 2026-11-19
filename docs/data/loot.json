@@ -33252,6 +33252,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 71
+   },
+   {
+    "time": "2026-11-19T20:29:13Z",
+    "gold": 1174022,
+    "elixir": 1109131,
+    "darkElixir": 19579,
+    "battleTime": 123,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 94
    }
   ]
  },
@@ -37831,7 +37842,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "Endzone Event",
+  "clan": "DARK AVENGERS",
   "th": 19,
   "entries": [
    {
@@ -112659,6 +112670,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T20:28:07Z",
+    "gold": 428080,
+    "elixir": 396892,
+    "darkElixir": 3440,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
    }
   ]
  },
@@ -124628,6 +124650,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T20:27:57Z",
+    "gold": 335621,
+    "elixir": 344161,
+    "darkElixir": 8736,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 91
    }
   ]
  },
