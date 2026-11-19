@@ -10479,7 +10479,7 @@
  {
   "tag": "#992CCVJPY",
   "name": "CHAPO GUZHMAN",
-  "clan": "Reaper Crew",
+  "clan": "Blue Diamond",
   "th": 19,
   "entries": [
    {
@@ -30872,6 +30872,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 90
+   },
+   {
+    "time": "2026-11-19T17:19:40Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -76605,7 +76616,7 @@
  {
   "tag": "#9UVLYUVU9",
   "name": "DK_Fau",
-  "clan": "Reaper Crew",
+  "clan": "MAD",
   "th": 18,
   "entries": [
    {
