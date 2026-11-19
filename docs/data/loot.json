@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "",
+  "clan": "3☆ on the ⓜⓞⓞⓝ",
   "th": 19,
   "entries": [
    {
@@ -316,6 +316,17 @@
     "elixir": 1441714,
     "darkElixir": 3264,
     "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T16:53:22Z",
+    "gold": 1985912,
+    "elixir": 2022174,
+    "darkElixir": 19516,
+    "battleTime": 96,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -44560,6 +44571,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 0
+   },
+   {
+    "time": "2026-11-19T16:52:27Z",
+    "gold": 160520,
+    "elixir": 80260,
+    "darkElixir": 241,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 28
+   },
+   {
+    "time": "2026-11-19T16:53:50Z",
+    "gold": 137293,
+    "elixir": 58579,
+    "darkElixir": 2524,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
+   },
+   {
+    "time": "2026-11-19T16:55:12Z",
+    "gold": 142428,
+    "elixir": 75364,
+    "darkElixir": 3045,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 24
    }
   ]
  },
