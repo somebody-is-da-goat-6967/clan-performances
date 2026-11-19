@@ -84043,6 +84043,72 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T06:46:15Z",
+    "gold": 964081,
+    "elixir": 688265,
+    "darkElixir": 14874,
+    "battleTime": 121,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-19T06:47:09Z",
+    "gold": 415594,
+    "elixir": 472982,
+    "darkElixir": 8362,
+    "battleTime": 95,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T06:47:53Z",
+    "gold": 507945,
+    "elixir": 372933,
+    "darkElixir": 11694,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T06:48:55Z",
+    "gold": 2025735,
+    "elixir": 1011340,
+    "darkElixir": 11624,
+    "battleTime": 135,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-19T06:49:33Z",
+    "gold": 715143,
+    "elixir": 691709,
+    "darkElixir": 5796,
+    "battleTime": 90,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-19T06:50:08Z",
+    "gold": 625546,
+    "elixir": 664106,
+    "darkElixir": 5984,
+    "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -84942,7 +85008,7 @@
  {
   "tag": "#9C9G80Y8G",
   "name": "JaY 11",
-  "clan": "Afterlife jr™",
+  "clan": "ee",
   "th": 18,
   "entries": [
    {
