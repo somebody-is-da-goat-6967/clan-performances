@@ -28748,6 +28748,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T01:03:57Z",
+    "gold": 1356469,
+    "elixir": 1345376,
+    "darkElixir": 8045,
+    "battleTime": 69,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T01:05:12Z",
+    "gold": 480209,
+    "elixir": 424263,
+    "darkElixir": 3100,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -105518,7 +105540,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "ELITE SPEC OPS",
+  "clan": "FC Dojo",
   "th": 18,
   "entries": [
    {
