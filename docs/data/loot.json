@@ -21023,6 +21023,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-19T03:16:41Z",
+    "gold": 456821,
+    "elixir": 452436,
+    "darkElixir": 6193,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -96825,6 +96836,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 15
+   },
+   {
+    "time": "2026-11-19T03:18:10Z",
+    "gold": 657675,
+    "elixir": 275242,
+    "darkElixir": 4549,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-19T03:20:39Z",
+    "gold": 1067709,
+    "elixir": 1360213,
+    "darkElixir": 8515,
+    "battleTime": 98,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -106409,7 +106442,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "FC Dojo",
+  "clan": "REQ AND LEAVE",
   "th": 18,
   "entries": [
    {
