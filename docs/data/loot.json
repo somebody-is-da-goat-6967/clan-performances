@@ -30993,6 +30993,39 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T17:57:34Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T18:01:30Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T18:04:25Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -75371,7 +75404,7 @@
  {
   "tag": "#Y9VYJR8GL",
   "name": "Baki",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Two",
   "th": 18,
   "entries": [
    {
@@ -110387,6 +110420,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 98
+   },
+   {
+    "time": "2026-11-19T18:06:14Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 163,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -130247,6 +130291,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T17:57:01Z",
+    "gold": 550544,
+    "elixir": 486489,
+    "darkElixir": 2929,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -133653,6 +133708,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 54
+   },
+   {
+    "time": "2026-11-19T17:57:58Z",
+    "gold": 680640,
+    "elixir": 689875,
+    "darkElixir": 5957,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-19T17:58:39Z",
+    "gold": 506445,
+    "elixir": 416216,
+    "darkElixir": 2229,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 86
+   },
+   {
+    "time": "2026-11-19T17:59:15Z",
+    "gold": 422973,
+    "elixir": 455702,
+    "darkElixir": 6673,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-19T17:59:54Z",
+    "gold": 356990,
+    "elixir": 383991,
+    "darkElixir": 2336,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-19T18:00:16Z",
+    "gold": 1055666,
+    "elixir": 233447,
+    "darkElixir": 1396,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
    }
   ]
  },
@@ -135758,6 +135868,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 63
+   },
+   {
+    "time": "2026-11-19T18:02:22Z",
+    "gold": 1000000,
+    "elixir": 1000000,
+    "darkElixir": 10170,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -138279,7 +138400,7 @@
  {
   "tag": "#9GQGRL0L",
   "name": "MVX | ƦΘNALDO★",
-  "clan": "",
+  "clan": "mhkuhvo",
   "th": 16,
   "entries": [
    {
