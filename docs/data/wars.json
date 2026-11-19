@@ -467,12 +467,12 @@
   "tag": "#98UU0GUY",
   "th": 19,
   "pos": 7,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 63.0,
+  "attackDetail": "1★ 63%"
  },
  {
   "date": "2026-11-18T22:43:57Z",
@@ -1208,12 +1208,12 @@
   "tag": "#2LQP9082P",
   "th": 18,
   "pos": 24,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 5,
+  "avgDestruction": 94.5,
+  "attackDetail": "3★ 100%, 2★ 89%"
  },
  {
   "date": "2026-11-18T22:43:57Z",
@@ -6072,12 +6072,12 @@
   "tag": "#GPYGVU92C",
   "th": 17,
   "pos": 38,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 58.0,
+  "attackDetail": "1★ 60%, 2★ 56%"
  },
  {
   "date": "2026-11-18T22:43:57Z",
