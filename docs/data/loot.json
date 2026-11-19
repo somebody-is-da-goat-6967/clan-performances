@@ -20770,6 +20770,50 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-19T02:58:10Z",
+    "gold": 822750,
+    "elixir": 1394220,
+    "darkElixir": 10445,
+    "battleTime": 89,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-19T02:59:02Z",
+    "gold": 2000365,
+    "elixir": 2000386,
+    "darkElixir": 11133,
+    "battleTime": 69,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:00:21Z",
+    "gold": 1908862,
+    "elixir": 954727,
+    "darkElixir": 11836,
+    "battleTime": 98,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T03:01:39Z",
+    "gold": 2336682,
+    "elixir": 576835,
+    "darkElixir": 18189,
+    "battleTime": 79,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -35806,7 +35850,7 @@
  {
   "tag": "#GPP0V0Q92",
   "name": "Somebody",
-  "clan": "Reaper Crew",
+  "clan": "ROYAL MATES",
   "th": 19,
   "entries": [
    {
@@ -110539,6 +110583,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-19T02:59:13Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
