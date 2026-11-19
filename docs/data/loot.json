@@ -61462,7 +61462,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "KERALA",
+  "clan": "Knights",
   "th": 18,
   "entries": [
    {
@@ -86408,6 +86408,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-19T15:02:50Z",
+    "gold": 1106778,
+    "elixir": 2484402,
+    "darkElixir": 9847,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-19T15:05:51Z",
+    "gold": 2035325,
+    "elixir": 1624477,
+    "darkElixir": 14781,
+    "battleTime": 150,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -118241,7 +118263,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "Jogja Warrior 5",
+  "clan": "Бойцовский клуб",
   "th": 17,
   "entries": [
    {
@@ -122527,6 +122549,17 @@
     "elixir": 1013000,
     "darkElixir": 10250,
     "battleTime": 158,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T15:04:42Z",
+    "gold": 1013000,
+    "elixir": 1013000,
+    "darkElixir": 10250,
+    "battleTime": 131,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
