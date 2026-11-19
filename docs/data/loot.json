@@ -95948,6 +95948,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 54
+   },
+   {
+    "time": "2026-11-19T23:47:51Z",
+    "gold": 560149,
+    "elixir": 503074,
+    "darkElixir": 6539,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-19T23:48:31Z",
+    "gold": 582259,
+    "elixir": 526891,
+    "darkElixir": 6239,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-19T23:49:12Z",
+    "gold": 719957,
+    "elixir": 499220,
+    "darkElixir": 5902,
+    "battleTime": 42,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-19T23:49:48Z",
+    "gold": 298526,
+    "elixir": 371366,
+    "darkElixir": 4382,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-19T23:50:23Z",
+    "gold": 577883,
+    "elixir": 1340845,
+    "darkElixir": 10926,
+    "battleTime": 45,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-19T23:50:52Z",
+    "gold": 821601,
+    "elixir": 367515,
+    "darkElixir": 7296,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
    }
   ]
  },
@@ -137964,6 +138030,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-19T23:47:33Z",
+    "gold": 1919803,
+    "elixir": 1834463,
+    "darkElixir": 9713,
+    "battleTime": 126,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T23:50:01Z",
+    "gold": 1365768,
+    "elixir": 1533173,
+    "darkElixir": 6300,
+    "battleTime": 114,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
