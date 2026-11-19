@@ -36567,7 +36567,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "DARK AVENGERS",
+  "clan": "AMG KOTH",
   "th": 19,
   "entries": [
    {
@@ -87068,6 +87068,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-19T16:06:49Z",
+    "gold": 830815,
+    "elixir": 801591,
+    "darkElixir": 4269,
+    "battleTime": 125,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-19T16:07:40Z",
+    "gold": 745626,
+    "elixir": 665287,
+    "darkElixir": 6811,
+    "battleTime": 135,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-19T16:08:11Z",
+    "gold": 350424,
+    "elixir": 460064,
+    "darkElixir": 6242,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-19T16:08:54Z",
+    "gold": 1894801,
+    "elixir": 1355532,
+    "darkElixir": 10427,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T16:10:38Z",
+    "gold": 492175,
+    "elixir": 518870,
+    "darkElixir": 11340,
+    "battleTime": 87,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T16:11:33Z",
+    "gold": 1173958,
+    "elixir": 893827,
+    "darkElixir": 7758,
+    "battleTime": 110,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
