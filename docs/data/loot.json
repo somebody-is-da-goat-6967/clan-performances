@@ -18222,6 +18222,61 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 74
+   },
+   {
+    "time": "2026-11-20T09:32:37Z",
+    "gold": 1753577,
+    "elixir": 1007287,
+    "darkElixir": 9006,
+    "battleTime": 45,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-20T09:33:02Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 477,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-20T09:33:47Z",
+    "gold": 439691,
+    "elixir": 2269887,
+    "darkElixir": 14065,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 78
+   },
+   {
+    "time": "2026-11-20T09:34:41Z",
+    "gold": 1805906,
+    "elixir": 963664,
+    "darkElixir": 5355,
+    "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-20T09:36:10Z",
+    "gold": 1244465,
+    "elixir": 1453312,
+    "darkElixir": 14639,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
    }
   ]
  },
@@ -57011,6 +57066,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T09:34:02Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -62807,7 +62873,7 @@
  {
   "tag": "#29LGJLPPP",
   "name": "Adønis",
-  "clan": "SuperNova's",
+  "clan": "Lightborn",
   "th": 18,
   "entries": [
    {
@@ -88437,7 +88503,7 @@
  {
   "tag": "#9VJP2Q89J",
   "name": "Het",
-  "clan": "DANGEROUS",
+  "clan": "☁️The AKATSUKI☁",
   "th": 18,
   "entries": [
    {
