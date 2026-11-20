@@ -52388,6 +52388,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T17:03:27Z",
+    "gold": 1965457,
+    "elixir": 2117529,
+    "darkElixir": 18196,
+    "battleTime": 74,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -55757,6 +55768,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T17:04:54Z",
+    "gold": 828000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
@@ -67495,7 +67517,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "KERALA",
+  "clan": "cc",
   "th": 18,
   "entries": [
    {
