@@ -86444,7 +86444,7 @@
  {
   "tag": "#P0UCYCU2P",
   "name": "faraaz",
-  "clan": "THE WARRIOR",
+  "clan": "БРЯНСКИЕ ВОЛКИ",
   "th": 18,
   "entries": [
    {
@@ -133797,6 +133797,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T08:32:34Z",
+    "gold": 859607,
+    "elixir": 923535,
+    "darkElixir": 7637,
+    "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -138070,7 +138081,7 @@
  {
   "tag": "#GPJYQPP20",
   "name": "Ian99",
-  "clan": "Hollow Crowns",
+  "clan": "Unknown",
   "th": 16,
   "entries": [
    {
