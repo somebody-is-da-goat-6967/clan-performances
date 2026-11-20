@@ -5996,12 +5996,12 @@
   "tag": "#GP8VVG9JY",
   "th": 17,
   "pos": 24,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 5,
+  "avgDestruction": 81.5,
+  "attackDetail": "3★ 100%, 2★ 63%"
  },
  {
   "date": "2026-11-18T22:43:57Z",
