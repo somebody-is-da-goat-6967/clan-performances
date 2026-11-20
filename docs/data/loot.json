@@ -61396,6 +61396,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T02:16:02Z",
+    "gold": 2210795,
+    "elixir": 2290802,
+    "darkElixir": 12939,
+    "battleTime": 88,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -124351,7 +124362,7 @@
  {
   "tag": "#GQUL8P0LR",
   "name": "Toast3r",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 17,
   "entries": [
    {
@@ -126311,6 +126322,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-20T02:17:11Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
