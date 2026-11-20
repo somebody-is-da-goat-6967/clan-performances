@@ -14905,6 +14905,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-20T08:41:30Z",
+    "gold": 322821,
+    "elixir": 220660,
+    "darkElixir": 6820,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
    }
   ]
  },
@@ -86444,7 +86455,7 @@
  {
   "tag": "#P0UCYCU2P",
   "name": "faraaz",
-  "clan": "БРЯНСКИЕ ВОЛКИ",
+  "clan": "THE WARRIOR",
   "th": 18,
   "entries": [
    {
@@ -133804,6 +133815,17 @@
     "elixir": 923535,
     "darkElixir": 7637,
     "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T08:36:53Z",
+    "gold": 914944,
+    "elixir": 983794,
+    "darkElixir": 15816,
+    "battleTime": 142,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
