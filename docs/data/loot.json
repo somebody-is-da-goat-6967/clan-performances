@@ -64106,7 +64106,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LIGHTNING WAR",
+  "clan": "INFERNO BREAKER",
   "th": 19,
   "entries": [
    {
@@ -115923,6 +115923,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T16:41:31Z",
+    "gold": 2078335,
+    "elixir": 1117037,
+    "darkElixir": 16857,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
