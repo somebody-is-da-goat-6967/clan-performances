@@ -62339,6 +62339,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T06:43:14Z",
+    "gold": 1692907,
+    "elixir": 2178522,
+    "darkElixir": 19111,
+    "battleTime": 80,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -137731,7 +137742,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "نجوم اليمن",
+  "clan": "ميدان الرجال",
   "th": 16,
   "entries": [
    {
