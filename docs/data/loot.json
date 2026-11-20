@@ -29922,7 +29922,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "Reaper Crew",
+  "clan": "VALHEIM",
   "th": 19,
   "entries": [
    {
@@ -61723,6 +61723,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-20T03:32:05Z",
+    "gold": 1351569,
+    "elixir": 1675956,
+    "darkElixir": 10076,
+    "battleTime": 123,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T03:34:47Z",
+    "gold": 1903887,
+    "elixir": 2111752,
+    "darkElixir": 11457,
+    "battleTime": 74,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
