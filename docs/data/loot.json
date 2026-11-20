@@ -24563,7 +24563,7 @@
  {
   "tag": "#GCVY89CGY",
   "name": "MIRAJ",
-  "clan": "WEKIL ICIN",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -27064,6 +27064,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T15:09:49Z",
+    "gold": 1805993,
+    "elixir": 734284,
+    "darkElixir": 12211,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 86
+   },
+   {
+    "time": "2026-11-20T15:12:47Z",
+    "gold": 601403,
+    "elixir": 459016,
+    "darkElixir": 16986,
+    "battleTime": 163,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 98
+   },
+   {
+    "time": "2026-11-20T15:14:28Z",
+    "gold": 798176,
+    "elixir": 801709,
+    "darkElixir": 11709,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 94
    }
   ]
  },
@@ -31434,7 +31467,7 @@
  {
   "tag": "#G99JUCYRJ",
   "name": "Nurbek",
-  "clan": "WEKIL ICIN",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -32571,6 +32604,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-20T12:10:55Z",
+    "gold": 185714,
+    "elixir": 328401,
+    "darkElixir": 31,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-20T12:11:26Z",
+    "gold": 547428,
+    "elixir": 451157,
+    "darkElixir": 6671,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-20T12:12:31Z",
+    "gold": 2059138,
+    "elixir": 2236864,
+    "darkElixir": 11164,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-20T12:12:50Z",
+    "gold": 10583,
+    "elixir": 0,
+    "darkElixir": 56,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 2
+   },
+   {
+    "time": "2026-11-20T12:13:34Z",
+    "gold": 2064099,
+    "elixir": 2394122,
+    "darkElixir": 18280,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 80
+   },
+   {
+    "time": "2026-11-20T12:14:13Z",
+    "gold": 399955,
+    "elixir": 440765,
+    "darkElixir": 4764,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-20T12:14:45Z",
+    "gold": 428705,
+    "elixir": 124976,
+    "darkElixir": 1148,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-20T12:15:50Z",
+    "gold": 409297,
+    "elixir": 267919,
+    "darkElixir": 2296,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
    }
   ]
  },
@@ -52416,7 +52537,7 @@
  {
   "tag": "#8LC0Y2U9L",
   "name": "Vitosya17",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -55830,6 +55951,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 173,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T17:23:48Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 177,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -144182,7 +144314,7 @@
  {
   "tag": "#GJVQPR8UG",
   "name": "Mia",
-  "clan": "تپه",
+  "clan": "",
   "th": 16,
   "entries": [
    {
