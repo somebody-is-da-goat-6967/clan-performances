@@ -3566,7 +3566,7 @@
  {
   "tag": "#GLCR9LCU2",
   "name": "Blinne",
-  "clan": "Reaper Crew",
+  "clan": "Brazilian Storm",
   "th": 19,
   "entries": [
    {
@@ -37663,6 +37663,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-20T00:04:29Z",
+    "gold": 785933,
+    "elixir": 767537,
+    "darkElixir": 9710,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 84
+   },
+   {
+    "time": "2026-11-20T00:04:52Z",
+    "gold": 539217,
+    "elixir": 547605,
+    "darkElixir": 10612,
+    "battleTime": 47,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-20T00:05:41Z",
+    "gold": 1601856,
+    "elixir": 2300747,
+    "darkElixir": 15345,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
