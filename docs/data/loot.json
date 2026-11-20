@@ -29999,7 +29999,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "VALHEIM",
+  "clan": "We Will Rise",
   "th": 19,
   "entries": [
    {
@@ -40516,7 +40516,7 @@
  {
   "tag": "#GPP0V0Q92",
   "name": "Somebody",
-  "clan": "Reaper Crew",
+  "clan": "Reaper Two",
   "th": 19,
   "entries": [
    {
@@ -46620,6 +46620,17 @@
     "elixir": 928012,
     "darkElixir": 17267,
     "battleTime": 81,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T04:38:28Z",
+    "gold": 2015370,
+    "elixir": 2069326,
+    "darkElixir": 12439,
+    "battleTime": 110,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -61983,6 +61994,17 @@
     "elixir": 2363395,
     "darkElixir": 14709,
     "battleTime": 75,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T04:38:01Z",
+    "gold": 1594924,
+    "elixir": 1463225,
+    "darkElixir": 1016,
+    "battleTime": 96,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
