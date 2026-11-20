@@ -56538,6 +56538,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-20T06:37:21Z",
+    "gold": 1163197,
+    "elixir": 999948,
+    "darkElixir": 9000,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-20T06:37:41Z",
+    "gold": 3718,
+    "elixir": 149968,
+    "darkElixir": 5638,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-20T06:38:08Z",
+    "gold": 43121,
+    "elixir": 244288,
+    "darkElixir": 990,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-20T06:38:40Z",
+    "gold": 516235,
+    "elixir": 425899,
+    "darkElixir": 5488,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
    }
   ]
  },
@@ -62262,6 +62306,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 92
+   },
+   {
+    "time": "2026-11-20T06:36:39Z",
+    "gold": 1923182,
+    "elixir": 1876515,
+    "darkElixir": 11997,
+    "battleTime": 89,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T06:38:56Z",
+    "gold": 2010336,
+    "elixir": 1645726,
+    "darkElixir": 13518,
+    "battleTime": 81,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T06:41:12Z",
+    "gold": 2244257,
+    "elixir": 2303981,
+    "darkElixir": 15303,
+    "battleTime": 128,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -123212,6 +123289,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T06:41:48Z",
+    "gold": 962431,
+    "elixir": 769443,
+    "darkElixir": 8166,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
@@ -137643,7 +137731,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "نجوم اليمن",
   "th": 16,
   "entries": [
    {
