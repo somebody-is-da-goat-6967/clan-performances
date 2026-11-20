@@ -108912,7 +108912,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "Jai Shree Ram",
+  "clan": "Average Corp",
   "th": 18,
   "entries": [
    {
@@ -122354,6 +122354,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 26
+   },
+   {
+    "time": "2026-11-20T06:05:57Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
