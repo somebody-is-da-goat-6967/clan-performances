@@ -108318,7 +108318,7 @@
  {
   "tag": "#9YULCURQ8",
   "name": "Utkarsh",
-  "clan": "Reaper Crew",
+  "clan": "KERALA",
   "th": 18,
   "entries": [
    {
@@ -126329,6 +126329,17 @@
     "elixir": 1025000,
     "darkElixir": 10320,
     "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T02:21:30Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 168,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
