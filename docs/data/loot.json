@@ -94330,7 +94330,7 @@
  {
   "tag": "#9C9G80Y8G",
   "name": "JaY 11",
-  "clan": "KING OF DARK",
+  "clan": "Tripple K",
   "th": 18,
   "entries": [
    {
@@ -130580,7 +130580,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Everdraco™",
+  "clan": "",
   "th": 17,
   "entries": [
    {
@@ -139010,6 +139010,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-20T14:18:20Z",
+    "gold": 1074874,
+    "elixir": 1102693,
+    "darkElixir": 6198,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 78
+   },
+   {
+    "time": "2026-11-20T14:18:48Z",
+    "gold": 581512,
+    "elixir": 549335,
+    "darkElixir": 6775,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-20T14:19:37Z",
+    "gold": 905780,
+    "elixir": 857621,
+    "darkElixir": 9353,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
    }
   ]
  },
