@@ -125,12 +125,12 @@
   "tag": "#CLG88L0C",
   "th": 19,
   "pos": 5,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 15.0,
+  "attackDetail": "1★ 16%, 1★ 14%"
  },
  {
   "date": "2026-11-19T06:01:25Z",
