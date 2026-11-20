@@ -348,7 +348,7 @@
  {
   "tag": "#L080P9YR0",
   "name": "Alpha Sierra",
-  "clan": "THE WARRIOR",
+  "clan": "REQ N REQ N GO",
   "th": 19,
   "entries": [
    {
@@ -29920,6 +29920,102 @@
   ]
  },
  {
+  "tag": "#QQV22UR0P",
+  "name": "MR.788",
+  "clan": "Reaper Crew",
+  "th": 19,
+  "entries": [
+   {
+    "time": "2026-11-19T20:59:18Z",
+    "gold": 1525294,
+    "elixir": 1608553,
+    "darkElixir": 11761,
+    "battleTime": 92,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-19T21:00:50Z",
+    "gold": 1609694,
+    "elixir": 1524798,
+    "darkElixir": 10338,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 94
+   },
+   {
+    "time": "2026-11-19T21:02:24Z",
+    "gold": 1344862,
+    "elixir": 2639429,
+    "darkElixir": 20725,
+    "battleTime": 105,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-19T21:04:20Z",
+    "gold": 1057495,
+    "elixir": 830378,
+    "darkElixir": 13111,
+    "battleTime": 93,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-19T21:05:07Z",
+    "gold": 1633034,
+    "elixir": 280397,
+    "darkElixir": 14335,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-19T21:06:10Z",
+    "gold": 1625143,
+    "elixir": 1494264,
+    "darkElixir": 5791,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-19T21:06:49Z",
+    "gold": 2400410,
+    "elixir": 2404626,
+    "darkElixir": 17236,
+    "battleTime": 66,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 89
+   },
+   {
+    "time": "2026-11-19T21:07:34Z",
+    "gold": 1865835,
+    "elixir": 281539,
+    "darkElixir": 2061,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 78
+   }
+  ]
+ },
+ {
   "tag": "#GYQQC8L20",
   "name": "Mr.Sam",
   "clan": "TAMIZHAN YT",
@@ -33604,6 +33700,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T03:20:03Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
    }
   ]
  },
@@ -61550,6 +61657,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T03:16:03Z",
+    "gold": 2024278,
+    "elixir": 1676654,
+    "darkElixir": 15975,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-20T03:17:41Z",
+    "gold": 1798285,
+    "elixir": 1798279,
+    "darkElixir": 11246,
+    "battleTime": 74,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T03:19:55Z",
+    "gold": 1887878,
+    "elixir": 1708724,
+    "darkElixir": 9337,
+    "battleTime": 127,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 90
    }
   ]
  },
