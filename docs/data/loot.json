@@ -43392,7 +43392,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "TEAM TITAN",
+  "clan": "DARK AVENGERS",
   "th": 19,
   "entries": [
    {
@@ -153267,6 +153267,28 @@
     "elixir": 177841,
     "darkElixir": 5299,
     "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T20:12:57Z",
+    "gold": 349002,
+    "elixir": 475991,
+    "darkElixir": 8511,
+    "battleTime": 109,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T20:14:15Z",
+    "gold": 1512688,
+    "elixir": 794019,
+    "darkElixir": 10136,
+    "battleTime": 35,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
