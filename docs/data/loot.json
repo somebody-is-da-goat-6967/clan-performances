@@ -7209,6 +7209,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T11:35:22Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 168,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -93744,6 +93755,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T11:33:19Z",
+    "gold": 2367408,
+    "elixir": 1437670,
+    "darkElixir": 14209,
+    "battleTime": 131,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -110508,7 +110530,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "VINLAND",
+  "clan": "BOT PLAYER'S",
   "th": 18,
   "entries": [
    {
