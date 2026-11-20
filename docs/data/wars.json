@@ -30,12 +30,12 @@
   "tag": "#L080P9YR0",
   "th": 19,
   "pos": 8,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 57.0,
+  "attackDetail": "1★ 57%"
  },
  {
   "date": "2026-11-19T06:01:25Z",
