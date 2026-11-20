@@ -64084,7 +64084,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "AURA KOTH",
+  "clan": "noobs",
   "th": 19,
   "entries": [
    {
@@ -99700,7 +99700,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "It'z KABILA™",
+  "clan": "STARS of BD",
   "th": 18,
   "entries": [
    {
@@ -104495,6 +104495,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 68
+   },
+   {
+    "time": "2026-11-20T16:05:43Z",
+    "gold": 534573,
+    "elixir": 142636,
+    "darkElixir": 2153,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-20T16:06:00Z",
+    "gold": 402453,
+    "elixir": 434877,
+    "darkElixir": 2793,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-20T16:06:19Z",
+    "gold": 575438,
+    "elixir": 390912,
+    "darkElixir": 11224,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-20T16:06:37Z",
+    "gold": 297644,
+    "elixir": 167689,
+    "darkElixir": 1511,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
    }
   ]
  },
@@ -124656,6 +124700,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-20T16:04:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 156,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
