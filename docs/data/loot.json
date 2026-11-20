@@ -23664,7 +23664,7 @@
  {
   "tag": "#GCVY89CGY",
   "name": "MIRAJ",
-  "clan": "THE WARRIOR",
+  "clan": "WEKIL ICIN",
   "th": 19,
   "entries": [
    {
@@ -62115,6 +62115,28 @@
     "elixir": 1780425,
     "darkElixir": 6720,
     "battleTime": 87,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T05:03:09Z",
+    "gold": 1102957,
+    "elixir": 2035213,
+    "darkElixir": 15333,
+    "battleTime": 81,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T05:04:44Z",
+    "gold": 2068506,
+    "elixir": 1908644,
+    "darkElixir": 14564,
+    "battleTime": 71,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -147064,6 +147086,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-20T05:02:20Z",
+    "gold": 530873,
+    "elixir": 593683,
+    "darkElixir": 6102,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-20T05:03:45Z",
+    "gold": 410525,
+    "elixir": 387954,
+    "darkElixir": 1947,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-20T05:05:11Z",
+    "gold": 119601,
+    "elixir": 0,
+    "darkElixir": 1000,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
    }
   ]
  },
