@@ -63908,7 +63908,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "1st TH19 KOTH",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
@@ -94330,7 +94330,7 @@
  {
   "tag": "#9C9G80Y8G",
   "name": "JaY 11",
-  "clan": "Afterlife jr™",
+  "clan": "KING OF DARK",
   "th": 18,
   "entries": [
    {
@@ -138988,6 +138988,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 62
+   },
+   {
+    "time": "2026-11-20T14:15:23Z",
+    "gold": 609241,
+    "elixir": 679071,
+    "darkElixir": 9672,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-20T14:16:15Z",
+    "gold": 679347,
+    "elixir": 620048,
+    "darkElixir": 4680,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
    }
   ]
  },
