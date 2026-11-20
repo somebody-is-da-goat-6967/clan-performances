@@ -7176,6 +7176,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T10:35:13Z",
+    "gold": 207000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 176,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 80
    }
   ]
  },
@@ -141464,7 +141475,7 @@
  {
   "tag": "#QRQC090Y2",
   "name": "lucifer",
-  "clan": "Milky Paradise",
+  "clan": "req",
   "th": 16,
   "entries": [
    {
