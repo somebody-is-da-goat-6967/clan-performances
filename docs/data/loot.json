@@ -7220,6 +7220,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 97
+   },
+   {
+    "time": "2026-11-20T11:38:19Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 139,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -110530,7 +110541,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "BOT PLAYER'S",
+  "clan": "United Legends",
   "th": 18,
   "entries": [
    {
