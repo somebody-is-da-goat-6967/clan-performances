@@ -29999,7 +29999,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "We Will Rise",
+  "clan": "VALHEIM",
   "th": 19,
   "entries": [
    {
@@ -62064,6 +62064,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-20T04:51:49Z",
+    "gold": 1967284,
+    "elixir": 1964051,
+    "darkElixir": 11523,
+    "battleTime": 77,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 80
+   },
+   {
+    "time": "2026-11-20T04:54:56Z",
+    "gold": 1808911,
+    "elixir": 1769688,
+    "darkElixir": 20202,
+    "battleTime": 104,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
@@ -146932,6 +146954,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 72
+   },
+   {
+    "time": "2026-11-20T04:52:28Z",
+    "gold": 192261,
+    "elixir": 153213,
+    "darkElixir": 4065,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-20T04:53:52Z",
+    "gold": 395592,
+    "elixir": 125127,
+    "darkElixir": 2889,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-20T04:55:16Z",
+    "gold": 642641,
+    "elixir": 670201,
+    "darkElixir": 4279,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 83
    }
   ]
  },
