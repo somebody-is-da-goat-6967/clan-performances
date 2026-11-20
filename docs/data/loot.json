@@ -40516,7 +40516,7 @@
  {
   "tag": "#GPP0V0Q92",
   "name": "Somebody",
-  "clan": "Reaper Two",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -62005,6 +62005,39 @@
     "elixir": 1463225,
     "darkElixir": 1016,
     "battleTime": 96,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T04:42:43Z",
+    "gold": 1909978,
+    "elixir": 1995174,
+    "darkElixir": 10866,
+    "battleTime": 69,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T04:44:32Z",
+    "gold": 836051,
+    "elixir": 2212377,
+    "darkElixir": 15575,
+    "battleTime": 87,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 92
+   },
+   {
+    "time": "2026-11-20T04:45:58Z",
+    "gold": 2153663,
+    "elixir": 1990888,
+    "darkElixir": 15069,
+    "battleTime": 102,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -146809,6 +146842,39 @@
     "battleTime": 77,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T04:42:58Z",
+    "gold": 399113,
+    "elixir": 262275,
+    "darkElixir": 6847,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-20T04:43:52Z",
+    "gold": 573830,
+    "elixir": 573436,
+    "darkElixir": 6202,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 83
+   },
+   {
+    "time": "2026-11-20T04:45:31Z",
+    "gold": 632031,
+    "elixir": 1100132,
+    "darkElixir": 8987,
+    "battleTime": 104,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
