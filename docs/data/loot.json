@@ -3582,6 +3582,17 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-20T00:33:10Z",
+    "gold": 931500,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
@@ -158722,9 +158733,16 @@
   "entries": []
  },
  {
+  "tag": "#GL9UC9LL2",
+  "name": "Lil Prazy",
+  "clan": "Syndicate",
+  "th": 6,
+  "entries": []
+ },
+ {
   "tag": "#RPPY92V0P",
   "name": "Prazy",
-  "clan": "",
+  "clan": "Syndicate",
   "th": 6,
   "entries": []
  },
