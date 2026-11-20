@@ -49961,6 +49961,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T18:16:25Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 153,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
    }
   ]
  },
@@ -58460,6 +58471,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 74
+   },
+   {
+    "time": "2026-11-20T18:17:56Z",
+    "gold": 2237077,
+    "elixir": 2114752,
+    "darkElixir": 17333,
+    "battleTime": 67,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 94
+   },
+   {
+    "time": "2026-11-20T18:18:44Z",
+    "gold": 864009,
+    "elixir": 1429579,
+    "darkElixir": 12383,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
    }
   ]
  },
@@ -144271,7 +144304,7 @@
  {
   "tag": "#99UL0J92Q",
   "name": "MD. NAHIDUL ❣️",
-  "clan": "Tryout",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
@@ -154558,6 +154591,17 @@
     "elixir": 794646,
     "darkElixir": 6252,
     "battleTime": 146,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T18:17:52Z",
+    "gold": 712206,
+    "elixir": 745160,
+    "darkElixir": 7491,
+    "battleTime": 71,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
