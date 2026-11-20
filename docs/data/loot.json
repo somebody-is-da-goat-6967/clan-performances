@@ -61051,6 +61051,83 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T12:22:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T12:23:28Z",
+    "gold": 276526,
+    "elixir": 260972,
+    "darkElixir": 4124,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-20T12:23:44Z",
+    "gold": 122571,
+    "elixir": 293158,
+    "darkElixir": 454,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-20T12:24:02Z",
+    "gold": 302897,
+    "elixir": 5626,
+    "darkElixir": 1434,
+    "battleTime": 6,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-20T12:24:18Z",
+    "gold": 431202,
+    "elixir": 334787,
+    "darkElixir": 3130,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-20T12:24:39Z",
+    "gold": 26154,
+    "elixir": 330672,
+    "darkElixir": 1464,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-20T12:24:57Z",
+    "gold": 682006,
+    "elixir": 817627,
+    "darkElixir": 9067,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
    }
   ]
  },
@@ -63765,7 +63842,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "☆TIME☆",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
