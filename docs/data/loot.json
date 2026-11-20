@@ -18123,6 +18123,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T09:18:00Z",
+    "gold": 1317209,
+    "elixir": 576510,
+    "darkElixir": 5552,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T09:19:22Z",
+    "gold": 1187643,
+    "elixir": 732145,
+    "darkElixir": 8082,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 75
    }
   ]
  },
@@ -56857,6 +56879,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 98
+   },
+   {
+    "time": "2026-11-20T09:17:41Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 158,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -115849,7 +115882,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "Reaper Crew",
+  "clan": "FC Dojo",
   "th": 18,
   "entries": [
    {
