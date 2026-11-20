@@ -108912,7 +108912,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "Average Corp",
+  "clan": "DEATH BECOMES U",
   "th": 18,
   "entries": [
    {
@@ -137619,7 +137619,7 @@
  {
   "tag": "#GPJYQPP20",
   "name": "Ian99",
-  "clan": "Unknown",
+  "clan": "Hollow Crowns",
   "th": 16,
   "entries": [
    {
@@ -154514,6 +154514,39 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 175,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T06:06:47Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T06:09:14Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 147,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T06:11:27Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 130,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
