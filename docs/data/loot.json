@@ -34709,6 +34709,39 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T16:53:48Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T16:56:59Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 151,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T17:00:20Z",
+    "gold": 828000,
+    "elixir": 777453,
+    "darkElixir": 8280,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 97
    }
   ]
  },
@@ -39247,7 +39280,7 @@
  {
   "tag": "#L8220CQUU",
   "name": "Roy RR",
-  "clan": "",
+  "clan": "sss",
   "th": 19,
   "entries": [
    {
@@ -55702,6 +55735,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-20T16:52:22Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 168,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-20T16:58:43Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 157,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -61315,6 +61370,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-20T16:55:33Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-20T17:01:21Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 134,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -99744,7 +99821,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "Inferno Wolves",
+  "clan": "Bangla Bangla",
   "th": 18,
   "entries": [
    {
@@ -154080,6 +154157,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 83
+   },
+   {
+    "time": "2026-11-20T16:55:42Z",
+    "gold": 1714035,
+    "elixir": 1649378,
+    "darkElixir": 5274,
+    "battleTime": 47,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-20T16:56:52Z",
+    "gold": 712109,
+    "elixir": 717165,
+    "darkElixir": 9338,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T16:59:15Z",
+    "gold": 690938,
+    "elixir": 1576276,
+    "darkElixir": 10246,
+    "battleTime": 70,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T17:00:34Z",
+    "gold": 1039633,
+    "elixir": 1118612,
+    "darkElixir": 6206,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
