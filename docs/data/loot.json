@@ -7154,6 +7154,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T10:11:51Z",
+    "gold": 1733337,
+    "elixir": 1700449,
+    "darkElixir": 10596,
+    "battleTime": 77,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T10:14:38Z",
+    "gold": 1564926,
+    "elixir": 1306048,
+    "darkElixir": 16090,
+    "battleTime": 98,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -141376,7 +141398,7 @@
  {
   "tag": "#QRQC090Y2",
   "name": "lucifer",
-  "clan": "THE WARRIOR",
+  "clan": "req",
   "th": 16,
   "entries": [
    {
@@ -153355,6 +153377,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-20T10:14:08Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
