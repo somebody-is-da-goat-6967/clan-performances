@@ -61440,6 +61440,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T02:46:12Z",
+    "gold": 1167385,
+    "elixir": 1145237,
+    "darkElixir": 2898,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 44
    }
   ]
  },
@@ -108351,7 +108362,7 @@
  {
   "tag": "#9YULCURQ8",
   "name": "Utkarsh",
-  "clan": "KERALA",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -153406,6 +153417,28 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 176,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T02:48:38Z",
+    "gold": 785982,
+    "elixir": 990687,
+    "darkElixir": 10300,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 93
+   },
+   {
+    "time": "2026-11-20T02:50:52Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 149,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
