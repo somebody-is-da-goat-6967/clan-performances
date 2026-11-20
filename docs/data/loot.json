@@ -34698,6 +34698,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-20T16:49:47Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -52350,7 +52361,7 @@
  {
   "tag": "#8LC0Y2U9L",
   "name": "Vitosya17",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -111506,7 +111517,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "Jai Shree Ram",
+  "clan": "INDIA",
   "th": 18,
   "entries": [
    {
@@ -115963,6 +115974,28 @@
     "elixir": 350834,
     "darkElixir": 1945,
     "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T16:47:38Z",
+    "gold": 62011,
+    "elixir": 55012,
+    "darkElixir": 5427,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-20T16:50:14Z",
+    "gold": 600071,
+    "elixir": 447378,
+    "darkElixir": 8338,
+    "battleTime": 88,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
