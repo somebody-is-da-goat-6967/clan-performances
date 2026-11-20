@@ -16735,6 +16735,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-20T19:29:21Z",
+    "gold": 828000,
+    "elixir": 816446,
+    "darkElixir": 10350,
+    "battleTime": 177,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 88
    }
   ]
  },
@@ -148221,7 +148232,7 @@
  {
   "tag": "#8JCLJLVLQ",
   "name": "Amoo 2.0",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 15,
   "entries": [
    {
