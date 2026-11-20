@@ -130905,6 +130905,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-20T10:00:05Z",
+    "gold": 611635,
+    "elixir": 656828,
+    "darkElixir": 7917,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -138609,7 +138620,7 @@
  {
   "tag": "#GPJYQPP20",
   "name": "Ian99",
-  "clan": "Unknown",
+  "clan": "Hollow Crowns",
   "th": 16,
   "entries": [
    {
