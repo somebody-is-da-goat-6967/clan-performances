@@ -20181,7 +20181,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "",
+  "clan": "Gang of Gujrat",
   "th": 19,
   "entries": [
    {
@@ -114677,6 +114677,17 @@
     "elixir": 1817636,
     "darkElixir": 10271,
     "battleTime": 133,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T17:44:22Z",
+    "gold": 798763,
+    "elixir": 650350,
+    "darkElixir": 7179,
+    "battleTime": 128,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
