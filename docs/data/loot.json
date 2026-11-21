@@ -114968,7 +114968,7 @@
  {
   "tag": "#LYQY2CC8L",
   "name": "Tumbling Turtle",
-  "clan": "@ te@m",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -115080,6 +115080,94 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 71
+   },
+   {
+    "time": "2026-11-20T04:23:24Z",
+    "gold": 496404,
+    "elixir": 524106,
+    "darkElixir": 5837,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-20T04:23:59Z",
+    "gold": 238517,
+    "elixir": 218410,
+    "darkElixir": 2114,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-20T04:26:54Z",
+    "gold": 578015,
+    "elixir": 582319,
+    "darkElixir": 675,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-20T04:28:27Z",
+    "gold": 2176590,
+    "elixir": 1525418,
+    "darkElixir": 2714,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-20T09:13:52Z",
+    "gold": 427678,
+    "elixir": 397291,
+    "darkElixir": 4551,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-20T09:15:28Z",
+    "gold": 912179,
+    "elixir": 1608454,
+    "darkElixir": 12136,
+    "battleTime": 47,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T09:00:39Z",
+    "gold": 288921,
+    "elixir": 338088,
+    "darkElixir": 4028,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T09:02:20Z",
+    "gold": 630699,
+    "elixir": 1553281,
+    "darkElixir": 11390,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
