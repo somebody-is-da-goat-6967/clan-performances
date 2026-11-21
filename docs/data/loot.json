@@ -370,7 +370,7 @@
  {
   "tag": "#L080P9YR0",
   "name": "Alpha Sierra",
-  "clan": "",
+  "clan": "Req",
   "th": 19,
   "entries": [
    {
@@ -20181,7 +20181,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "Gang of Gujrat",
+  "clan": "STRIKING SWORD",
   "th": 19,
   "entries": [
    {
@@ -71092,7 +71092,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "Mad Dawgz",
+  "clan": "CHECKMATE CHAMP",
   "th": 19,
   "entries": [
    {
@@ -112640,7 +112640,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "Smoke N Glory",
+  "clan": "<The Elites>",
   "th": 18,
   "entries": [
    {
@@ -114688,6 +114688,17 @@
     "elixir": 650350,
     "darkElixir": 7179,
     "battleTime": 128,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T17:55:23Z",
+    "gold": 906638,
+    "elixir": 1939404,
+    "darkElixir": 17029,
+    "battleTime": 129,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
