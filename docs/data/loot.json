@@ -97248,6 +97248,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T17:25:15Z",
+    "gold": 145215,
+    "elixir": 1540504,
+    "darkElixir": 12151,
+    "battleTime": 150,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -130489,7 +130500,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "TAIWAN 50 NEWBIE",
+  "clan": "CLAN CHUYÊN WAR",
   "th": 17,
   "entries": [
    {
