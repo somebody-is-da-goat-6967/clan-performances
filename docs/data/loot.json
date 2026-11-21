@@ -53420,6 +53420,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T17:33:08Z",
+    "gold": 1026438,
+    "elixir": 2369494,
+    "darkElixir": 16207,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -130511,7 +130522,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "雞飛狗跳",
+  "clan": "MORTIS HOUSE",
   "th": 17,
   "entries": [
    {
