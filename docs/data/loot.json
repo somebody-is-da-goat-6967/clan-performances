@@ -3967,6 +3967,17 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T21:24:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 173,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -62166,7 +62177,7 @@
  {
   "tag": "#9U8Y92RJ",
   "name": "VorReel",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
