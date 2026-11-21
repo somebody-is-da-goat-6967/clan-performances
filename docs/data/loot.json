@@ -370,7 +370,7 @@
  {
   "tag": "#L080P9YR0",
   "name": "Alpha Sierra",
-  "clan": "REQ N REQ N GO",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -104891,6 +104891,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T13:03:31Z",
+    "gold": 664733,
+    "elixir": 675546,
+    "darkElixir": 6942,
+    "battleTime": 118,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -170187,6 +170198,17 @@
     "elixir": 525818,
     "darkElixir": 2408,
     "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T13:02:49Z",
+    "gold": 480054,
+    "elixir": 408541,
+    "darkElixir": 3676,
+    "battleTime": 95,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
