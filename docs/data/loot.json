@@ -145293,7 +145293,7 @@
  {
   "tag": "#GG2RQ9UPY",
   "name": "Ishtiaq Bai",
-  "clan": "hi",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
@@ -168972,6 +168972,17 @@
     "elixir": 831681,
     "darkElixir": 6300,
     "battleTime": 116,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T10:35:17Z",
+    "gold": 1064323,
+    "elixir": 1299348,
+    "darkElixir": 5721,
+    "battleTime": 132,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
