@@ -128529,7 +128529,7 @@
  {
   "tag": "#PJQGUCGC2",
   "name": "SIDDHARTH",
-  "clan": "Req and leave",
+  "clan": "Req N Leave",
   "th": 17,
   "entries": [
    {
@@ -140143,6 +140143,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 68
+   },
+   {
+    "time": "2026-11-21T01:49:52Z",
+    "gold": 818400,
+    "elixir": 854085,
+    "darkElixir": 10300,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 84
    }
   ]
  },
