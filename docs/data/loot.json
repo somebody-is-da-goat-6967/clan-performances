@@ -124629,7 +124629,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "هہڊوٍء",
   "th": 17,
   "entries": [
    {
@@ -168954,6 +168954,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 30
+   },
+   {
+    "time": "2026-11-21T10:28:31Z",
+    "gold": 765890,
+    "elixir": 666657,
+    "darkElixir": 4115,
+    "battleTime": 102,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T10:31:17Z",
+    "gold": 1063759,
+    "elixir": 831681,
+    "darkElixir": 6300,
+    "battleTime": 116,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
