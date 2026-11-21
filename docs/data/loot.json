@@ -129084,7 +129084,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "Farme Minérios",
+  "clan": "765プロ",
   "th": 17,
   "entries": [
    {
@@ -160575,6 +160575,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 98
+   },
+   {
+    "time": "2026-11-21T08:08:44Z",
+    "gold": 950499,
+    "elixir": 896708,
+    "darkElixir": 12173,
+    "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
