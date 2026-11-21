@@ -134034,7 +134034,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "RHCP",
+  "clan": "Everdraco™",
   "th": 17,
   "entries": [
    {
@@ -140154,6 +140154,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 84
+   },
+   {
+    "time": "2026-11-21T01:52:57Z",
+    "gold": 1023000,
+    "elixir": 787472,
+    "darkElixir": 3457,
+    "battleTime": 175,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-21T01:55:37Z",
+    "gold": 650334,
+    "elixir": 284101,
+    "darkElixir": 8240,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 87
    }
   ]
  },
