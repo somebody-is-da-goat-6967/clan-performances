@@ -103814,7 +103814,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "WINNER'S",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -147473,6 +147473,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T20:10:35Z",
+    "gold": 702645,
+    "elixir": 663786,
+    "darkElixir": 8153,
+    "battleTime": 66,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -171419,6 +171430,17 @@
     "elixir": 486715,
     "darkElixir": 5351,
     "battleTime": 147,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T20:12:16Z",
+    "gold": 786150,
+    "elixir": 545457,
+    "darkElixir": 5719,
+    "battleTime": 137,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
