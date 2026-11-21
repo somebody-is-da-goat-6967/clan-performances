@@ -129084,7 +129084,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "VIỆT NAM",
+  "clan": "MORTIS HOUSE",
   "th": 17,
   "entries": [
    {
@@ -139824,6 +139824,17 @@
     "elixir": 941540,
     "darkElixir": 9305,
     "battleTime": 96,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T07:59:58Z",
+    "gold": 1350587,
+    "elixir": 1512022,
+    "darkElixir": 8998,
+    "battleTime": 146,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
