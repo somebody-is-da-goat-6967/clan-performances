@@ -1512,12 +1512,12 @@
   "tag": "#R0980PPU8",
   "th": 18,
   "pos": 12,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%"
  },
  {
   "date": "2026-11-21T17:01:48Z",
@@ -1854,12 +1854,12 @@
   "tag": "#Q80Q20LP0",
   "th": 18,
   "pos": 32,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 21.5,
+  "attackDetail": "1★ 32%, 1★ 11%"
  },
  {
   "date": "2026-11-20T17:09:16Z",
