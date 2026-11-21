@@ -11841,6 +11841,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-21T11:53:03Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
    }
   ]
  },
@@ -35849,7 +35860,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "VALHEIM",
+  "clan": "UZBEK CLAN",
   "th": 19,
   "entries": [
    {
@@ -64757,7 +64768,7 @@
  {
   "tag": "#9JJP09P02",
   "name": "Неизвестный",
-  "clan": "THE WARRIOR",
+  "clan": "Band of Reapers",
   "th": 19,
   "entries": [
    {
@@ -119581,7 +119592,7 @@
  {
   "tag": "#2RP8QC0J9",
   "name": "V1tos1750",
-  "clan": "Band of Reapers",
+  "clan": "THE WARRIOR",
   "th": 18,
   "entries": []
  },
@@ -140540,6 +140551,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T11:55:07Z",
+    "gold": 1671391,
+    "elixir": 1669804,
+    "darkElixir": 9006,
+    "battleTime": 108,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -160506,6 +160528,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-21T11:54:03Z",
+    "gold": 1747731,
+    "elixir": 1844901,
+    "darkElixir": 11359,
+    "battleTime": 111,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
