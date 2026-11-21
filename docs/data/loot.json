@@ -17633,6 +17633,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 61
+   },
+   {
+    "time": "2026-11-21T06:19:12Z",
+    "gold": 1872631,
+    "elixir": 2151068,
+    "darkElixir": 11616,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-21T06:20:39Z",
+    "gold": 827668,
+    "elixir": 1185202,
+    "darkElixir": 7504,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
    }
   ]
  },
@@ -22839,6 +22861,17 @@
     "elixir": 570528,
     "darkElixir": 12384,
     "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T06:20:20Z",
+    "gold": 654587,
+    "elixir": 183573,
+    "darkElixir": 12905,
+    "battleTime": 29,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -126039,6 +126072,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T06:18:24Z",
+    "gold": 1294597,
+    "elixir": 1297351,
+    "darkElixir": 8915,
+    "battleTime": 100,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -134540,7 +134584,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "RHCP",
+  "clan": "",
   "th": 17,
   "entries": [
    {
@@ -145004,6 +145048,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T06:20:39Z",
+    "gold": 527740,
+    "elixir": 525431,
+    "darkElixir": 5104,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -150302,7 +150357,7 @@
  {
   "tag": "#R20JPGL9R",
   "name": "Abir 7525",
-  "clan": "Reaper Two",
+  "clan": "Syndicate",
   "th": 15,
   "entries": [
    {
