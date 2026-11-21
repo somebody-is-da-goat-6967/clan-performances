@@ -11852,6 +11852,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-21T11:57:33Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 113,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -35860,7 +35871,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "UZBEK CLAN",
+  "clan": "TOSHKENT 2018",
   "th": 19,
   "entries": [
    {
@@ -64768,7 +64779,7 @@
  {
   "tag": "#9JJP09P02",
   "name": "Неизвестный",
-  "clan": "Band of Reapers",
+  "clan": "Reaper Two",
   "th": 19,
   "entries": [
    {
@@ -119592,7 +119603,7 @@
  {
   "tag": "#2RP8QC0J9",
   "name": "V1tos1750",
-  "clan": "THE WARRIOR",
+  "clan": "Band of Reapers",
   "th": 18,
   "entries": []
  },
@@ -126021,6 +126032,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T12:00:17Z",
+    "gold": 1847576,
+    "elixir": 1856116,
+    "darkElixir": 13601,
+    "battleTime": 141,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -132215,6 +132237,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 70
+   },
+   {
+    "time": "2026-11-21T12:01:58Z",
+    "gold": 748762,
+    "elixir": 629912,
+    "darkElixir": 6071,
+    "battleTime": 96,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
