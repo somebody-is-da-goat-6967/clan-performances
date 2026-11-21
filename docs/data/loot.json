@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "$bndz",
+  "clan": "Trial",
   "th": 19,
   "entries": [
    {
@@ -119098,6 +119098,17 @@
     "elixir": 695533,
     "darkElixir": 9429,
     "battleTime": 103,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T06:44:15Z",
+    "gold": 1928814,
+    "elixir": 1928828,
+    "darkElixir": 13055,
+    "battleTime": 151,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
