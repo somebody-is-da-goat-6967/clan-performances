@@ -19807,7 +19807,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "GUARDIANS",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -44522,6 +44522,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T10:02:03Z",
+    "gold": 1713259,
+    "elixir": 2243040,
+    "darkElixir": 17533,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
@@ -129337,7 +129348,7 @@
  {
   "tag": "#YRLPQQ929",
   "name": "pikab boy",
-  "clan": "",
+  "clan": "OG LEGENDS",
   "th": 17,
   "entries": [
    {
@@ -145282,7 +145293,7 @@
  {
   "tag": "#GG2RQ9UPY",
   "name": "Ishtiaq Bai",
-  "clan": "THE WARRIOR",
+  "clan": "hi",
   "th": 16,
   "entries": [
    {
@@ -147723,7 +147734,7 @@
  {
   "tag": "#YQCJUJ2RP",
   "name": "LEADER IS HARE",
-  "clan": "THE WARRIOR",
+  "clan": "OG LEGENDS",
   "th": 16,
   "entries": [
    {
