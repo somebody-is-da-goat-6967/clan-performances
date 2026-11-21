@@ -53409,6 +53409,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T17:30:28Z",
+    "gold": 923105,
+    "elixir": 1426578,
+    "darkElixir": 14626,
+    "battleTime": 136,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -130500,7 +130511,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "CLAN CHUYÊN WAR",
+  "clan": "雞飛狗跳",
   "th": 17,
   "entries": [
    {
