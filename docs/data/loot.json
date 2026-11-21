@@ -16488,6 +16488,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T12:39:45Z",
+    "gold": 880906,
+    "elixir": 880906,
+    "darkElixir": 5751,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 84
    }
   ]
  },
@@ -135527,7 +135538,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "",
+  "clan": "ABC",
   "th": 17,
   "entries": [
    {
