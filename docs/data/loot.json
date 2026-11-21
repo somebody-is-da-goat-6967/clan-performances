@@ -152606,7 +152606,7 @@
  {
   "tag": "#QVG9LVVJ8",
   "name": "⠀ ⠀",
-  "clan": "Rise & Grind",
+  "clan": "Deception",
   "th": 16,
   "entries": [
    {
@@ -171265,6 +171265,17 @@
     "elixir": 312218,
     "darkElixir": 3263,
     "battleTime": 81,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T18:37:21Z",
+    "gold": 123940,
+    "elixir": 105584,
+    "darkElixir": 384,
+    "battleTime": 89,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
