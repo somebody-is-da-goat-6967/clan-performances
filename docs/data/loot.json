@@ -23935,7 +23935,7 @@
  {
   "tag": "#Y2RL98L20",
   "name": "Levi Hero!",
-  "clan": "# Req n Leave",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -91892,6 +91892,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T15:42:56Z",
+    "gold": 547757,
+    "elixir": 549489,
+    "darkElixir": 5305,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-21T15:44:00Z",
+    "gold": 62920,
+    "elixir": 501955,
+    "darkElixir": 8658,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 36
+   },
+   {
+    "time": "2026-11-21T15:44:44Z",
+    "gold": 445704,
+    "elixir": 217138,
+    "darkElixir": 1816,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 23
    }
   ]
  },
@@ -98136,7 +98169,7 @@
  {
   "tag": "#9C9G80Y8G",
   "name": "JaY 11",
-  "clan": "Afterlife jr™",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -103330,7 +103363,7 @@
  {
   "tag": "#8JQR80YVV",
   "name": "MD. NAHIDUL",
-  "clan": "Th 19",
+  "clan": "",
   "th": 18,
   "entries": [
    {
