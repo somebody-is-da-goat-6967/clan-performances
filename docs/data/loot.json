@@ -44500,6 +44500,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T09:58:30Z",
+    "gold": 1879958,
+    "elixir": 1830033,
+    "darkElixir": 5660,
+    "battleTime": 69,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 93
+   },
+   {
+    "time": "2026-11-21T10:00:11Z",
+    "gold": 1451208,
+    "elixir": 1454988,
+    "darkElixir": 5226,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -129315,7 +129337,7 @@
  {
   "tag": "#YRLPQQ929",
   "name": "pikab boy",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 17,
   "entries": [
    {
