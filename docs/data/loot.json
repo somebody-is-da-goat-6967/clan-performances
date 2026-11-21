@@ -58170,7 +58170,7 @@
  {
   "tag": "#8LC0Y2U9L",
   "name": "Vitosya17",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -64779,7 +64779,7 @@
  {
   "tag": "#9JJP09P02",
   "name": "Неизвестный",
-  "clan": "Reaper Two",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -140591,6 +140591,17 @@
     "elixir": 1669804,
     "darkElixir": 9006,
     "battleTime": 108,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T12:07:02Z",
+    "gold": 1854048,
+    "elixir": 1720080,
+    "darkElixir": 6110,
+    "battleTime": 113,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
