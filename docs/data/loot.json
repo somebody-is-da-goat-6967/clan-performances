@@ -17655,6 +17655,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 68
+   },
+   {
+    "time": "2026-11-21T06:22:40Z",
+    "gold": 1158549,
+    "elixir": 1992092,
+    "darkElixir": 10873,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T06:25:47Z",
+    "gold": 2138042,
+    "elixir": 2138061,
+    "darkElixir": 11925,
+    "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
    }
   ]
  },
@@ -22876,6 +22898,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T06:22:44Z",
+    "gold": 1010540,
+    "elixir": 410090,
+    "darkElixir": 4190,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 78
    }
   ]
  },
@@ -134584,7 +134617,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "",
+  "clan": "Jotunheim@War",
   "th": 17,
   "entries": [
    {
@@ -157539,6 +157572,17 @@
     "elixir": 745160,
     "darkElixir": 7491,
     "battleTime": 71,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T06:24:36Z",
+    "gold": 652868,
+    "elixir": 883564,
+    "darkElixir": 7682,
+    "battleTime": 134,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
