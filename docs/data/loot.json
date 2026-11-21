@@ -129084,7 +129084,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "MORTIS HOUSE",
+  "clan": "Farme Minérios",
   "th": 17,
   "entries": [
    {
@@ -157394,6 +157394,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 19
+   },
+   {
+    "time": "2026-11-21T08:02:21Z",
+    "gold": 858373,
+    "elixir": 1133788,
+    "darkElixir": 10740,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 31
+   },
+   {
+    "time": "2026-11-21T08:02:52Z",
+    "gold": 480496,
+    "elixir": 452288,
+    "darkElixir": 6462,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 22
+   },
+   {
+    "time": "2026-11-21T08:03:22Z",
+    "gold": 204207,
+    "elixir": 45988,
+    "darkElixir": 1696,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
    }
   ]
  },
