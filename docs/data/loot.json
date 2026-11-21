@@ -20291,7 +20291,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "STRIKING SWORD",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -112915,7 +112915,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "<The Elites>",
+  "clan": "Smoke N Glory",
   "th": 18,
   "entries": [
    {
@@ -171397,6 +171397,28 @@
     "elixir": 105584,
     "darkElixir": 384,
     "battleTime": 89,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T20:03:27Z",
+    "gold": 300857,
+    "elixir": 667231,
+    "darkElixir": 5852,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T20:06:32Z",
+    "gold": 490717,
+    "elixir": 486715,
+    "darkElixir": 5351,
+    "battleTime": 147,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
