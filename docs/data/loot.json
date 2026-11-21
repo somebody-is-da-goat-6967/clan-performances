@@ -44478,6 +44478,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 21
+   },
+   {
+    "time": "2026-11-21T09:49:06Z",
+    "gold": 1315531,
+    "elixir": 848792,
+    "darkElixir": 5682,
+    "battleTime": 141,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -144166,6 +144177,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T09:46:38Z",
+    "gold": 1299405,
+    "elixir": 1300768,
+    "darkElixir": 10780,
+    "battleTime": 175,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -147788,7 +147810,7 @@
  {
   "tag": "#QRQC090Y2",
   "name": "lucifer",
-  "clan": "درمانسرا",
+  "clan": "req",
   "th": 16,
   "entries": [
    {
@@ -158776,6 +158798,17 @@
     "elixir": 883564,
     "darkElixir": 7682,
     "battleTime": 134,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T09:46:46Z",
+    "gold": 1042477,
+    "elixir": 1694453,
+    "darkElixir": 19489,
+    "battleTime": 126,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
