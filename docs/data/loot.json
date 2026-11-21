@@ -129106,7 +129106,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "765プロ",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {
@@ -148232,6 +148232,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 70
+   },
+   {
+    "time": "2026-11-21T08:26:48Z",
+    "gold": 890271,
+    "elixir": 722311,
+    "darkElixir": 9804,
+    "battleTime": 149,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T08:29:37Z",
+    "gold": 1192239,
+    "elixir": 221303,
+    "darkElixir": 5545,
+    "battleTime": 136,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -157537,6 +157559,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 27
+   },
+   {
+    "time": "2026-11-21T08:27:06Z",
+    "gold": 577815,
+    "elixir": 391674,
+    "darkElixir": 5034,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 26
+   },
+   {
+    "time": "2026-11-21T08:27:32Z",
+    "gold": 425210,
+    "elixir": 425179,
+    "darkElixir": 8959,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
+   },
+   {
+    "time": "2026-11-21T08:27:56Z",
+    "gold": 194397,
+    "elixir": 389702,
+    "darkElixir": 991,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
    }
   ]
  },
