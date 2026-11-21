@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T13:42:29Z",
+ "updatedAt": "2026-11-21T13:47:53Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -59,12 +59,21 @@
  "errors": [
   "500 unknownException on /leaguegroup/%232JJRY8V/1777870800",
   "500 unknownException on /leaguegroup/%232JUV8U9/1777266000",
-  "500 unknownException on /leaguegroup/%23800UR9P/1792990800",
   "500 unknownException on /leaguegroup/%23880JGR2/1792990800",
   "500 unknownException on /leaguegroup/%2388QGQQG/1782709200",
   "500 unknownException on /leaguegroup/%238CLVVPV/1790571600",
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
-  "500 unknownException on /leaguegroup/%238RRCU8U/1792990800"
+  "500 unknownException on /leaguegroup/%238RRCU8U/1792990800",
+  "520  on /leaguegroup/%230/1770008400",
+  "520  on /leaguegroup/%230/1785811203",
+  "520  on /leaguegroup/%230/1793884751",
+  "520  on /leaguegroup/%2398P02U2/1794805200",
+  "520  on /leaguegroup/%2398Q8UC8/1794805200",
+  "520  on /leaguegroup/%2398YGQPC/1794805200",
+  "520  on /players/%23LUVV0JU9U",
+  "525  on /leaguegroup/%23800UR9P/1792990800",
+  "525  on /leaguegroup/%239898QUG/1794805200",
+  "525  on /leaguegroup/%2398UQ8RC/1794805200"
  ]
 }
