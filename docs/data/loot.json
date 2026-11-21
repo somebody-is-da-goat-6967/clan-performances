@@ -4039,7 +4039,7 @@
  {
   "tag": "#U0J88QLL",
   "name": "asianmaster8",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -71346,6 +71346,17 @@
     "elixir": 1861690,
     "darkElixir": 15767,
     "battleTime": 107,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T23:49:44Z",
+    "gold": 2272113,
+    "elixir": 2322161,
+    "darkElixir": 14751,
+    "battleTime": 114,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
