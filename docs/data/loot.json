@@ -20043,6 +20043,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-21T13:37:14Z",
+    "gold": 404898,
+    "elixir": 432117,
+    "darkElixir": 7270,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-21T13:37:59Z",
+    "gold": 57733,
+    "elixir": 18128,
+    "darkElixir": 3509,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-21T13:39:06Z",
+    "gold": 864615,
+    "elixir": 2288702,
+    "darkElixir": 13732,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 43
+   },
+   {
+    "time": "2026-11-21T13:39:58Z",
+    "gold": 214130,
+    "elixir": 261803,
+    "darkElixir": 2054,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-21T13:40:38Z",
+    "gold": 324844,
+    "elixir": 270603,
+    "darkElixir": 11046,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 38
    }
   ]
  },
@@ -23869,7 +23924,7 @@
  {
   "tag": "#Y2RL98L20",
   "name": "Levi Hero!",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -45009,7 +45064,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "Flame Flinger",
+  "clan": "DARK AVENGERS",
   "th": 19,
   "entries": [
    {
