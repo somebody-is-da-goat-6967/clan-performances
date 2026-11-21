@@ -11786,6 +11786,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T11:32:31Z",
+    "gold": 798283,
+    "elixir": 993316,
+    "darkElixir": 12664,
+    "battleTime": 107,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T11:35:26Z",
+    "gold": 630348,
+    "elixir": 807748,
+    "darkElixir": 5448,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -63802,7 +63824,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "FC Dojo",
+  "clan": "ELITE SPEC OPS",
   "th": 19,
   "entries": [
    {
@@ -169115,6 +169137,17 @@
     "elixir": 1135497,
     "darkElixir": 7178,
     "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T11:34:48Z",
+    "gold": 1188886,
+    "elixir": 802652,
+    "darkElixir": 9553,
+    "battleTime": 82,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
