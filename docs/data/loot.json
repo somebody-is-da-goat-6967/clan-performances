@@ -35893,7 +35893,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "ＣＬＡＮ『ＳＴ』",
+  "clan": "Clan Imperial",
   "th": 19,
   "entries": [
    {
@@ -70686,6 +70686,28 @@
     "elixir": 1867767,
     "darkElixir": 13523,
     "battleTime": 113,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T13:12:27Z",
+    "gold": 1998993,
+    "elixir": 1998676,
+    "darkElixir": 8548,
+    "battleTime": 92,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T13:15:37Z",
+    "gold": 2140515,
+    "elixir": 2140501,
+    "darkElixir": 14027,
+    "battleTime": 160,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
