@@ -134419,7 +134419,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Dark knights",
+  "clan": "Everdraco™",
   "th": 17,
   "entries": [
    {
@@ -151074,6 +151074,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 51
+   },
+   {
+    "time": "2026-11-21T05:20:36Z",
+    "gold": 107963,
+    "elixir": 235173,
+    "darkElixir": 1726,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-21T05:21:30Z",
+    "gold": 665741,
+    "elixir": 1100789,
+    "darkElixir": 6098,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-21T05:22:01Z",
+    "gold": 354372,
+    "elixir": 316537,
+    "darkElixir": 5053,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
    }
   ]
  },
