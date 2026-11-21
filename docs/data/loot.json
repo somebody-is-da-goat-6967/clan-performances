@@ -105199,6 +105199,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T14:23:27Z",
+    "gold": 645719,
+    "elixir": 623982,
+    "darkElixir": 10961,
+    "battleTime": 168,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -114314,6 +114325,28 @@
     "elixir": 2084495,
     "darkElixir": 8629,
     "battleTime": 160,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T14:24:43Z",
+    "gold": 1536039,
+    "elixir": 599513,
+    "darkElixir": 12872,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T14:26:24Z",
+    "gold": 1254633,
+    "elixir": 786948,
+    "darkElixir": 5016,
+    "battleTime": 72,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -125179,7 +125212,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "فخامه ألملوك",
   "th": 17,
   "entries": [
    {
@@ -135601,6 +135634,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-21T14:22:18Z",
+    "gold": 1407540,
+    "elixir": 1406267,
+    "darkElixir": 9784,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
