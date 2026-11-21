@@ -1797,12 +1797,12 @@
   "tag": "#8CRU8Q0V0",
   "th": 18,
   "pos": 31,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 5,
+  "avgDestruction": 97.5,
+  "attackDetail": "3★ 100%, 2★ 95%"
  },
  {
   "date": "2026-11-20T21:53:18Z",
