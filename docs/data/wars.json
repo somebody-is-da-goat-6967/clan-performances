@@ -334,12 +334,12 @@
   "tag": "#9VLYJG8VQ",
   "th": 19,
   "pos": 3,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 79.0,
+  "attackDetail": "1★ 79%"
  },
  {
   "date": "2026-11-20T21:53:18Z",

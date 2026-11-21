@@ -44467,6 +44467,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 92
+   },
+   {
+    "time": "2026-11-21T09:45:42Z",
+    "gold": 39118,
+    "elixir": 959999,
+    "darkElixir": 2610,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 21
    }
   ]
  },
@@ -124563,7 +124574,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "دعم المبدعين 2",
   "th": 17,
   "entries": [
    {
@@ -147777,7 +147788,7 @@
  {
   "tag": "#QRQC090Y2",
   "name": "lucifer",
-  "clan": "req",
+  "clan": "درمانسرا",
   "th": 16,
   "entries": [
    {
