@@ -57771,6 +57771,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-21T19:13:32Z",
+    "gold": 897038,
+    "elixir": 894739,
+    "darkElixir": 13225,
+    "battleTime": 76,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T19:15:42Z",
+    "gold": 1681756,
+    "elixir": 1952467,
+    "darkElixir": 13561,
+    "battleTime": 78,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -153986,7 +154008,7 @@
  {
   "tag": "#LUVUVQL8L",
   "name": "Aryan",
-  "clan": "Wardrobe",
+  "clan": "Reaper Crew",
   "th": 15,
   "entries": [
    {
