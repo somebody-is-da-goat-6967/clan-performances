@@ -31224,6 +31224,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T13:06:50Z",
+    "gold": 643697,
+    "elixir": 1056454,
+    "darkElixir": 17620,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 99
    }
   ]
  },
@@ -140408,7 +140419,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "",
+  "clan": "Everdraco™",
   "th": 17,
   "entries": [
    {
@@ -147271,7 +147282,7 @@
  {
   "tag": "#GYCJJG0UR",
   "name": "charvik",
-  "clan": "",
+  "clan": "*CLAN*_*WARRIOR",
   "th": 16,
   "entries": [
    {
