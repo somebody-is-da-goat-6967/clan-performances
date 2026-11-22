@@ -49850,7 +49850,7 @@
  {
   "tag": "#GJQJ80VRG",
   "name": "Soloo",
-  "clan": "AVENGERS",
+  "clan": "Dragons justice",
   "th": 19,
   "entries": [
    {
@@ -127949,6 +127949,94 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T21:17:05Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-22T21:18:41Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 0,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-22T21:19:36Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 0,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-22T21:20:08Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 3
+   },
+   {
+    "time": "2026-11-22T21:20:28Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-22T21:21:03Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 2
+   },
+   {
+    "time": "2026-11-22T21:21:21Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-22T21:21:36Z",
+    "gold": 53723,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 5,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 5
    }
   ]
  },
@@ -161660,6 +161748,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T21:21:46Z",
+    "gold": 906499,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 171,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
