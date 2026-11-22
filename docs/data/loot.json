@@ -101329,6 +101329,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:02:57Z",
+    "gold": 828000,
+    "elixir": 781178,
+    "darkElixir": 8280,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-22T18:06:36Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 158,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -116919,7 +116941,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "Smoke N Glory",
+  "clan": "<The Elites>",
   "th": 18,
   "entries": [
    {
@@ -174336,6 +174358,28 @@
     "elixir": 960000,
     "darkElixir": 9960,
     "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:03:32Z",
+    "gold": 775384,
+    "elixir": 841845,
+    "darkElixir": 9960,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 67
+   },
+   {
+    "time": "2026-11-22T18:06:11Z",
+    "gold": 943000,
+    "elixir": 943000,
+    "darkElixir": 9960,
+    "battleTime": 134,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
