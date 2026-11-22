@@ -9739,12 +9739,12 @@
   "tag": "#Y9RJGLLQY",
   "th": 16,
   "pos": 40,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 5,
+  "avgDestruction": 96.0,
+  "attackDetail": "2★ 92%, 3★ 100%"
  },
  {
   "date": "2026-11-22T21:12:45Z",
