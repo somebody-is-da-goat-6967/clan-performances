@@ -74623,7 +74623,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "Hydra Esports",
+  "clan": "FW",
   "th": 19,
   "entries": [
    {
@@ -101285,6 +101285,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:41:54Z",
+    "gold": 835508,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
@@ -119048,6 +119059,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 54
+   },
+   {
+    "time": "2026-11-22T17:42:25Z",
+    "gold": 2089291,
+    "elixir": 2011678,
+    "darkElixir": 13393,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:44:07Z",
+    "gold": 1047712,
+    "elixir": 987271,
+    "darkElixir": 6964,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
@@ -133714,7 +133747,7 @@
  {
   "tag": "#PCVP0U92U",
   "name": "Lucifer",
-  "clan": "THE WARRIOR",
+  "clan": "Req",
   "th": 17,
   "entries": [
    {
@@ -146826,6 +146859,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:42:05Z",
+    "gold": 856180,
+    "elixir": 505880,
+    "darkElixir": 6048,
+    "battleTime": 116,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:45:23Z",
+    "gold": 863087,
+    "elixir": 783332,
+    "darkElixir": 7905,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
@@ -174193,6 +174248,17 @@
     "elixir": 596221,
     "darkElixir": 8495,
     "battleTime": 137,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:46:15Z",
+    "gold": 165623,
+    "elixir": 117644,
+    "darkElixir": 3632,
+    "battleTime": 131,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
