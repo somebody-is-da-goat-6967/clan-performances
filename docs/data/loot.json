@@ -23089,7 +23089,7 @@
  {
   "tag": "#PYLG0RPGJ",
   "name": "Jatin",
-  "clan": "Reaper Crew",
+  "clan": "MR_MORNINGSTARR",
   "th": 19,
   "entries": [
    {
@@ -72534,6 +72534,17 @@
     "elixir": 2039549,
     "darkElixir": 7387,
     "battleTime": 143,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:18:42Z",
+    "gold": 1939266,
+    "elixir": 1939273,
+    "darkElixir": 11678,
+    "battleTime": 139,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -144235,6 +144246,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 8
+   },
+   {
+    "time": "2026-11-22T18:18:22Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 176,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -174788,6 +174810,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:21:19Z",
+    "gold": 960000,
+    "elixir": 960000,
+    "darkElixir": 9960,
+    "battleTime": 178,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -178295,7 +178328,7 @@
  {
   "tag": "#LV0C8V0UJ",
   "name": "Henry",
-  "clan": "Reaper Two",
+  "clan": "Reaper Crew",
   "th": 10,
   "entries": [
    {
