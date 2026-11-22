@@ -25134,7 +25134,7 @@
  {
   "tag": "#Y2RL98L20",
   "name": "Levi Hero!",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -31165,6 +31165,17 @@
     "elixir": 1747449,
     "darkElixir": 8588,
     "battleTime": 106,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T11:51:05Z",
+    "gold": 1120261,
+    "elixir": 1120268,
+    "darkElixir": 5868,
+    "battleTime": 117,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -123854,6 +123865,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T11:48:59Z",
+    "gold": 1097866,
+    "elixir": 1436762,
+    "darkElixir": 9714,
+    "battleTime": 125,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
    }
   ]
  },
