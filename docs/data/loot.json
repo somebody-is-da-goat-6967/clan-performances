@@ -116127,7 +116127,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "",
+  "clan": "REQ⚜️LEGEND 2",
   "th": 18,
   "entries": [
    {
@@ -145527,6 +145527,17 @@
     "elixir": 1636172,
     "darkElixir": 10200,
     "battleTime": 128,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T12:25:49Z",
+    "gold": 890978,
+    "elixir": 806505,
+    "darkElixir": 5845,
+    "battleTime": 130,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
