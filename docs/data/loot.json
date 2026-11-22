@@ -65688,6 +65688,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-22T07:57:35Z",
+    "gold": 147568,
+    "elixir": 120440,
+    "darkElixir": 6962,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-22T07:58:34Z",
+    "gold": 491369,
+    "elixir": 348453,
+    "darkElixir": 5303,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-22T07:59:09Z",
+    "gold": 479811,
+    "elixir": 500816,
+    "darkElixir": 5350,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-22T07:59:51Z",
+    "gold": 635565,
+    "elixir": 562892,
+    "darkElixir": 7581,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
    }
   ]
  },
@@ -70341,6 +70385,50 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T08:01:04Z",
+    "gold": 68860,
+    "elixir": 18888,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 5
+   },
+   {
+    "time": "2026-11-22T08:01:54Z",
+    "gold": 82513,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 8
+   },
+   {
+    "time": "2026-11-22T08:02:20Z",
+    "gold": 35922,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 4,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 7
+   },
+   {
+    "time": "2026-11-22T08:02:36Z",
+    "gold": 64005,
+    "elixir": 48488,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 7
    }
   ]
  },
@@ -166616,7 +166704,7 @@
  {
   "tag": "#L8JPGRG2R",
   "name": "ᵀᴛᵀ‿ＶＯＩＤ多",
-  "clan": "GolemLegion",
+  "clan": "تپه",
   "th": 15,
   "entries": [
    {
