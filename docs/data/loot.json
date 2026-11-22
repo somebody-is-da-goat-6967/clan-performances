@@ -31158,6 +31158,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T11:43:42Z",
+    "gold": 1754226,
+    "elixir": 1747449,
+    "darkElixir": 8588,
+    "battleTime": 106,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -123832,6 +123843,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 6
+   },
+   {
+    "time": "2026-11-22T11:42:02Z",
+    "gold": 1089504,
+    "elixir": 829369,
+    "darkElixir": 10059,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -141715,6 +141737,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T11:42:40Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 171,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -147018,7 +147051,7 @@
  {
   "tag": "#GYCJJG0UR",
   "name": "charvik",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 16,
   "entries": [
    {
@@ -176062,6 +176095,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 67
+   },
+   {
+    "time": "2026-11-22T11:42:35Z",
+    "gold": 310734,
+    "elixir": 574781,
+    "darkElixir": 5876,
+    "battleTime": 136,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 86
+   },
+   {
+    "time": "2026-11-22T11:45:05Z",
+    "gold": 184097,
+    "elixir": 399849,
+    "darkElixir": 5005,
+    "battleTime": 127,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 85
    }
   ]
  },
