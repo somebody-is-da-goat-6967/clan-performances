@@ -155051,7 +155051,7 @@
  {
   "tag": "#8JCLJLVLQ",
   "name": "Amoo 2.0",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 15,
   "entries": [
    {
@@ -155634,6 +155634,28 @@
     "elixir": 316537,
     "darkElixir": 5053,
     "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-22T03:35:16Z",
+    "gold": 324829,
+    "elixir": 280154,
+    "darkElixir": 1881,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-22T03:35:50Z",
+    "gold": 329062,
+    "elixir": 367357,
+    "darkElixir": 3547,
+    "battleTime": 25,
     "league": "",
     "battleType": "homeVillage",
     "stars": 2,
