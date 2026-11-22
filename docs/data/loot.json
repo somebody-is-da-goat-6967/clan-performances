@@ -21369,7 +21369,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "",
+  "clan": "GUARDIANS",
   "th": 19,
   "entries": [
    {
@@ -100911,6 +100911,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-22T16:01:32Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 165,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T16:04:54Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 174,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
