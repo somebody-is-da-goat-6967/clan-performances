@@ -42781,6 +42781,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T20:22:04Z",
+    "gold": 708315,
+    "elixir": 526021,
+    "darkElixir": 10272,
+    "battleTime": 76,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
@@ -144592,7 +144603,7 @@
  {
   "tag": "#YVPY8CPLY",
   "name": "Ｌഠ",
-  "clan": "Reaper Crew",
+  "clan": "Echo Elite",
   "th": 17,
   "entries": [
    {
@@ -161407,6 +161418,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T20:22:35Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 133,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -176262,7 +176284,7 @@
  {
   "tag": "#LQU9Q8P0U",
   "name": "Sacred",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 13,
   "entries": [
    {
@@ -178557,6 +178579,13 @@
   ]
  },
  {
+  "tag": "#QCLQV9V8Y",
+  "name": "Mars",
+  "clan": "THE WARRIOR",
+  "th": 11,
+  "entries": []
+ },
+ {
   "tag": "#R00P99LC9",
   "name": "Mini Mochi",
   "clan": "THE WARRIOR",
@@ -179663,9 +179692,32 @@
  {
   "tag": "#R2QVQRULP",
   "name": "Dora Dreiders",
-  "clan": "",
+  "clan": "THE WARRIOR",
   "th": 7,
-  "entries": []
+  "entries": [
+   {
+    "time": "2026-11-22T20:26:02Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-22T20:26:28Z",
+    "gold": 1178,
+    "elixir": 1874,
+    "darkElixir": 0,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
+   }
+  ]
  },
  {
   "tag": "#QCJGG2P0G",
@@ -179677,7 +179729,7 @@
  {
   "tag": "#GL9UC9LL2",
   "name": "Lil Prazy",
-  "clan": "THE WARRIOR",
+  "clan": "Syndicate",
   "th": 6,
   "entries": []
  },
