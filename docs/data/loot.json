@@ -34542,6 +34542,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 64
+   },
+   {
+    "time": "2026-11-22T22:01:03Z",
+    "gold": 429243,
+    "elixir": 49318,
+    "darkElixir": 4262,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T22:02:38Z",
+    "gold": 1869040,
+    "elixir": 230385,
+    "darkElixir": 10689,
+    "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 80
+   },
+   {
+    "time": "2026-11-22T22:04:03Z",
+    "gold": 634099,
+    "elixir": 365894,
+    "darkElixir": 2135,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -62171,6 +62204,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 24
+   },
+   {
+    "time": "2026-11-22T22:05:32Z",
+    "gold": 678823,
+    "elixir": 859494,
+    "darkElixir": 10844,
+    "battleTime": 75,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
+   },
+   {
+    "time": "2026-11-22T22:06:13Z",
+    "gold": 44130,
+    "elixir": 164396,
+    "darkElixir": 1784,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 31
    }
   ]
  },
@@ -136834,6 +136889,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T22:01:22Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
@@ -166062,6 +166128,17 @@
     "battleTime": 113,
     "league": "",
     "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T22:04:49Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
     "stars": 3,
     "destruction": 100
    }
