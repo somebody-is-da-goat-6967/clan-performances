@@ -42108,7 +42108,7 @@
  {
   "tag": "#2Q0QYYGGL",
   "name": "Praz",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -100801,6 +100801,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-22T15:24:49Z",
+    "gold": 1035000,
+    "elixir": 1002359,
+    "darkElixir": 2070,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
@@ -126280,6 +126291,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 98
+   },
+   {
+    "time": "2026-11-22T15:24:42Z",
+    "gold": 828000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 176,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 92
    }
   ]
  },
