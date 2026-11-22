@@ -118997,7 +118997,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "",
+  "clan": "INDIA",
   "th": 18,
   "entries": [
    {
@@ -151547,6 +151547,17 @@
     "elixir": 767352,
     "darkElixir": 15487,
     "battleTime": 90,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T10:54:08Z",
+    "gold": 485983,
+    "elixir": 459479,
+    "darkElixir": 6915,
+    "battleTime": 70,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
