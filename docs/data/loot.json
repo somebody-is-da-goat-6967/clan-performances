@@ -174858,6 +174858,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:18:17Z",
+    "gold": 1530516,
+    "elixir": 1537596,
+    "darkElixir": 9838,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:20:19Z",
+    "gold": 775781,
+    "elixir": 671700,
+    "darkElixir": 6453,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 27
    }
   ]
  },
@@ -179469,6 +179491,13 @@
     "destruction": 100
    }
   ]
+ },
+ {
+  "tag": "#R2QVQRULP",
+  "name": "Dora Dreiders",
+  "clan": "THE WARRIOR",
+  "th": 7,
+  "entries": []
  },
  {
   "tag": "#QCJGG2P0G",
