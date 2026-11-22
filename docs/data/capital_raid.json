@@ -459,6 +459,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#QQR8892U",
+  "name": "Osmir",
+  "tag": "#JYR9UQUU",
+  "attacks": 5,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 22983,
+  "avgLoot": 4596.6
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
   "name": "mini Praz",
   "tag": "#R0LUUG9Y2",
   "attacks": 6,
@@ -622,19 +635,6 @@
   "missed": null,
   "loot": 7526,
   "avgLoot": 3763.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Osmir",
-  "tag": "#JYR9UQUU",
-  "attacks": 1,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 5760,
-  "avgLoot": 5760.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
