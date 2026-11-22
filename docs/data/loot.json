@@ -96267,6 +96267,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 2
+   },
+   {
+    "time": "2026-11-22T18:47:14Z",
+    "gold": 2178705,
+    "elixir": 1250039,
+    "darkElixir": 11788,
+    "battleTime": 145,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:50:21Z",
+    "gold": 1907086,
+    "elixir": 1334492,
+    "darkElixir": 6387,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 99
+   },
+   {
+    "time": "2026-11-22T18:50:36Z",
+    "gold": 254535,
+    "elixir": 114646,
+    "darkElixir": 1868,
+    "battleTime": 5,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
    }
   ]
  },
@@ -101854,6 +101887,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 72
+   },
+   {
+    "time": "2026-11-22T18:47:28Z",
+    "gold": 1978884,
+    "elixir": 940486,
+    "darkElixir": 11093,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-22T18:48:54Z",
+    "gold": 48910,
+    "elixir": 1644086,
+    "darkElixir": 12058,
+    "battleTime": 62,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-22T18:50:09Z",
+    "gold": 1601634,
+    "elixir": 1782496,
+    "darkElixir": 13386,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-22T18:50:58Z",
+    "gold": 393857,
+    "elixir": 343223,
+    "darkElixir": 2288,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
    }
   ]
  },
@@ -137491,7 +137568,7 @@
  {
   "tag": "#9PY92UQQC",
   "name": "Stephan",
-  "clan": "Sportplatz 2.0",
+  "clan": "THE WARRIOR",
   "th": 17,
   "entries": [
    {
@@ -144510,6 +144587,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:49:45Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 2064,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
@@ -174519,7 +174607,7 @@
  {
   "tag": "#GJPG0P08C",
   "name": "Bondokk",
-  "clan": "Reaper Two",
+  "clan": "Reaper Crew",
   "th": 13,
   "entries": [
    {
@@ -175074,6 +175162,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:48:44Z",
+    "gold": 775783,
+    "elixir": 960000,
+    "darkElixir": 9960,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-22T18:50:03Z",
+    "gold": 31613,
+    "elixir": 148767,
+    "darkElixir": 1074,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 54
    }
   ]
  },
