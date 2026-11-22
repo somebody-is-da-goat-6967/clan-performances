@@ -141049,7 +141049,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "Wardrobe",
+  "clan": "Reaper Crew",
   "th": 16,
   "entries": [
    {
@@ -143316,6 +143316,17 @@
     "elixir": 1720080,
     "darkElixir": 6110,
     "battleTime": 113,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T20:10:06Z",
+    "gold": 1249245,
+    "elixir": 981378,
+    "darkElixir": 11727,
+    "battleTime": 139,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -169840,6 +169851,17 @@
     "elixir": 1256337,
     "darkElixir": 8154,
     "battleTime": 139,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T05:45:49Z",
+    "gold": 1420840,
+    "elixir": 995958,
+    "darkElixir": 8501,
+    "battleTime": 47,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
