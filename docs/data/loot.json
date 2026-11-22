@@ -56733,7 +56733,7 @@
  {
   "tag": "#28GQU9V0",
   "name": "Toasty",
-  "clan": "Reaper Crew",
+  "clan": "Pancake Platoon",
   "th": 19,
   "entries": [
    {
@@ -66080,6 +66080,72 @@
     "elixir": 1632242,
     "darkElixir": 14634,
     "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-22T08:42:25Z",
+    "gold": 1212737,
+    "elixir": 490427,
+    "darkElixir": 8447,
+    "battleTime": 42,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-22T08:43:14Z",
+    "gold": 1576530,
+    "elixir": 1564540,
+    "darkElixir": 13564,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-22T08:44:15Z",
+    "gold": 1155735,
+    "elixir": 336776,
+    "darkElixir": 4027,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-22T08:45:08Z",
+    "gold": 682126,
+    "elixir": 486460,
+    "darkElixir": 5481,
+    "battleTime": 42,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-22T08:45:47Z",
+    "gold": 335061,
+    "elixir": 129925,
+    "darkElixir": 8734,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-22T08:46:49Z",
+    "gold": 762635,
+    "elixir": 777510,
+    "darkElixir": 20625,
+    "battleTime": 43,
     "league": "",
     "battleType": "homeVillage",
     "stars": 2,
@@ -122820,6 +122886,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T08:42:07Z",
+    "gold": 947544,
+    "elixir": 838346,
+    "darkElixir": 8613,
+    "battleTime": 122,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T08:46:31Z",
+    "gold": 203082,
+    "elixir": 713284,
+    "darkElixir": 11713,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -138214,7 +138302,7 @@
  {
   "tag": "#9JVGJGL8Q",
   "name": "Who's Next ❓",
-  "clan": "Reaper Crew",
+  "clan": "King of rox",
   "th": 17,
   "entries": [
    {
