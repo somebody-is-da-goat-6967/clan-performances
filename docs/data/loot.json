@@ -131068,7 +131068,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "كريم بوت",
+  "clan": "ميدان الرجال",
   "th": 17,
   "entries": [
    {
@@ -161374,6 +161374,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T20:15:25Z",
+    "gold": 614400,
+    "elixir": 1024000,
+    "darkElixir": 5386,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
