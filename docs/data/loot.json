@@ -161451,6 +161451,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-22T20:38:46Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 160,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -178603,7 +178614,7 @@
  {
   "tag": "#QCLQV9V8Y",
   "name": "Mars",
-  "clan": "THE WARRIOR",
+  "clan": "SchizoMaxxing",
   "th": 11,
   "entries": []
  },
