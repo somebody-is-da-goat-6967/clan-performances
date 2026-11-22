@@ -77451,7 +77451,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "KERALA BLASTERS",
+  "clan": "KERALA",
   "th": 18,
   "entries": [
    {
@@ -100559,6 +100559,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T12:36:12Z",
+    "gold": 912340,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -116127,7 +116138,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "",
+  "clan": "Smoke N Glory",
   "th": 18,
   "entries": [
    {
