@@ -49828,7 +49828,7 @@
  {
   "tag": "#GJQJ80VRG",
   "name": "Soloo",
-  "clan": "",
+  "clan": "AVENGERS",
   "th": 19,
   "entries": [
    {
@@ -79887,6 +79887,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:59:28Z",
+    "gold": 621000,
+    "elixir": 414000,
+    "darkElixir": 0,
+    "battleTime": 128,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 44
    }
   ]
  },
@@ -94842,7 +94853,7 @@
  {
   "tag": "#R0980PPU8",
   "name": "FanTong",
-  "clan": "",
+  "clan": "AVENGERS",
   "th": 18,
   "entries": [
    {
@@ -130325,6 +130336,13 @@
     "destruction": 94
    }
   ]
+ },
+ {
+  "tag": "#GV8V20GRC",
+  "name": "CW5",
+  "clan": "THE WARRIOR",
+  "th": 17,
+  "entries": []
  },
  {
   "tag": "#8VU9VQYPQ",
@@ -179604,7 +179622,7 @@
  {
   "tag": "#GL9UC9LL2",
   "name": "Lil Prazy",
-  "clan": "Syndicate",
+  "clan": "THE WARRIOR",
   "th": 6,
   "entries": []
  },
