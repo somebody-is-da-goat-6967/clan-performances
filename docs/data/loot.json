@@ -80685,7 +80685,7 @@
  {
   "tag": "#28R82CJQ9",
   "name": "ASL",
-  "clan": "ASL",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -132016,6 +132016,17 @@
     "elixir": 340877,
     "darkElixir": 4716,
     "battleTime": 79,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T16:55:18Z",
+    "gold": 708663,
+    "elixir": 772291,
+    "darkElixir": 8116,
+    "battleTime": 101,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
