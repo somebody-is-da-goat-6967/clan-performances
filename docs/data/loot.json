@@ -93354,7 +93354,7 @@
  {
   "tag": "#R0980PPU8",
   "name": "FanTong",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -119870,6 +119870,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 83
+   },
+   {
+    "time": "2026-11-22T19:37:59Z",
+    "gold": 1559720,
+    "elixir": 1571946,
+    "darkElixir": 7506,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 84
    }
   ]
  },
@@ -131028,7 +131039,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "كريم بوت",
   "th": 17,
   "entries": [
    {
