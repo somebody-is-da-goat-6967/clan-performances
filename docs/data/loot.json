@@ -45136,6 +45136,61 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 11
+   },
+   {
+    "time": "2026-11-22T01:48:21Z",
+    "gold": 155478,
+    "elixir": 212701,
+    "darkElixir": 10090,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 78
+   },
+   {
+    "time": "2026-11-22T01:48:58Z",
+    "gold": 468500,
+    "elixir": 596531,
+    "darkElixir": 4550,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-22T01:49:58Z",
+    "gold": 1946194,
+    "elixir": 1936649,
+    "darkElixir": 11437,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-22T01:50:40Z",
+    "gold": 1323183,
+    "elixir": 1372263,
+    "darkElixir": 11584,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-22T01:51:23Z",
+    "gold": 143918,
+    "elixir": 352047,
+    "darkElixir": 3157,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
    }
   ]
  },
@@ -69643,7 +69698,7 @@
  {
   "tag": "#9G29YR88",
   "name": "—Rayquaza—",
-  "clan": "JOHN WICK",
+  "clan": "invite me",
   "th": 19,
   "entries": [
    {
