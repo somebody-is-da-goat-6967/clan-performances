@@ -72527,6 +72527,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-22T18:15:42Z",
+    "gold": 1926223,
+    "elixir": 2039549,
+    "darkElixir": 7387,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -97848,7 +97859,7 @@
  {
   "tag": "#9VJP2Q89J",
   "name": "Het",
-  "clan": "Reaper Crew",
+  "clan": "Dm★Legend",
   "th": 18,
   "entries": [
    {
@@ -134085,7 +134096,7 @@
  {
   "tag": "#PCVP0U92U",
   "name": "Lucifer",
-  "clan": "",
+  "clan": "THE WARRIOR",
   "th": 17,
   "entries": [
    {
@@ -134814,6 +134825,83 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-22T17:44:36Z",
+    "gold": 985320,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 83
+   },
+   {
+    "time": "2026-11-22T17:47:57Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
+   },
+   {
+    "time": "2026-11-22T17:50:35Z",
+    "gold": 828000,
+    "elixir": 819046,
+    "darkElixir": 0,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-22T17:55:36Z",
+    "gold": 627210,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 124,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 78
+   },
+   {
+    "time": "2026-11-22T18:02:23Z",
+    "gold": 621000,
+    "elixir": 621000,
+    "darkElixir": 8280,
+    "battleTime": 105,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-22T18:06:15Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 2070,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 86
+   },
+   {
+    "time": "2026-11-22T18:08:37Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 105,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -174685,6 +174773,17 @@
     "elixir": 960000,
     "darkElixir": 9960,
     "battleTime": 141,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:15:22Z",
+    "gold": 960000,
+    "elixir": 960000,
+    "darkElixir": 9960,
+    "battleTime": 154,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
