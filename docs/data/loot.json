@@ -77451,7 +77451,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "KERALA",
+  "clan": "KERALA BLASTERS",
   "th": 18,
   "entries": [
    {
@@ -125994,6 +125994,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T12:16:53Z",
+    "gold": 1720964,
+    "elixir": 1566623,
+    "darkElixir": 4714,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
    }
   ]
  },
