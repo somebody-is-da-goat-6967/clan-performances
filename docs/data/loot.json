@@ -133687,7 +133687,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "سلطان",
+  "clan": "( VALHALLA )",
   "th": 17,
   "entries": [
    {
@@ -150469,6 +150469,17 @@
     "elixir": 1511537,
     "darkElixir": 7969,
     "battleTime": 95,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T09:11:01Z",
+    "gold": 729690,
+    "elixir": 767352,
+    "darkElixir": 15487,
+    "battleTime": 90,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
