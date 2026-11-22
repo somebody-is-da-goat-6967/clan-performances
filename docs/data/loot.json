@@ -17340,7 +17340,7 @@
  {
   "tag": "#L0LJP9C8C",
   "name": "demon empire",
-  "clan": "trojan warriors",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -18432,6 +18432,39 @@
     "elixir": 1797176,
     "darkElixir": 8662,
     "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T06:28:23Z",
+    "gold": 2380390,
+    "elixir": 1047420,
+    "darkElixir": 10981,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T06:29:52Z",
+    "gold": 1801981,
+    "elixir": 1808386,
+    "darkElixir": 13883,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T06:44:16Z",
+    "gold": 2146122,
+    "elixir": 2439374,
+    "darkElixir": 9515,
+    "battleTime": 75,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -137969,7 +138002,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "Req N Leave",
+  "clan": "",
   "th": 17,
   "entries": [
    {
@@ -164334,7 +164367,7 @@
  {
   "tag": "#9P9GRLCPJ",
   "name": "WE MD. NAHIDUL",
-  "clan": "fc",
+  "clan": "THE WARRIOR",
   "th": 15,
   "entries": [
    {
