@@ -106,12 +106,12 @@
   "tag": "#Y2RL98L20",
   "th": 19,
   "pos": 2,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 5,
+  "avgDestruction": 86.0,
+  "attackDetail": "2★ 72%, 3★ 100%"
  },
  {
   "date": "2026-11-21T17:01:48Z",
