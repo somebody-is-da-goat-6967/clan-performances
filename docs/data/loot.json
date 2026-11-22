@@ -76977,7 +76977,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "FW",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
@@ -110492,6 +110492,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 141,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T23:33:12Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 171,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
