@@ -12578,6 +12578,72 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 16
+   },
+   {
+    "time": "2026-11-22T09:22:15Z",
+    "gold": 83,
+    "elixir": 68334,
+    "darkElixir": 4127,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
+   },
+   {
+    "time": "2026-11-22T09:22:46Z",
+    "gold": 170207,
+    "elixir": 261489,
+    "darkElixir": 0,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-22T09:23:26Z",
+    "gold": 180000,
+    "elixir": 360000,
+    "darkElixir": 898,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 9
+   },
+   {
+    "time": "2026-11-22T09:24:17Z",
+    "gold": 94967,
+    "elixir": 74880,
+    "darkElixir": 0,
+    "battleTime": 6,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 10
+   },
+   {
+    "time": "2026-11-22T09:24:44Z",
+    "gold": 95555,
+    "elixir": 169876,
+    "darkElixir": 269,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-22T09:25:07Z",
+    "gold": 7022,
+    "elixir": 7201,
+    "darkElixir": 0,
+    "battleTime": 4,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 6
    }
   ]
  },
@@ -118513,7 +118579,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "GP Giveaway",
+  "clan": "",
   "th": 18,
   "entries": [
    {
