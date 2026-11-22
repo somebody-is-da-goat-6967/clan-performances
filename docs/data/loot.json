@@ -38502,6 +38502,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 69
+   },
+   {
+    "time": "2026-11-22T22:51:38Z",
+    "gold": 2060443,
+    "elixir": 2060440,
+    "darkElixir": 5030,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-22T22:52:28Z",
+    "gold": 961121,
+    "elixir": 1536706,
+    "darkElixir": 7996,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
    }
   ]
  },
@@ -95238,7 +95260,7 @@
  {
   "tag": "#R0980PPU8",
   "name": "FanTong",
-  "clan": "AVENGERS",
+  "clan": "Rebellion",
   "th": 18,
   "entries": [
    {
@@ -166383,6 +166405,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 92
+   },
+   {
+    "time": "2026-11-22T22:53:24Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 115,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T22:53:57Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 0,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 0,
+    "destruction": 0
    }
   ]
  },
