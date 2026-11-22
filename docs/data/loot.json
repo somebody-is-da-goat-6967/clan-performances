@@ -65644,6 +65644,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 82
+   },
+   {
+    "time": "2026-11-22T07:53:31Z",
+    "gold": 1740397,
+    "elixir": 585370,
+    "darkElixir": 7651,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-22T07:54:40Z",
+    "gold": 603125,
+    "elixir": 716825,
+    "darkElixir": 10769,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-22T07:55:33Z",
+    "gold": 1148744,
+    "elixir": 1118168,
+    "darkElixir": 11112,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-22T07:56:50Z",
+    "gold": 807655,
+    "elixir": 658442,
+    "darkElixir": 7385,
+    "battleTime": 67,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 80
    }
   ]
  },
@@ -70271,6 +70315,28 @@
     "elixir": 351803,
     "darkElixir": 11503,
     "battleTime": 150,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T07:54:28Z",
+    "gold": 1023765,
+    "elixir": 1022746,
+    "darkElixir": 14491,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T07:55:38Z",
+    "gold": 822977,
+    "elixir": 1015471,
+    "darkElixir": 13352,
+    "battleTime": 56,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -114499,7 +114565,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "",
+  "clan": "REQ⚜️LEGEND 2",
   "th": 18,
   "entries": [
    {
