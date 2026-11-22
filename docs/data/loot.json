@@ -36800,6 +36800,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-22T01:29:28Z",
+    "gold": 246563,
+    "elixir": 773953,
+    "darkElixir": 1834,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 69
    }
   ]
  },
