@@ -13095,6 +13095,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:22:46Z",
+    "gold": 1236151,
+    "elixir": 970934,
+    "darkElixir": 9472,
+    "battleTime": 84,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:24:55Z",
+    "gold": 350311,
+    "elixir": 820508,
+    "darkElixir": 12542,
+    "battleTime": 81,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -95687,6 +95709,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:22:55Z",
+    "gold": 1107310,
+    "elixir": 1294515,
+    "darkElixir": 13684,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -118872,6 +118905,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:22:08Z",
+    "gold": 1393965,
+    "elixir": 1393274,
+    "darkElixir": 6666,
+    "battleTime": 91,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -132202,7 +132246,7 @@
  {
   "tag": "#QQ0Q89JRG",
   "name": "L-KillerAqua",
-  "clan": "Reaper Two",
+  "clan": "...",
   "th": 17,
   "entries": [
    {
@@ -177456,6 +177500,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:24:15Z",
+    "gold": 473551,
+    "elixir": 404877,
+    "darkElixir": 2476,
+    "battleTime": 144,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T17:26:19Z",
+    "gold": 472257,
+    "elixir": 560283,
+    "darkElixir": 3861,
+    "battleTime": 87,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
    }
   ]
  },
