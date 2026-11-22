@@ -70429,6 +70429,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 7
+   },
+   {
+    "time": "2026-11-22T08:03:05Z",
+    "gold": 0,
+    "elixir": 10300,
+    "darkElixir": 8000,
+    "battleTime": 3,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 5
+   },
+   {
+    "time": "2026-11-22T08:04:08Z",
+    "gold": 858500,
+    "elixir": 61513,
+    "darkElixir": 3192,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 36
+   },
+   {
+    "time": "2026-11-22T08:04:57Z",
+    "gold": 9379,
+    "elixir": 6844,
+    "darkElixir": 1053,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 8
    }
   ]
  },
@@ -117765,7 +117798,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "INDIA",
+  "clan": "GP Giveaway",
   "th": 18,
   "entries": [
    {
