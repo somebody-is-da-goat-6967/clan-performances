@@ -12523,6 +12523,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T09:14:24Z",
+    "gold": 1720924,
+    "elixir": 1271304,
+    "darkElixir": 2408,
+    "battleTime": 76,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T09:16:15Z",
+    "gold": 169682,
+    "elixir": 246712,
+    "darkElixir": 5341,
+    "battleTime": 71,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -66326,6 +66348,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 78
+   },
+   {
+    "time": "2026-11-22T09:15:00Z",
+    "gold": 870676,
+    "elixir": 24565,
+    "darkElixir": 4447,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-22T09:15:46Z",
+    "gold": 1486813,
+    "elixir": 1205311,
+    "darkElixir": 4575,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 67
+   },
+   {
+    "time": "2026-11-22T09:16:32Z",
+    "gold": 1063956,
+    "elixir": 1352290,
+    "darkElixir": 3580,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 63
    }
   ]
  },
@@ -118425,7 +118480,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "Jai Shree Ram",
+  "clan": "GP Giveaway",
   "th": 18,
   "entries": [
    {
