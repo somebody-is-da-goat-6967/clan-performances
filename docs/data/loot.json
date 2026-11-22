@@ -130373,7 +130373,7 @@
  {
   "tag": "#GV8V20GRC",
   "name": "CW5",
-  "clan": "THE WARRIOR",
+  "clan": "√∞₪",
   "th": 17,
   "entries": []
  },
@@ -161429,6 +161429,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T20:28:11Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 153,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -179692,7 +179703,7 @@
  {
   "tag": "#R2QVQRULP",
   "name": "Dora Dreiders",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 7,
   "entries": [
    {
