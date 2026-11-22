@@ -2412,7 +2412,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "July",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -4220,6 +4220,94 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T22:57:10Z",
+    "gold": 289531,
+    "elixir": 396017,
+    "darkElixir": 10027,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-22T22:57:35Z",
+    "gold": 345700,
+    "elixir": 360984,
+    "darkElixir": 3824,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-22T22:58:03Z",
+    "gold": 520408,
+    "elixir": 474623,
+    "darkElixir": 7758,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-22T22:58:35Z",
+    "gold": 228348,
+    "elixir": 86011,
+    "darkElixir": 1882,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-22T22:59:08Z",
+    "gold": 916872,
+    "elixir": 155731,
+    "darkElixir": 8739,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-22T22:59:44Z",
+    "gold": 508385,
+    "elixir": 402200,
+    "darkElixir": 5222,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-22T23:00:10Z",
+    "gold": 345938,
+    "elixir": 697667,
+    "darkElixir": 5090,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-22T23:00:38Z",
+    "gold": 225171,
+    "elixir": 267012,
+    "darkElixir": 2575,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
    }
   ]
  },
@@ -110529,6 +110617,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 90
+   },
+   {
+    "time": "2026-11-22T23:45:02Z",
+    "gold": 1035000,
+    "elixir": 793508,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
    }
   ]
  },
