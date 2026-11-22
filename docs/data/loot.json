@@ -78212,6 +78212,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-22T18:23:25Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 2070,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 80
    }
   ]
  },
@@ -144257,6 +144268,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T18:23:30Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 121,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -178328,7 +178350,7 @@
  {
   "tag": "#LV0C8V0UJ",
   "name": "Henry",
-  "clan": "Reaper Crew",
+  "clan": "Reaper Two",
   "th": 10,
   "entries": [
    {
