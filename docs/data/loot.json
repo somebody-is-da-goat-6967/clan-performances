@@ -49099,6 +49099,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T16:27:32Z",
+    "gold": 805369,
+    "elixir": 653474,
+    "darkElixir": 12151,
+    "battleTime": 96,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-22T16:31:01Z",
+    "gold": 1938605,
+    "elixir": 1898584,
+    "darkElixir": 13017,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -151519,7 +151541,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "Knights",
+  "clan": "LaureTole OGs",
   "th": 16,
   "entries": [
    {
