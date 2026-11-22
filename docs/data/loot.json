@@ -65952,6 +65952,61 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 62
+   },
+   {
+    "time": "2026-11-22T08:33:12Z",
+    "gold": 1092492,
+    "elixir": 586454,
+    "darkElixir": 1857,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 67
+   },
+   {
+    "time": "2026-11-22T08:33:52Z",
+    "gold": 1780297,
+    "elixir": 1134693,
+    "darkElixir": 10775,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-22T08:34:28Z",
+    "gold": 847300,
+    "elixir": 2095785,
+    "darkElixir": 13093,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-22T08:35:24Z",
+    "gold": 518490,
+    "elixir": 392343,
+    "darkElixir": 10179,
+    "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-22T08:36:05Z",
+    "gold": 974651,
+    "elixir": 1022741,
+    "darkElixir": 12184,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
    }
   ]
  },
@@ -73061,7 +73116,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "GP Giveaway",
+  "clan": "INFERNO BREAKER",
   "th": 19,
   "entries": [
    {
@@ -118051,7 +118106,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "GP Giveaway",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -132100,6 +132155,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-22T08:35:14Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 94
    }
   ]
  },
@@ -160928,7 +160994,7 @@
  {
   "tag": "#R2JJ0JP9G",
   "name": "Iskimaka Dorara",
-  "clan": "Reaper Two",
+  "clan": "THE WARRIOR",
   "th": 15,
   "entries": [
    {
