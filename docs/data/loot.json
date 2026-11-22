@@ -1341,6 +1341,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T08:39:26Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 142,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 59
    }
   ]
  },
@@ -66007,6 +66018,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 60
+   },
+   {
+    "time": "2026-11-22T08:37:12Z",
+    "gold": 1459144,
+    "elixir": 1232507,
+    "darkElixir": 11762,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-22T08:37:53Z",
+    "gold": 1188115,
+    "elixir": 668543,
+    "darkElixir": 8064,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-22T08:38:37Z",
+    "gold": 357814,
+    "elixir": 444837,
+    "darkElixir": 4150,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-22T08:39:36Z",
+    "gold": 1508621,
+    "elixir": 1355014,
+    "darkElixir": 13549,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-22T08:40:20Z",
+    "gold": 1496050,
+    "elixir": 1498694,
+    "darkElixir": 8829,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-22T08:41:18Z",
+    "gold": 2469522,
+    "elixir": 1632242,
+    "darkElixir": 14634,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 63
    }
   ]
  },
@@ -118106,7 +118183,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "",
+  "clan": "Jai Shree Ram",
   "th": 18,
   "entries": [
    {
