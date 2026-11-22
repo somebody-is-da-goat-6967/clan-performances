@@ -127861,6 +127861,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-22T20:52:11Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
+   },
+   {
+    "time": "2026-11-22T20:55:03Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 0,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 92
    }
   ]
  },
@@ -161517,6 +161539,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T20:54:07Z",
+    "gold": 481041,
+    "elixir": 999792,
+    "darkElixir": 2062,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 72
    }
   ]
  },
@@ -176372,7 +176405,7 @@
  {
   "tag": "#LQU9Q8P0U",
   "name": "Sacred",
-  "clan": "",
+  "clan": "SchizoMaxxing",
   "th": 13,
   "entries": [
    {
@@ -178338,7 +178371,7 @@
  {
   "tag": "#QGJJ9QCGR",
   "name": "SS",
-  "clan": "THE WARRIOR",
+  "clan": "SchizoMaxxing",
   "th": 12,
   "entries": [
    {
