@@ -45191,6 +45191,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 66
+   },
+   {
+    "time": "2026-11-22T01:53:16Z",
+    "gold": 435869,
+    "elixir": 518226,
+    "darkElixir": 5694,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-22T01:53:40Z",
+    "gold": 349807,
+    "elixir": 390310,
+    "darkElixir": 3373,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-22T01:54:03Z",
+    "gold": 490787,
+    "elixir": 49791,
+    "darkElixir": 2651,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-22T01:54:51Z",
+    "gold": 806237,
+    "elixir": 278316,
+    "darkElixir": 11050,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-22T01:55:28Z",
+    "gold": 531570,
+    "elixir": 423474,
+    "darkElixir": 10677,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 84
+   },
+   {
+    "time": "2026-11-22T01:55:58Z",
+    "gold": 1224797,
+    "elixir": 1164185,
+    "darkElixir": 6518,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-22T01:56:19Z",
+    "gold": 299953,
+    "elixir": 476999,
+    "darkElixir": 3033,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-22T01:56:42Z",
+    "gold": 308891,
+    "elixir": 357966,
+    "darkElixir": 7473,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
    }
   ]
  },
@@ -58442,6 +58530,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T01:54:21Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 141,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -69698,7 +69797,7 @@
  {
   "tag": "#9G29YR88",
   "name": "—Rayquaza—",
-  "clan": "invite me",
+  "clan": "REQ AND LEAVE",
   "th": 19,
   "entries": [
    {
