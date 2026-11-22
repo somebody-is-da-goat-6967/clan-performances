@@ -65512,6 +65512,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 75
+   },
+   {
+    "time": "2026-11-22T07:41:06Z",
+    "gold": 311845,
+    "elixir": 653824,
+    "darkElixir": 8339,
+    "battleTime": 105,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -114367,7 +114378,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "Smoke N Glory",
+  "clan": "",
   "th": 18,
   "entries": [
    {
