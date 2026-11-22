@@ -42770,6 +42770,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 76
+   },
+   {
+    "time": "2026-11-22T20:20:31Z",
+    "gold": 403236,
+    "elixir": 404601,
+    "darkElixir": 4294,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -161385,6 +161396,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 83
+   },
+   {
+    "time": "2026-11-22T20:19:49Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -179634,7 +179656,7 @@
  {
   "tag": "#R2G8LVV8R",
   "name": "Dora Dreds 1",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 7,
   "entries": []
  },
@@ -179662,7 +179684,7 @@
  {
   "tag": "#RPPY92V0P",
   "name": "Prazy",
-  "clan": "THE WARRIOR",
+  "clan": "Syndicate",
   "th": 6,
   "entries": []
  },
