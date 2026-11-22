@@ -472,6 +472,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#QQR8892U",
+  "name": "Arc'Zen",
+  "tag": "#G808UVU92",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 23328,
+  "avgLoot": 3888.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
   "name": "mini Praz",
   "tag": "#R0LUUG9Y2",
   "attacks": 6,
@@ -622,19 +635,6 @@
   "missed": null,
   "loot": 11335,
   "avgLoot": 5667.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Arc'Zen",
-  "tag": "#G808UVU92",
-  "attacks": 3,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 10658,
-  "avgLoot": 3552.7
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
