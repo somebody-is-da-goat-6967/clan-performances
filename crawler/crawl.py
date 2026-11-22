@@ -454,6 +454,91 @@ def crawl_wars(api, clan_tags, state, errors):
     state["cwlOtherWarTags"] = sorted(skip_tags)
 
 
+# --------------------------------------------------------------- capital raids
+def crawl_capital_raids(api, clan_tags, state, errors):
+    """Keep the latest per-member snapshot for each capital raid season.
+
+    The API drops the members array after a season ends, so retain the last live
+    snapshot in state rather than losing the per-player history.
+    """
+    seasons = state.setdefault("capitalRaidSeasons", {})
+    for ctag in clan_tags:
+        path = f"/clans/{enc(ctag)}/capitalraidseasons"
+        cursor = None
+        while True:
+            params = {"after": cursor} if cursor else None
+            try:
+                response = api.get(path, params=params)
+            except ApiError as e:
+                errors.append(str(e))
+                break
+            if not response:
+                break
+            for season in response.get("items", []):
+                start = season.get("startTime") or "unknown"
+                key = f"{norm_tag(ctag)}:{start}"
+                previous = seasons.get(key, {})
+                rec = {
+                    "key": key, "clanTag": norm_tag(ctag),
+                    "state": season.get("state", previous.get("state", "")),
+                    "startTime": coc_time(start), "endTime": coc_time(season.get("endTime")),
+                    "capitalTotalLoot": season.get("capitalTotalLoot", 0),
+                    "raidsCompleted": season.get("raidsCompleted", 0),
+                    "totalAttacks": season.get("totalAttacks", 0),
+                    "members": previous.get("members", []),
+                }
+                members = season.get("members") or []
+                if members:
+                    member_map = {m.get("tag"): m for m in rec["members"] if m.get("tag")}
+                    member_map.update({m.get("tag"): {
+                        "tag": m.get("tag", ""), "name": m.get("name", ""),
+                        "attacks": m.get("attacks", 0),
+                        "attackLimit": m.get("attackLimit", 0),
+                        "bonusAttackLimit": m.get("bonusAttackLimit", 0),
+                        "capitalResourcesLooted": m.get("capitalResourcesLooted", 0),
+                    } for m in members if m.get("tag")})
+                    rec["members"] = list(member_map.values())
+                seasons[key] = rec
+            cursor = (response.get("paging") or {}).get("cursors", {}).get("after")
+            if not cursor:
+                break
+
+
+def capital_raid_rows(seasons):
+    rows = []
+    for season in seasons.values():
+        ended = season.get("state") == "ended"
+        for m in season.get("members", []):
+            attacks = m.get("attacks", 0)
+            available = m.get("attackLimit", 0) + m.get("bonusAttackLimit", 0)
+            loot = m.get("capitalResourcesLooted", 0)
+            rows.append({
+                "seasonId": season.get("startTime", ""), "seasonStart": season.get("startTime", ""),
+                "state": season.get("state", ""), "clanTag": season.get("clanTag", ""),
+                "name": m.get("name", ""), "tag": m.get("tag", ""),
+                "attacks": attacks, "attacksAvailable": available,
+                "missed": max(0, available - attacks) if ended else None,
+                "loot": loot, "avgLoot": round(loot / attacks, 1) if attacks else None,
+            })
+    rows.sort(key=lambda r: (-(r["loot"] or 0), r["name"].lower()))
+    return rows
+
+
+def capital_missed_rows(rows):
+    by = {}
+    for r in rows:
+        if r["state"] != "ended":
+            continue
+        s = by.setdefault(r["tag"], {"tag": r["tag"], "name": r["name"], "clanTag": r["clanTag"],
+                                      "missed": 0, "attacks": 0, "attacksAvailable": 0, "seasons": 0})
+        s["name"] = r["name"]
+        s["missed"] += r["missed"] or 0
+        s["attacks"] += r["attacks"] or 0
+        s["attacksAvailable"] += r["attacksAvailable"] or 0
+        s["seasons"] += 1
+    return sorted(by.values(), key=lambda r: (-r["missed"], r["name"].lower()))
+
+
 def war_rows(war_map, players_db):
     rows = []
     for w in war_map.values():
@@ -521,6 +606,7 @@ def run(api, clan_tags, out_dir, state_path):
 
     crawl_ranked(api, fresh, state.setdefault("ranked", {}), errors, out_dir / "ranked_sample.json")
     crawl_wars(api, clan_tags, state, errors)
+    crawl_capital_raids(api, clan_tags, state, errors)
     crawl_loot(api, players_db, state.setdefault("loot", {}), errors)
 
     members = th_sort(list(players_db.values()), "th", "trophies")
@@ -534,6 +620,9 @@ def run(api, clan_tags, out_dir, state_path):
     save(out_dir / "war_summary.json", war_summary(wars))
     save(out_dir / "cwl_summary.json", war_summary(cwl))
     save(out_dir / "loot.json", loot_rows(state["loot"], players_db))
+    capital_rows = capital_raid_rows(state.get("capitalRaidSeasons", {}))
+    save(out_dir / "capital_raid.json", capital_rows)
+    save(out_dir / "capital_missed.json", capital_missed_rows(capital_rows))
     save(out_dir / "meta.json", {"updatedAt": now_iso(), "clans": clans_meta, "errors": sorted(set(errors))[:50]})
     save(state_path, state)
     return errors

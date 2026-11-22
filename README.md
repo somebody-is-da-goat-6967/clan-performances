@@ -4,7 +4,7 @@ A GitHub Action crawls the Clash of Clans API every 3 hours, commits JSON "tabs"
 and GitHub Pages serves `docs/index.html` (tabs, search, clan filter, sortable columns, CSV export).
 Every table defaults to Town Hall high to low.
 
-Tabs: Members, Ranked, War summary, Wars, CWL summary, CWL.
+Tabs: Members, Ranked, Loot, Capital Raid, Most missed attacks, War summary, Wars, CWL summary, CWL.
 
 ## Setup
 1. Create the repo, push these files.
@@ -18,7 +18,8 @@ Tabs: Members, Ranked, War summary, Wars, CWL summary, CWL.
 
 Edit `clans.json` to change tracked clans. Wars are only recorded from the day the crawler starts
 (the API shows just the current war), and a clan with a private war log cannot be read for regular wars.
-History accumulates in `data/state.json`.
+History accumulates in `data/state.json`, including Capital Raid member snapshots so per-player
+loot and missed attacks remain available after the API clears a completed season's member list.
 `docs/data/ranked_sample.json` keeps one raw ranked response so field names can be checked.
 
 Run tests: `python3 -I tests/test_crawl.py`

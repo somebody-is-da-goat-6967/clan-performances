@@ -163,6 +163,15 @@ const TABS = {
       col("darkElixir", "Dark elixir", { num: 1, html: R.compact }), col("battleTime", "Battle time", { num: 1, html: R.duration }),
       col("lootTotal", "Total loot", { num: 1, html: R.compact }), col("attacks", "Attacks", { num: 1 }),
       col("avgLoot", "Avg loot/attack", { num: 1, html: R.compact }), col("avgBattleTime", "Avg time/attack", { num: 1, html: R.duration })] },
+  capital_raid: { label: "Capital Raid", file: "capital_raid.json", player: true, season: true,
+    note: "Capital Gold looted by each member in each raid weekend. Avg loot is loot per attack; completed seasons retain the last member totals recorded while live.",
+    cols: [NAME, col("seasonStart", "Season start"), col("state", "Status"),
+      col("attacks", "Attacks", { num: 1 }), col("loot", "Capital Gold", { num: 1, html: R.compact }),
+      col("avgLoot", "Avg loot/attack", { num: 1, html: R.compact })] },
+  capital_missed: { label: "Most missed attacks", file: "capital_missed.json", player: true,
+    note: "Members ranked by unused Capital Raid attacks across completed seasons. The current season is excluded until it ends.",
+    cols: [NAME, col("seasons", "Seasons", { num: 1 }), col("attacks", "Used", { num: 1 }),
+      col("attacksAvailable", "Available", { num: 1 }), col("missed", "Missed attacks", { num: 1 })] },
   members: { label: "Members", file: "members.json",
     note: "Every player the tracker has ever stored, wherever they are now. Sorted by Town Hall, high to low.",
     cols: [TH, NAME, col("clan", "Clan"), col("league", "League", { html: R.league }),
@@ -266,7 +275,8 @@ function updateControls() {
   const lb = state.tab === "leaderboard";
   $("lbCtl").style.display = lb ? "" : "none";
   $("lootCtl").style.display = state.tab === "loot" ? "" : "none";
-  $("season").style.display = (state.tab === "ranked" || (lb && $("mode").value === "ranked")) ? "" : "none";
+  const showSeason = state.tab === "ranked" || state.tab === "capital_raid" || (lb && $("mode").value === "ranked");
+  $("season").style.display = showSeason ? "" : "none";
   const t = TABS[state.tab];
   $("note").textContent = typeof t.note === "function" ? t.note() : t.note;
 }
@@ -275,21 +285,25 @@ function selectTab(id) {
   state.tab = id;
   if (id === "leaderboard") { state.sortKey = "rank"; state.sortDir = 1; }
   else if (id === "loot") { state.sortKey = "lootTotal"; state.sortDir = -1; }
+  else if (id === "capital_raid") { state.sortKey = "loot"; state.sortDir = -1; }
+  else if (id === "capital_missed") { state.sortKey = "missed"; state.sortDir = -1; }
   else { state.sortKey = "th"; state.sortDir = -1; }
   document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-selected", b.dataset.id === id));
+  if (id === "ranked" || id === "capital_raid") fillSeasons(id);
   updateControls();
   render();
 }
 
-function fillSeasons() {
+function fillSeasons(tab = "ranked") {
   const seen = new Map();
-  (state.data.ranked || []).forEach(r => seen.set(r.seasonId, { start: r.seasonStart, status: r.status }));
-  const list = [...seen.entries()].sort((a, b) => Number(b[0]) - Number(a[0]));
+  const source = tab === "capital_raid" ? state.data.capital_raid || [] : state.data.ranked || [];
+  source.forEach(r => seen.set(r.seasonId, { start: r.seasonStart, status: r.state || r.status }));
+  const list = [...seen.entries()].sort((a, b) => Date.parse(b[1].start) - Date.parse(a[1].start));
   const sel = $("season");
   sel.innerHTML = "";
   sel.append(new Option("All seasons", ""));
-  list.forEach(([id, v]) => sel.append(new Option(`Season ${v.start} (${v.status})`, id)));
-  const done = list.find(([, v]) => v.status === "completed");
+  list.forEach(([id, v]) => sel.append(new Option(`${v.start} (${v.status})`, id)));
+  const done = list.find(([, v]) => v.status === "ended" || v.status === "completed");
   sel.value = done ? done[0] : "";
 }
 
