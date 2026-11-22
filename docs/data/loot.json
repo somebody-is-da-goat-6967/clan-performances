@@ -12963,6 +12963,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T15:04:09Z",
+    "gold": 1960459,
+    "elixir": 2195230,
+    "darkElixir": 19173,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T15:06:35Z",
+    "gold": 1060746,
+    "elixir": 1450489,
+    "darkElixir": 13827,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -42036,13 +42058,24 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 65
+   },
+   {
+    "time": "2026-11-22T15:05:14Z",
+    "gold": 769540,
+    "elixir": 2030114,
+    "darkElixir": 13465,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
  {
   "tag": "#2Q0QYYGGL",
   "name": "Praz",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
