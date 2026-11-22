@@ -96322,6 +96322,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:13:20Z",
+    "gold": 298862,
+    "elixir": 160703,
+    "darkElixir": 4140,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 29
    }
   ]
  },
@@ -144741,6 +144752,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:11:25Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:15:21Z",
+    "gold": 618146,
+    "elixir": 820000,
+    "darkElixir": 8256,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 89
    }
   ]
  },
@@ -165190,7 +165223,7 @@
  {
   "tag": "#R2JJ0JP9G",
   "name": "Iskimaka Dorara",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Two",
   "th": 15,
   "entries": [
    {
@@ -174803,6 +174836,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-22T19:14:04Z",
+    "gold": 1157789,
+    "elixir": 1102378,
+    "darkElixir": 7364,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 23
+   },
+   {
+    "time": "2026-11-22T19:16:18Z",
+    "gold": 990702,
+    "elixir": 1068644,
+    "darkElixir": 6110,
+    "battleTime": 74,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -175402,6 +175457,17 @@
     "battleTime": 118,
     "league": "",
     "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:13:01Z",
+    "gold": 960000,
+    "elixir": 960000,
+    "darkElixir": 9960,
+    "battleTime": 172,
+    "league": "",
+    "battleType": "ranked",
     "stars": 3,
     "destruction": 100
    }
@@ -179421,7 +179487,7 @@
  {
   "tag": "#RPPY92V0P",
   "name": "Prazy",
-  "clan": "Syndicate",
+  "clan": "THE WARRIOR",
   "th": 6,
   "entries": []
  },
