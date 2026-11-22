@@ -21369,7 +21369,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "KAKASHI⚡️",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -126434,6 +126434,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-22T15:50:20Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
@@ -146210,6 +146221,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 90
+   },
+   {
+    "time": "2026-11-22T15:48:14Z",
+    "gold": 879639,
+    "elixir": 1457162,
+    "darkElixir": 11966,
+    "battleTime": 178,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
