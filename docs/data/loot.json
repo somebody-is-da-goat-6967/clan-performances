@@ -137969,7 +137969,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "ANGRY BD MAX.52",
+  "clan": "Req N Leave",
   "th": 17,
   "entries": [
    {
@@ -147273,6 +147273,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 51
+   },
+   {
+    "time": "2026-11-22T06:48:15Z",
+    "gold": 617556,
+    "elixir": 676382,
+    "darkElixir": 9659,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-22T06:49:02Z",
+    "gold": 463309,
+    "elixir": 647109,
+    "darkElixir": 3137,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
+   },
+   {
+    "time": "2026-11-22T06:49:41Z",
+    "gold": 388264,
+    "elixir": 427343,
+    "darkElixir": 5777,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-22T06:50:25Z",
+    "gold": 637406,
+    "elixir": 835859,
+    "darkElixir": 6851,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-22T06:50:57Z",
+    "gold": 393285,
+    "elixir": 136087,
+    "darkElixir": 8904,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
    }
   ]
  },
