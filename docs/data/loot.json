@@ -59813,7 +59813,7 @@
  {
   "tag": "#28GQU9V0",
   "name": "Toasty",
-  "clan": "Pancake Platoon",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -61938,6 +61938,39 @@
     "battleTime": 161,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:45:48Z",
+    "gold": 630710,
+    "elixir": 612210,
+    "darkElixir": 5588,
+    "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T19:49:35Z",
+    "gold": 1537050,
+    "elixir": 1006452,
+    "darkElixir": 10386,
+    "battleTime": 122,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T21:30:55Z",
+    "gold": 651793,
+    "elixir": 823751,
+    "darkElixir": 11467,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
@@ -161781,6 +161814,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-22T21:29:00Z",
+    "gold": 614400,
+    "elixir": 819200,
+    "darkElixir": 10310,
+    "battleTime": 131,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 78
    }
   ]
  },
