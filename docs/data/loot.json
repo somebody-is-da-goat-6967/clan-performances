@@ -49850,7 +49850,7 @@
  {
   "tag": "#GJQJ80VRG",
   "name": "Soloo",
-  "clan": "Dragons justice",
+  "clan": "KIIT CLASHERS",
   "th": 19,
   "entries": [
    {
@@ -128037,6 +128037,17 @@
     "battleType": "ranked",
     "stars": 0,
     "destruction": 5
+   },
+   {
+    "time": "2026-11-22T21:22:00Z",
+    "gold": 207000,
+    "elixir": 621000,
+    "darkElixir": 2070,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 7
    }
   ]
  },
@@ -161759,6 +161770,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 97
+   },
+   {
+    "time": "2026-11-22T21:24:50Z",
+    "gold": 988278,
+    "elixir": 569152,
+    "darkElixir": 2062,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 58
    }
   ]
  },
