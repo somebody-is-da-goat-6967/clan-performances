@@ -10480,12 +10480,12 @@
   "tag": "#G0UGCQGQU",
   "th": 15,
   "pos": 33,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 16.0,
+  "attackDetail": "1★ 15%, 1★ 17%"
  },
  {
   "date": "2026-11-21T17:01:48Z",
