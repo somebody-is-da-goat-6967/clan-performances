@@ -485,6 +485,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#QQR8892U",
+  "name": "Azrael",
+  "tag": "#GPYYJV0CG",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 23138,
+  "avgLoot": 3856.3
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
   "name": "mini Praz",
   "tag": "#R0LUUG9Y2",
   "attacks": 6,
@@ -635,19 +648,6 @@
   "missed": null,
   "loot": 11335,
   "avgLoot": 5667.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Azrael",
-  "tag": "#GPYYJV0CG",
-  "attacks": 3,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 10043,
-  "avgLoot": 3347.7
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
