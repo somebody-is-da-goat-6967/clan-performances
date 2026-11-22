@@ -12809,6 +12809,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 11
+   },
+   {
+    "time": "2026-11-22T09:44:32Z",
+    "gold": 416773,
+    "elixir": 414374,
+    "darkElixir": 3945,
+    "battleTime": 88,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -30872,6 +30883,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-22T09:42:50Z",
+    "gold": 1006150,
+    "elixir": 785177,
+    "darkElixir": 13250,
+    "battleTime": 173,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 88
    }
   ]
  },
@@ -134061,7 +134083,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "( VALHALLA )",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {
@@ -146385,6 +146407,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-22T09:42:38Z",
+    "gold": 603744,
+    "elixir": 812230,
+    "darkElixir": 795,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-22T09:43:18Z",
+    "gold": 934632,
+    "elixir": 1101290,
+    "darkElixir": 8975,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-22T09:44:44Z",
+    "gold": 511991,
+    "elixir": 523652,
+    "darkElixir": 6522,
+    "battleTime": 64,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T09:46:17Z",
+    "gold": 258223,
+    "elixir": 504461,
+    "darkElixir": 635,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-22T09:46:41Z",
+    "gold": 434359,
+    "elixir": 457385,
+    "darkElixir": 6685,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-22T09:47:03Z",
+    "gold": 114194,
+    "elixir": 411815,
+    "darkElixir": 7187,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
    }
   ]
  },
