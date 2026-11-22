@@ -8374,7 +8374,7 @@
  {
   "tag": "#GLCR9LCU2",
   "name": "Blinne",
-  "clan": "Brazilian Storm",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -10416,6 +10416,94 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-21T23:54:46Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 122,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-21T23:57:42Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 127,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 97
+   },
+   {
+    "time": "2026-11-22T00:00:14Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 100,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-22T00:03:25Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 127,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T00:06:14Z",
+    "gold": 1035000,
+    "elixir": 589709,
+    "darkElixir": 10350,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 83
+   },
+   {
+    "time": "2026-11-22T00:08:38Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 95,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 95
+   },
+   {
+    "time": "2026-11-22T00:21:09Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-22T00:23:57Z",
+    "gold": 1035000,
+    "elixir": 702836,
+    "darkElixir": 10350,
+    "battleTime": 114,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 79
    }
   ]
  },
