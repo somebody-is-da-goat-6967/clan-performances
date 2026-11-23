@@ -108441,6 +108441,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 68
+   },
+   {
+    "time": "2026-11-23T07:16:28Z",
+    "gold": 459390,
+    "elixir": 402909,
+    "darkElixir": 3031,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
    }
   ]
  },
@@ -145057,7 +145068,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "HINDU RASHTRA",
+  "clan": "bgmi player",
   "th": 17,
   "entries": [
    {
