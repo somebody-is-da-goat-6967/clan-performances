@@ -120945,7 +120945,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "",
+  "clan": "CRAZY MONKEYS",
   "th": 18,
   "entries": [
    {
@@ -148774,6 +148774,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T06:12:11Z",
+    "gold": 371747,
+    "elixir": 492789,
+    "darkElixir": 3419,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 54
    }
   ]
  },
@@ -164722,6 +164733,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 19
+   },
+   {
+    "time": "2026-11-23T06:13:49Z",
+    "gold": 823756,
+    "elixir": 762020,
+    "darkElixir": 6952,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-23T06:14:51Z",
+    "gold": 739775,
+    "elixir": 862537,
+    "darkElixir": 8266,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-23T06:15:10Z",
+    "gold": 102954,
+    "elixir": 449944,
+    "darkElixir": 3471,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 35
    }
   ]
  },
