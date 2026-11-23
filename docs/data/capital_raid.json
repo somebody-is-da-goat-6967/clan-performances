@@ -68,6 +68,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "Nurbek",
+  "tag": "#G99JUCYRJ",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 33383,
+  "avgLoot": 5563.8
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#2G9J22R0P",
   "name": "AMIT",
   "tag": "#LQ0C29JLY",
@@ -349,19 +362,6 @@
   "missed": null,
   "loot": 27432,
   "avgLoot": 4572.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Nurbek",
-  "tag": "#G99JUCYRJ",
-  "attacks": 5,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 27279,
-  "avgLoot": 5455.8
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
@@ -778,5 +778,18 @@
   "missed": null,
   "loot": 4339,
   "avgLoot": 4339.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "Vaxshiy",
+  "tag": "#R89VV0P9V",
+  "attacks": 0,
+  "attacksAvailable": 5,
+  "missed": null,
+  "loot": 0,
+  "avgLoot": null
  }
 ]
