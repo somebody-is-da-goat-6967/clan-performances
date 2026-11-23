@@ -732,6 +732,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
+  "name": "liam",
+  "tag": "#Y2L00Y9G",
+  "attacks": 4,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 13832,
+  "avgLoot": 3458.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
   "name": "Fortress",
   "tag": "#Y2Q202JJJ",
   "attacks": 3,
@@ -765,19 +778,6 @@
   "missed": null,
   "loot": 11335,
   "avgLoot": 5667.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "liam",
-  "tag": "#Y2L00Y9G",
-  "attacks": 2,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 6790,
-  "avgLoot": 3395.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
