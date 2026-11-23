@@ -122558,7 +122558,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "Divinity",
+  "clan": "INDIA",
   "th": 18,
   "entries": [
    {
@@ -146544,6 +146544,17 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 140,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T04:55:02Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 144,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -174868,6 +174879,17 @@
     "elixir": 989597,
     "darkElixir": 10417,
     "battleTime": 76,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T04:54:10Z",
+    "gold": 665863,
+    "elixir": 672457,
+    "darkElixir": 9878,
+    "battleTime": 62,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
