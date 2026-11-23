@@ -146085,13 +146085,24 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 92
+   },
+   {
+    "time": "2026-11-23T09:25:02Z",
+    "gold": 2107405,
+    "elixir": 2038208,
+    "darkElixir": 15690,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "The fallen",
+  "clan": "Frieden CW",
   "th": 17,
   "entries": [
    {
@@ -160556,6 +160567,17 @@
     "elixir": 1151293,
     "darkElixir": 7360,
     "battleTime": 147,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T09:25:01Z",
+    "gold": 1703770,
+    "elixir": 877846,
+    "darkElixir": 6427,
+    "battleTime": 144,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
