@@ -147482,7 +147482,7 @@
  {
   "tag": "#QLUC2C9GQ",
   "name": "-Sᴇɴᴊᴜシ爱 -",
-  "clan": "Nepal Top clan",
+  "clan": "LONGWEI",
   "th": 16,
   "entries": [
    {
@@ -148433,6 +148433,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-23T04:43:09Z",
+    "gold": 109281,
+    "elixir": 179977,
+    "darkElixir": 0,
+    "battleTime": 3,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
+   },
+   {
+    "time": "2026-11-23T04:43:23Z",
+    "gold": 195554,
+    "elixir": 135439,
+    "darkElixir": 0,
+    "battleTime": 3,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 33
+   },
+   {
+    "time": "2026-11-23T04:43:43Z",
+    "gold": 511607,
+    "elixir": 108768,
+    "darkElixir": 3721,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 26
    }
   ]
  },
@@ -152565,6 +152598,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-23T04:44:55Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 149,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -156008,7 +156052,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "Req N Leave",
+  "clan": "LaureTole OGs",
   "th": 16,
   "entries": [
    {
@@ -181144,6 +181188,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-23T04:45:41Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 3649,
+    "battleTime": 3,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 6
+   },
+   {
+    "time": "2026-11-23T04:46:21Z",
+    "gold": 342872,
+    "elixir": 325550,
+    "darkElixir": 2840,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
    }
   ]
  },
