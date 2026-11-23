@@ -34703,6 +34703,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T06:23:53Z",
+    "gold": 1187648,
+    "elixir": 2206421,
+    "darkElixir": 1314,
+    "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T06:25:32Z",
+    "gold": 88633,
+    "elixir": 105416,
+    "darkElixir": 8468,
+    "battleTime": 78,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -122734,7 +122756,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "INDIA",
+  "clan": "AY YILDIZ",
   "th": 18,
   "entries": [
    {
@@ -163304,7 +163326,7 @@
  {
   "tag": "#QVG9LVVJ8",
   "name": "⠀ ⠀",
-  "clan": "Deception",
+  "clan": "Coc",
   "th": 16,
   "entries": [
    {
