@@ -115679,6 +115679,50 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 11
+   },
+   {
+    "time": "2026-11-23T15:02:05Z",
+    "gold": 259913,
+    "elixir": 481454,
+    "darkElixir": 2290,
+    "battleTime": 62,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 75
+   },
+   {
+    "time": "2026-11-23T15:02:49Z",
+    "gold": 285899,
+    "elixir": 148121,
+    "darkElixir": 4734,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 39
+   },
+   {
+    "time": "2026-11-23T15:03:07Z",
+    "gold": 42600,
+    "elixir": 42800,
+    "darkElixir": 215,
+    "battleTime": 4,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 9
+   },
+   {
+    "time": "2026-11-23T15:04:39Z",
+    "gold": 989248,
+    "elixir": 490497,
+    "darkElixir": 9271,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 37
    }
   ]
  },
@@ -141465,7 +141509,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "سلطان",
+  "clan": "king",
   "th": 17,
   "entries": [
    {
@@ -147306,7 +147350,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "√üçk çô©",
+  "clan": "Everdraco™",
   "th": 17,
   "entries": [
    {
