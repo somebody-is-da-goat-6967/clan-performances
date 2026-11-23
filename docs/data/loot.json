@@ -67575,6 +67575,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T22:46:18Z",
+    "gold": 1912376,
+    "elixir": 1911874,
+    "darkElixir": 11724,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -142876,7 +142887,7 @@
  {
   "tag": "#VRRPCLP",
   "name": "MORITZ",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Two",
   "th": 17,
   "entries": [
    {
@@ -178184,7 +178195,7 @@
  {
   "tag": "#LJCP2JQ98",
   "name": "Kleiner Stephan",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Two",
   "th": 15,
   "entries": [
    {
