@@ -843,5 +843,18 @@
   "missed": null,
   "loot": 4339,
   "avgLoot": 4339.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Who's Next ❓",
+  "tag": "#9JVGJGL8Q",
+  "attacks": 1,
+  "attacksAvailable": 5,
+  "missed": null,
+  "loot": 3595,
+  "avgLoot": 3595.0
  }
 ]
