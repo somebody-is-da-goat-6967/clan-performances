@@ -549,6 +549,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "carbonfin th2",
+  "tag": "#GVU2JCP2Q",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 19943,
+  "avgLoot": 3323.8
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "I N F E R N O",
   "tag": "#2UY0YR2YG",
@@ -609,19 +622,6 @@
   "missed": null,
   "loot": 13859,
   "avgLoot": 2309.8
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "carbonfin th2",
-  "tag": "#GVU2JCP2Q",
-  "attacks": 4,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 12943,
-  "avgLoot": 3235.8
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
