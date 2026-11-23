@@ -146,6 +146,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Juli",
+  "tag": "#20QUCQRQY",
+  "attacks": 5,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 31455,
+  "avgLoot": 6291.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "VorReel",
   "tag": "#9U8Y92RJ",
@@ -414,19 +427,6 @@
   "missed": null,
   "loot": 25110,
   "avgLoot": 4185.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Juli",
-  "tag": "#20QUCQRQY",
-  "attacks": 4,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 25075,
-  "avgLoot": 6268.8
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
