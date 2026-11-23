@@ -397,6 +397,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 95
+   },
+   {
+    "time": "2026-11-23T20:13:08Z",
+    "gold": 1791600,
+    "elixir": 1787840,
+    "darkElixir": 9060,
+    "battleTime": 95,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -134134,7 +134145,7 @@
  {
   "tag": "#GJU88CG9G",
   "name": "アディティア",
-  "clan": "WARRIORS",
+  "clan": "⚡RAJPUT⚡",
   "th": 18,
   "entries": [
    {
@@ -177235,6 +177246,69 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   }
+  ]
+ },
+ {
+  "tag": "#LJCP2JQ98",
+  "name": "Kleiner Stephan",
+  "clan": "THE WARRIOR",
+  "th": 15,
+  "entries": [
+   {
+    "time": "2026-11-07T18:56:54Z",
+    "gold": 870739,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 133,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 91
+   },
+   {
+    "time": "2026-11-07T19:29:27Z",
+    "gold": 818400,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-07T19:39:33Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 124,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-07T22:13:30Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
+   },
+   {
+    "time": "2026-11-07T23:20:53Z",
+    "gold": 818400,
+    "elixir": 818400,
+    "darkElixir": 8240,
+    "battleTime": 115,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 88
    }
   ]
  },
