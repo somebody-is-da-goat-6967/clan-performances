@@ -118726,6 +118726,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 51
+   },
+   {
+    "time": "2026-11-23T14:19:18Z",
+    "gold": 1230,
+    "elixir": 1654,
+    "darkElixir": 303,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 47
+   },
+   {
+    "time": "2026-11-23T14:19:41Z",
+    "gold": 472785,
+    "elixir": 401816,
+    "darkElixir": 6735,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-23T14:20:55Z",
+    "gold": 1129240,
+    "elixir": 1129225,
+    "darkElixir": 5477,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
    }
   ]
  },
