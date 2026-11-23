@@ -22215,6 +22215,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 53
+   },
+   {
+    "time": "2026-11-23T15:11:17Z",
+    "gold": 168620,
+    "elixir": 1152742,
+    "darkElixir": 2098,
+    "battleTime": 70,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -141509,7 +141520,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "king",
+  "clan": "",
   "th": 17,
   "entries": [
    {
