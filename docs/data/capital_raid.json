@@ -627,6 +627,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Tiny Mochi",
+  "tag": "#R8PLRL2LJ",
+  "attacks": 5,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 22382,
+  "avgLoot": 4476.4
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "mini Praz",
   "tag": "#R0LUUG9Y2",
@@ -778,19 +791,6 @@
   "missed": null,
   "loot": 12123,
   "avgLoot": 4041.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Tiny Mochi",
-  "tag": "#R8PLRL2LJ",
-  "attacks": 3,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 12056,
-  "avgLoot": 4018.7
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
