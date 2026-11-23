@@ -219,7 +219,7 @@
  {
   "tag": "#Q882U0V8L",
   "name": "[SPP] Stephan",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Two",
   "th": 19,
   "entries": [
    {
@@ -67564,6 +67564,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 15
+   },
+   {
+    "time": "2026-11-23T22:39:37Z",
+    "gold": 1515964,
+    "elixir": 1225921,
+    "darkElixir": 8047,
+    "battleTime": 139,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -178241,6 +178252,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-23T22:40:02Z",
+    "gold": 1826119,
+    "elixir": 699464,
+    "darkElixir": 11291,
+    "battleTime": 87,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
