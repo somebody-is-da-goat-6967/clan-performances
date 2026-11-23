@@ -122811,7 +122811,7 @@
  {
   "tag": "#2C9PJPQUV",
   "name": "Tilak",
-  "clan": "AY YILDIZ",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -123066,6 +123066,94 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 5
+   },
+   {
+    "time": "2026-11-20T03:41:20Z",
+    "gold": 718275,
+    "elixir": 466101,
+    "darkElixir": 9090,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-20T16:39:25Z",
+    "gold": 1691450,
+    "elixir": 1799797,
+    "darkElixir": 9692,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-21T09:08:26Z",
+    "gold": 595872,
+    "elixir": 1022883,
+    "darkElixir": 8702,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 98
+   },
+   {
+    "time": "2026-11-22T10:57:24Z",
+    "gold": 1872383,
+    "elixir": 615608,
+    "darkElixir": 10792,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 99
+   },
+   {
+    "time": "2026-11-22T11:19:32Z",
+    "gold": 1185249,
+    "elixir": 1141038,
+    "darkElixir": 12512,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 89
+   },
+   {
+    "time": "2026-11-22T17:57:56Z",
+    "gold": 1350027,
+    "elixir": 1334404,
+    "darkElixir": 7885,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-22T18:16:50Z",
+    "gold": 1585601,
+    "elixir": 1776475,
+    "darkElixir": 2610,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-22T18:21:59Z",
+    "gold": 1732601,
+    "elixir": 1740466,
+    "darkElixir": 11346,
+    "battleTime": 92,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -135049,6 +135137,17 @@
     "elixir": 1372526,
     "darkElixir": 6729,
     "battleTime": 115,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T06:59:15Z",
+    "gold": 1470785,
+    "elixir": 1471265,
+    "darkElixir": 10601,
+    "battleTime": 101,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
