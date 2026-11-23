@@ -96239,7 +96239,7 @@
  {
   "tag": "#R0980PPU8",
   "name": "FanTong",
-  "clan": "",
+  "clan": "AVENGERS",
   "th": 18,
   "entries": [
    {
@@ -108232,6 +108232,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 61
+   },
+   {
+    "time": "2026-11-23T05:45:02Z",
+    "gold": 566065,
+    "elixir": 499608,
+    "darkElixir": 6418,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-23T05:45:28Z",
+    "gold": 559799,
+    "elixir": 839163,
+    "darkElixir": 7518,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-23T05:46:20Z",
+    "gold": 994903,
+    "elixir": 934143,
+    "darkElixir": 6389,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 73
    }
   ]
  },
