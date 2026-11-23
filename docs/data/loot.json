@@ -50900,6 +50900,28 @@
     "battleType": "legend",
     "stars": 1,
     "destruction": 86
+   },
+   {
+    "time": "2026-11-23T17:42:24Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 126,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T17:45:29Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -53791,7 +53813,7 @@
  {
   "tag": "#GJQJ80VRG",
   "name": "Soloo",
-  "clan": "AMERICAN MUSCLE",
+  "clan": "!ALASKA!",
   "th": 19,
   "entries": [
    {
@@ -81270,7 +81292,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "AMG KOTH",
+  "clan": "fw",
   "th": 19,
   "entries": [
    {
@@ -113925,6 +113947,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T17:43:39Z",
+    "gold": 828000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 173,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 90
    }
   ]
  },
@@ -161490,6 +161523,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-23T17:42:22Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -188391,6 +188435,17 @@
     "battleTime": 86,
     "league": "",
     "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T17:45:30Z",
+    "gold": 473000,
+    "elixir": 473000,
+    "darkElixir": 3970,
+    "battleTime": 104,
+    "league": "",
+    "battleType": "ranked",
     "stars": 3,
     "destruction": 100
    }
