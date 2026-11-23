@@ -667,6 +667,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
+  "name": "Juli",
+  "tag": "#8Q22RY0G",
+  "attacks": 2,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 12714,
+  "avgLoot": 6357.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
   "name": "Fortress",
   "tag": "#Y2Q202JJJ",
   "attacks": 3,
@@ -739,18 +752,5 @@
   "missed": null,
   "loot": 4339,
   "avgLoot": 4339.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Juli",
-  "tag": "#8Q22RY0G",
-  "attacks": 1,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 2684,
-  "avgLoot": 2684.0
  }
 ]
