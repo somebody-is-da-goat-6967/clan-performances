@@ -11848,12 +11848,12 @@
   "tag": "#QGJP2L0CQ",
   "th": 15,
   "pos": 35,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 3,
+  "avgDestruction": 100.0,
+  "attackDetail": "3★ 100%"
  },
  {
   "date": "2026-11-23T18:54:57Z",
@@ -11867,12 +11867,12 @@
   "tag": "#QLJP9JY2Y",
   "th": 15,
   "pos": 31,
-  "attacksUsed": 1,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 1,
-  "avgDestruction": 83.0,
-  "attackDetail": "1★ 83%"
+  "stars": 4,
+  "avgDestruction": 91.5,
+  "attackDetail": "1★ 83%, 3★ 100%"
  },
  {
   "date": "2026-11-23T18:54:57Z",
