@@ -654,6 +654,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
+  "name": "DK_Fau",
+  "tag": "#9UVLYUVU9",
+  "attacks": 4,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 17599,
+  "avgLoot": 4399.8
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
   "name": "nm",
   "tag": "#QJLU0U0P",
   "attacks": 6,
@@ -713,19 +726,6 @@
   "missed": null,
   "loot": 11335,
   "avgLoot": 5667.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "DK_Fau",
-  "tag": "#9UVLYUVU9",
-  "attacks": 3,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 10808,
-  "avgLoot": 3602.7
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
