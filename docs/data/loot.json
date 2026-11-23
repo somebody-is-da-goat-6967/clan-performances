@@ -146091,7 +146091,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "G6’s Clan",
+  "clan": "The fallen",
   "th": 17,
   "entries": [
    {
@@ -157380,6 +157380,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T09:10:28Z",
+    "gold": 496261,
+    "elixir": 361973,
+    "darkElixir": 5689,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
    }
   ]
  },
