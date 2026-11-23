@@ -69,6 +69,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
+  "name": "MiNuTka",
+  "tag": "#8CRU8Q0V0",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 33046,
+  "avgLoot": 5507.7
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
   "name": "Briscoe",
   "tag": "#QQ0UU980",
   "attacks": 6,
@@ -297,19 +310,6 @@
   "missed": null,
   "loot": 27211,
   "avgLoot": 4535.2
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "MiNuTka",
-  "tag": "#8CRU8Q0V0",
-  "attacks": 5,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 27179,
-  "avgLoot": 5435.8
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
@@ -726,5 +726,31 @@
   "missed": null,
   "loot": 5051,
   "avgLoot": 2525.5
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "oscer",
+  "tag": "#LCL9JRVU",
+  "attacks": 1,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 4339,
+  "avgLoot": 4339.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Juli",
+  "tag": "#8Q22RY0G",
+  "attacks": 1,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 2684,
+  "avgLoot": 2684.0
  }
 ]
