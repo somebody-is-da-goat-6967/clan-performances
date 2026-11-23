@@ -24510,7 +24510,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "kïńģš-●•s♧guard",
+  "clan": "GUARDIANS",
   "th": 19,
   "entries": [
    {
@@ -113639,6 +113639,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-23T15:56:51Z",
+    "gold": 451551,
+    "elixir": 436550,
+    "darkElixir": 4791,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 67
    }
   ]
  },
@@ -129711,6 +129722,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-23T16:01:38Z",
+    "gold": 320893,
+    "elixir": 296016,
+    "darkElixir": 4527,
+    "battleTime": 114,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
