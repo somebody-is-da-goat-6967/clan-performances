@@ -53659,7 +53659,7 @@
  {
   "tag": "#GJQJ80VRG",
   "name": "Soloo",
-  "clan": "AVENGERS",
+  "clan": "Summit Clashers",
   "th": 19,
   "entries": [
    {
@@ -63889,6 +63889,28 @@
     "battleTime": 175,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T16:32:12Z",
+    "gold": 1956869,
+    "elixir": 1956869,
+    "darkElixir": 11762,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T16:34:23Z",
+    "gold": 1812180,
+    "elixir": 1812173,
+    "darkElixir": 10207,
+    "battleTime": 67,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
@@ -129843,6 +129865,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T16:32:46Z",
+    "gold": 945378,
+    "elixir": 1081742,
+    "darkElixir": 11034,
+    "battleTime": 102,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T16:33:29Z",
+    "gold": 93617,
+    "elixir": 22010,
+    "darkElixir": 7061,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 25
+   },
+   {
+    "time": "2026-11-23T16:34:41Z",
+    "gold": 466827,
+    "elixir": 74603,
+    "darkElixir": 1425,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
    }
   ]
  },
@@ -159753,7 +159808,7 @@
  {
   "tag": "#GPJYQPP20",
   "name": "Ian99",
-  "clan": "Hollow Crowns",
+  "clan": "DND On",
   "th": 16,
   "entries": [
    {
