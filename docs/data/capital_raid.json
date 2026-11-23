@@ -302,6 +302,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "MiNuTka",
+  "tag": "#8CRU8Q0V0",
+  "attacks": 5,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 27179,
+  "avgLoot": 5435.8
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "BEAST HUNTER",
   "tag": "#Q0Q0VL0LV",
@@ -406,6 +419,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Juli",
+  "tag": "#20QUCQRQY",
+  "attacks": 4,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 25075,
+  "avgLoot": 6268.8
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "CW5",
   "tag": "#GV8V20GRC",
@@ -505,19 +531,6 @@
   "missed": null,
   "loot": 23138,
   "avgLoot": 3856.3
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "MiNuTka",
-  "tag": "#8CRU8Q0V0",
-  "attacks": 4,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 22984,
-  "avgLoot": 5746.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
@@ -635,19 +648,6 @@
   "missed": null,
   "loot": 16646,
   "avgLoot": 2774.3
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Juli",
-  "tag": "#20QUCQRQY",
-  "attacks": 2,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 15395,
-  "avgLoot": 7697.5
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
