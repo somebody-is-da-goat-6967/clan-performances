@@ -34857,6 +34857,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T11:42:17Z",
+    "gold": 1612822,
+    "elixir": 1636854,
+    "darkElixir": 11014,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T11:44:48Z",
+    "gold": 1524459,
+    "elixir": 1802980,
+    "darkElixir": 10034,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -80687,7 +80709,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "Divine Equinox",
+  "clan": "COC MADNESS",
   "th": 19,
   "entries": [
    {
