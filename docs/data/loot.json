@@ -64144,6 +64144,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-23T18:13:45Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -81358,7 +81369,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "indian scochers",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
@@ -116229,6 +116240,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 4
+   },
+   {
+    "time": "2026-11-23T18:13:15Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
