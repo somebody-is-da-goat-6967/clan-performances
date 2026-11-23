@@ -157494,6 +157494,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T02:29:50Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 128,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -181210,13 +181221,6 @@
   "clan": "Reaper Two",
   "th": 10,
   "entries": [
-   {
-    "time": "2026-10-22T02:31:05Z",
-    "gold": 738000,
-    "elixir": 738000,
-    "darkElixir": 7270,
-    "battleTime": 125
-   },
    {
     "time": "2026-11-01T06:55:03Z",
     "gold": 489042,
