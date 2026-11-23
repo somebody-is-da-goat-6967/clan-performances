@@ -129920,6 +129920,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 37
+   },
+   {
+    "time": "2026-11-23T16:42:07Z",
+    "gold": 135073,
+    "elixir": 157370,
+    "darkElixir": 8378,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-23T16:42:58Z",
+    "gold": 128571,
+    "elixir": 403534,
+    "darkElixir": 8345,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 15
+   },
+   {
+    "time": "2026-11-23T16:45:36Z",
+    "gold": 1936172,
+    "elixir": 1985020,
+    "darkElixir": 11792,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -158950,6 +158983,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-23T16:46:17Z",
+    "gold": 424024,
+    "elixir": 716129,
+    "darkElixir": 3294,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
    }
   ]
  },
@@ -172660,7 +172704,7 @@
  {
   "tag": "#R2JJ0JP9G",
   "name": "Iskimaka Dorara",
-  "clan": "Reaper Two",
+  "clan": "THE WARRIOR",
   "th": 15,
   "entries": [
    {
@@ -174441,6 +174485,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 12
+   },
+   {
+    "time": "2026-11-23T16:42:31Z",
+    "gold": 117474,
+    "elixir": 465352,
+    "darkElixir": 7688,
+    "battleTime": 150,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 27
+   },
+   {
+    "time": "2026-11-23T16:44:17Z",
+    "gold": 100190,
+    "elixir": 28750,
+    "darkElixir": 469,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 21
+   },
+   {
+    "time": "2026-11-23T16:44:50Z",
+    "gold": 636590,
+    "elixir": 531306,
+    "darkElixir": 5731,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 24
    }
   ]
  },
