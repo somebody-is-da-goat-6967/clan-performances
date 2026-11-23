@@ -34725,6 +34725,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T06:28:49Z",
+    "gold": 1959476,
+    "elixir": 1959483,
+    "darkElixir": 11038,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T06:31:31Z",
+    "gold": 1811730,
+    "elixir": 1773571,
+    "darkElixir": 16565,
+    "battleTime": 153,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -120967,7 +120989,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "CRAZY MONKEYS",
+  "clan": "FUEL BALANCING",
   "th": 18,
   "entries": [
    {
@@ -153475,7 +153497,7 @@
  {
   "tag": "#GCY8JPU8L",
   "name": "Dark God 2",
-  "clan": "THE WARRIOR",
+  "clan": "Syndicate",
   "th": 16,
   "entries": [
    {

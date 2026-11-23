@@ -342,6 +342,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#QQR8892U",
+  "name": "Dark God 2",
+  "tag": "#GCY8JPU8L",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 27697,
+  "avgLoot": 4616.2
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
   "name": "V1tos1750",
   "tag": "#2RP8QC0J9",
   "attacks": 6,
@@ -908,19 +921,6 @@
   "missed": null,
   "loot": 11335,
   "avgLoot": 5667.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Dark God 2",
-  "tag": "#GCY8JPU8L",
-  "attacks": 3,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 11129,
-  "avgLoot": 3709.7
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
