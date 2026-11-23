@@ -46535,6 +46535,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T15:18:36Z",
+    "gold": 1041561,
+    "elixir": 882803,
+    "darkElixir": 5855,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 77
    }
   ]
  },
@@ -51359,7 +51370,7 @@
  {
   "tag": "#L8220CQUU",
   "name": "Roy RR",
-  "clan": "sss",
+  "clan": "rotter.net",
   "th": 19,
   "entries": [
    {
@@ -119122,6 +119133,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 68
+   },
+   {
+    "time": "2026-11-23T15:20:44Z",
+    "gold": 470275,
+    "elixir": 703560,
+    "darkElixir": 8214,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-23T15:21:15Z",
+    "gold": 472075,
+    "elixir": 446441,
+    "darkElixir": 8231,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
    }
   ]
  },
@@ -141520,7 +141553,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "ponel warriors",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {
