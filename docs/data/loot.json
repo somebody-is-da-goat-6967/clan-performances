@@ -43924,6 +43924,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 97
+   },
+   {
+    "time": "2026-11-23T16:58:16Z",
+    "gold": 1840028,
+    "elixir": 1514224,
+    "darkElixir": 12622,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-23T16:59:25Z",
+    "gold": 2488252,
+    "elixir": 1731017,
+    "darkElixir": 12177,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-23T16:59:51Z",
+    "gold": 299223,
+    "elixir": 141650,
+    "darkElixir": 1268,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-23T17:01:33Z",
+    "gold": 563697,
+    "elixir": 810036,
+    "darkElixir": 5191,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
    }
   ]
  },
@@ -53714,7 +53758,7 @@
  {
   "tag": "#GJQJ80VRG",
   "name": "Soloo",
-  "clan": "Summit Clashers",
+  "clan": "AMERICAN MUSCLE",
   "th": 19,
   "entries": [
    {
@@ -97292,7 +97336,7 @@
  {
   "tag": "#R0980PPU8",
   "name": "FanTong",
-  "clan": "Summit Clashers",
+  "clan": "AMERICAN MUSCLE",
   "th": 18,
   "entries": [
    {
@@ -130107,6 +130151,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 20
+   },
+   {
+    "time": "2026-11-23T16:57:15Z",
+    "gold": 27729,
+    "elixir": 227305,
+    "darkElixir": 1532,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
+   },
+   {
+    "time": "2026-11-23T16:58:13Z",
+    "gold": 334386,
+    "elixir": 423587,
+    "darkElixir": 3123,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 28
    }
   ]
  },
@@ -147518,7 +147584,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "The fallen",
+  "clan": "ANGRY BD MAX.52",
   "th": 17,
   "entries": [
    {
