@@ -791,5 +791,18 @@
   "missed": null,
   "loot": 4339,
   "avgLoot": 4339.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "liam",
+  "tag": "#Y2L00Y9G",
+  "attacks": 1,
+  "attacksAvailable": 5,
+  "missed": null,
+  "loot": 2980,
+  "avgLoot": 2980.0
  }
 ]
