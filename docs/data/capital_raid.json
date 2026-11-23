@@ -510,6 +510,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "MiNuTka",
+  "tag": "#8CRU8Q0V0",
+  "attacks": 4,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 22984,
+  "avgLoot": 5746.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "mini Praz",
   "tag": "#R0LUUG9Y2",
@@ -628,6 +641,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
+  "name": "Juli",
+  "tag": "#20QUCQRQY",
+  "attacks": 2,
+  "attacksAvailable": 5,
+  "missed": null,
+  "loot": 15395,
+  "avgLoot": 7697.5
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
   "name": "Blinne",
   "tag": "#GLCR9LCU2",
   "attacks": 6,
@@ -680,19 +706,6 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
-  "name": "MiNuTka",
-  "tag": "#8CRU8Q0V0",
-  "attacks": 1,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 8005,
-  "avgLoot": 8005.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
   "name": "Toasty",
   "tag": "#28GQU9V0",
   "attacks": 2,
@@ -713,18 +726,5 @@
   "missed": null,
   "loot": 5051,
   "avgLoot": 2525.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Juli",
-  "tag": "#20QUCQRQY",
-  "attacks": 0,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 0,
-  "avgLoot": null
  }
 ]
