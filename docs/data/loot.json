@@ -50922,6 +50922,28 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T17:48:43Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T17:51:14Z",
+    "gold": 817364,
+    "elixir": 621000,
+    "darkElixir": 10350,
+    "battleTime": 115,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 61
    }
   ]
  },
@@ -113958,6 +113980,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 90
+   },
+   {
+    "time": "2026-11-23T17:46:41Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 74
    }
   ]
  },
@@ -165321,7 +165354,7 @@
  {
   "tag": "#9GQGRL0L",
   "name": "MVX | ƦΘNALDO★",
-  "clan": "",
+  "clan": "Mindvex",
   "th": 16,
   "entries": [
    {
@@ -188444,6 +188477,28 @@
     "elixir": 473000,
     "darkElixir": 3970,
     "battleTime": 104,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T17:48:06Z",
+    "gold": 499000,
+    "elixir": 499000,
+    "darkElixir": 4480,
+    "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T17:50:00Z",
+    "gold": 474000,
+    "elixir": 474000,
+    "darkElixir": 3980,
+    "battleTime": 90,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
