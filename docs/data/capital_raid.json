@@ -69,6 +69,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#QQR8892U",
+  "name": "Adam",
+  "tag": "#90PCYCLY",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 35338,
+  "avgLoot": 5889.7
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
   "name": "Nurbek",
   "tag": "#G99JUCYRJ",
   "attacks": 6,
@@ -297,19 +310,6 @@
   "missed": null,
   "loot": 28082,
   "avgLoot": 4680.3
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Adam",
-  "tag": "#90PCYCLY",
-  "attacks": 5,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 27931,
-  "avgLoot": 5586.2
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
@@ -654,6 +654,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
+  "name": "SS GOURAV ⚔️",
+  "tag": "#Q8CCQUQL9",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 22905,
+  "avgLoot": 3817.5
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
   "name": "꧁✰BŁUE✰꧂✈︎",
   "tag": "#YC02JUPCV",
   "attacks": 6,
@@ -877,11 +890,11 @@
   "clanTag": "#QQR8892U",
   "name": "Amoo",
   "tag": "#Y8RLVRJR",
-  "attacks": 1,
+  "attacks": 2,
   "attacksAvailable": 6,
   "missed": null,
-  "loot": 6422,
-  "avgLoot": 6422.0
+  "loot": 8962,
+  "avgLoot": 4481.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
