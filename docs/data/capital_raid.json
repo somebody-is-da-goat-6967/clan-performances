@@ -367,6 +367,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Maxim",
+  "tag": "#2G2R2RUL",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 26141,
+  "avgLoot": 4356.8
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "Неадекватный",
   "tag": "#QLRJ928JQ",
@@ -687,18 +700,5 @@
   "missed": null,
   "loot": 5051,
   "avgLoot": 2525.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Maxim",
-  "tag": "#2G2R2RUL",
-  "attacks": 1,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 1570,
-  "avgLoot": 1570.0
  }
 ]

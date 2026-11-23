@@ -4330,6 +4330,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-23T00:17:14Z",
+    "gold": 865729,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 175,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-23T00:20:53Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 156,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -163076,7 +163098,7 @@
  {
   "tag": "#GVU2JCP2Q",
   "name": "carbonfin th2",
-  "clan": "Reaper Crew",
+  "clan": "Reaper Two",
   "th": 15,
   "entries": [
    {
