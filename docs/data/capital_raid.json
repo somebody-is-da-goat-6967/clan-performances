@@ -927,6 +927,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
+  "name": "Waltuhh",
+  "tag": "#Q80Q20LP0",
+  "attacks": 2,
+  "attacksAvailable": 5,
+  "missed": null,
+  "loot": 11265,
+  "avgLoot": 5632.5
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
   "name": "Utkarsh",
   "tag": "#9YULCURQ8",
   "attacks": 1,
@@ -940,19 +953,6 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
-  "name": "Waltuhh",
-  "tag": "#Q80Q20LP0",
-  "attacks": 1,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 4640,
-  "avgLoot": 4640.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
   "name": "oscer",
   "tag": "#LCL9JRVU",
   "attacks": 1,
@@ -960,5 +960,18 @@
   "missed": null,
   "loot": 4339,
   "avgLoot": 4339.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "Ishtiaq Bai",
+  "tag": "#GG2RQ9UPY",
+  "attacks": 1,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 3110,
+  "avgLoot": 3110.0
  }
 ]
