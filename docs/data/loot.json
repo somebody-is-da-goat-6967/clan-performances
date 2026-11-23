@@ -74597,7 +74597,7 @@
  {
   "tag": "#QJ0P0U082",
   "name": "ĐĶ",
-  "clan": "BIR GORKHALI",
+  "clan": "..game.baby",
   "th": 19,
   "entries": [
    {
@@ -116251,6 +116251,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T18:16:54Z",
+    "gold": 1082567,
+    "elixir": 1171185,
+    "darkElixir": 8756,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T18:17:50Z",
+    "gold": 301321,
+    "elixir": 208,
+    "darkElixir": 1,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 31
    }
   ]
  },
@@ -143649,6 +143671,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T18:19:16Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -148024,7 +148057,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "",
+  "clan": "The fallen",
   "th": 17,
   "entries": [
    {
