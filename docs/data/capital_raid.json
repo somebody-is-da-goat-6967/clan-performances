@@ -263,6 +263,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "DK_Fau",
+  "tag": "#9UVLYUVU9",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 29362,
+  "avgLoot": 4893.7
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "Dora Dreds 1",
   "tag": "#R2G8LVV8R",
@@ -654,13 +667,13 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
-  "name": "DK_Fau",
-  "tag": "#9UVLYUVU9",
+  "name": "Toasty",
+  "tag": "#28GQU9V0",
   "attacks": 4,
   "attacksAvailable": 6,
   "missed": null,
-  "loot": 17599,
-  "avgLoot": 4399.8
+  "loot": 17779,
+  "avgLoot": 4444.8
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
@@ -726,19 +739,6 @@
   "missed": null,
   "loot": 11335,
   "avgLoot": 5667.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Toasty",
-  "tag": "#28GQU9V0",
-  "attacks": 2,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 7526,
-  "avgLoot": 3763.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
