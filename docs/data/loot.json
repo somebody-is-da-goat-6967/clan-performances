@@ -34923,6 +34923,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 71
+   },
+   {
+    "time": "2026-11-23T13:12:32Z",
+    "gold": 1779307,
+    "elixir": 2154282,
+    "darkElixir": 4201,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-23T13:16:04Z",
+    "gold": 2115863,
+    "elixir": 2098851,
+    "darkElixir": 14803,
+    "battleTime": 142,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -96885,7 +96907,7 @@
  {
   "tag": "#R0980PPU8",
   "name": "FanTong",
-  "clan": "AVENGERS",
+  "clan": "Summit Clashers",
   "th": 18,
   "entries": [
    {
