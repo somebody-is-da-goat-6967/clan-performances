@@ -108452,6 +108452,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 62
+   },
+   {
+    "time": "2026-11-23T07:17:17Z",
+    "gold": 164730,
+    "elixir": 113943,
+    "darkElixir": 837,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-23T07:18:18Z",
+    "gold": 2173396,
+    "elixir": 2163173,
+    "darkElixir": 14267,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-23T07:19:00Z",
+    "gold": 512849,
+    "elixir": 683945,
+    "darkElixir": 10658,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-23T07:19:21Z",
+    "gold": 688957,
+    "elixir": 597896,
+    "darkElixir": 4948,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-23T07:19:59Z",
+    "gold": 344263,
+    "elixir": 480783,
+    "darkElixir": 5272,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-23T07:20:23Z",
+    "gold": 611310,
+    "elixir": 412981,
+    "darkElixir": 5595,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
    }
   ]
  },
@@ -163502,7 +163568,7 @@
  {
   "tag": "#QVG9LVVJ8",
   "name": "⠀ ⠀",
-  "clan": "Coc",
+  "clan": "Deception",
   "th": 16,
   "entries": [
    {
