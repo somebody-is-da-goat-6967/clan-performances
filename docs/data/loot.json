@@ -146308,7 +146308,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Everdraco™",
+  "clan": "FOE",
   "th": 17,
   "entries": [
    {
@@ -181465,6 +181465,28 @@
     "elixir": 422447,
     "darkElixir": 2970,
     "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T08:43:43Z",
+    "gold": 733320,
+    "elixir": 1248258,
+    "darkElixir": 15163,
+    "battleTime": 132,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T08:46:40Z",
+    "gold": 1122734,
+    "elixir": 527608,
+    "darkElixir": 8757,
+    "battleTime": 114,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
