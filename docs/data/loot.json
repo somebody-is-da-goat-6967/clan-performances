@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "Kingsbane",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -131540,6 +131540,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 69
+   },
+   {
+    "time": "2026-11-23T03:37:16Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 172,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
@@ -136326,6 +136337,17 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 149,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T03:37:54Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 151,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
