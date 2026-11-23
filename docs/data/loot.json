@@ -24510,7 +24510,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "GUARDIANS",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -50944,6 +50944,17 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 61
+   },
+   {
+    "time": "2026-11-23T17:54:38Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 134,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -81314,7 +81325,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "fw",
+  "clan": "DARK WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -113991,6 +114002,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 74
+   },
+   {
+    "time": "2026-11-23T17:52:31Z",
+    "gold": 1035000,
+    "elixir": 969240,
+    "darkElixir": 5690,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 90
+   },
+   {
+    "time": "2026-11-23T17:56:28Z",
+    "gold": 910029,
+    "elixir": 1035000,
+    "darkElixir": 4657,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 87
    }
   ]
  },
@@ -188503,6 +188536,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T17:52:46Z",
+    "gold": 152571,
+    "elixir": 213600,
+    "darkElixir": 1036,
+    "battleTime": 80,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 62
    }
   ]
  },
