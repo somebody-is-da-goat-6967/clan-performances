@@ -8775,6 +8775,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T04:03:23Z",
+    "gold": 1307920,
+    "elixir": 1616283,
+    "darkElixir": 20819,
+    "battleTime": 156,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -52859,7 +52870,7 @@
  {
   "tag": "#GJQJ80VRG",
   "name": "Soloo",
-  "clan": "Rebellion",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -132024,6 +132035,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T04:04:25Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 157,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -136913,6 +136935,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-23T04:02:26Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 119,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T04:05:51Z",
+    "gold": 613800,
+    "elixir": 613800,
+    "darkElixir": 5750,
+    "battleTime": 105,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 68
    }
   ]
  },
