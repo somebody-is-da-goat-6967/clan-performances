@@ -199,6 +199,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#QQR8892U",
+  "name": "I N F E R N O",
+  "tag": "#2UY0YR2YG",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 30961,
+  "avgLoot": 5160.2
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
   "name": "SS",
   "tag": "#QGJJ9QCGR",
   "attacks": 6,
@@ -544,19 +557,6 @@
   "missed": null,
   "loot": 23138,
   "avgLoot": 3856.3
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "I N F E R N O",
-  "tag": "#2UY0YR2YG",
-  "attacks": 5,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 23031,
-  "avgLoot": 4606.2
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
