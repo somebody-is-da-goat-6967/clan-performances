@@ -81044,6 +81044,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T14:57:55Z",
+    "gold": 2179211,
+    "elixir": 2179211,
+    "darkElixir": 13318,
+    "battleTime": 117,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -115591,6 +115602,83 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-23T14:56:42Z",
+    "gold": 774410,
+    "elixir": 906418,
+    "darkElixir": 12065,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-23T14:57:49Z",
+    "gold": 0,
+    "elixir": 3972,
+    "darkElixir": 0,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 8
+   },
+   {
+    "time": "2026-11-23T14:58:33Z",
+    "gold": 1286,
+    "elixir": 57271,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 7
+   },
+   {
+    "time": "2026-11-23T14:58:54Z",
+    "gold": 72911,
+    "elixir": 37990,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 6
+   },
+   {
+    "time": "2026-11-23T14:59:12Z",
+    "gold": 68985,
+    "elixir": 2858,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 5
+   },
+   {
+    "time": "2026-11-23T15:00:23Z",
+    "gold": 1057515,
+    "elixir": 1204830,
+    "darkElixir": 1207,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-23T15:00:46Z",
+    "gold": 62722,
+    "elixir": 103624,
+    "darkElixir": 0,
+    "battleTime": 5,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 11
    }
   ]
  },
@@ -146946,7 +147034,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "G6’s Clan",
+  "clan": "The fallen",
   "th": 17,
   "entries": [
    {
@@ -184169,7 +184257,7 @@
  {
   "tag": "#GL9R9JLGC",
   "name": "Tepvo",
-  "clan": "Freaker Crew",
+  "clan": "",
   "th": 13,
   "entries": [
    {
@@ -185478,7 +185566,7 @@
  {
   "tag": "#QL0VYLLQQ",
   "name": "no gems",
-  "clan": "Freaker Crew",
+  "clan": "",
   "th": 12,
   "entries": [
    {
