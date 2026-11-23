@@ -22633,6 +22633,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-23T21:19:06Z",
+    "gold": 1023725,
+    "elixir": 865645,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -42166,7 +42177,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "BD Army Club",
+  "clan": "Qarshi City",
   "th": 19,
   "entries": [
    {
@@ -47349,6 +47360,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 76
+   },
+   {
+    "time": "2026-11-23T21:19:52Z",
+    "gold": 872959,
+    "elixir": 873789,
+    "darkElixir": 8598,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
