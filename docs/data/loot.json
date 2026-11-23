@@ -132068,6 +132068,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T04:13:26Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T04:16:37Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 145,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -136979,6 +137001,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 68
+   },
+   {
+    "time": "2026-11-23T04:15:57Z",
+    "gold": 613800,
+    "elixir": 582872,
+    "darkElixir": 0,
+    "battleTime": 108,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 55
    }
   ]
  },
@@ -155604,7 +155637,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "Req and leave",
+  "clan": "REQUEST N LEAVE",
   "th": 16,
   "entries": [
    {
