@@ -679,6 +679,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Sniperjaden_4",
+  "tag": "#YCY08LR",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 21460,
+  "avgLoot": 3576.7
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "Hithem V2",
   "tag": "#G0UGCQGQU",
@@ -731,6 +744,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "Adam",
+  "tag": "#90PCYCLY",
+  "attacks": 3,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 17595,
+  "avgLoot": 5865.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#2G9J22R0P",
   "name": "nm",
   "tag": "#QJLU0U0P",
@@ -778,6 +804,32 @@
   "missed": null,
   "loot": 13832,
   "avgLoot": 3458.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Who's Next ❓",
+  "tag": "#9JVGJGL8Q",
+  "attacks": 3,
+  "attacksAvailable": 5,
+  "missed": null,
+  "loot": 13540,
+  "avgLoot": 4513.3
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "《GENERAL》",
+  "tag": "#GP8VVG9JY",
+  "attacks": 3,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 12649,
+  "avgLoot": 4216.3
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
@@ -843,18 +895,5 @@
   "missed": null,
   "loot": 4339,
   "avgLoot": 4339.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Who's Next ❓",
-  "tag": "#9JVGJGL8Q",
-  "attacks": 1,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 3595,
-  "avgLoot": 3595.0
  }
 ]
