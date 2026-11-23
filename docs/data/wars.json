@@ -144,12 +144,12 @@
   "tag": "#PRCJVPUPJ",
   "th": 19,
   "pos": 10,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 35.0,
+  "attackDetail": "1★ 17%, 1★ 53%"
  },
  {
   "date": "2026-11-22T21:12:45Z",
