@@ -80654,7 +80654,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LIGHTNING WAR",
+  "clan": "TRIPURA SA CLAN",
   "th": 19,
   "entries": [
    {
@@ -153270,6 +153270,94 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 7
+   },
+   {
+    "time": "2026-11-23T11:03:07Z",
+    "gold": 0,
+    "elixir": 55474,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 6
+   },
+   {
+    "time": "2026-11-23T11:03:28Z",
+    "gold": 0,
+    "elixir": 4000,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 7
+   },
+   {
+    "time": "2026-11-23T11:03:43Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 866,
+    "battleTime": 0,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 4
+   },
+   {
+    "time": "2026-11-23T11:03:54Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 0,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 3
+   },
+   {
+    "time": "2026-11-23T11:04:24Z",
+    "gold": 9496,
+    "elixir": 0,
+    "darkElixir": 939,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-23T11:04:50Z",
+    "gold": 131211,
+    "elixir": 196828,
+    "darkElixir": 4815,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-23T11:05:20Z",
+    "gold": 62189,
+    "elixir": 134926,
+    "darkElixir": 240,
+    "battleTime": 5,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-23T11:06:02Z",
+    "gold": 3346,
+    "elixir": 71931,
+    "darkElixir": 6169,
+    "battleTime": 22,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 29
    }
   ]
  },
