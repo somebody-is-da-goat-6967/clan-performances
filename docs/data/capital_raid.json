@@ -29,6 +29,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Juli",
+  "tag": "#20QUCQRQY",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 37674,
+  "avgLoot": 6279.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "Iskimaka Dorara",
   "tag": "#R2JJ0JP9G",
@@ -141,19 +154,6 @@
   "missed": null,
   "loot": 31685,
   "avgLoot": 5280.8
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Juli",
-  "tag": "#20QUCQRQY",
-  "attacks": 5,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 31455,
-  "avgLoot": 6291.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
