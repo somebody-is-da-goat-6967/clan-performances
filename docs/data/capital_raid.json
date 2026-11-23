@@ -796,6 +796,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "Amoo",
+  "tag": "#Y8RLVRJR",
+  "attacks": 4,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 17272,
+  "avgLoot": 4318.0
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#2G9J22R0P",
   "name": "nm",
   "tag": "#QJLU0U0P",
@@ -882,19 +895,6 @@
   "missed": null,
   "loot": 11335,
   "avgLoot": 5667.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Amoo",
-  "tag": "#Y8RLVRJR",
-  "attacks": 2,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 8962,
-  "avgLoot": 4481.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
