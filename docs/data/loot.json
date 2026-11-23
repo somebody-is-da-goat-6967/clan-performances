@@ -43589,7 +43589,7 @@
  {
   "tag": "#LCL9JRVU",
   "name": "oscer",
-  "clan": "Los Tontos",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -150372,7 +150372,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "Reaper Crew",
+  "clan": "Payitaht",
   "th": 16,
   "entries": [
    {
@@ -180098,6 +180098,17 @@
     "elixir": 1667819,
     "darkElixir": 10189,
     "battleTime": 131,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T11:11:05Z",
+    "gold": 1632606,
+    "elixir": 1524062,
+    "darkElixir": 4290,
+    "battleTime": 138,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
