@@ -862,6 +862,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#QQR8892U",
+  "name": "Ishtiaq Bai",
+  "tag": "#GG2RQ9UPY",
+  "attacks": 4,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 16471,
+  "avgLoot": 4117.8
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
   "name": "wolverine",
   "tag": "#YPJQ29G9Y",
   "attacks": 6,
@@ -960,18 +973,5 @@
   "missed": null,
   "loot": 4339,
   "avgLoot": 4339.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Ishtiaq Bai",
-  "tag": "#GG2RQ9UPY",
-  "attacks": 1,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 3110,
-  "avgLoot": 3110.0
  }
 ]
