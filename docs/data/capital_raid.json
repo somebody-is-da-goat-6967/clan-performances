@@ -784,6 +784,19 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
+  "name": "Tiny Mochi",
+  "tag": "#R8PLRL2LJ",
+  "attacks": 3,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 12056,
+  "avgLoot": 4018.7
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
   "name": "Bondokk",
   "tag": "#2LPRVL8CY",
   "attacks": 3,
@@ -817,19 +830,6 @@
   "missed": null,
   "loot": 6422,
   "avgLoot": 6422.0
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Tiny Mochi",
-  "tag": "#R8PLRL2LJ",
-  "attacks": 2,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 5051,
-  "avgLoot": 2525.5
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
