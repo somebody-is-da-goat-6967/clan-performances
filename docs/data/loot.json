@@ -80654,7 +80654,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "TRIPURA SA CLAN",
+  "clan": "+HUNK+",
   "th": 19,
   "entries": [
    {
@@ -173198,6 +173198,83 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 20
+   },
+   {
+    "time": "2026-11-23T11:13:17Z",
+    "gold": 154451,
+    "elixir": 194077,
+    "darkElixir": 1735,
+    "battleTime": 6,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 13
+   },
+   {
+    "time": "2026-11-23T11:13:45Z",
+    "gold": 129178,
+    "elixir": 435116,
+    "darkElixir": 2119,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-23T11:14:25Z",
+    "gold": 565431,
+    "elixir": 860984,
+    "darkElixir": 14125,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 23
+   },
+   {
+    "time": "2026-11-23T11:15:11Z",
+    "gold": 446719,
+    "elixir": 511804,
+    "darkElixir": 5739,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 21
+   },
+   {
+    "time": "2026-11-23T11:15:35Z",
+    "gold": 438546,
+    "elixir": 515747,
+    "darkElixir": 6380,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 21
+   },
+   {
+    "time": "2026-11-23T11:16:01Z",
+    "gold": 988516,
+    "elixir": 900090,
+    "darkElixir": 7955,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
+   },
+   {
+    "time": "2026-11-23T11:16:28Z",
+    "gold": 54494,
+    "elixir": 566543,
+    "darkElixir": 1505,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 27
    }
   ]
  },
