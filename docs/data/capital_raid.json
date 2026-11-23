@@ -328,6 +328,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Toasty",
+  "tag": "#28GQU9V0",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 27469,
+  "avgLoot": 4578.2
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "Geralt",
   "tag": "#Q9V9URUG0",
@@ -589,19 +602,6 @@
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
   "clanTag": "#2G9J22R0P",
-  "name": "Toasty",
-  "tag": "#28GQU9V0",
-  "attacks": 5,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 22174,
-  "avgLoot": 4434.8
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
   "name": "Levantine",
   "tag": "#2R0GQ99CV",
   "attacks": 6,
@@ -674,6 +674,19 @@
   "missed": null,
   "loot": 19362,
   "avgLoot": 3872.4
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "Nurbek",
+  "tag": "#G99JUCYRJ",
+  "attacks": 3,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 16843,
+  "avgLoot": 5614.3
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
@@ -752,19 +765,6 @@
   "missed": null,
   "loot": 5051,
   "avgLoot": 2525.5
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Nurbek",
-  "tag": "#G99JUCYRJ",
-  "attacks": 1,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 4345,
-  "avgLoot": 4345.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
