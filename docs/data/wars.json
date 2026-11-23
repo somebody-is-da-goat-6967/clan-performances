@@ -11867,12 +11867,12 @@
   "tag": "#QLJP9JY2Y",
   "th": 15,
   "pos": 31,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 83.0,
+  "attackDetail": "1★ 83%"
  },
  {
   "date": "2026-11-23T18:54:57Z",
