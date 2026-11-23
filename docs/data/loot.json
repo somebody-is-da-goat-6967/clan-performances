@@ -13722,6 +13722,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T20:22:38Z",
+    "gold": 428441,
+    "elixir": 1650315,
+    "darkElixir": 11117,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -161700,7 +161711,7 @@
  {
   "tag": "#GPJYQPP20",
   "name": "Ian99",
-  "clan": "DND On",
+  "clan": "Unknown",
   "th": 16,
   "entries": [
    {
@@ -162850,6 +162861,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 167,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T20:19:51Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 168,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -165048,7 +165070,7 @@
  {
   "tag": "#8JQUPJ0QQ",
   "name": "Little Stephan",
-  "clan": "soLO-STephan",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
@@ -165154,14 +165176,22 @@
     "gold": 1025000,
     "elixir": 1025000,
     "darkElixir": 10320,
-    "battleTime": 113
+    "battleTime": 113,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    },
    {
     "time": "2026-11-07T23:24:18Z",
     "gold": 1025000,
     "elixir": 1025000,
     "darkElixir": 10320,
-    "battleTime": 160
+    "battleTime": 160,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },

@@ -144,12 +144,12 @@
   "tag": "#G99JUCYRJ",
   "th": 19,
   "pos": 5,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 94.0,
+  "attackDetail": "2★ 94%"
  },
  {
   "date": "2026-11-23T18:54:57Z",
