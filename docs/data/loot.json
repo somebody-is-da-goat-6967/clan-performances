@@ -80654,7 +80654,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "+HUNK+",
+  "clan": "Divine Equinox",
   "th": 19,
   "entries": [
    {
@@ -173275,6 +173275,61 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 27
+   },
+   {
+    "time": "2026-11-23T11:16:56Z",
+    "gold": 415123,
+    "elixir": 505576,
+    "darkElixir": 2003,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-23T11:17:46Z",
+    "gold": 186642,
+    "elixir": 208550,
+    "darkElixir": 9640,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-23T11:18:08Z",
+    "gold": 413887,
+    "elixir": 383788,
+    "darkElixir": 4392,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-23T11:18:29Z",
+    "gold": 345652,
+    "elixir": 420555,
+    "darkElixir": 3654,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-23T11:18:49Z",
+    "gold": 113456,
+    "elixir": 217390,
+    "darkElixir": 1249,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
    }
   ]
  },
@@ -180186,6 +180241,28 @@
     "elixir": 1524062,
     "darkElixir": 4290,
     "battleTime": 138,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T11:18:03Z",
+    "gold": 546941,
+    "elixir": 501709,
+    "darkElixir": 3706,
+    "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T11:21:23Z",
+    "gold": 357873,
+    "elixir": 78834,
+    "darkElixir": 7287,
+    "battleTime": 127,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
