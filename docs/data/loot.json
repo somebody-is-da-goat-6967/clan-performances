@@ -148106,6 +148106,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-23T04:23:00Z",
+    "gold": 278458,
+    "elixir": 382097,
+    "darkElixir": 4006,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-23T04:23:40Z",
+    "gold": 339932,
+    "elixir": 445770,
+    "darkElixir": 3075,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
    }
   ]
  },
@@ -155648,7 +155670,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "LEVEL LAND™",
+  "clan": "Req N Leave",
   "th": 16,
   "entries": [
    {
