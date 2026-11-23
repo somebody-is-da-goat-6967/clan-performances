@@ -17426,6 +17426,83 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 58
+   },
+   {
+    "time": "2026-11-23T21:08:47Z",
+    "gold": 505007,
+    "elixir": 268700,
+    "darkElixir": 2212,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-23T21:09:21Z",
+    "gold": 264616,
+    "elixir": 310000,
+    "darkElixir": 3580,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-23T21:09:56Z",
+    "gold": 191026,
+    "elixir": 170536,
+    "darkElixir": 4660,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-23T21:10:26Z",
+    "gold": 810765,
+    "elixir": 299288,
+    "darkElixir": 12238,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-23T21:11:12Z",
+    "gold": 616161,
+    "elixir": 612993,
+    "darkElixir": 7637,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-23T21:11:44Z",
+    "gold": 806394,
+    "elixir": 1443542,
+    "darkElixir": 5652,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-23T21:13:14Z",
+    "gold": 1171607,
+    "elixir": 1029676,
+    "darkElixir": 4383,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 78
    }
   ]
  },
@@ -22534,6 +22611,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-23T21:10:34Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 179,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T21:15:54Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 170,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
    }
   ]
  },
@@ -42067,7 +42166,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "VALHEIM",
+  "clan": "BD Army Club",
   "th": 19,
   "entries": [
    {
