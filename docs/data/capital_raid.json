@@ -601,6 +601,19 @@
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Juli",
+  "tag": "#8Q22RY0G",
+  "attacks": 3,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 19939,
+  "avgLoot": 6646.3
+ },
+ {
+  "seasonId": "2026-11-20T07:00:00Z",
+  "seasonStart": "2026-11-20T07:00:00Z",
+  "state": "ongoing",
   "clanTag": "#QQR8892U",
   "name": "I N F E R N O",
   "tag": "#2UY0YR2YG",
@@ -661,19 +674,6 @@
   "missed": null,
   "loot": 13859,
   "avgLoot": 2309.8
- },
- {
-  "seasonId": "2026-11-20T07:00:00Z",
-  "seasonStart": "2026-11-20T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Juli",
-  "tag": "#8Q22RY0G",
-  "attacks": 2,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 12714,
-  "avgLoot": 6357.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
