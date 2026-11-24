@@ -72273,6 +72273,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T19:24:04Z",
+    "gold": 473304,
+    "elixir": 1145129,
+    "darkElixir": 5503,
+    "battleTime": 158,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -87552,7 +87563,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LIGHTNING WAR",
+  "clan": "INFERNO BREAKER",
   "th": 19,
   "entries": [
    {
@@ -122037,6 +122048,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T19:26:01Z",
+    "gold": 805530,
+    "elixir": 315428,
+    "darkElixir": 8280,
+    "battleTime": 165,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 61
    }
   ]
  },
@@ -154199,6 +154221,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 27
+   },
+   {
+    "time": "2026-11-24T19:26:16Z",
+    "gold": 1524709,
+    "elixir": 1529415,
+    "darkElixir": 7590,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
