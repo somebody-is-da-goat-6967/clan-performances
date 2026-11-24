@@ -29952,6 +29952,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T08:45:11Z",
+    "gold": 168539,
+    "elixir": 583384,
+    "darkElixir": 4573,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 88
    }
   ]
  },
@@ -77401,7 +77412,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "3 Star in SUN",
+  "clan": "3 star in sun 4",
   "th": 19,
   "entries": [
    {
