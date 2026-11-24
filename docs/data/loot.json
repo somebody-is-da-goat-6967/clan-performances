@@ -2467,7 +2467,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "THE WARRIOR",
+  "clan": "dc.gg/koths",
   "th": 19,
   "entries": [
    {
@@ -52550,6 +52550,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 73
+   },
+   {
+    "time": "2026-11-24T02:02:15Z",
+    "gold": 662277,
+    "elixir": 551618,
+    "darkElixir": 6828,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-24T02:02:40Z",
+    "gold": 539398,
+    "elixir": 1062646,
+    "darkElixir": 5579,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-24T02:04:20Z",
+    "gold": 473450,
+    "elixir": 505786,
+    "darkElixir": 4348,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-24T02:05:21Z",
+    "gold": 1483777,
+    "elixir": 1475619,
+    "darkElixir": 5091,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-24T02:05:53Z",
+    "gold": 1284206,
+    "elixir": 1446097,
+    "darkElixir": 12243,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-24T02:06:17Z",
+    "gold": 1942443,
+    "elixir": 1942443,
+    "darkElixir": 12367,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-24T02:06:41Z",
+    "gold": 1967452,
+    "elixir": 1470338,
+    "darkElixir": 12758,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-24T02:07:23Z",
+    "gold": 624828,
+    "elixir": 454430,
+    "darkElixir": 10396,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
    }
   ]
  },
@@ -83393,7 +83481,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LIGHTNING WAR",
+  "clan": "dc.gg/koths",
   "th": 19,
   "entries": [
    {
@@ -162734,6 +162822,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T02:02:26Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 160,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
