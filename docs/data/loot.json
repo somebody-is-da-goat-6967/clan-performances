@@ -21284,6 +21284,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-24T22:25:36Z",
+    "gold": 2883305,
+    "elixir": 2112042,
+    "darkElixir": 19218,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -78457,6 +78468,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T22:21:29Z",
+    "gold": 1035000,
+    "elixir": 894474,
+    "darkElixir": 10350,
+    "battleTime": 175,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 93
+   },
+   {
+    "time": "2026-11-24T22:24:10Z",
+    "gold": 414000,
+    "elixir": 828000,
+    "darkElixir": 0,
+    "battleTime": 160,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 76
    }
   ]
  },
@@ -176240,7 +176273,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "THE WARRIOR",
+  "clan": "MASTER EMPIRE",
   "th": 16,
   "entries": [
    {
