@@ -87530,7 +87530,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "Luçifer's Hell",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
@@ -144882,6 +144882,17 @@
     "battleTime": 144,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T19:11:30Z",
+    "gold": 447377,
+    "elixir": 715369,
+    "darkElixir": 8335,
+    "battleTime": 74,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
