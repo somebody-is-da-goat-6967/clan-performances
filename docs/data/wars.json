@@ -7896,12 +7896,12 @@
   "tag": "#2R9JLPL9Y",
   "th": 17,
   "pos": 21,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 1,
+  "avgDestruction": 95.0,
+  "attackDetail": "1★ 95%"
  },
  {
   "date": "2026-11-23T18:54:57Z",
