@@ -80047,6 +80047,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T19:59:03Z",
+    "gold": 2253848,
+    "elixir": 2091368,
+    "darkElixir": 12167,
+    "battleTime": 66,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
    }
   ]
  },
@@ -125766,6 +125777,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-24T19:58:41Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 126,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -168031,7 +168053,7 @@
  {
   "tag": "#92V28VQVP",
   "name": "GGWP:SAYONO",
-  "clan": "THE WARRIOR",
+  "clan": "Legacy 1.0",
   "th": 16,
   "entries": [
    {
