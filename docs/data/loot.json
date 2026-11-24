@@ -41809,6 +41809,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 74
+   },
+   {
+    "time": "2026-11-24T18:18:39Z",
+    "gold": 706784,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 163,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 88
    }
   ]
  },
@@ -144488,6 +144499,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T18:17:23Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 147,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -168264,7 +168286,7 @@
  {
   "tag": "#GG2RQ9UPY",
   "name": "Ishtiaq Bai",
-  "clan": "Reaper crew",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
@@ -169234,6 +169256,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-24T16:54:30Z",
+    "gold": 577544,
+    "elixir": 572713,
+    "darkElixir": 8270,
+    "battleTime": 92,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T17:12:02Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 3441,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 86
    }
   ]
  },
