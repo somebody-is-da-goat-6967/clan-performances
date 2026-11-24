@@ -41842,6 +41842,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-24T18:30:03Z",
+    "gold": 1035000,
+    "elixir": 984453,
+    "darkElixir": 10350,
+    "battleTime": 171,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 92
    }
   ]
  },
@@ -144543,6 +144554,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T18:31:38Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -196494,7 +196516,7 @@
  {
   "tag": "#QCLQV9V8Y",
   "name": "Mars",
-  "clan": "Reaper crew",
+  "clan": "SchizoMaxxing",
   "th": 11,
   "entries": []
  },
