@@ -19414,6 +19414,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 84
+   },
+   {
+    "time": "2026-11-24T09:15:30Z",
+    "gold": 2079321,
+    "elixir": 1801652,
+    "darkElixir": 10027,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -30869,6 +30880,17 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 129,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T09:15:19Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 161,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -46465,6 +46487,17 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 99
+   },
+   {
+    "time": "2026-11-24T09:15:38Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 1,
+    "destruction": 94
    }
   ]
  },
@@ -77478,7 +77511,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "3 star in sun 4",
+  "clan": "ELITE SPEC OPS",
   "th": 19,
   "entries": [
    {
@@ -154945,6 +154978,17 @@
     "elixir": 478626,
     "darkElixir": 6457,
     "battleTime": 106,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T09:13:48Z",
+    "gold": 583367,
+    "elixir": 576447,
+    "darkElixir": 4398,
+    "battleTime": 127,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
