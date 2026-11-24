@@ -41886,6 +41886,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 82
+   },
+   {
+    "time": "2026-11-24T18:44:24Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 170,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -56144,6 +56155,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 112,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T18:45:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 174,
     "league": "",
     "battleType": "legend",
     "stars": 3,
@@ -73128,6 +73150,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-24T18:43:27Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T18:45:53Z",
+    "gold": 693209,
+    "elixir": 767934,
+    "darkElixir": 8280,
+    "battleTime": 80,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 63
    }
   ]
  },
@@ -87376,7 +87420,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LIGHTNING WAR",
+  "clan": "Luçifer's Hell",
   "th": 19,
   "entries": [
    {
@@ -111567,6 +111611,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T18:41:43Z",
+    "gold": 1204205,
+    "elixir": 1926683,
+    "darkElixir": 8330,
+    "battleTime": 115,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -112711,6 +112766,17 @@
     "battleTime": 131,
     "league": "",
     "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T18:45:03Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 106,
+    "league": "",
+    "battleType": "ranked",
     "stars": 3,
     "destruction": 100
    }
