@@ -17800,6 +17800,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T00:54:13Z",
+    "gold": 416358,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 125,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
@@ -95504,7 +95515,7 @@
  {
   "tag": "#LVYLQJVRJ",
   "name": "Brisc",
-  "clan": "Ched",
+  "clan": "Reaper Crew",
   "th": 18,
   "entries": [
    {
@@ -132567,6 +132578,17 @@
     "elixir": 1660308,
     "darkElixir": 9159,
     "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T00:54:28Z",
+    "gold": 891111,
+    "elixir": 1066189,
+    "darkElixir": 9994,
+    "battleTime": 132,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
