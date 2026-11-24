@@ -151505,6 +151505,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T03:28:50Z",
+    "gold": 1025000,
+    "elixir": 1004499,
+    "darkElixir": 10320,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
    }
   ]
  },
@@ -160809,7 +160820,7 @@
  {
   "tag": "#GCY8JPU8L",
   "name": "Dark God 2",
-  "clan": "THE WARRIOR",
+  "clan": "G3’s Clan",
   "th": 16,
   "entries": [
    {
