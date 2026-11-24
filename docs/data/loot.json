@@ -25654,7 +25654,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "kïńģš-●•s♧guard",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -151736,6 +151736,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T04:54:23Z",
+    "gold": 820000,
+    "elixir": 820000,
+    "darkElixir": 10320,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 69
    }
   ]
  },
