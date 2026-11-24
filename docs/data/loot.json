@@ -43588,7 +43588,7 @@
  {
   "tag": "#PP8CLJC2G",
   "name": "Mochi",
-  "clan": "",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -75028,7 +75028,7 @@
  {
   "tag": "#8LC0Y2U9L",
   "name": "Vitosya17",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -190819,6 +190819,17 @@
     "elixir": 1013000,
     "darkElixir": 10250,
     "battleTime": 165,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T22:44:45Z",
+    "gold": 1013000,
+    "elixir": 1013000,
+    "darkElixir": 10250,
+    "battleTime": 162,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
