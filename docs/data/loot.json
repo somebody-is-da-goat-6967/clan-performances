@@ -153125,7 +153125,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Everdraco™",
+  "clan": "LopsideD",
   "th": 17,
   "entries": [
    {
@@ -154824,6 +154824,17 @@
     "elixir": 1596209,
     "darkElixir": 10359,
     "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T08:55:25Z",
+    "gold": 387919,
+    "elixir": 1699812,
+    "darkElixir": 6818,
+    "battleTime": 85,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
