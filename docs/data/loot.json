@@ -9171,6 +9171,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 95
+   },
+   {
+    "time": "2026-11-24T06:19:35Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 177,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -172026,7 +172037,7 @@
  {
   "tag": "#R20JPGL9R",
   "name": "Abir 7525",
-  "clan": "Evil Windows 7",
+  "clan": "",
   "th": 15,
   "entries": [
    {
