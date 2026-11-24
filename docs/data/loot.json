@@ -38851,6 +38851,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-24T16:52:50Z",
+    "gold": 1799710,
+    "elixir": 1794274,
+    "darkElixir": 11137,
+    "battleTime": 160,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T16:55:21Z",
+    "gold": 1364146,
+    "elixir": 1652390,
+    "darkElixir": 10731,
+    "battleTime": 113,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
    }
   ]
  },
@@ -41521,6 +41543,17 @@
     "battleTime": 56,
     "league": "",
     "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T16:54:45Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 151,
+    "league": "",
+    "battleType": "ranked",
     "stars": 3,
     "destruction": 100
    }
@@ -148216,6 +148249,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T16:54:16Z",
+    "gold": 2051847,
+    "elixir": 2050979,
+    "darkElixir": 13435,
+    "battleTime": 97,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -167181,7 +167225,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "КАНАРЫ",
+  "clan": "",
   "th": 16,
   "entries": [
    {
