@@ -46894,6 +46894,17 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T15:15:16Z",
+    "gold": 1738484,
+    "elixir": 1833534,
+    "darkElixir": 10133,
+    "battleTime": 128,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -57356,6 +57367,28 @@
     "elixir": 2111244,
     "darkElixir": 13635,
     "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T15:11:41Z",
+    "gold": 2164779,
+    "elixir": 2029840,
+    "darkElixir": 13736,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T15:14:12Z",
+    "gold": 2156192,
+    "elixir": 2156185,
+    "darkElixir": 14444,
+    "battleTime": 125,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -167054,7 +167087,7 @@
  {
   "tag": "#GG2RQ9UPY",
   "name": "Ishtiaq Bai",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper crew",
   "th": 16,
   "entries": [
    {
@@ -173470,6 +173503,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-24T15:14:15Z",
+    "gold": 819200,
+    "elixir": 1024000,
+    "darkElixir": 3883,
+    "battleTime": 168,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 88
    }
   ]
  },
@@ -194483,7 +194527,7 @@
  {
   "tag": "#QGJJ9QCGR",
   "name": "SS",
-  "clan": "SchizoMaxxing",
+  "clan": "Reaper crew",
   "th": 12,
   "entries": [
    {
@@ -194814,7 +194858,7 @@
  {
   "tag": "#QCLQV9V8Y",
   "name": "Mars",
-  "clan": "SchizoMaxxing",
+  "clan": "Reaper crew",
   "th": 11,
   "entries": []
  },
