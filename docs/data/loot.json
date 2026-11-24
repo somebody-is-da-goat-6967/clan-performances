@@ -135464,6 +135464,39 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 20
+   },
+   {
+    "time": "2026-11-24T14:47:01Z",
+    "gold": 341883,
+    "elixir": 572621,
+    "darkElixir": 14031,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-24T14:49:07Z",
+    "gold": 112111,
+    "elixir": 243098,
+    "darkElixir": 11869,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-24T14:50:45Z",
+    "gold": 376181,
+    "elixir": 355298,
+    "darkElixir": 9258,
+    "battleTime": 56,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 42
    }
   ]
  },
@@ -157775,7 +157808,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "THE WARRIOR",
+  "clan": "Legacy 1.0",
   "th": 16,
   "entries": [
    {
@@ -173360,6 +173393,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T14:52:12Z",
+    "gold": 738742,
+    "elixir": 819200,
+    "darkElixir": 6238,
+    "battleTime": 177,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 77
    }
   ]
  },
@@ -174454,7 +174498,7 @@
  {
   "tag": "#LQYG802UU",
   "name": "AFAS",
-  "clan": "Payitaht",
+  "clan": "Legacy 1.0",
   "th": 15,
   "entries": [
    {
