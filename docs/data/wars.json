@@ -10195,12 +10195,12 @@
   "tag": "#Q0Q0VL0LV",
   "th": 16,
   "pos": 27,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 90.0,
+  "attackDetail": "2★ 90%"
  },
  {
   "date": "2026-11-23T18:54:57Z",
