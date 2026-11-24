@@ -8940,6 +8940,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T02:07:31Z",
+    "gold": 904291,
+    "elixir": 846774,
+    "darkElixir": 10350,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 84
    }
   ]
  },
@@ -48103,7 +48114,7 @@
  {
   "tag": "#2Q0QYYGGL",
   "name": "Praz",
-  "clan": "Reaper Crew",
+  "clan": "dc.gg/koths",
   "th": 19,
   "entries": [
    {
