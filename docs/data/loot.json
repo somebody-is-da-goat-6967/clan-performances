@@ -14558,6 +14558,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T17:56:33Z",
+    "gold": 2275435,
+    "elixir": 2404667,
+    "darkElixir": 16087,
+    "battleTime": 103,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -41721,6 +41732,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-24T17:52:57Z",
+    "gold": 621000,
+    "elixir": 632311,
+    "darkElixir": 3622,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 80
+   },
+   {
+    "time": "2026-11-24T17:56:44Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
@@ -87167,7 +87200,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "INFERNO BREAKER",
+  "clan": "fire nation",
   "th": 19,
   "entries": [
    {
@@ -129447,6 +129480,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T17:54:00Z",
+    "gold": 974247,
+    "elixir": 931500,
+    "darkElixir": 10350,
+    "battleTime": 174,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 90
    }
   ]
  },
