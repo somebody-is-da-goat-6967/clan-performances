@@ -4506,6 +4506,17 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 86
+   },
+   {
+    "time": "2026-11-24T02:33:33Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 160,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -52869,6 +52880,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 78
+   },
+   {
+    "time": "2026-11-24T02:31:25Z",
+    "gold": 159350,
+    "elixir": 331434,
+    "darkElixir": 4471,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-24T02:31:49Z",
+    "gold": 365896,
+    "elixir": 1089147,
+    "darkElixir": 965,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
+   },
+   {
+    "time": "2026-11-24T02:32:10Z",
+    "gold": 406378,
+    "elixir": 1394879,
+    "darkElixir": 8458,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-24T02:32:37Z",
+    "gold": 419996,
+    "elixir": 1076800,
+    "darkElixir": 2512,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-24T02:33:07Z",
+    "gold": 245998,
+    "elixir": 1357367,
+    "darkElixir": 8098,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-24T02:35:26Z",
+    "gold": 1828056,
+    "elixir": 1797865,
+    "darkElixir": 1420,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 68
    }
   ]
  },
@@ -151541,7 +151618,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+  "clan": "Alberta Swamp",
   "th": 17,
   "entries": [
    {
