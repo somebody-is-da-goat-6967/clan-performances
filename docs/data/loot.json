@@ -17855,6 +17855,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-24T01:08:27Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 103,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T01:11:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 97,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -42595,7 +42617,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "Qarshi City",
+  "clan": "VALHEIM",
   "th": 19,
   "entries": [
    {
@@ -132681,6 +132703,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 39
+   },
+   {
+    "time": "2026-11-24T01:09:02Z",
+    "gold": 387960,
+    "elixir": 300909,
+    "darkElixir": 11053,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 94
    }
   ]
  },
