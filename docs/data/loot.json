@@ -38873,6 +38873,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 79
+   },
+   {
+    "time": "2026-11-24T16:58:01Z",
+    "gold": 1813125,
+    "elixir": 1811256,
+    "darkElixir": 10171,
+    "battleTime": 110,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-24T17:01:05Z",
+    "gold": 363341,
+    "elixir": 360432,
+    "darkElixir": 12086,
+    "battleTime": 153,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -41556,6 +41578,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T16:59:22Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 90
    }
   ]
  },
@@ -167225,7 +167258,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "",
+  "clan": "LaureTole OGs",
   "th": 16,
   "entries": [
    {
@@ -170061,6 +170094,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-24T16:58:17Z",
+    "gold": 585765,
+    "elixir": 1025000,
+    "darkElixir": 2064,
+    "battleTime": 152,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 72
    }
   ]
  },
@@ -189304,6 +189348,28 @@
     "elixir": 455754,
     "darkElixir": 7749,
     "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T16:57:48Z",
+    "gold": 301515,
+    "elixir": 1224518,
+    "darkElixir": 7049,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T16:59:13Z",
+    "gold": 190847,
+    "elixir": 938421,
+    "darkElixir": 3164,
+    "battleTime": 56,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
