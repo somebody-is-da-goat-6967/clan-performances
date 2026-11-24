@@ -17811,6 +17811,39 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 83
+   },
+   {
+    "time": "2026-11-24T00:56:57Z",
+    "gold": 705333,
+    "elixir": 693208,
+    "darkElixir": 8280,
+    "battleTime": 124,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-24T00:58:59Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 89,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-24T01:01:27Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 98,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -82859,6 +82892,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T01:01:45Z",
+    "gold": 2005982,
+    "elixir": 1965989,
+    "darkElixir": 13741,
+    "battleTime": 69,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -132593,6 +132637,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-24T00:57:57Z",
+    "gold": 605203,
+    "elixir": 747648,
+    "darkElixir": 14369,
+    "battleTime": 141,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 88
+   },
+   {
+    "time": "2026-11-24T01:01:10Z",
+    "gold": 257953,
+    "elixir": 299570,
+    "darkElixir": 7711,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 38
    }
   ]
  },
@@ -191595,7 +191661,7 @@
  {
   "tag": "#R8PLRL2LJ",
   "name": "Tiny Mochi",
-  "clan": "Reaper Crew",
+  "clan": "",
   "th": 10,
   "entries": []
  },
