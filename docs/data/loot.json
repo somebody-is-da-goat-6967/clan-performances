@@ -43866,7 +43866,7 @@
  {
   "tag": "#QUG9CGQVJ",
   "name": "MAYANK",
-  "clan": "CoC Fighters",
+  "clan": "DANGEROUS",
   "th": 19,
   "entries": [
    {
@@ -143101,6 +143101,17 @@
     "gold": 465497,
     "elixir": 1154934,
     "darkElixir": 8563,
+    "battleTime": 69,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T09:41:02Z",
+    "gold": 1834664,
+    "elixir": 534214,
+    "darkElixir": 6636,
     "battleTime": 69,
     "league": "",
     "battleType": "homeVillage",
