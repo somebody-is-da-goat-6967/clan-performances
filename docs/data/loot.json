@@ -31576,7 +31576,7 @@
  {
   "tag": "#PYLG0RPGJ",
   "name": "Jatin",
-  "clan": "MR_MORNINGSTARR",
+  "clan": "DoD Esports",
   "th": 19,
   "entries": [
    {
@@ -133854,6 +133854,61 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T06:50:52Z",
+    "gold": 295811,
+    "elixir": 528236,
+    "darkElixir": 5277,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-25T06:53:09Z",
+    "gold": 718114,
+    "elixir": 846865,
+    "darkElixir": 5931,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-25T06:53:37Z",
+    "gold": 260558,
+    "elixir": 336477,
+    "darkElixir": 4104,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-25T06:54:01Z",
+    "gold": 269975,
+    "elixir": 144513,
+    "darkElixir": 675,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-25T06:54:26Z",
+    "gold": 802481,
+    "elixir": 377159,
+    "darkElixir": 1200,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
    }
   ]
  },
