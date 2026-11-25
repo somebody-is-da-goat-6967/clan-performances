@@ -94847,6 +94847,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:27:04Z",
+    "gold": 1303196,
+    "elixir": 652895,
+    "darkElixir": 6181,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 35
+   },
+   {
+    "time": "2026-11-25T17:29:45Z",
+    "gold": 1849525,
+    "elixir": 1849042,
+    "darkElixir": 9324,
+    "battleTime": 114,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 90
    }
   ]
  },
@@ -181005,7 +181027,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "BASECAMP",
+  "clan": "FUTURE EL!TE*",
   "th": 16,
   "entries": [
    {
@@ -193274,6 +193296,17 @@
     "elixir": 1011000,
     "darkElixir": 10230,
     "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:28:16Z",
+    "gold": 1011000,
+    "elixir": 1011000,
+    "darkElixir": 10230,
+    "battleTime": 166,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
