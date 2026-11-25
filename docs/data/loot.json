@@ -53372,7 +53372,7 @@
  {
   "tag": "#2Q0QYYGGL",
   "name": "Praz",
-  "clan": "União ™️",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -126958,6 +126958,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 144,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T01:49:23Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 143,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
