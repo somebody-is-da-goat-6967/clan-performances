@@ -175146,6 +175146,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 59
+   },
+   {
+    "time": "2026-11-25T00:58:42Z",
+    "gold": 977000,
+    "elixir": 977000,
+    "darkElixir": 10040,
+    "battleTime": 124,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T01:01:07Z",
+    "gold": 977000,
+    "elixir": 977000,
+    "darkElixir": 10040,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -179211,7 +179233,7 @@
  {
   "tag": "#LUVUVQL8L",
   "name": "Aryan",
-  "clan": "Reaper Crew",
+  "clan": "",
   "th": 15,
   "entries": [
    {
