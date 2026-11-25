@@ -196306,7 +196306,7 @@
  {
   "tag": "#GJPG0P08C",
   "name": "Bondokk",
-  "clan": "Reaper Two",
+  "clan": "Reaper Crew",
   "th": 14,
   "entries": [
    {
@@ -197475,6 +197475,17 @@
     "battleTime": 139,
     "league": "",
     "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T16:34:32Z",
+    "gold": 965000,
+    "elixir": 965000,
+    "darkElixir": 9970,
+    "battleTime": 145,
+    "league": "",
+    "battleType": "ranked",
     "stars": 3,
     "destruction": 100
    }
