@@ -414,7 +414,7 @@
  {
   "tag": "#8LUPJG8VG",
   "name": "Abo7med",
-  "clan": "The Saviours",
+  "clan": "best clan",
   "th": 19,
   "entries": [
    {
@@ -94810,6 +94810,39 @@
     "elixir": 1804454,
     "darkElixir": 11281,
     "battleTime": 125,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:22:04Z",
+    "gold": 1970838,
+    "elixir": 831512,
+    "darkElixir": 13407,
+    "battleTime": 148,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:24:36Z",
+    "gold": 1502720,
+    "elixir": 79645,
+    "darkElixir": 5444,
+    "battleTime": 145,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:26:06Z",
+    "gold": 1371660,
+    "elixir": 356832,
+    "darkElixir": 8414,
+    "battleTime": 57,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -193234,6 +193267,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 97
+   },
+   {
+    "time": "2026-11-25T17:24:31Z",
+    "gold": 1011000,
+    "elixir": 1011000,
+    "darkElixir": 10230,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
