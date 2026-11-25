@@ -315,12 +315,12 @@
   "tag": "#GPP0V0Q92",
   "th": 19,
   "pos": 7,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 98.0,
+  "attackDetail": "2★ 98%"
  },
  {
   "date": "2026-11-24T20:14:02Z",
