@@ -174663,7 +174663,7 @@
  {
   "tag": "#R0LUUG9Y2",
   "name": "mini Praz",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 16,
   "entries": [
    {
@@ -175186,6 +175186,28 @@
     "elixir": 977000,
     "darkElixir": 10040,
     "battleTime": 122,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T01:08:15Z",
+    "gold": 977000,
+    "elixir": 977000,
+    "darkElixir": 10040,
+    "battleTime": 107,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T01:11:34Z",
+    "gold": 977000,
+    "elixir": 977000,
+    "darkElixir": 10040,
+    "battleTime": 120,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -179255,7 +179277,7 @@
  {
   "tag": "#LUVUVQL8L",
   "name": "Aryan",
-  "clan": "Reaper Crew",
+  "clan": "Reaper crew",
   "th": 15,
   "entries": [
    {
