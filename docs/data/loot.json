@@ -414,7 +414,7 @@
  {
   "tag": "#8LUPJG8VG",
   "name": "Abo7med",
-  "clan": "The Saviours",
+  "clan": "Ghora koth",
   "th": 19,
   "entries": [
    {
@@ -65041,6 +65041,28 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T14:32:11Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T14:35:21Z",
+    "gold": 1035000,
+    "elixir": 698022,
+    "darkElixir": 10350,
+    "battleTime": 146,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 74
    }
   ]
  },
@@ -181743,7 +181765,7 @@
  {
   "tag": "#LQYG802UU",
   "name": "AFAS",
-  "clan": "Payitaht",
+  "clan": "REVOLUTION×ESP",
   "th": 15,
   "entries": [
    {
