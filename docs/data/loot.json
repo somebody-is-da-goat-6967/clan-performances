@@ -96868,6 +96868,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:18:14Z",
+    "gold": 1737071,
+    "elixir": 1851605,
+    "darkElixir": 7983,
+    "battleTime": 147,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 93
    }
   ]
  },
@@ -163937,7 +163948,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "REVOLUTION×ESP",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
