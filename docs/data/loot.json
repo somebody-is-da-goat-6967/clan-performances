@@ -33555,6 +33555,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-25T06:19:41Z",
+    "gold": 1537032,
+    "elixir": 1539152,
+    "darkElixir": 3863,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -179472,7 +179483,7 @@
  {
   "tag": "#R20JPGL9R",
   "name": "Abir 7525",
-  "clan": "ABIR 7525",
+  "clan": "Reaper Two",
   "th": 15,
   "entries": [
    {
@@ -179756,6 +179767,28 @@
     "elixir": 346915,
     "darkElixir": 783,
     "battleTime": 62,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T07:04:42Z",
+    "gold": 1034345,
+    "elixir": 1404335,
+    "darkElixir": 9754,
+    "battleTime": 50,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-23T07:06:39Z",
+    "gold": 1435657,
+    "elixir": 1422530,
+    "darkElixir": 10611,
+    "battleTime": 46,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
