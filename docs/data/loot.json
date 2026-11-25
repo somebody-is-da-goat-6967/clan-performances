@@ -94869,6 +94869,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 90
+   },
+   {
+    "time": "2026-11-25T17:32:13Z",
+    "gold": 1565790,
+    "elixir": 1209410,
+    "darkElixir": 14191,
+    "battleTime": 125,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:34:21Z",
+    "gold": 1567833,
+    "elixir": 1790400,
+    "darkElixir": 13910,
+    "battleTime": 102,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -97523,7 +97545,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "INFERNO BREAKER",
+  "clan": "fire nation",
   "th": 19,
   "entries": [
    {
@@ -97795,7 +97817,7 @@
  {
   "tag": "#29LGJLPPP",
   "name": "Adønis",
-  "clan": "Lightborn",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -181027,7 +181049,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "FUTURE EL!TE*",
+  "clan": "✿Eyes on you✿",
   "th": 16,
   "entries": [
    {
@@ -193307,6 +193329,28 @@
     "elixir": 1011000,
     "darkElixir": 10230,
     "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:31:55Z",
+    "gold": 1011000,
+    "elixir": 1011000,
+    "darkElixir": 10230,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 92
+   },
+   {
+    "time": "2026-11-25T17:34:45Z",
+    "gold": 1011000,
+    "elixir": 1011000,
+    "darkElixir": 10230,
+    "battleTime": 147,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
