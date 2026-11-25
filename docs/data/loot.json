@@ -95034,6 +95034,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T18:12:07Z",
+    "gold": 1535889,
+    "elixir": 1535889,
+    "darkElixir": 8632,
+    "battleTime": 101,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T18:14:55Z",
+    "gold": 1141660,
+    "elixir": 750975,
+    "darkElixir": 14369,
+    "battleTime": 121,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -97688,7 +97710,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "fire nation",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
@@ -130410,6 +130432,83 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 53
+   },
+   {
+    "time": "2026-11-25T18:11:54Z",
+    "gold": 152466,
+    "elixir": 170509,
+    "darkElixir": 1942,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-25T18:12:10Z",
+    "gold": 263944,
+    "elixir": 209121,
+    "darkElixir": 3083,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-25T18:12:29Z",
+    "gold": 598930,
+    "elixir": 612298,
+    "darkElixir": 8253,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-25T18:12:52Z",
+    "gold": 465726,
+    "elixir": 392058,
+    "darkElixir": 4783,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-25T18:13:21Z",
+    "gold": 453906,
+    "elixir": 455862,
+    "darkElixir": 4997,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-25T18:13:36Z",
+    "gold": 328145,
+    "elixir": 332785,
+    "darkElixir": 3335,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-25T18:13:55Z",
+    "gold": 10059,
+    "elixir": 16359,
+    "darkElixir": 188,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
    }
   ]
  },
@@ -193353,7 +193452,7 @@
  {
   "tag": "#YUQ8GCYJQ",
   "name": "TH5 Push",
-  "clan": "",
+  "clan": "Legacy 1.0",
   "th": 15,
   "entries": [
    {
