@@ -30718,6 +30718,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 60
+   },
+   {
+    "time": "2026-11-25T11:02:41Z",
+    "gold": 712178,
+    "elixir": 427466,
+    "darkElixir": 10695,
+    "battleTime": 104,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 62
    }
   ]
  },
@@ -51210,7 +51221,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "Hard to believe",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -173724,6 +173735,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 95
+   },
+   {
+    "time": "2026-11-25T11:05:02Z",
+    "gold": 828000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 177,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 86
    }
   ]
  },
