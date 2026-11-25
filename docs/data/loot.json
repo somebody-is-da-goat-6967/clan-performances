@@ -41641,6 +41641,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-25T05:33:45Z",
+    "gold": 828000,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 171,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 93
+   },
+   {
+    "time": "2026-11-25T05:36:37Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -144269,6 +144291,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T05:32:33Z",
+    "gold": 1087805,
+    "elixir": 1235400,
+    "darkElixir": 10200,
+    "battleTime": 128,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T05:35:34Z",
+    "gold": 1729704,
+    "elixir": 1720083,
+    "darkElixir": 9817,
+    "battleTime": 122,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -159871,6 +159915,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T05:32:30Z",
+    "gold": 1164771,
+    "elixir": 1138574,
+    "darkElixir": 6519,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 92
+   },
+   {
+    "time": "2026-11-25T05:35:55Z",
+    "gold": 1122734,
+    "elixir": 752881,
+    "darkElixir": 12540,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 69
    }
   ]
  },
@@ -177156,7 +177222,7 @@
  {
   "tag": "#GYY29R8LG",
   "name": "R.a.d.o.w.a.n 2",
-  "clan": "R.S.P king",
+  "clan": "Massaget",
   "th": 16,
   "entries": [
    {
