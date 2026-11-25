@@ -414,7 +414,7 @@
  {
   "tag": "#8LUPJG8VG",
   "name": "Abo7med",
-  "clan": "Reaper Crew",
+  "clan": "The Saviours",
   "th": 19,
   "entries": [
    {
@@ -53496,6 +53496,17 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T07:26:47Z",
+    "gold": 941217,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
