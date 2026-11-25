@@ -41419,7 +41419,7 @@
  {
   "tag": "#QUG9CGQVJ",
   "name": "MAYANK",
-  "clan": "Reaper Crew",
+  "clan": "DANGEROUS",
   "th": 19,
   "entries": [
    {
@@ -159948,6 +159948,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T05:41:48Z",
+    "gold": 1275397,
+    "elixir": 1373092,
+    "darkElixir": 14539,
+    "battleTime": 96,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
    }
   ]
  },
