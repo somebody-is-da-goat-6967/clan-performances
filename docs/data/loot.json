@@ -97930,7 +97930,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LIGHTNING WAR",
+  "clan": "fire nation",
   "th": 19,
   "entries": [
    {
@@ -151249,6 +151249,28 @@
     "battleTime": 156,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T19:48:54Z",
+    "gold": 663440,
+    "elixir": 639489,
+    "darkElixir": 10226,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T19:51:11Z",
+    "gold": 375359,
+    "elixir": 398689,
+    "darkElixir": 6014,
+    "battleTime": 102,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
