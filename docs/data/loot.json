@@ -54635,7 +54635,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "VALHEIM",
+  "clan": "KOMAHDOSS!",
   "th": 19,
   "entries": [
    {
@@ -96918,7 +96918,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LA_NOVA_ESP",
+  "clan": "fire nation",
   "th": 19,
   "entries": [
    {
@@ -174758,6 +174758,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 97
+   },
+   {
+    "time": "2026-11-25T15:44:33Z",
+    "gold": 1035000,
+    "elixir": 953642,
+    "darkElixir": 2070,
+    "battleTime": 179,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 87
    }
   ]
  },
@@ -203905,6 +203916,50 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:44:35Z",
+    "gold": 128846,
+    "elixir": 112237,
+    "darkElixir": 2233,
+    "battleTime": 80,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:45:40Z",
+    "gold": 658377,
+    "elixir": 695839,
+    "darkElixir": 2489,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:47:29Z",
+    "gold": 44898,
+    "elixir": 39986,
+    "darkElixir": 247,
+    "battleTime": 78,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:50:52Z",
+    "gold": 312695,
+    "elixir": 599389,
+    "darkElixir": 7634,
+    "battleTime": 89,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
    }
   ]
  },
