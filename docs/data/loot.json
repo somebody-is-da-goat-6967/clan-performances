@@ -9710,6 +9710,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 74
+   },
+   {
+    "time": "2026-11-25T06:59:00Z",
+    "gold": 1724085,
+    "elixir": 1773046,
+    "darkElixir": 10554,
+    "battleTime": 123,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T07:00:30Z",
+    "gold": 1804373,
+    "elixir": 454406,
+    "darkElixir": 4397,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -43264,7 +43286,7 @@
  {
   "tag": "#QUG9CGQVJ",
   "name": "MAYANK",
-  "clan": "Champion",
+  "clan": "CoC Fighters",
   "th": 19,
   "entries": [
    {
@@ -116791,7 +116813,7 @@
  {
   "tag": "#9C9G80Y8G",
   "name": "JaY 11",
-  "clan": "Afterlife jr™",
+  "clan": "",
   "th": 18,
   "entries": [
    {
