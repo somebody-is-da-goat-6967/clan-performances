@@ -691,6 +691,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-25T07:22:59Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 175,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -53470,6 +53481,17 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 140,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T07:23:04Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 159,
     "league": "",
     "battleType": "legend",
     "stars": 3,
@@ -117107,7 +117129,7 @@
  {
   "tag": "#9C9G80Y8G",
   "name": "JaY 11",
-  "clan": "",
+  "clan": "Afterlife jr™",
   "th": 18,
   "entries": [
    {
