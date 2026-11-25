@@ -3234,7 +3234,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "TC KOTH EVENT",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -97930,7 +97930,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "TC KOTH EVENT",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
@@ -182437,7 +182437,7 @@
  {
   "tag": "#G8GCU2RPV",
   "name": "⚡THE KING⚡",
-  "clan": "REQUEST $ LEAVE",
+  "clan": "⚡ UNBEATABLE ⚡",
   "th": 16,
   "entries": [
    {
@@ -199476,6 +199476,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T19:30:10Z",
+    "gold": 772000,
+    "elixir": 819333,
+    "darkElixir": 1994,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 74
    }
   ]
  },
