@@ -85532,7 +85532,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "Monkey Bizness",
+  "clan": "ELITE SPEC OPS",
   "th": 19,
   "entries": [
    {
@@ -103097,6 +103097,28 @@
     "elixir": 703311,
     "darkElixir": 4851,
     "battleTime": 107,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T09:12:32Z",
+    "gold": 0,
+    "elixir": 13473,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 0
+   },
+   {
+    "time": "2026-11-25T09:14:58Z",
+    "gold": 978244,
+    "elixir": 434516,
+    "darkElixir": 6550,
+    "battleTime": 123,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
