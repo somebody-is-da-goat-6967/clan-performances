@@ -32044,7 +32044,7 @@
  {
   "tag": "#9GYP8VLPV",
   "name": "GF^KEVAL...™",
-  "clan": "kïńģš-●•s♧guard",
+  "clan": "Gang of Gujrat",
   "th": 19,
   "entries": [
    {
@@ -47292,6 +47292,17 @@
     "elixir": 1584564,
     "darkElixir": 3302,
     "battleTime": 179,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:07:29Z",
+    "gold": 377901,
+    "elixir": 391158,
+    "darkElixir": 3886,
+    "battleTime": 119,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -96863,7 +96874,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "fire nation",
+  "clan": "LA_NOVA_ESP",
   "th": 19,
   "entries": [
    {
@@ -109734,6 +109745,39 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 143,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:06:10Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 149,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:08:46Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 104,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T15:11:21Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 157,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
