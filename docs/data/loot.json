@@ -88924,7 +88924,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "ELITE SPEC OPS",
   "th": 19,
   "entries": [
    {
@@ -179089,7 +179089,7 @@
  {
   "tag": "#GYY29R8LG",
   "name": "R.a.d.o.w.a.n 2",
-  "clan": "Bangladesh King",
+  "clan": "REVOLUTION×ESP",
   "th": 16,
   "entries": [
    {
@@ -196971,6 +196971,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T14:02:43Z",
+    "gold": 735637,
+    "elixir": 1354334,
+    "darkElixir": 3565,
+    "battleTime": 171,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 92
    }
   ]
  },
