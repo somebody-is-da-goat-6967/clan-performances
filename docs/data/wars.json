@@ -8523,12 +8523,12 @@
   "tag": "#9JVGJGL8Q",
   "th": 17,
   "pos": 34,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 97.0,
+  "attackDetail": "2★ 97%"
  },
  {
   "date": "2026-11-24T20:14:02Z",
