@@ -113766,7 +113766,7 @@
  {
   "tag": "#9VJP2Q89J",
   "name": "Het",
-  "clan": "Reaper Crew",
+  "clan": "DANGEROUS",
   "th": 18,
   "entries": [
    {
@@ -149443,6 +149443,17 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 125,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T12:10:39Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 144,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
