@@ -2196,6 +2196,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 69
+   },
+   {
+    "time": "2026-11-25T17:06:17Z",
+    "gold": 501935,
+    "elixir": 481227,
+    "darkElixir": 11630,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 33
    }
   ]
  },
@@ -22250,6 +22261,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-25T17:01:25Z",
+    "gold": 472427,
+    "elixir": 714531,
+    "darkElixir": 13717,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 91
    }
   ]
  },
@@ -47648,6 +47670,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 72
+   },
+   {
+    "time": "2026-11-25T17:02:34Z",
+    "gold": 794185,
+    "elixir": 255986,
+    "darkElixir": 1176,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-25T17:06:19Z",
+    "gold": 679897,
+    "elixir": 895906,
+    "darkElixir": 13306,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
@@ -54943,7 +54987,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "",
+  "clan": "VALHEIM",
   "th": 19,
   "entries": [
    {
@@ -94579,6 +94623,28 @@
     "elixir": 428619,
     "darkElixir": 4510,
     "battleTime": 97,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:02:00Z",
+    "gold": 1631178,
+    "elixir": 1155376,
+    "darkElixir": 9124,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:06:29Z",
+    "gold": 1940134,
+    "elixir": 1940141,
+    "darkElixir": 11798,
+    "battleTime": 129,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -173513,6 +173579,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 86
+   },
+   {
+    "time": "2026-11-25T17:02:16Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 110,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:05:27Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -179914,7 +180002,7 @@
  {
   "tag": "#GYY29R8LG",
   "name": "R.a.d.o.w.a.n 2",
-  "clan": "DARK HOUNDS 2.0",
+  "clan": "Bad boyes",
   "th": 16,
   "entries": [
    {
@@ -191795,6 +191883,39 @@
     "elixir": 716854,
     "darkElixir": 9146,
     "battleTime": 51,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:03:41Z",
+    "gold": 620895,
+    "elixir": 542822,
+    "darkElixir": 4711,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 83
+   },
+   {
+    "time": "2026-11-25T17:04:35Z",
+    "gold": 399748,
+    "elixir": 536066,
+    "darkElixir": 5211,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T17:05:58Z",
+    "gold": 1282150,
+    "elixir": 1401025,
+    "darkElixir": 8828,
+    "battleTime": 44,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
