@@ -33577,6 +33577,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T06:27:46Z",
+    "gold": 464893,
+    "elixir": 364830,
+    "darkElixir": 5804,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T06:29:29Z",
+    "gold": 1462981,
+    "elixir": 1462988,
+    "darkElixir": 10439,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -179494,7 +179516,7 @@
  {
   "tag": "#R20JPGL9R",
   "name": "Abir 7525",
-  "clan": "Syndicate",
+  "clan": "",
   "th": 15,
   "entries": [
    {
@@ -199341,6 +199363,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 16
+   },
+   {
+    "time": "2026-11-25T06:30:33Z",
+    "gold": 149028,
+    "elixir": 300833,
+    "darkElixir": 268,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 32
    }
   ]
  },
