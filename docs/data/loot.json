@@ -79374,6 +79374,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 71
+   },
+   {
+    "time": "2026-11-25T18:29:04Z",
+    "gold": 2073582,
+    "elixir": 1646365,
+    "darkElixir": 12654,
+    "battleTime": 69,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -95078,6 +95089,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 12
+   },
+   {
+    "time": "2026-11-25T18:27:22Z",
+    "gold": 1138422,
+    "elixir": 1322043,
+    "darkElixir": 19583,
+    "battleTime": 106,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -98004,7 +98026,7 @@
  {
   "tag": "#29LGJLPPP",
   "name": "Adønis",
-  "clan": "",
+  "clan": "Request & Leave",
   "th": 18,
   "entries": [
    {
