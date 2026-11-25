@@ -53034,7 +53034,7 @@
  {
   "tag": "#2Q0QYYGGL",
   "name": "Praz",
-  "clan": "Reaper Crew",
+  "clan": "União ™️",
   "th": 19,
   "entries": [
    {
@@ -150306,6 +150306,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T01:19:52Z",
+    "gold": 1092572,
+    "elixir": 1087442,
+    "darkElixir": 9623,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -175223,6 +175234,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T01:16:18Z",
+    "gold": 977000,
+    "elixir": 977000,
+    "darkElixir": 10040,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T01:18:21Z",
+    "gold": 977000,
+    "elixir": 977000,
+    "darkElixir": 10040,
+    "battleTime": 110,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -175820,7 +175853,7 @@
  {
   "tag": "#GYY29R8LG",
   "name": "R.a.d.o.w.a.n 2",
-  "clan": "DARK HOUNDS",
+  "clan": "R.S.P king",
   "th": 16,
   "entries": [
    {
