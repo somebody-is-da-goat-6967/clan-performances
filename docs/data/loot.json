@@ -3234,7 +3234,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "July",
+  "clan": "TC KOTH EVENT",
   "th": 19,
   "entries": [
    {
@@ -97930,7 +97930,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "fire nation",
+  "clan": "TC KOTH EVENT",
   "th": 19,
   "entries": [
    {
@@ -199461,6 +199461,17 @@
     "elixir": 965000,
     "darkElixir": 9970,
     "battleTime": 173,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T19:18:51Z",
+    "gold": 965000,
+    "elixir": 965000,
+    "darkElixir": 9970,
+    "battleTime": 151,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
