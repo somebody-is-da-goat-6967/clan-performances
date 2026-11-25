@@ -125,12 +125,12 @@
   "tag": "#J2JJLYYY",
   "th": 19,
   "pos": 4,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 95.0,
+  "attackDetail": "2★ 95%"
  },
  {
   "date": "2026-11-24T20:14:02Z",
