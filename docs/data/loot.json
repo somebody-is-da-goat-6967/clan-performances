@@ -15930,6 +15930,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T20:33:03Z",
+    "gold": 2258255,
+    "elixir": 2275611,
+    "darkElixir": 9328,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -181665,7 +181676,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "MASTER EMPIRE",
+  "clan": "|MPERIAL ✪ CLUB",
   "th": 16,
   "entries": [
    {
@@ -199509,6 +199520,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 74
+   },
+   {
+    "time": "2026-11-25T20:31:07Z",
+    "gold": 965000,
+    "elixir": 799871,
+    "darkElixir": 9970,
+    "battleTime": 178,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
