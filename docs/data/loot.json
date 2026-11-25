@@ -33621,6 +33621,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 70
+   },
+   {
+    "time": "2026-11-25T06:36:35Z",
+    "gold": 1487204,
+    "elixir": 1258411,
+    "darkElixir": 8825,
+    "battleTime": 24,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 84
    }
   ]
  },
@@ -43198,7 +43209,7 @@
  {
   "tag": "#QUG9CGQVJ",
   "name": "MAYANK",
-  "clan": "DANGEROUS",
+  "clan": "Champion",
   "th": 19,
   "entries": [
    {
