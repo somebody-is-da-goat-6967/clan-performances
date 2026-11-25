@@ -22206,6 +22206,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-25T16:57:25Z",
+    "gold": 1594642,
+    "elixir": 1279183,
+    "darkElixir": 10585,
+    "battleTime": 49,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 92
+   },
+   {
+    "time": "2026-11-25T16:59:30Z",
+    "gold": 662991,
+    "elixir": 497055,
+    "darkElixir": 2556,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-25T17:00:02Z",
+    "gold": 368627,
+    "elixir": 579190,
+    "darkElixir": 7594,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-25T17:00:29Z",
+    "gold": 311694,
+    "elixir": 318073,
+    "darkElixir": 4971,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
    }
   ]
  },
@@ -47589,6 +47633,17 @@
     "elixir": 568980,
     "darkElixir": 2476,
     "battleTime": 137,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-25T16:59:53Z",
+    "gold": 779532,
+    "elixir": 642559,
+    "darkElixir": 8769,
+    "battleTime": 143,
     "league": "",
     "battleType": "homeVillage",
     "stars": 1,
@@ -94513,6 +94568,17 @@
     "elixir": 2316065,
     "darkElixir": 15314,
     "battleTime": 106,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T16:59:00Z",
+    "gold": 405873,
+    "elixir": 428619,
+    "darkElixir": 4510,
+    "battleTime": 97,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -173436,6 +173502,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T16:59:46Z",
+    "gold": 973511,
+    "elixir": 1025000,
+    "darkElixir": 7238,
+    "battleTime": 165,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 86
    }
   ]
  },
@@ -179837,7 +179914,7 @@
  {
   "tag": "#GYY29R8LG",
   "name": "R.a.d.o.w.a.n 2",
-  "clan": "REVOLUTION×ESP",
+  "clan": "DARK HOUNDS 2.0",
   "th": 16,
   "entries": [
    {
