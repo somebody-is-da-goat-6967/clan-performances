@@ -414,7 +414,7 @@
  {
   "tag": "#8LUPJG8VG",
   "name": "Abo7med",
-  "clan": "best clan",
+  "clan": "The Saviours",
   "th": 19,
   "entries": [
    {
@@ -95023,6 +95023,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-25T18:09:52Z",
+    "gold": 2111344,
+    "elixir": 2111344,
+    "darkElixir": 12402,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -130311,6 +130322,94 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 90
+   },
+   {
+    "time": "2026-11-25T18:08:48Z",
+    "gold": 151135,
+    "elixir": 673243,
+    "darkElixir": 1683,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-25T18:09:11Z",
+    "gold": 394056,
+    "elixir": 259036,
+    "darkElixir": 9623,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-25T18:09:29Z",
+    "gold": 588053,
+    "elixir": 477520,
+    "darkElixir": 4159,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-25T18:09:46Z",
+    "gold": 378123,
+    "elixir": 421405,
+    "darkElixir": 4795,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-25T18:10:07Z",
+    "gold": 890685,
+    "elixir": 503111,
+    "darkElixir": 959,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-25T18:10:35Z",
+    "gold": 217946,
+    "elixir": 506942,
+    "darkElixir": 5805,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-25T18:11:11Z",
+    "gold": 539072,
+    "elixir": 783365,
+    "darkElixir": 7324,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 69
+   },
+   {
+    "time": "2026-11-25T18:11:27Z",
+    "gold": 354787,
+    "elixir": 254594,
+    "darkElixir": 3039,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
    }
   ]
  },
@@ -193254,7 +193353,7 @@
  {
   "tag": "#YUQ8GCYJQ",
   "name": "TH5 Push",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 15,
   "entries": [
    {
