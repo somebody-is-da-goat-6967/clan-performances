@@ -157951,7 +157951,7 @@
  {
   "tag": "#9JVGJGL8Q",
   "name": "Who's Next ❓",
-  "clan": "friends forever",
+  "clan": "Reaper Crew",
   "th": 17,
   "entries": [
    {
@@ -158877,6 +158877,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T09:24:14Z",
+    "gold": 34700,
+    "elixir": 575476,
+    "darkElixir": 3720,
+    "battleTime": 57,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
