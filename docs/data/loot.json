@@ -43816,6 +43816,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T08:24:24Z",
+    "gold": 1738737,
+    "elixir": 1738730,
+    "darkElixir": 10740,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -171814,7 +171825,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "LaureTole OGs",
+  "clan": "Демоны",
   "th": 16,
   "entries": [
    {
@@ -189299,6 +189310,17 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 172,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T08:22:04Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 157,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
