@@ -85499,7 +85499,7 @@
  {
   "tag": "#22YGUQUL2",
   "name": "Xebec",
-  "clan": "ELITE SPEC OPS",
+  "clan": "Monkey Bizness",
   "th": 19,
   "entries": [
    {
@@ -173383,6 +173383,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 94
+   },
+   {
+    "time": "2026-11-25T08:27:47Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
