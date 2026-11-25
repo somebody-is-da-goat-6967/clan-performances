@@ -414,7 +414,7 @@
  {
   "tag": "#8LUPJG8VG",
   "name": "Abo7med",
-  "clan": "MS7♦️TEAM",
+  "clan": "The Saviours",
   "th": 19,
   "entries": [
    {
@@ -81954,6 +81954,17 @@
     "elixir": 1415451,
     "darkElixir": 11911,
     "battleTime": 70,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T20:54:34Z",
+    "gold": 477186,
+    "elixir": 1828679,
+    "darkElixir": 6071,
+    "battleTime": 151,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
