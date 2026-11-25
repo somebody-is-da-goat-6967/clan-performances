@@ -181951,7 +181951,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "BOSS",
+  "clan": "Gucci Goblins",
   "th": 16,
   "entries": [
    {
@@ -195074,6 +195074,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T22:08:13Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -199828,6 +199839,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T22:07:05Z",
+    "gold": 965000,
+    "elixir": 760313,
+    "darkElixir": 9970,
+    "battleTime": 151,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 93
    }
   ]
  },
