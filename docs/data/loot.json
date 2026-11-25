@@ -22371,6 +22371,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-25T21:00:54Z",
+    "gold": 167831,
+    "elixir": 167645,
+    "darkElixir": 5852,
+    "battleTime": 98,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -181698,7 +181709,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "Yiya Xio",
+  "clan": "TITANIUM",
   "th": 16,
   "entries": [
    {
