@@ -30696,6 +30696,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 98
+   },
+   {
+    "time": "2026-11-25T10:57:42Z",
+    "gold": 268405,
+    "elixir": 1409442,
+    "darkElixir": 14218,
+    "battleTime": 89,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-25T11:00:07Z",
+    "gold": 425232,
+    "elixir": 582361,
+    "darkElixir": 9314,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 60
    }
   ]
  },
@@ -51188,7 +51210,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "VALHEIM",
+  "clan": "Hard to believe",
   "th": 19,
   "entries": [
    {
@@ -103156,6 +103178,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T10:56:31Z",
+    "gold": 509119,
+    "elixir": 290838,
+    "darkElixir": 10181,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-25T10:58:45Z",
+    "gold": 1338294,
+    "elixir": 519607,
+    "darkElixir": 13990,
+    "battleTime": 67,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 67
    }
   ]
  },
@@ -163101,7 +163145,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "idr aa",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
@@ -166241,6 +166285,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T04:56:45Z",
+    "gold": 566211,
+    "elixir": 572288,
+    "darkElixir": 3373,
+    "battleTime": 65,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
    }
   ]
  },
@@ -180962,7 +181017,7 @@
  {
   "tag": "#LQYG802UU",
   "name": "AFAS",
-  "clan": "idr aa",
+  "clan": "",
   "th": 15,
   "entries": [
    {
