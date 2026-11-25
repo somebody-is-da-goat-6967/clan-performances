@@ -33632,6 +33632,61 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 84
+   },
+   {
+    "time": "2026-11-25T06:41:22Z",
+    "gold": 1010406,
+    "elixir": 715425,
+    "darkElixir": 11647,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-25T06:41:44Z",
+    "gold": 344840,
+    "elixir": 250443,
+    "darkElixir": 3829,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-25T06:42:07Z",
+    "gold": 417875,
+    "elixir": 455034,
+    "darkElixir": 3166,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-25T06:42:44Z",
+    "gold": 381233,
+    "elixir": 407552,
+    "darkElixir": 3816,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-25T06:43:25Z",
+    "gold": 1113126,
+    "elixir": 1333040,
+    "darkElixir": 12421,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
    }
   ]
  },
@@ -177321,7 +177376,7 @@
  {
   "tag": "#GYY29R8LG",
   "name": "R.a.d.o.w.a.n 2",
-  "clan": "Massaget",
+  "clan": "Bangladesh King",
   "th": 16,
   "entries": [
    {
