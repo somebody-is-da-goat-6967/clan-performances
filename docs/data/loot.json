@@ -22173,6 +22173,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T16:53:00Z",
+    "gold": 1240327,
+    "elixir": 1252760,
+    "darkElixir": 6032,
+    "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-25T16:54:27Z",
+    "gold": 1229307,
+    "elixir": 918331,
+    "darkElixir": 9964,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-25T16:56:21Z",
+    "gold": 1704388,
+    "elixir": 1597053,
+    "darkElixir": 12572,
+    "battleTime": 65,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 88
    }
   ]
  },
@@ -35658,7 +35691,7 @@
  {
   "tag": "#PYLG0RPGJ",
   "name": "Jatin",
-  "clan": "DoD Esports",
+  "clan": "slskssk",
   "th": 19,
   "entries": [
    {
@@ -47538,6 +47571,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T16:53:12Z",
+    "gold": 165097,
+    "elixir": 116668,
+    "darkElixir": 4666,
+    "battleTime": 102,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
+   },
+   {
+    "time": "2026-11-25T16:56:30Z",
+    "gold": 1063805,
+    "elixir": 568980,
+    "darkElixir": 2476,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
    }
   ]
  },
@@ -173357,6 +173412,28 @@
     "battleTime": 39,
     "league": "",
     "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T16:53:09Z",
+    "gold": 988671,
+    "elixir": 1018088,
+    "darkElixir": 10320,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-25T16:56:19Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 130,
+    "league": "",
+    "battleType": "ranked",
     "stars": 3,
     "destruction": 100
    }
