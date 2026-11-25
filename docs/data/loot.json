@@ -60577,6 +60577,61 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T18:33:14Z",
+    "gold": 609230,
+    "elixir": 411735,
+    "darkElixir": 1773,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-25T18:33:53Z",
+    "gold": 407550,
+    "elixir": 549760,
+    "darkElixir": 5362,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 85
+   },
+   {
+    "time": "2026-11-25T18:34:15Z",
+    "gold": 225168,
+    "elixir": 225554,
+    "darkElixir": 2528,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-25T18:35:14Z",
+    "gold": 499980,
+    "elixir": 1059912,
+    "darkElixir": 10268,
+    "battleTime": 49,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 78
+   },
+   {
+    "time": "2026-11-25T18:35:43Z",
+    "gold": 549363,
+    "elixir": 553270,
+    "darkElixir": 5282,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
    }
   ]
  },
@@ -79385,6 +79440,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-25T18:32:25Z",
+    "gold": 1963247,
+    "elixir": 2038700,
+    "darkElixir": 11497,
+    "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -98026,7 +98092,7 @@
  {
   "tag": "#29LGJLPPP",
   "name": "Adønis",
-  "clan": "Request & Leave",
+  "clan": "Lightborn",
   "th": 18,
   "entries": [
    {
