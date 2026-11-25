@@ -414,7 +414,7 @@
  {
   "tag": "#8LUPJG8VG",
   "name": "Abo7med",
-  "clan": "Ghora koth",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -65063,6 +65063,17 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 74
+   },
+   {
+    "time": "2026-11-25T14:38:45Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 98
    }
   ]
  },
@@ -109536,6 +109547,17 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 130,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-25T14:40:07Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 144,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
