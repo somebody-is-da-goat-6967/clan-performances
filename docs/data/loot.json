@@ -173900,6 +173900,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-25T11:38:10Z",
+    "gold": 828000,
+    "elixir": 621000,
+    "darkElixir": 8280,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 90
    }
   ]
  },
@@ -181193,7 +181204,7 @@
  {
   "tag": "#LQYG802UU",
   "name": "AFAS",
-  "clan": "WARRIORS",
+  "clan": "Payitaht",
   "th": 15,
   "entries": [
    {
