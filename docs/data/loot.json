@@ -168349,6 +168349,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 77
+   },
+   {
+    "time": "2026-11-25T13:07:22Z",
+    "gold": 1158572,
+    "elixir": 668310,
+    "darkElixir": 4623,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
    }
   ]
  },
@@ -200996,19 +201007,7 @@
   "name": "Blinne 4.0",
   "clan": "Freaker Crew",
   "th": 12,
-  "entries": [
-   {
-    "time": "2026-10-24T13:09:02Z",
-    "gold": 130469,
-    "elixir": 346116,
-    "darkElixir": 3827,
-    "battleTime": 12,
-    "league": "",
-    "battleType": "homeVillage",
-    "stars": 1,
-    "destruction": 53
-   }
-  ]
+  "entries": []
  },
  {
   "tag": "#G22UGCQYJ",
