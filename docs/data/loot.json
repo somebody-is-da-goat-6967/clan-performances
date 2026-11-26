@@ -71253,6 +71253,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T14:19:18Z",
+    "gold": 621000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 64
    }
   ]
  },
@@ -164050,7 +164061,7 @@
  {
   "tag": "#Y0GJRVC0R",
   "name": "ZAYROx302",
-  "clan": "The fallen",
+  "clan": "HINDU RASHTRA",
   "th": 17,
   "entries": [
    {
@@ -198136,6 +198147,17 @@
     "elixir": 1025000,
     "darkElixir": 10320,
     "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T14:20:48Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 176,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
