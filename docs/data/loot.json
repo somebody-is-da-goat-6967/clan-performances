@@ -129714,6 +129714,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:04:26Z",
+    "gold": 617795,
+    "elixir": 558255,
+    "darkElixir": 7456,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -158335,7 +158346,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "COC VIỆT NAM",
+  "clan": "雞飛狗跳",
   "th": 17,
   "entries": [
    {
@@ -164660,7 +164671,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Everdraco™",
+  "clan": "slayv7",
   "th": 17,
   "entries": [
    {
@@ -179687,6 +179698,39 @@
     "elixir": 602237,
     "darkElixir": 5590,
     "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:01:50Z",
+    "gold": 658851,
+    "elixir": 345112,
+    "darkElixir": 3404,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:04:36Z",
+    "gold": 512816,
+    "elixir": 743094,
+    "darkElixir": 5578,
+    "battleTime": 140,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:05:38Z",
+    "gold": 630056,
+    "elixir": 596153,
+    "darkElixir": 9835,
+    "battleTime": 48,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
