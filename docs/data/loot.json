@@ -13581,6 +13581,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 51
+   },
+   {
+    "time": "2026-11-26T16:31:56Z",
+    "gold": 2007452,
+    "elixir": 2007459,
+    "darkElixir": 11293,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -37631,6 +37642,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 72
+   },
+   {
+    "time": "2026-11-26T16:32:44Z",
+    "gold": 751173,
+    "elixir": 756139,
+    "darkElixir": 6368,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 74
+   },
+   {
+    "time": "2026-11-26T16:34:45Z",
+    "gold": 1336692,
+    "elixir": 1350707,
+    "darkElixir": 7446,
+    "battleTime": 109,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 80
+   },
+   {
+    "time": "2026-11-26T16:35:48Z",
+    "gold": 205214,
+    "elixir": 606090,
+    "darkElixir": 9773,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
    }
   ]
  },
@@ -60390,6 +60434,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T16:33:08Z",
+    "gold": 1477632,
+    "elixir": 659309,
+    "darkElixir": 630,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-26T16:34:06Z",
+    "gold": 2073015,
+    "elixir": 2068212,
+    "darkElixir": 11215,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 45
    }
   ]
  },
@@ -104758,7 +104824,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "AMG KOTH",
+  "clan": "Practice",
   "th": 19,
   "entries": [
    {
