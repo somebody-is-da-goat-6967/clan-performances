@@ -33391,6 +33391,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-26T19:03:49Z",
+    "gold": 1033459,
+    "elixir": 1035000,
+    "darkElixir": 6382,
+    "battleTime": 150,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
@@ -38214,6 +38225,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 78
+   },
+   {
+    "time": "2026-11-26T19:01:18Z",
+    "gold": 542089,
+    "elixir": 750206,
+    "darkElixir": 7070,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -153919,7 +153941,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "",
+  "clan": "Corginia",
   "th": 17,
   "entries": [
    {
