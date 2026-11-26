@@ -100861,6 +100861,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 51
+   },
+   {
+    "time": "2026-11-26T07:26:35Z",
+    "gold": 1855821,
+    "elixir": 1855828,
+    "darkElixir": 8365,
+    "battleTime": 42,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-26T07:27:44Z",
+    "gold": 127635,
+    "elixir": 4102,
+    "darkElixir": 8081,
+    "battleTime": 6,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 12
    }
   ]
  },
@@ -157016,7 +157038,7 @@
  {
   "tag": "#PJQGUCGC2",
   "name": "SIDDHARTH",
-  "clan": "Req N Leave",
+  "clan": "Req and leave",
   "th": 17,
   "entries": [
    {
