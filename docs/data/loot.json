@@ -10307,7 +10307,7 @@
  {
   "tag": "#GLCR9LCU2",
   "name": "Blinne",
-  "clan": "Brazilian Storm",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -13258,6 +13258,94 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 131,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T00:42:10Z",
+    "gold": 621000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 88,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-26T00:45:16Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 115,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T00:47:52Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 129,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T00:50:23Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T00:53:06Z",
+    "gold": 828000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 89
+   },
+   {
+    "time": "2026-11-26T00:55:31Z",
+    "gold": 892987,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 98,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-26T00:58:02Z",
+    "gold": 828000,
+    "elixir": 815963,
+    "darkElixir": 2070,
+    "battleTime": 108,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-26T01:00:17Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 100,
     "league": "",
     "battleType": "legend",
     "stars": 3,
