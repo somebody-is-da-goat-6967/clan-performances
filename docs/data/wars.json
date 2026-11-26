@@ -372,12 +372,12 @@
   "tag": "#28GQU9V0",
   "th": 19,
   "pos": 10,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 98.0,
+  "attackDetail": "2★ 98%"
  },
  {
   "date": "2026-11-26T20:14:31Z",
