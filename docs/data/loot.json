@@ -69675,6 +69675,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 75
+   },
+   {
+    "time": "2026-11-26T02:00:59Z",
+    "gold": 1113120,
+    "elixir": 402570,
+    "darkElixir": 3524,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-26T02:02:09Z",
+    "gold": 155620,
+    "elixir": 1212109,
+    "darkElixir": 74,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
    }
   ]
  },
@@ -180737,7 +180759,7 @@
  {
   "tag": "#R0LUUG9Y2",
   "name": "mini Praz",
-  "clan": "Reaper Crew",
+  "clan": "THE WARRIOR",
   "th": 16,
   "entries": [
    {
