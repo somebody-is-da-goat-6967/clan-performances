@@ -71286,6 +71286,17 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T14:28:34Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
@@ -104428,7 +104439,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "HBD HAMID",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
@@ -154170,6 +154181,17 @@
     "elixir": 415147,
     "darkElixir": 5800,
     "battleTime": 107,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T14:29:46Z",
+    "gold": 531431,
+    "elixir": 570401,
+    "darkElixir": 5473,
+    "battleTime": 106,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
