@@ -21677,6 +21677,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 81
+   },
+   {
+    "time": "2026-11-26T17:33:36Z",
+    "gold": 621000,
+    "elixir": 621000,
+    "darkElixir": 2055,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 80
    }
   ]
  },
@@ -140921,6 +140932,39 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-26T17:31:44Z",
+    "gold": 908776,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 94
+   },
+   {
+    "time": "2026-11-26T17:35:19Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
+   },
+   {
+    "time": "2026-11-26T17:36:35Z",
+    "gold": 406370,
+    "elixir": 312518,
+    "darkElixir": 2658,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -164645,6 +164689,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T17:32:54Z",
+    "gold": 1018082,
+    "elixir": 166129,
+    "darkElixir": 3147,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 90
    }
   ]
  },
@@ -187159,7 +187214,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "",
+  "clan": "CWL CLAN",
   "th": 16,
   "entries": [
    {
