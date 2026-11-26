@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-26T18:41:31Z",
+ "updatedAt": "2026-11-26T18:46:19Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
    "name": "Reaper Crew",
-   "members": 48,
+   "members": 47,
    "level": 25,
    "warLeague": "Champion League I",
    "warWins": 247,
@@ -66,6 +66,8 @@
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
   "500 unknownException on /leaguegroup/%238JGCUP2/1792990800",
-  "500 unknownException on /leaguegroup/%238RRCU8U/1792990800"
+  "500 unknownException on /leaguegroup/%238RRCU8U/1792990800",
+  "520  on /players/%23GUG9082QY",
+  "520  on /players/%23GUR090QQV"
  ]
 }

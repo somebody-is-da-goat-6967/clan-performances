@@ -21886,6 +21886,28 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 81
+   },
+   {
+    "time": "2026-11-26T18:41:43Z",
+    "gold": 900209,
+    "elixir": 308035,
+    "darkElixir": 10350,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 49
+   },
+   {
+    "time": "2026-11-26T18:44:44Z",
+    "gold": 1035000,
+    "elixir": 681222,
+    "darkElixir": 2070,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 78
    }
   ]
  },
@@ -135409,6 +135431,72 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 52
+   },
+   {
+    "time": "2026-11-26T18:41:47Z",
+    "gold": 124284,
+    "elixir": 35643,
+    "darkElixir": 2142,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-26T18:42:06Z",
+    "gold": 444065,
+    "elixir": 396640,
+    "darkElixir": 1834,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-26T18:42:24Z",
+    "gold": 232430,
+    "elixir": 180756,
+    "darkElixir": 3794,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-26T18:42:58Z",
+    "gold": 283121,
+    "elixir": 311431,
+    "darkElixir": 3137,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-26T18:43:37Z",
+    "gold": 630945,
+    "elixir": 237890,
+    "darkElixir": 4320,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-26T18:44:11Z",
+    "gold": 397799,
+    "elixir": 1706346,
+    "darkElixir": 4033,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
    }
   ]
  },
@@ -153743,7 +153831,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "Reaper Crew",
+  "clan": "MidnightSavage$",
   "th": 17,
   "entries": [
    {
