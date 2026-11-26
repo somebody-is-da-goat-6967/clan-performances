@@ -3245,7 +3245,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "1v1",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -155030,7 +155030,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "DANDELIONS",
+  "clan": "",
   "th": 17,
   "entries": [
    {
@@ -166732,6 +166732,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-26T21:18:39Z",
+    "gold": 620623,
+    "elixir": 802940,
+    "darkElixir": 8256,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 74
    }
   ]
  },
