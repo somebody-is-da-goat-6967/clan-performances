@@ -10466,6 +10466,61 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T10:22:06Z",
+    "gold": 863962,
+    "elixir": 992684,
+    "darkElixir": 10734,
+    "battleTime": 122,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T10:22:26Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 3
+   },
+   {
+    "time": "2026-11-26T10:22:47Z",
+    "gold": 207347,
+    "elixir": 18991,
+    "darkElixir": 1028,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 12
+   },
+   {
+    "time": "2026-11-26T10:22:57Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 5
+   },
+   {
+    "time": "2026-11-26T10:23:09Z",
+    "gold": 100465,
+    "elixir": 217147,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 5
    }
   ]
  },
@@ -157359,7 +157414,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "GG-Apocalypse™",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {
@@ -188016,7 +188071,7 @@
  {
   "tag": "#GYPC8PJYR",
   "name": "Busa",
-  "clan": "",
+  "clan": "PRIVATE GANG",
   "th": 15,
   "entries": [
    {
