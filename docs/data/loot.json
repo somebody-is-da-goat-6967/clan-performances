@@ -72193,7 +72193,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "DARK AVENGERS",
+  "clan": "Oro Jackson",
   "th": 19,
   "entries": [
    {
@@ -158346,7 +158346,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "雞飛狗跳",
+  "clan": "سلطان",
   "th": 17,
   "entries": [
    {
@@ -164671,7 +164671,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "slayv7",
+  "clan": "PDS21_S+A",
   "th": 17,
   "entries": [
    {
@@ -179735,6 +179735,50 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:08:05Z",
+    "gold": 70369,
+    "elixir": 558378,
+    "darkElixir": 7041,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:08:47Z",
+    "gold": 197545,
+    "elixir": 411027,
+    "darkElixir": 4692,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 37
+   },
+   {
+    "time": "2026-11-26T15:09:45Z",
+    "gold": 524176,
+    "elixir": 524946,
+    "darkElixir": 5672,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-26T15:11:00Z",
+    "gold": 563957,
+    "elixir": 1129209,
+    "darkElixir": 5952,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 80
    }
   ]
  },
@@ -183312,6 +183356,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-26T15:11:30Z",
+    "gold": 819200,
+    "elixir": 819200,
+    "darkElixir": 10310,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 90
    }
   ]
  },
