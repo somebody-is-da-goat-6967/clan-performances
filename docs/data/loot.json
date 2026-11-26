@@ -21864,6 +21864,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 79
+   },
+   {
+    "time": "2026-11-26T18:35:53Z",
+    "gold": 414000,
+    "elixir": 621000,
+    "darkElixir": 10350,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-26T18:38:52Z",
+    "gold": 621000,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 81
    }
   ]
  },
@@ -72996,7 +73018,7 @@
  {
   "tag": "#LCLLCPYGL",
   "name": "SABI v1",
-  "clan": "Reaper Crew",
+  "clan": "DEMOLITION ARMY",
   "th": 19,
   "entries": [
    {
@@ -135361,6 +135383,28 @@
     "elixir": 16359,
     "darkElixir": 188,
     "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-26T18:41:02Z",
+    "gold": 488546,
+    "elixir": 546682,
+    "darkElixir": 5417,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-26T18:41:23Z",
+    "gold": 534900,
+    "elixir": 511784,
+    "darkElixir": 5121,
+    "battleTime": 14,
     "league": "",
     "battleType": "homeVillage",
     "stars": 1,
