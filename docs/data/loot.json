@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "angry birds",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -104488,6 +104488,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:32:06Z",
+    "gold": 1949131,
+    "elixir": 1883035,
+    "darkElixir": 12756,
+    "battleTime": 77,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:35:05Z",
+    "gold": 2089327,
+    "elixir": 1956264,
+    "darkElixir": 14093,
+    "battleTime": 129,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -154556,6 +154578,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:33:32Z",
+    "gold": 560459,
+    "elixir": 785180,
+    "darkElixir": 4864,
+    "battleTime": 129,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 96
+   },
+   {
+    "time": "2026-11-26T15:34:46Z",
+    "gold": 508578,
+    "elixir": 523780,
+    "darkElixir": 1225,
+    "battleTime": 90,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -178045,7 +178089,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "LaureTole OGs",
+  "clan": "КАНАРЫ",
   "th": 16,
   "entries": [
    {
