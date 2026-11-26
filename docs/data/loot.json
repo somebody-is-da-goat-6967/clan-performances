@@ -37169,6 +37169,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 87
+   },
+   {
+    "time": "2026-11-26T05:41:48Z",
+    "gold": 1747144,
+    "elixir": 1783089,
+    "darkElixir": 14903,
+    "battleTime": 90,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 90
+   },
+   {
+    "time": "2026-11-26T05:43:10Z",
+    "gold": 1022467,
+    "elixir": 642992,
+    "darkElixir": 7338,
+    "battleTime": 70,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 85
    }
   ]
  },
@@ -183502,7 +183524,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "DΛЯK ︻╦̵̵̿╤─ ҉~",
+  "clan": "",
   "th": 16,
   "entries": [
    {
