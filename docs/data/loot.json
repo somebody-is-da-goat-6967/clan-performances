@@ -157359,7 +157359,7 @@
  {
   "tag": "#QV2PQQRJL",
   "name": "Rishad",
-  "clan": "سلطان",
+  "clan": "765プロ",
   "th": 17,
   "entries": [
    {
@@ -180638,6 +180638,28 @@
     "elixir": 1327108,
     "darkElixir": 5121,
     "battleTime": 80,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T10:07:39Z",
+    "gold": 817543,
+    "elixir": 713626,
+    "darkElixir": 4203,
+    "battleTime": 86,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T10:09:38Z",
+    "gold": 2103057,
+    "elixir": 2091165,
+    "darkElixir": 11977,
+    "battleTime": 92,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
