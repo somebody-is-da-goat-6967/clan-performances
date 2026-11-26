@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "3☆ in the ⓢⓤⓝ",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -73510,7 +73510,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "TWA KOTH",
+  "clan": "DARK AVENGERS",
   "th": 19,
   "entries": [
    {
@@ -98152,6 +98152,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 71
+   },
+   {
+    "time": "2026-11-26T20:32:32Z",
+    "gold": 743111,
+    "elixir": 462684,
+    "darkElixir": 8115,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-26T20:33:44Z",
+    "gold": 1502039,
+    "elixir": 1074166,
+    "darkElixir": 5200,
+    "battleTime": 63,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-26T20:34:55Z",
+    "gold": 1310153,
+    "elixir": 1337632,
+    "darkElixir": 11149,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-26T20:35:43Z",
+    "gold": 1836574,
+    "elixir": 1872652,
+    "darkElixir": 11338,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
    }
   ]
  },
