@@ -3245,7 +3245,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -5757,6 +5757,83 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 73
+   },
+   {
+    "time": "2026-11-26T17:52:02Z",
+    "gold": 227235,
+    "elixir": 361085,
+    "darkElixir": 1188,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-26T17:53:01Z",
+    "gold": 263434,
+    "elixir": 822141,
+    "darkElixir": 744,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-26T17:53:24Z",
+    "gold": 386458,
+    "elixir": 381004,
+    "darkElixir": 3628,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-26T17:54:39Z",
+    "gold": 783633,
+    "elixir": 1794827,
+    "darkElixir": 18212,
+    "battleTime": 45,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T20:45:36Z",
+    "gold": 405272,
+    "elixir": 487727,
+    "darkElixir": 5232,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 67
+   },
+   {
+    "time": "2026-11-26T20:46:09Z",
+    "gold": 372681,
+    "elixir": 609196,
+    "darkElixir": 8990,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-26T20:46:33Z",
+    "gold": 544744,
+    "elixir": 441047,
+    "darkElixir": 5955,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
    }
   ]
  },
@@ -155030,7 +155107,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "Dark Phoenix™️",
+  "clan": "Merica AF",
   "th": 17,
   "entries": [
    {
