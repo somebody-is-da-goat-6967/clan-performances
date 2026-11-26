@@ -71973,7 +71973,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "SMRT | E-Sports",
+  "clan": "DARK AVENGERS",
   "th": 19,
   "entries": [
    {
@@ -171034,6 +171034,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 93
+   },
+   {
+    "time": "2026-11-26T11:23:38Z",
+    "gold": 819200,
+    "elixir": 819200,
+    "darkElixir": 8248,
+    "battleTime": 167,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 90
    }
   ]
  },
