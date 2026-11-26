@@ -61680,7 +61680,7 @@
  {
   "tag": "#QQCJJ8U2V",
   "name": "Mr.Timefail",
-  "clan": "BENCH GANG COC",
+  "clan": "TWA KOTH",
   "th": 19,
   "entries": [
    {
@@ -73444,7 +73444,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "DARK AVENGERS",
+  "clan": "TWA KOTH",
   "th": 19,
   "entries": [
    {
@@ -139676,6 +139676,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T19:48:49Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 151,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -165808,6 +165819,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-26T19:50:09Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 157,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
