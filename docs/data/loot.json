@@ -3245,7 +3245,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "July",
+  "clan": "1v1",
   "th": 19,
   "entries": [
    {
@@ -89476,6 +89476,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T20:57:14Z",
+    "gold": 1233098,
+    "elixir": 1621899,
+    "darkElixir": 6472,
+    "battleTime": 147,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -98372,6 +98383,83 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 73
+   },
+   {
+    "time": "2026-11-26T20:56:49Z",
+    "gold": 130166,
+    "elixir": 95695,
+    "darkElixir": 6245,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
+   },
+   {
+    "time": "2026-11-26T20:57:40Z",
+    "gold": 1012612,
+    "elixir": 1723282,
+    "darkElixir": 11549,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-26T20:57:56Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 3981,
+    "battleTime": 5,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 5
+   },
+   {
+    "time": "2026-11-26T20:58:40Z",
+    "gold": 270833,
+    "elixir": 1287655,
+    "darkElixir": 10461,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-26T20:59:23Z",
+    "gold": 273997,
+    "elixir": 223198,
+    "darkElixir": 13623,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 54
+   },
+   {
+    "time": "2026-11-26T21:00:07Z",
+    "gold": 1411766,
+    "elixir": 455469,
+    "darkElixir": 10784,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-26T21:00:48Z",
+    "gold": 1043514,
+    "elixir": 109297,
+    "darkElixir": 10708,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 60
    }
   ]
  },
@@ -154722,7 +154810,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "ExecOrder 1776",
+  "clan": "",
   "th": 17,
   "entries": [
    {
