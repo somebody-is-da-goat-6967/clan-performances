@@ -3355,12 +3355,12 @@
   "tag": "#GPYYJV0CG",
   "th": 18,
   "pos": 12,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 5,
+  "avgDestruction": 97.0,
+  "attackDetail": "2★ 94%, 3★ 100%"
  },
  {
   "date": "2026-11-25T23:58:37Z",
