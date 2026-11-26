@@ -98559,6 +98559,72 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 72
+   },
+   {
+    "time": "2026-11-26T21:11:44Z",
+    "gold": 692054,
+    "elixir": 625556,
+    "darkElixir": 5835,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-26T21:12:32Z",
+    "gold": 515397,
+    "elixir": 178457,
+    "darkElixir": 1815,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 40
+   },
+   {
+    "time": "2026-11-26T21:13:12Z",
+    "gold": 824396,
+    "elixir": 696807,
+    "darkElixir": 4912,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-26T21:14:06Z",
+    "gold": 372835,
+    "elixir": 593836,
+    "darkElixir": 5076,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-26T21:15:03Z",
+    "gold": 1410179,
+    "elixir": 1358143,
+    "darkElixir": 7944,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-26T21:15:32Z",
+    "gold": 1949766,
+    "elixir": 1540767,
+    "darkElixir": 6056,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 57
    }
   ]
  },
@@ -154964,7 +155030,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "",
+  "clan": "DANDELIONS",
   "th": 17,
   "entries": [
    {
