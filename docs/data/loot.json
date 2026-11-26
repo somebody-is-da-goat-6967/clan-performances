@@ -37565,6 +37565,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 70
+   },
+   {
+    "time": "2026-11-26T16:23:08Z",
+    "gold": 728771,
+    "elixir": 975442,
+    "darkElixir": 12931,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-26T16:26:15Z",
+    "gold": 1561290,
+    "elixir": 1555296,
+    "darkElixir": 8094,
+    "battleTime": 90,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 66
    }
   ]
  },
@@ -124995,6 +125017,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-26T16:26:22Z",
+    "gold": 1591693,
+    "elixir": 2326785,
+    "darkElixir": 16044,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 89
    }
   ]
  },
@@ -158437,7 +158470,7 @@
  {
   "tag": "#YRLPQQ929",
   "name": "pikab boy",
-  "clan": "OG LEGENDS",
+  "clan": "RJ GAMER -BD",
   "th": 17,
   "entries": [
    {
