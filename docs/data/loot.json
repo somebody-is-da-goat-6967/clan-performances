@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "3☆ on the ⓜⓞⓞⓝ",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -117056,6 +117056,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 70
+   },
+   {
+    "time": "2026-11-26T16:01:45Z",
+    "gold": 1824908,
+    "elixir": 1801876,
+    "darkElixir": 15364,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 44
+   },
+   {
+    "time": "2026-11-26T16:04:30Z",
+    "gold": 1953840,
+    "elixir": 1947600,
+    "darkElixir": 13826,
+    "battleTime": 142,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 39
    }
   ]
  },
@@ -145517,6 +145539,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-26T16:04:40Z",
+    "gold": 839885,
+    "elixir": 577462,
+    "darkElixir": 5924,
+    "battleTime": 59,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -195599,7 +195632,7 @@
  {
   "tag": "#QGJP2L0CQ",
   "name": "KlausfromBD",
-  "clan": "THE WARRIOR",
+  "clan": "Gulab Jamun",
   "th": 15,
   "entries": [
    {
