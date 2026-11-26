@@ -98526,6 +98526,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 55
+   },
+   {
+    "time": "2026-11-26T21:08:38Z",
+    "gold": 218231,
+    "elixir": 183701,
+    "darkElixir": 4809,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-26T21:09:33Z",
+    "gold": 2238168,
+    "elixir": 1946930,
+    "darkElixir": 12355,
+    "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 72
+   },
+   {
+    "time": "2026-11-26T21:10:54Z",
+    "gold": 1731280,
+    "elixir": 467461,
+    "darkElixir": 6837,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 72
    }
   ]
  },
@@ -154931,7 +154964,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "JOKER",
+  "clan": "",
   "th": 17,
   "entries": [
    {
