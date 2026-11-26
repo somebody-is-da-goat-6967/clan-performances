@@ -20553,7 +20553,7 @@
  {
   "tag": "#992CCVJPY",
   "name": "CHAPO GUZHMAN",
-  "clan": "Reaper Crew",
+  "clan": "Blue Diamond",
   "th": 19,
   "entries": [
    {
@@ -61735,7 +61735,7 @@
  {
   "tag": "#QQCJJ8U2V",
   "name": "Mr.Timefail",
-  "clan": "TWA KOTH",
+  "clan": "Reckoned Rebel",
   "th": 19,
   "entries": [
    {
@@ -98051,6 +98051,17 @@
     "battleTime": 173,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T20:10:57Z",
+    "gold": 2112623,
+    "elixir": 2112623,
+    "darkElixir": 12142,
+    "battleTime": 39,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
@@ -139903,6 +139914,28 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 165,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T20:06:13Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 109,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T20:09:46Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 172,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
