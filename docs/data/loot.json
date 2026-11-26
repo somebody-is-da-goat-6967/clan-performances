@@ -2,7 +2,7 @@
  {
   "tag": "#8CUCYG9",
   "name": "/Sam\\",
-  "clan": "",
+  "clan": "REQ AND LEAVE",
   "th": 19,
   "entries": [
    {
@@ -37521,6 +37521,50 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 91
+   },
+   {
+    "time": "2026-11-26T16:16:53Z",
+    "gold": 1291841,
+    "elixir": 965143,
+    "darkElixir": 6717,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-26T16:18:42Z",
+    "gold": 1729157,
+    "elixir": 644754,
+    "darkElixir": 8001,
+    "battleTime": 54,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 77
+   },
+   {
+    "time": "2026-11-26T16:19:42Z",
+    "gold": 2411156,
+    "elixir": 2187120,
+    "darkElixir": 13342,
+    "battleTime": 47,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 81
+   },
+   {
+    "time": "2026-11-26T16:21:06Z",
+    "gold": 793963,
+    "elixir": 1807758,
+    "darkElixir": 11268,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 70
    }
   ]
  },
