@@ -104494,7 +104494,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LA_NOVA_ESPORTS",
+  "clan": "LIGHTNING WAR",
   "th": 19,
   "entries": [
    {
@@ -148152,6 +148152,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:26:58Z",
+    "gold": 1946117,
+    "elixir": 1600698,
+    "darkElixir": 12900,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:28:56Z",
+    "gold": 1559580,
+    "elixir": 1114873,
+    "darkElixir": 15760,
+    "battleTime": 48,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:29:29Z",
+    "gold": 19,
+    "elixir": 1,
+    "darkElixir": 6,
+    "battleTime": 4,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 13
    }
   ]
  },
@@ -154497,6 +154530,28 @@
     "elixir": 570401,
     "darkElixir": 5473,
     "battleTime": 106,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:28:19Z",
+    "gold": 1043316,
+    "elixir": 712815,
+    "darkElixir": 7058,
+    "battleTime": 60,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:30:19Z",
+    "gold": 480452,
+    "elixir": 551172,
+    "darkElixir": 1019,
+    "battleTime": 82,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
