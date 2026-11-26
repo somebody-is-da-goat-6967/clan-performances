@@ -133570,7 +133570,7 @@
  {
   "tag": "#LVU2UGCVR",
   "name": "Muhfli Pakoda",
-  "clan": "",
+  "clan": "THE WARRIOR",
   "th": 18,
   "entries": [
    {
@@ -148137,6 +148137,17 @@
     "elixir": 2232242,
     "darkElixir": 12957,
     "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T15:25:16Z",
+    "gold": 1370163,
+    "elixir": 1380765,
+    "darkElixir": 9034,
+    "battleTime": 59,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
