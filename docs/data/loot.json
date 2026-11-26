@@ -70104,6 +70104,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 53
+   },
+   {
+    "time": "2026-11-26T05:27:11Z",
+    "gold": 1537798,
+    "elixir": 258411,
+    "darkElixir": 2839,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 73
+   },
+   {
+    "time": "2026-11-26T05:27:33Z",
+    "gold": 444017,
+    "elixir": 372146,
+    "darkElixir": 4374,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-26T05:27:52Z",
+    "gold": 395322,
+    "elixir": 509442,
+    "darkElixir": 4127,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-26T05:28:14Z",
+    "gold": 222530,
+    "elixir": 180589,
+    "darkElixir": 3549,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-26T05:28:35Z",
+    "gold": 115746,
+    "elixir": 165663,
+    "darkElixir": 5005,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-26T05:28:54Z",
+    "gold": 176553,
+    "elixir": 236387,
+    "darkElixir": 1017,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-26T05:29:43Z",
+    "gold": 4203,
+    "elixir": 17454,
+    "darkElixir": 468,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-26T05:30:06Z",
+    "gold": 157432,
+    "elixir": 114341,
+    "darkElixir": 1969,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
    }
   ]
  },
@@ -120672,6 +120760,17 @@
     "elixir": 2155316,
     "darkElixir": 10707,
     "battleTime": 46,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T05:27:26Z",
+    "gold": 1859866,
+    "elixir": 1820464,
+    "darkElixir": 7887,
+    "battleTime": 61,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -183010,7 +183109,7 @@
  {
   "tag": "#QC0R2RVPL",
   "name": "UNCLE MUTU",
-  "clan": "GARUDA",
+  "clan": "",
   "th": 16,
   "entries": [
    {
