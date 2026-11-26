@@ -10455,6 +10455,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T08:09:40Z",
+    "gold": 1858349,
+    "elixir": 912454,
+    "darkElixir": 6966,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -138471,6 +138482,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 79
+   },
+   {
+    "time": "2026-11-26T08:08:04Z",
+    "gold": 1035000,
+    "elixir": 984453,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -163159,7 +163181,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Everdraco™",
+  "clan": "GAFFERS PHIL.",
   "th": 17,
   "entries": [
    {
