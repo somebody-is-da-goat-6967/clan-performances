@@ -414,7 +414,7 @@
  {
   "tag": "#8LUPJG8VG",
   "name": "Abo7med",
-  "clan": "3☆ in the ⓢⓤⓝ",
+  "clan": "The Saviours",
   "th": 19,
   "entries": [
    {
@@ -21721,6 +21721,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 82
+   },
+   {
+    "time": "2026-11-26T17:47:15Z",
+    "gold": 960551,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 77
    }
   ]
  },
@@ -39640,6 +39651,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-26T17:48:12Z",
+    "gold": 1035000,
+    "elixir": 867955,
+    "darkElixir": 10350,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 80
    }
   ]
  },
@@ -53328,6 +53350,17 @@
     "elixir": 390478,
     "darkElixir": 3748,
     "battleTime": 75,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T17:46:56Z",
+    "gold": 2032249,
+    "elixir": 1992427,
+    "darkElixir": 12626,
+    "battleTime": 110,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
@@ -164751,6 +164784,17 @@
     "elixir": 1025000,
     "darkElixir": 10320,
     "battleTime": 135,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T17:49:29Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 175,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
