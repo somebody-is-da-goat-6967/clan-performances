@@ -153481,6 +153481,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T10:01:32Z",
+    "gold": 589202,
+    "elixir": 555906,
+    "darkElixir": 6820,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T10:04:50Z",
+    "gold": 400743,
+    "elixir": 415147,
+    "darkElixir": 5800,
+    "battleTime": 107,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -176860,7 +176882,7 @@
  {
   "tag": "#QPGLRQJJG",
   "name": "GOLDEN",
-  "clan": "LaureTole OGs",
+  "clan": "神之城",
   "th": 16,
   "entries": [
    {
@@ -180596,6 +180618,28 @@
     "battleTime": 168,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T10:03:33Z",
+    "gold": 420787,
+    "elixir": 421145,
+    "darkElixir": 5338,
+    "battleTime": 74,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-26T10:05:31Z",
+    "gold": 1462528,
+    "elixir": 1327108,
+    "darkElixir": 5121,
+    "battleTime": 80,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
@@ -208815,7 +208859,7 @@
  {
   "tag": "#R9RQR9L2Y",
   "name": "Washed Alien",
-  "clan": "THE WARRIOR",
+  "clan": "clash of war",
   "th": 7,
   "entries": [
    {
