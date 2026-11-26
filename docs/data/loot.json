@@ -21930,6 +21930,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T18:54:00Z",
+    "gold": 828000,
+    "elixir": 414000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 71
    }
   ]
  },
@@ -38144,6 +38155,28 @@
     "elixir": 719295,
     "darkElixir": 10445,
     "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-26T18:55:42Z",
+    "gold": 1356810,
+    "elixir": 1399207,
+    "darkElixir": 10084,
+    "battleTime": 45,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 84
+   },
+   {
+    "time": "2026-11-26T18:56:14Z",
+    "gold": 644658,
+    "elixir": 847906,
+    "darkElixir": 6848,
+    "battleTime": 23,
     "league": "",
     "battleType": "homeVillage",
     "stars": 2,
@@ -153853,7 +153886,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "MidnightSavage$",
+  "clan": "",
   "th": 17,
   "entries": [
    {
