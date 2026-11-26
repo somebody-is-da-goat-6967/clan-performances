@@ -37587,6 +37587,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 66
+   },
+   {
+    "time": "2026-11-26T16:27:13Z",
+    "gold": 757768,
+    "elixir": 1549371,
+    "darkElixir": 6296,
+    "battleTime": 40,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-26T16:29:32Z",
+    "gold": 707177,
+    "elixir": 687876,
+    "darkElixir": 8928,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
+   },
+   {
+    "time": "2026-11-26T16:30:26Z",
+    "gold": 417903,
+    "elixir": 313293,
+    "darkElixir": 10527,
+    "battleTime": 44,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 62
+   },
+   {
+    "time": "2026-11-26T16:31:22Z",
+    "gold": 1001095,
+    "elixir": 1083817,
+    "darkElixir": 12781,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 72
    }
   ]
  },
@@ -60335,6 +60379,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T16:31:22Z",
+    "gold": 1556716,
+    "elixir": 958884,
+    "darkElixir": 1776,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -72325,7 +72380,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "Oro Jackson",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -96340,6 +96395,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 85
+   },
+   {
+    "time": "2026-11-26T16:28:20Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 99
    }
   ]
  },
@@ -104692,7 +104758,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LIGHTNING WAR",
+  "clan": "AMG KOTH",
   "th": 19,
   "entries": [
    {
@@ -125028,6 +125094,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-26T16:27:22Z",
+    "gold": 2371573,
+    "elixir": 2371536,
+    "darkElixir": 15960,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -152093,7 +152170,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "TOP♥️RANK PUSH",
+  "clan": "ميدان الرجال",
   "th": 17,
   "entries": [
    {
@@ -199773,6 +199850,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-26T16:28:04Z",
+    "gold": 818400,
+    "elixir": 613800,
+    "darkElixir": 8240,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 80
    }
   ]
  },
