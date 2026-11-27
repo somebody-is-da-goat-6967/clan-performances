@@ -77259,6 +77259,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-27T04:35:17Z",
+    "gold": 828000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 155,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 82
    }
   ]
  },
@@ -111774,7 +111785,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "make space",
+  "clan": "Asiki",
   "th": 18,
   "entries": [
    {
@@ -133814,6 +133825,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-27T04:35:41Z",
+    "gold": 414000,
+    "elixir": 621000,
+    "darkElixir": 4657,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 59
    }
   ]
  },
