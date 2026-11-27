@@ -17173,6 +17173,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 72
+   },
+   {
+    "time": "2026-11-27T19:38:48Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 148,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -190635,6 +190646,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-27T19:37:24Z",
+    "gold": 148602,
+    "elixir": 230711,
+    "darkElixir": 3120,
+    "battleTime": 135,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -194207,7 +194229,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "",
+  "clan": "Paradise STAR",
   "th": 16,
   "entries": [
    {
@@ -212915,13 +212937,6 @@
   "clan": "Reaper Two",
   "th": 14,
   "entries": [
-   {
-    "time": "2026-10-26T19:39:04Z",
-    "gold": 960000,
-    "elixir": 960000,
-    "darkElixir": 9960,
-    "battleTime": 110
-   },
    {
     "time": "2026-10-26T19:42:36Z",
     "gold": 960000,
