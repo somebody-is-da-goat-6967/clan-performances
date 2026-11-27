@@ -182692,6 +182692,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 50
+   },
+   {
+    "time": "2026-11-27T07:25:54Z",
+    "gold": 629070,
+    "elixir": 735373,
+    "darkElixir": 5987,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-27T07:26:13Z",
+    "gold": 771358,
+    "elixir": 640799,
+    "darkElixir": 5375,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-27T07:26:43Z",
+    "gold": 613535,
+    "elixir": 628418,
+    "darkElixir": 6608,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-27T07:27:24Z",
+    "gold": 520169,
+    "elixir": 506747,
+    "darkElixir": 2570,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-27T07:28:44Z",
+    "gold": 1029836,
+    "elixir": 1021447,
+    "darkElixir": 9648,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 97
    }
   ]
  },
@@ -190814,7 +190869,7 @@
  {
   "tag": "#P2JP9JGLQ",
   "name": "Sonu the Great",
-  "clan": "Oro Jackson",
+  "clan": "Anubis",
   "th": 16,
   "entries": [
    {
