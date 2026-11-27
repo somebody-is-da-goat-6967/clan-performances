@@ -23976,6 +23976,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-27T08:00:34Z",
+    "gold": 1895090,
+    "elixir": 1895121,
+    "darkElixir": 10470,
+    "battleTime": 159,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -174213,7 +174224,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "# REQ AND LEAVE",
+  "clan": "",
   "th": 16,
   "entries": [
    {
