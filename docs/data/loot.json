@@ -77314,6 +77314,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-27T04:52:11Z",
+    "gold": 621000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 132,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-27T04:54:53Z",
+    "gold": 673952,
+    "elixir": 828000,
+    "darkElixir": 8280,
+    "battleTime": 138,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 84
    }
   ]
  },
@@ -133902,6 +133924,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 98
+   },
+   {
+    "time": "2026-11-27T04:52:55Z",
+    "gold": 621000,
+    "elixir": 678766,
+    "darkElixir": 8280,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 71
    }
   ]
  },
