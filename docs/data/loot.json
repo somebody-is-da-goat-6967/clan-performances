@@ -77270,6 +77270,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 82
+   },
+   {
+    "time": "2026-11-27T04:40:14Z",
+    "gold": 739179,
+    "elixir": 558608,
+    "darkElixir": 8280,
+    "battleTime": 174,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 82
    }
   ]
  },
@@ -111785,7 +111796,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "Asiki",
+  "clan": "Knights",
   "th": 18,
   "entries": [
    {
@@ -133836,6 +133847,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 59
+   },
+   {
+    "time": "2026-11-27T04:40:32Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 170,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
