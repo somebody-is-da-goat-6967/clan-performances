@@ -474,6 +474,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-27T01:13:20Z",
+    "gold": 2015066,
+    "elixir": 768728,
+    "darkElixir": 6621,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -44179,6 +44190,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 74
+   },
+   {
+    "time": "2026-11-27T01:15:04Z",
+    "gold": 303754,
+    "elixir": 381587,
+    "darkElixir": 3798,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
    }
   ]
  },
@@ -46216,6 +46238,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-27T01:12:02Z",
+    "gold": 1317480,
+    "elixir": 408009,
+    "darkElixir": 12660,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T01:12:35Z",
+    "gold": 569618,
+    "elixir": 641333,
+    "darkElixir": 9099,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-27T01:13:06Z",
+    "gold": 471069,
+    "elixir": 894660,
+    "darkElixir": 4021,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 43
+   },
+   {
+    "time": "2026-11-27T01:14:05Z",
+    "gold": 475549,
+    "elixir": 853030,
+    "darkElixir": 6116,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
    }
   ]
  },
@@ -155800,7 +155866,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "",
+  "clan": "COC WAR",
   "th": 17,
   "entries": [
    {
