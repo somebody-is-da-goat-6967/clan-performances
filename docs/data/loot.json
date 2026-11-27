@@ -61380,6 +61380,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 57
+   },
+   {
+    "time": "2026-11-27T00:16:58Z",
+    "gold": 1695308,
+    "elixir": 1682004,
+    "darkElixir": 5230,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-27T00:20:08Z",
+    "gold": 2127926,
+    "elixir": 763186,
+    "darkElixir": 15294,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-27T00:20:47Z",
+    "gold": 1886597,
+    "elixir": 1876972,
+    "darkElixir": 4494,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 38
    }
   ]
  },
@@ -84626,6 +84659,28 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 149,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T00:17:13Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 162,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T00:20:58Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 174,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -155305,7 +155360,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "",
+  "clan": "REBEL ALLIANCE",
   "th": 17,
   "entries": [
    {
