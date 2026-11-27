@@ -163387,7 +163387,7 @@
  {
   "tag": "#PJQGUCGC2",
   "name": "SIDDHARTH",
-  "clan": "",
+  "clan": "Req N Leave",
   "th": 17,
   "entries": [
    {
@@ -173646,6 +173646,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 38
+   },
+   {
+    "time": "2026-11-27T03:50:00Z",
+    "gold": 594668,
+    "elixir": 1264801,
+    "darkElixir": 3160,
+    "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T03:50:37Z",
+    "gold": 812472,
+    "elixir": 605285,
+    "darkElixir": 10891,
+    "battleTime": 19,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 56
    }
   ]
  },
@@ -200456,6 +200478,50 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 16
+   },
+   {
+    "time": "2026-11-27T03:47:58Z",
+    "gold": 594251,
+    "elixir": 591430,
+    "darkElixir": 9077,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 23
+   },
+   {
+    "time": "2026-11-27T03:48:39Z",
+    "gold": 585130,
+    "elixir": 548227,
+    "darkElixir": 7615,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 28
+   },
+   {
+    "time": "2026-11-27T03:50:14Z",
+    "gold": 740872,
+    "elixir": 1631496,
+    "darkElixir": 13512,
+    "battleTime": 77,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 41
+   },
+   {
+    "time": "2026-11-27T03:50:56Z",
+    "gold": 731811,
+    "elixir": 479179,
+    "darkElixir": 8179,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 28
    }
   ]
  },
