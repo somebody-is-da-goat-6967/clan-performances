@@ -84575,6 +84575,28 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 97
+   },
+   {
+    "time": "2026-11-27T00:07:21Z",
+    "gold": 895811,
+    "elixir": 1035000,
+    "darkElixir": 2070,
+    "battleTime": 163,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 82
+   },
+   {
+    "time": "2026-11-27T00:10:45Z",
+    "gold": 830358,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 148,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 82
    }
   ]
  },
@@ -155250,7 +155272,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "Top Dogs",
+  "clan": "",
   "th": 17,
   "entries": [
    {
