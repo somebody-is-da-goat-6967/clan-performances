@@ -2416,6 +2416,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 21
+   },
+   {
+    "time": "2026-11-27T05:11:36Z",
+    "gold": 157283,
+    "elixir": 74239,
+    "darkElixir": 1549,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 22
+   },
+   {
+    "time": "2026-11-27T05:13:55Z",
+    "gold": 829251,
+    "elixir": 1491905,
+    "darkElixir": 8572,
+    "battleTime": 80,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 74
    }
   ]
  },
@@ -77369,6 +77391,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 84
+   },
+   {
+    "time": "2026-11-27T05:13:06Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 160,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -108550,7 +108583,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "War Inc",
+  "clan": "+HUNK+",
   "th": 19,
   "entries": [
    {
