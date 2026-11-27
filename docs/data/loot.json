@@ -14590,6 +14590,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-27T21:38:06Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 95
    }
   ]
  },
@@ -121348,6 +121359,61 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 27
+   },
+   {
+    "time": "2026-11-27T21:37:29Z",
+    "gold": 1387449,
+    "elixir": 2057527,
+    "darkElixir": 11656,
+    "battleTime": 151,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 34
+   },
+   {
+    "time": "2026-11-27T21:39:05Z",
+    "gold": 1466200,
+    "elixir": 1301383,
+    "darkElixir": 3202,
+    "battleTime": 53,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-27T21:40:09Z",
+    "gold": 242249,
+    "elixir": 344238,
+    "darkElixir": 3712,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 26
+   },
+   {
+    "time": "2026-11-27T21:40:55Z",
+    "gold": 116548,
+    "elixir": 221692,
+    "darkElixir": 12431,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-27T21:41:13Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 3
    }
   ]
  },
@@ -145231,6 +145297,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 7
+   },
+   {
+    "time": "2026-11-27T21:37:06Z",
+    "gold": 121243,
+    "elixir": 67663,
+    "darkElixir": 65,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 21
+   },
+   {
+    "time": "2026-11-27T21:38:06Z",
+    "gold": 362,
+    "elixir": 155786,
+    "darkElixir": 894,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 36
    }
   ]
  },
@@ -145501,7 +145589,7 @@
  {
   "tag": "#9C98RQ2VP",
   "name": "NEYMAR JR. 2",
-  "clan": "☁️The AKATSUKI☁",
+  "clan": "DANGEROUS",
   "th": 18,
   "entries": [
    {
