@@ -61413,6 +61413,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 38
+   },
+   {
+    "time": "2026-11-27T00:21:54Z",
+    "gold": 940401,
+    "elixir": 234578,
+    "darkElixir": 0,
+    "battleTime": 35,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-27T00:22:34Z",
+    "gold": 1479179,
+    "elixir": 164782,
+    "darkElixir": 9642,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-27T00:23:30Z",
+    "gold": 865383,
+    "elixir": 1082147,
+    "darkElixir": 311,
+    "battleTime": 29,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-27T00:24:38Z",
+    "gold": 1170475,
+    "elixir": 1327466,
+    "darkElixir": 8630,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 68
    }
   ]
  },
@@ -155360,7 +155404,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "REBEL ALLIANCE",
+  "clan": "",
   "th": 17,
   "entries": [
    {
