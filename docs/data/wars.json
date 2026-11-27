@@ -9454,12 +9454,12 @@
   "tag": "#YC02JUPCV",
   "th": 17,
   "pos": 36,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 95.0,
+  "attackDetail": "2★ 95%"
  },
  {
   "date": "2026-11-25T23:58:37Z",
