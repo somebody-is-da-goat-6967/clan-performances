@@ -9397,12 +9397,12 @@
   "tag": "#Y2L00Y9G",
   "th": 17,
   "pos": 38,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 99.0,
+  "attackDetail": "2★ 99%"
  },
  {
   "date": "2026-11-26T20:14:31Z",
