@@ -112065,6 +112065,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 53
+   },
+   {
+    "time": "2026-11-27T06:55:05Z",
+    "gold": 796352,
+    "elixir": 954107,
+    "darkElixir": 4756,
+    "battleTime": 154,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -156702,7 +156713,7 @@
  {
   "tag": "#YJQR29VYJ",
   "name": "GetMoreREKT",
-  "clan": "Clash Addict",
+  "clan": "",
   "th": 17,
   "entries": [
    {
