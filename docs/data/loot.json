@@ -150343,6 +150343,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-27T07:52:07Z",
+    "gold": 55319,
+    "elixir": 0,
+    "darkElixir": 1842,
+    "battleTime": 3,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 12
    }
   ]
  },
@@ -155531,6 +155542,17 @@
     "elixir": 1023000,
     "darkElixir": 10300,
     "battleTime": 142,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T07:53:49Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 143,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
@@ -174191,7 +174213,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "",
+  "clan": "# REQ AND LEAVE",
   "th": 16,
   "entries": [
    {

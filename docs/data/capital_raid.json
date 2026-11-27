@@ -858,6 +858,19 @@
   "avgLoot": 3245.7
  },
  {
+  "seasonId": "2026-11-27T07:00:00Z",
+  "seasonStart": "2026-11-27T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Toasty",
+  "tag": "#28GQU9V0",
+  "attacks": 3,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 18126,
+  "avgLoot": 6042.0
+ },
+ {
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ended",
@@ -921,19 +934,6 @@
   "missed": 3,
   "loot": 12123,
   "avgLoot": 4041.0
- },
- {
-  "seasonId": "2026-11-27T07:00:00Z",
-  "seasonStart": "2026-11-27T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "Toasty",
-  "tag": "#28GQU9V0",
-  "attacks": 2,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 11706,
-  "avgLoot": 5853.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
