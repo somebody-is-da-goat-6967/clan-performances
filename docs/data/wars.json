@@ -30,12 +30,12 @@
   "tag": "#GLCR9LCU2",
   "th": 19,
   "pos": 3,
-  "attacksUsed": 1,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 3,
+  "stars": 6,
   "avgDestruction": 100.0,
-  "attackDetail": "3★ 100%"
+  "attackDetail": "3★ 100%, 3★ 100%"
  },
  {
   "date": "2026-11-26T20:14:31Z",
@@ -3165,12 +3165,12 @@
   "tag": "#LVYGJQGRP",
   "th": 18,
   "pos": 32,
-  "attacksUsed": 0,
+  "attacksUsed": 1,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 97.0,
+  "attackDetail": "2★ 97%"
  },
  {
   "date": "2026-11-26T20:14:31Z",
