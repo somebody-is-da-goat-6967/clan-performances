@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T01:31:19Z",
+ "updatedAt": "2026-11-27T01:36:26Z",
  "clans": [
   {
    "tag": "#2G9J22R0P",
@@ -66,13 +66,6 @@
   "500 unknownException on /leaguegroup/%238CVCJV2/1792990800",
   "500 unknownException on /leaguegroup/%238GQPC2C/1792990800",
   "500 unknownException on /leaguegroup/%238JGCUP2/1792990800",
-  "500 unknownException on /leaguegroup/%238RRCU8U/1792990800",
-  "520  on /players/%23Q2CCY8RJ0/battlelog",
-  "525  on /players/%23LV0C8V0UJ/battlelog",
-  "525  on /players/%23PQPLQYPPQ/battlelog",
-  "525  on /players/%23PRCJVPUPJ/battlelog",
-  "525  on /players/%23PVP2UC2PR/battlelog",
-  "525  on /players/%23Q0Q0VL0LV/battlelog",
-  "525  on /players/%23Q9V9URUG0/battlelog"
+  "500 unknownException on /leaguegroup/%238RRCU8U/1792990800"
  ]
 }
