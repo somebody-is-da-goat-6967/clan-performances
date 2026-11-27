@@ -163,12 +163,12 @@
   "tag": "#9UVLYUVU9",
   "th": 19,
   "pos": 23,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 2,
+  "avgDestruction": 57.5,
+  "attackDetail": "1★ 59%, 1★ 56%"
  },
  {
   "date": "2026-11-26T20:14:31Z",
