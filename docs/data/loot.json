@@ -124262,7 +124262,7 @@
  {
   "tag": "#LC9LLVCRJ",
   "name": "EK THA PRO",
-  "clan": "",
+  "clan": "one piece",
   "th": 18,
   "entries": [
    {
@@ -140255,7 +140255,7 @@
  {
   "tag": "#LVU2UGCVR",
   "name": "Muhfli Pakoda",
-  "clan": "The shield",
+  "clan": "THE WARRIOR",
   "th": 18,
   "entries": [
    {
@@ -144307,6 +144307,116 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-27T09:05:25Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 161,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T09:07:58Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 120,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T09:12:07Z",
+    "gold": 1528626,
+    "elixir": 1477548,
+    "darkElixir": 9542,
+    "battleTime": 99,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T10:46:06Z",
+    "gold": 847232,
+    "elixir": 701518,
+    "darkElixir": 7732,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T10:51:12Z",
+    "gold": 1550130,
+    "elixir": 1585337,
+    "darkElixir": 7559,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 93
+   },
+   {
+    "time": "2026-11-27T11:33:25Z",
+    "gold": 866415,
+    "elixir": 878735,
+    "darkElixir": 8048,
+    "battleTime": 109,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T11:34:03Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 140,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 4
+   },
+   {
+    "time": "2026-11-27T11:40:29Z",
+    "gold": 580703,
+    "elixir": 196648,
+    "darkElixir": 3155,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 97
+   },
+   {
+    "time": "2026-11-27T11:44:55Z",
+    "gold": 1527059,
+    "elixir": 600671,
+    "darkElixir": 6044,
+    "battleTime": 164,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-27T11:48:32Z",
+    "gold": 1287869,
+    "elixir": 1731168,
+    "darkElixir": 3640,
+    "battleTime": 137,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 76
    }
   ]
  },
@@ -212937,24 +213047,6 @@
   "clan": "Reaper Two",
   "th": 14,
   "entries": [
-   {
-    "time": "2026-10-26T19:48:02Z",
-    "gold": 960000,
-    "elixir": 960000,
-    "darkElixir": 9960,
-    "battleTime": 116
-   },
-   {
-    "time": "2026-10-26T19:50:21Z",
-    "gold": 938000,
-    "elixir": 938000,
-    "darkElixir": 9960,
-    "battleTime": 105,
-    "league": "",
-    "battleType": "ranked",
-    "stars": 3,
-    "destruction": 100
-   },
    {
     "time": "2026-10-29T21:36:34Z",
     "gold": 243019,
