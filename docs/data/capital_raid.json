@@ -1,5 +1,18 @@
 [
  {
+  "seasonId": "2026-11-27T07:00:00Z",
+  "seasonStart": "2026-11-27T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "Praz",
+  "tag": "#2Q0QYYGGL",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 44422,
+  "avgLoot": 7403.7
+ },
+ {
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ended",
