@@ -219,7 +219,7 @@
  {
   "tag": "#Q882U0V8L",
   "name": "[SPP] Stephan",
-  "clan": "Reaper Two",
+  "clan": "THE WARRIOR",
   "th": 19,
   "entries": [
    {
@@ -19285,6 +19285,61 @@
     "elixir": 600058,
     "darkElixir": 13815,
     "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 50
+   },
+   {
+    "time": "2026-11-27T23:22:16Z",
+    "gold": 329729,
+    "elixir": 304862,
+    "darkElixir": 8332,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-27T23:22:58Z",
+    "gold": 460873,
+    "elixir": 478974,
+    "darkElixir": 11417,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-27T23:23:20Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 4911,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 4
+   },
+   {
+    "time": "2026-11-27T23:23:46Z",
+    "gold": 432938,
+    "elixir": 510017,
+    "darkElixir": 11497,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-27T23:24:28Z",
+    "gold": 230616,
+    "elixir": 230616,
+    "darkElixir": 5027,
+    "battleTime": 15,
     "league": "",
     "battleType": "homeVillage",
     "stars": 1,
