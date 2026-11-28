@@ -113947,6 +113947,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 71
+   },
+   {
+    "time": "2026-11-28T07:17:09Z",
+    "gold": 1180295,
+    "elixir": 1171976,
+    "darkElixir": 8385,
+    "battleTime": 49,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-28T07:18:14Z",
+    "gold": 304079,
+    "elixir": 1257728,
+    "darkElixir": 10484,
+    "battleTime": 45,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-28T07:19:25Z",
+    "gold": 504845,
+    "elixir": 1259975,
+    "darkElixir": 7093,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 64
+   },
+   {
+    "time": "2026-11-28T07:20:44Z",
+    "gold": 155122,
+    "elixir": 558620,
+    "darkElixir": 6437,
+    "battleTime": 67,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 69
    }
   ]
  },
@@ -169613,7 +169657,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "ميدان الرجال",
+  "clan": "12:30",
   "th": 17,
   "entries": [
    {
@@ -183401,7 +183445,7 @@
  {
   "tag": "#GGGRG0PJJ",
   "name": "Zephirax",
-  "clan": "Everdraco™",
+  "clan": "CLASHERS",
   "th": 17,
   "entries": [
    {
@@ -185364,6 +185408,17 @@
     "elixir": 585228,
     "darkElixir": 15248,
     "battleTime": 133,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T07:18:43Z",
+    "gold": 303020,
+    "elixir": 365078,
+    "darkElixir": 9413,
+    "battleTime": 119,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
