@@ -11115,6 +11115,61 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 18
+   },
+   {
+    "time": "2026-11-28T07:52:39Z",
+    "gold": 1275745,
+    "elixir": 1251342,
+    "darkElixir": 5246,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 44
+   },
+   {
+    "time": "2026-11-28T07:53:27Z",
+    "gold": 402403,
+    "elixir": 486155,
+    "darkElixir": 0,
+    "battleTime": 21,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 36
+   },
+   {
+    "time": "2026-11-28T07:54:06Z",
+    "gold": 205917,
+    "elixir": 132988,
+    "darkElixir": 1677,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 63
+   },
+   {
+    "time": "2026-11-28T07:54:46Z",
+    "gold": 451509,
+    "elixir": 436577,
+    "darkElixir": 4459,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 58
+   },
+   {
+    "time": "2026-11-28T07:55:21Z",
+    "gold": 298975,
+    "elixir": 251356,
+    "darkElixir": 3132,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 61
    }
   ]
  },
@@ -71945,7 +72000,7 @@
  {
   "tag": "#QQV22UR0P",
   "name": "MR.788",
-  "clan": "Temur91",
+  "clan": "VALHEIM",
   "th": 19,
   "entries": [
    {
@@ -172853,6 +172908,17 @@
     "elixir": 691112,
     "darkElixir": 7184,
     "battleTime": 100,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T07:55:46Z",
+    "gold": 962993,
+    "elixir": 1383327,
+    "darkElixir": 9622,
+    "battleTime": 108,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
