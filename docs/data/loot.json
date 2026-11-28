@@ -25873,6 +25873,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T12:38:19Z",
+    "gold": 984788,
+    "elixir": 858808,
+    "darkElixir": 10350,
+    "battleTime": 172,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-28T12:41:10Z",
+    "gold": 845330,
+    "elixir": 914650,
+    "darkElixir": 10350,
+    "battleTime": 112,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 81
    }
   ]
  },
@@ -64700,7 +64722,7 @@
  {
   "tag": "#QUG9CGQVJ",
   "name": "MAYANK",
-  "clan": "DANGEROUS 2.0",
+  "clan": "DANGEROUS",
   "th": 19,
   "entries": [
    {
