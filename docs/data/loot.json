@@ -54771,6 +54771,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 56
+   },
+   {
+    "time": "2026-11-28T15:34:11Z",
+    "gold": 1563506,
+    "elixir": 1568232,
+    "darkElixir": 8825,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 85
    }
   ]
  },
@@ -156363,6 +156374,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 9
+   },
+   {
+    "time": "2026-11-28T15:36:06Z",
+    "gold": 617741,
+    "elixir": 701862,
+    "darkElixir": 7105,
+    "battleTime": 102,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 76
    }
   ]
  },
@@ -233855,7 +233877,7 @@
  {
   "tag": "#RPPY92V0P",
   "name": "Prazy",
-  "clan": "Syndicate",
+  "clan": "Reaper Crew",
   "th": 6,
   "entries": []
  },
