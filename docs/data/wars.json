@@ -3450,12 +3450,12 @@
   "tag": "#LVU2UGCVR",
   "th": 18,
   "pos": 15,
-  "attacksUsed": 0,
+  "attacksUsed": 2,
   "attacksAvailable": 2,
   "missed": null,
-  "stars": 0,
-  "avgDestruction": null,
-  "attackDetail": ""
+  "stars": 4,
+  "avgDestruction": 93.5,
+  "attackDetail": "2★ 99%, 2★ 88%"
  },
  {
   "date": "2026-11-28T00:48:16Z",
