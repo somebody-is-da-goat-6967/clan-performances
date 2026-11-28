@@ -90183,6 +90183,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 80
+   },
+   {
+    "time": "2026-11-28T15:37:45Z",
+    "gold": 1035000,
+    "elixir": 414000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 84
    }
   ]
  },
