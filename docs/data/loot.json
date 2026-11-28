@@ -11258,6 +11258,17 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 16
+   },
+   {
+    "time": "2026-11-28T08:05:27Z",
+    "gold": 1321638,
+    "elixir": 1253570,
+    "darkElixir": 7200,
+    "battleTime": 142,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 88
    }
   ]
  },
@@ -198334,7 +198345,7 @@
  {
   "tag": "#GPJYQPP20",
   "name": "Ian99",
-  "clan": "Hollow Crowns",
+  "clan": "Fallen",
   "th": 16,
   "entries": [
    {
