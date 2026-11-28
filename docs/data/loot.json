@@ -3410,7 +3410,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "THE WARRIOR",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -6241,6 +6241,17 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T00:50:57Z",
+    "gold": 726569,
+    "elixir": 1002697,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 88
    }
   ]
  },
