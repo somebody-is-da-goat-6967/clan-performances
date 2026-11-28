@@ -988,6 +988,19 @@
   "avgLoot": 5632.5
  },
  {
+  "seasonId": "2026-11-27T07:00:00Z",
+  "seasonStart": "2026-11-27T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "asianmaster8",
+  "tag": "#U0J88QLL",
+  "attacks": 2,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 10643,
+  "avgLoot": 5321.5
+ },
+ {
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ended",
@@ -1012,18 +1025,5 @@
   "missed": 5,
   "loot": 4339,
   "avgLoot": 4339.0
- },
- {
-  "seasonId": "2026-11-27T07:00:00Z",
-  "seasonStart": "2026-11-27T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "asianmaster8",
-  "tag": "#U0J88QLL",
-  "attacks": 0,
-  "attacksAvailable": 5,
-  "missed": null,
-  "loot": 0,
-  "avgLoot": null
  }
 ]
