@@ -124411,7 +124411,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "MIDNIGHT ❗️FW",
+  "clan": "fire nation",
   "th": 19,
   "entries": [
    {
@@ -134202,6 +134202,17 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 60
+   },
+   {
+    "time": "2026-11-28T11:48:23Z",
+    "gold": 992808,
+    "elixir": 965317,
+    "darkElixir": 11241,
+    "battleTime": 55,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 39
    }
   ]
  },
@@ -192467,6 +192478,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T11:46:49Z",
+    "gold": 1938200,
+    "elixir": 1806200,
+    "darkElixir": 10843,
+    "battleTime": 132,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T11:50:34Z",
+    "gold": 470609,
+    "elixir": 663020,
+    "darkElixir": 12464,
+    "battleTime": 119,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 50
    }
   ]
  },
