@@ -15404,6 +15404,17 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 84
+   },
+   {
+    "time": "2026-11-28T13:50:54Z",
+    "gold": 386040,
+    "elixir": 318734,
+    "darkElixir": 3390,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
    }
   ]
  },
@@ -201017,6 +201028,28 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T13:46:49Z",
+    "gold": 808079,
+    "elixir": 694801,
+    "darkElixir": 10815,
+    "battleTime": 108,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T13:49:22Z",
+    "gold": 1266420,
+    "elixir": 1120745,
+    "darkElixir": 12833,
+    "battleTime": 111,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -208959,7 +208992,7 @@
  {
   "tag": "#LQYG802UU",
   "name": "AFAS",
-  "clan": "Payitaht",
+  "clan": "REVOLUTION×ESP",
   "th": 15,
   "entries": [
    {
