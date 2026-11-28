@@ -72756,7 +72756,7 @@
  {
   "tag": "#QQCJJ8U2V",
   "name": "Mr.Timefail",
-  "clan": "BENCH GANG COC",
+  "clan": "1v1",
   "th": 19,
   "entries": [
    {
@@ -139128,6 +139128,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 69
+   },
+   {
+    "time": "2026-11-28T10:50:26Z",
+    "gold": 864586,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 84
    }
   ]
  },
