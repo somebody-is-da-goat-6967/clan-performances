@@ -3410,7 +3410,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "Reaper Crew",
+  "clan": "July",
   "th": 19,
   "entries": [
    {
@@ -74770,6 +74770,17 @@
     "battleType": "legend",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T05:37:36Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 82
    }
   ]
  },
@@ -167294,6 +167305,17 @@
     "battleType": "ranked",
     "stars": 1,
     "destruction": 73
+   },
+   {
+    "time": "2026-11-28T05:39:09Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 117,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -180866,7 +180888,7 @@
  {
   "tag": "#9JVGJGL8Q",
   "name": "Who's Next ❓",
-  "clan": "INDIAN CLASHER",
+  "clan": "Bad Boys",
   "th": 17,
   "entries": [
    {
@@ -203607,7 +203629,7 @@
  {
   "tag": "#P2JP9JGLQ",
   "name": "Sonu the Great",
-  "clan": "CORONA",
+  "clan": "Anubis",
   "th": 16,
   "entries": [
    {
