@@ -33028,6 +33028,28 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T09:47:30Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 169,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T09:50:26Z",
+    "gold": 1023000,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -133641,6 +133663,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 53
+   },
+   {
+    "time": "2026-11-28T09:47:28Z",
+    "gold": 755504,
+    "elixir": 719835,
+    "darkElixir": 6004,
+    "battleTime": 33,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-28T09:50:18Z",
+    "gold": 1864954,
+    "elixir": 1848944,
+    "darkElixir": 11701,
+    "battleTime": 73,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
    }
   ]
  },
@@ -172064,7 +172108,7 @@
  {
   "tag": "#Y9LG9GLVL",
   "name": "Ishtiaq Bro",
-  "clan": "THE WARRIOR",
+  "clan": "1v1",
   "th": 17,
   "entries": [
    {
