@@ -96454,6 +96454,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 96
+   },
+   {
+    "time": "2026-11-28T03:13:45Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 178,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 86
    }
   ]
  },
@@ -103060,6 +103071,50 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 30
+   },
+   {
+    "time": "2026-11-28T03:13:11Z",
+    "gold": 317942,
+    "elixir": 265813,
+    "darkElixir": 2201,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 28
+   },
+   {
+    "time": "2026-11-28T03:14:13Z",
+    "gold": 795463,
+    "elixir": 1530321,
+    "darkElixir": 10629,
+    "battleTime": 41,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 67
+   },
+   {
+    "time": "2026-11-28T03:15:09Z",
+    "gold": 1425651,
+    "elixir": 84716,
+    "darkElixir": 8754,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-28T03:16:07Z",
+    "gold": 546531,
+    "elixir": 464066,
+    "darkElixir": 3558,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 24
    }
   ]
  },
@@ -124940,7 +124995,7 @@
  {
   "tag": "#QC29JL8Q8",
   "name": "ALTHAFEYYYᵍᵒᵃᵗ",
-  "clan": "make space",
+  "clan": "KERALA",
   "th": 18,
   "entries": [
    {
@@ -202581,7 +202636,7 @@
  {
   "tag": "#QC0R2RVPL",
   "name": "UNCLE MUTU",
-  "clan": "NIGHT TANGER",
+  "clan": "NEW STAR",
   "th": 16,
   "entries": [
    {
@@ -204353,7 +204408,7 @@
  {
   "tag": "#R20JPGL9R",
   "name": "Abir 7525",
-  "clan": "hazrapur",
+  "clan": "Evil Windows 7",
   "th": 15,
   "entries": [
    {
@@ -228238,6 +228293,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T03:14:10Z",
+    "gold": 3714,
+    "elixir": 624,
+    "darkElixir": 0,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 10
    }
   ]
  },
