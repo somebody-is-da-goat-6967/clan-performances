@@ -15492,6 +15492,50 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 54
+   },
+   {
+    "time": "2026-11-28T14:45:06Z",
+    "gold": 38449,
+    "elixir": 126475,
+    "darkElixir": 1632,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-28T14:45:26Z",
+    "gold": 317518,
+    "elixir": 425456,
+    "darkElixir": 4690,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 51
+   },
+   {
+    "time": "2026-11-28T14:45:56Z",
+    "gold": 1466359,
+    "elixir": 1343627,
+    "darkElixir": 4622,
+    "battleTime": 23,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 70
+   },
+   {
+    "time": "2026-11-28T14:46:14Z",
+    "gold": 210032,
+    "elixir": 350811,
+    "darkElixir": 2969,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
    }
   ]
  },
@@ -64804,6 +64848,39 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-28T14:42:59Z",
+    "gold": 2214078,
+    "elixir": 1151862,
+    "darkElixir": 5390,
+    "battleTime": 76,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T14:44:08Z",
+    "gold": 373334,
+    "elixir": 2066646,
+    "darkElixir": 7926,
+    "battleTime": 38,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 76
+   },
+   {
+    "time": "2026-11-28T14:45:37Z",
+    "gold": 2109339,
+    "elixir": 2149479,
+    "darkElixir": 12639,
+    "battleTime": 52,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -204957,6 +205034,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 89
+   },
+   {
+    "time": "2026-11-28T14:45:00Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 117,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -224696,7 +224784,7 @@
  {
   "tag": "#Q090PPGYY",
   "name": "⚡️Acunili⚡️",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 15,
   "entries": [
    {
