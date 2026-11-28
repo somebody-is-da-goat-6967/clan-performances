@@ -79196,6 +79196,39 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T15:22:43Z",
+    "gold": 486499,
+    "elixir": 537546,
+    "darkElixir": 7201,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 80
+   },
+   {
+    "time": "2026-11-28T15:23:23Z",
+    "gold": 228457,
+    "elixir": 191236,
+    "darkElixir": 2589,
+    "battleTime": 28,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-28T15:24:52Z",
+    "gold": 563743,
+    "elixir": 730409,
+    "darkElixir": 7733,
+    "battleTime": 43,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 79
    }
   ]
  },
@@ -90104,6 +90137,28 @@
     "battleTime": 160,
     "league": "",
     "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T15:22:35Z",
+    "gold": 1515397,
+    "elixir": 1534385,
+    "darkElixir": 10002,
+    "battleTime": 61,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 71
+   },
+   {
+    "time": "2026-11-28T15:25:36Z",
+    "gold": 1322176,
+    "elixir": 1067720,
+    "darkElixir": 11839,
+    "battleTime": 83,
+    "league": "",
+    "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
    }
@@ -125016,7 +125071,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "TOO MUCH",
+  "clan": "Sourav's Shadow",
   "th": 19,
   "entries": [
    {
