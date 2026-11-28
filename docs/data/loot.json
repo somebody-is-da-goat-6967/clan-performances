@@ -96443,6 +96443,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T03:10:03Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 96
    }
   ]
  },
@@ -102972,6 +102983,83 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 22
+   },
+   {
+    "time": "2026-11-28T03:06:40Z",
+    "gold": 445616,
+    "elixir": 391286,
+    "darkElixir": 6416,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 43
+   },
+   {
+    "time": "2026-11-28T03:06:55Z",
+    "gold": 20333,
+    "elixir": 113531,
+    "darkElixir": 0,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 14
+   },
+   {
+    "time": "2026-11-28T03:07:09Z",
+    "gold": 126598,
+    "elixir": 26591,
+    "darkElixir": 996,
+    "battleTime": 6,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 14
+   },
+   {
+    "time": "2026-11-28T03:07:42Z",
+    "gold": 1505214,
+    "elixir": 1105504,
+    "darkElixir": 1242,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-28T03:08:18Z",
+    "gold": 214545,
+    "elixir": 319153,
+    "darkElixir": 3606,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 35
+   },
+   {
+    "time": "2026-11-28T03:08:50Z",
+    "gold": 782030,
+    "elixir": 1265142,
+    "darkElixir": 7857,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 65
+   },
+   {
+    "time": "2026-11-28T03:09:13Z",
+    "gold": 272915,
+    "elixir": 39265,
+    "darkElixir": 1635,
+    "battleTime": 15,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
    }
   ]
  },
@@ -202765,7 +202853,7 @@
  {
   "tag": "#8RYY80L8U",
   "name": "VeNum2",
-  "clan": "DiKsHaL BOYS",
+  "clan": "",
   "th": 16,
   "entries": [
    {
@@ -228128,6 +228216,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 70
+   },
+   {
+    "time": "2026-11-28T03:09:51Z",
+    "gold": 493786,
+    "elixir": 460060,
+    "darkElixir": 1735,
+    "battleTime": 88,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T03:11:31Z",
+    "gold": 793540,
+    "elixir": 772103,
+    "darkElixir": 2631,
+    "battleTime": 84,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
