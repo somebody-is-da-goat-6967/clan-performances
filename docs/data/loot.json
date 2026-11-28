@@ -124081,7 +124081,7 @@
  {
   "tag": "#YJQ0U0L9U",
   "name": "♡☆ SOURAV ☆♡",
-  "clan": "LIGHTNING WAR",
+  "clan": "Dutch Lightning",
   "th": 19,
   "entries": [
    {
@@ -139139,6 +139139,17 @@
     "battleType": "ranked",
     "stars": 2,
     "destruction": 84
+   },
+   {
+    "time": "2026-11-28T11:00:29Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -217977,6 +217988,28 @@
     "elixir": 669002,
     "darkElixir": 6835,
     "battleTime": 58,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T10:57:28Z",
+    "gold": 875231,
+    "elixir": 1058006,
+    "darkElixir": 10619,
+    "battleTime": 71,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T11:00:05Z",
+    "gold": 955481,
+    "elixir": 929916,
+    "darkElixir": 9637,
+    "battleTime": 55,
     "league": "",
     "battleType": "homeVillage",
     "stars": 3,
