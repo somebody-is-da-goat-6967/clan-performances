@@ -23216,6 +23216,94 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 6
+   },
+   {
+    "time": "2026-11-28T16:26:11Z",
+    "gold": 52867,
+    "elixir": 44474,
+    "darkElixir": 7208,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 30
+   },
+   {
+    "time": "2026-11-28T16:27:17Z",
+    "gold": 81414,
+    "elixir": 41651,
+    "darkElixir": 9019,
+    "battleTime": 6,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 12
+   },
+   {
+    "time": "2026-11-28T16:27:34Z",
+    "gold": 0,
+    "elixir": 103578,
+    "darkElixir": 6081,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 12
+   },
+   {
+    "time": "2026-11-28T16:28:42Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 2379,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 7
+   },
+   {
+    "time": "2026-11-28T16:29:05Z",
+    "gold": 232026,
+    "elixir": 323017,
+    "darkElixir": 8239,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 17
+   },
+   {
+    "time": "2026-11-28T16:29:27Z",
+    "gold": 8773,
+    "elixir": 368774,
+    "darkElixir": 10044,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
+   },
+   {
+    "time": "2026-11-28T16:29:54Z",
+    "gold": 0,
+    "elixir": 59342,
+    "darkElixir": 7554,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 14
+   },
+   {
+    "time": "2026-11-28T16:30:22Z",
+    "gold": 111043,
+    "elixir": 11885,
+    "darkElixir": 7675,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 25
    }
   ]
  },
@@ -224458,7 +224546,7 @@
  {
   "tag": "#LP2RGJVL0",
   "name": "⚓DrkEagle⚓",
-  "clan": "THE WARRIOR",
+  "clan": "",
   "th": 15,
   "entries": [
    {
