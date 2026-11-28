@@ -114079,6 +114079,39 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 47
+   },
+   {
+    "time": "2026-11-28T07:36:36Z",
+    "gold": 1344617,
+    "elixir": 402276,
+    "darkElixir": 9050,
+    "battleTime": 31,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 59
+   },
+   {
+    "time": "2026-11-28T07:37:22Z",
+    "gold": 171285,
+    "elixir": 98072,
+    "darkElixir": 9541,
+    "battleTime": 32,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-28T07:37:59Z",
+    "gold": 438549,
+    "elixir": 436782,
+    "darkElixir": 8132,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 54
    }
   ]
  },
@@ -183868,7 +183901,7 @@
  {
   "tag": "#GP8VVG9JY",
   "name": "《GENERAL》",
-  "clan": "فلتــࢪ๛ــســح",
+  "clan": "THE WARRIOR",
   "th": 17,
   "entries": [
    {
@@ -231065,6 +231098,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T07:38:22Z",
+    "gold": 173452,
+    "elixir": 45984,
+    "darkElixir": 563,
+    "battleTime": 72,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 54
    }
   ]
  },
