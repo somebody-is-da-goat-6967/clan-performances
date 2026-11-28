@@ -120481,6 +120481,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 19
+   },
+   {
+    "time": "2026-11-28T11:12:18Z",
+    "gold": 648458,
+    "elixir": 945610,
+    "darkElixir": 18387,
+    "battleTime": 68,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 48
+   },
+   {
+    "time": "2026-11-28T11:14:29Z",
+    "gold": 537289,
+    "elixir": 191692,
+    "darkElixir": 12733,
+    "battleTime": 26,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 29
    }
   ]
  },
@@ -137350,7 +137372,7 @@
  {
   "tag": "#P0UCYCU2P",
   "name": "faraaz",
-  "clan": "# Req n Leave",
+  "clan": "",
   "th": 18,
   "entries": [
    {
@@ -155324,7 +155346,7 @@
  {
   "tag": "#G9CGVY2JU",
   "name": "Necross",
-  "clan": "Smoke N Glory",
+  "clan": "lost souls",
   "th": 18,
   "entries": [
    {
