@@ -64117,7 +64117,7 @@
  {
   "tag": "#QUG9CGQVJ",
   "name": "MAYANK",
-  "clan": "DANGEROUS",
+  "clan": "राम भक्त सेना",
   "th": 19,
   "entries": [
    {
@@ -67550,6 +67550,72 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 21
+   },
+   {
+    "time": "2026-11-28T05:21:33Z",
+    "gold": 271808,
+    "elixir": 303747,
+    "darkElixir": 0,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 31
+   },
+   {
+    "time": "2026-11-28T05:21:47Z",
+    "gold": 0,
+    "elixir": 46077,
+    "darkElixir": 1318,
+    "battleTime": 5,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 14
+   },
+   {
+    "time": "2026-11-28T05:22:28Z",
+    "gold": 62972,
+    "elixir": 85039,
+    "darkElixir": 1906,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-28T05:22:51Z",
+    "gold": 131938,
+    "elixir": 88518,
+    "darkElixir": 2768,
+    "battleTime": 11,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 20
+   },
+   {
+    "time": "2026-11-28T05:23:33Z",
+    "gold": 152010,
+    "elixir": 68395,
+    "darkElixir": 3599,
+    "battleTime": 17,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
+   },
+   {
+    "time": "2026-11-28T05:23:54Z",
+    "gold": 147640,
+    "elixir": 27923,
+    "darkElixir": 20,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 15
    }
   ]
  },
@@ -119134,7 +119200,7 @@
  {
   "tag": "#9G29YR88",
   "name": "—Rayquaza—",
-  "clan": "OffendedVeggies",
+  "clan": "JOHN WICK",
   "th": 19,
   "entries": [
    {
@@ -167184,6 +167250,17 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T05:22:44Z",
+    "gold": 818400,
+    "elixir": 688119,
+    "darkElixir": 8240,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 1,
+    "destruction": 93
    }
   ]
  },
