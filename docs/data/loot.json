@@ -491,7 +491,7 @@
  {
   "tag": "#8LUPJG8VG",
   "name": "Abo7med",
-  "clan": "TwentyWarSeven",
+  "clan": "",
   "th": 19,
   "entries": [
    {
@@ -33072,6 +33072,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T10:02:13Z",
+    "gold": 818400,
+    "elixir": 1023000,
+    "darkElixir": 10300,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 83
    }
   ]
  },
@@ -130830,6 +130841,61 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 63
+   },
+   {
+    "time": "2026-11-28T10:02:15Z",
+    "gold": 515283,
+    "elixir": 436604,
+    "darkElixir": 5888,
+    "battleTime": 37,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 68
+   },
+   {
+    "time": "2026-11-28T10:03:10Z",
+    "gold": 318107,
+    "elixir": 101718,
+    "darkElixir": 4567,
+    "battleTime": 36,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-28T10:04:01Z",
+    "gold": 1292491,
+    "elixir": 1409112,
+    "darkElixir": 9116,
+    "battleTime": 34,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 60
+   },
+   {
+    "time": "2026-11-28T10:04:42Z",
+    "gold": 367829,
+    "elixir": 353454,
+    "darkElixir": 4180,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-28T10:05:33Z",
+    "gold": 494993,
+    "elixir": 470021,
+    "darkElixir": 5866,
+    "battleTime": 30,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 53
    }
   ]
  },
@@ -172163,7 +172229,7 @@
  {
   "tag": "#Y9LG9GLVL",
   "name": "Ishtiaq Bro",
-  "clan": "1v1",
+  "clan": "THE WARRIOR",
   "th": 17,
   "entries": [
    {
