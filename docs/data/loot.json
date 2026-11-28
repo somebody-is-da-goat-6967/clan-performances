@@ -120448,6 +120448,39 @@
     "battleType": "homeVillage",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T11:07:43Z",
+    "gold": 253076,
+    "elixir": 113030,
+    "darkElixir": 15984,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 7
+   },
+   {
+    "time": "2026-11-28T11:08:21Z",
+    "gold": 345408,
+    "elixir": 213210,
+    "darkElixir": 5917,
+    "battleTime": 18,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 24
+   },
+   {
+    "time": "2026-11-28T11:09:55Z",
+    "gold": 132006,
+    "elixir": 302561,
+    "darkElixir": 12823,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 19
    }
   ]
  },
@@ -137317,7 +137350,7 @@
  {
   "tag": "#P0UCYCU2P",
   "name": "faraaz",
-  "clan": "THE WARRIOR",
+  "clan": "# Req n Leave",
   "th": 18,
   "entries": [
    {
