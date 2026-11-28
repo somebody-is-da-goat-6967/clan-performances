@@ -132082,7 +132082,7 @@
  {
   "tag": "#PPJ80L0UU",
   "name": "Billy Drain III",
-  "clan": "One Man Army",
+  "clan": "CODE MASTERS",
   "th": 18,
   "entries": [
    {
@@ -201554,6 +201554,17 @@
     "elixir": 1024000,
     "darkElixir": 10310,
     "battleTime": 154,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T04:26:41Z",
+    "gold": 1024000,
+    "elixir": 1024000,
+    "darkElixir": 10310,
+    "battleTime": 130,
     "league": "",
     "battleType": "ranked",
     "stars": 3,
