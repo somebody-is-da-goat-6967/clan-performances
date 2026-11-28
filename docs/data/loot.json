@@ -51296,7 +51296,7 @@
  {
   "tag": "#PYLG0RPGJ",
   "name": "Jatin",
-  "clan": "MR_MORNINGSTARR",
+  "clan": "DARK AVENGERS",
   "th": 19,
   "entries": [
    {
@@ -122403,6 +122403,28 @@
     "battleType": "homeVillage",
     "stars": 2,
     "destruction": 77
+   },
+   {
+    "time": "2026-11-28T04:43:07Z",
+    "gold": 1843284,
+    "elixir": 1833771,
+    "darkElixir": 5436,
+    "battleTime": 82,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 93
+   },
+   {
+    "time": "2026-11-28T04:45:03Z",
+    "gold": 1451361,
+    "elixir": 1451361,
+    "darkElixir": 8306,
+    "battleTime": 88,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
