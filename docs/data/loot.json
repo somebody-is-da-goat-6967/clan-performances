@@ -19762,6 +19762,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 60
+   },
+   {
+    "time": "2026-11-28T00:07:32Z",
+    "gold": 1128696,
+    "elixir": 1280625,
+    "darkElixir": 6945,
+    "battleTime": 27,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
+   },
+   {
+    "time": "2026-11-28T00:07:50Z",
+    "gold": 74527,
+    "elixir": 157831,
+    "darkElixir": 8323,
+    "battleTime": 8,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 11
+   },
+   {
+    "time": "2026-11-28T00:08:17Z",
+    "gold": 361808,
+    "elixir": 13707,
+    "darkElixir": 7514,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 34
+   },
+   {
+    "time": "2026-11-28T00:08:36Z",
+    "gold": 613225,
+    "elixir": 445704,
+    "darkElixir": 4172,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 25
+   },
+   {
+    "time": "2026-11-28T00:09:04Z",
+    "gold": 1002805,
+    "elixir": 1110160,
+    "darkElixir": 19709,
+    "battleTime": 20,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 56
+   },
+   {
+    "time": "2026-11-28T00:09:29Z",
+    "gold": 345109,
+    "elixir": 140047,
+    "darkElixir": 3551,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 55
+   },
+   {
+    "time": "2026-11-28T00:09:48Z",
+    "gold": 59248,
+    "elixir": 0,
+    "darkElixir": 5686,
+    "battleTime": 2,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 7
+   },
+   {
+    "time": "2026-11-28T00:10:26Z",
+    "gold": 568328,
+    "elixir": 504454,
+    "darkElixir": 9500,
+    "battleTime": 16,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 57
    }
   ]
  },
@@ -195765,7 +195853,7 @@
  {
   "tag": "#R0LUUG9Y2",
   "name": "mini Praz",
-  "clan": "THE WARRIOR",
+  "clan": "Syndicate",
   "th": 16,
   "entries": [
    {

@@ -338,6 +338,19 @@
   "avgLoot": 4893.7
  },
  {
+  "seasonId": "2026-11-27T07:00:00Z",
+  "seasonStart": "2026-11-27T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#QQR8892U",
+  "name": "Osmir",
+  "tag": "#JYR9UQUU",
+  "attacks": 6,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 28778,
+  "avgLoot": 4796.3
+ },
+ {
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ended",
@@ -726,19 +739,6 @@
   "missed": 0,
   "loot": 23328,
   "avgLoot": 3888.0
- },
- {
-  "seasonId": "2026-11-27T07:00:00Z",
-  "seasonStart": "2026-11-27T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#QQR8892U",
-  "name": "Osmir",
-  "tag": "#JYR9UQUU",
-  "attacks": 5,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 23301,
-  "avgLoot": 4660.2
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
