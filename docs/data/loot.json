@@ -26137,6 +26137,17 @@
     "battleType": "ranked",
     "stars": 3,
     "destruction": 100
+   },
+   {
+    "time": "2026-11-28T15:10:22Z",
+    "gold": 828000,
+    "elixir": 621000,
+    "darkElixir": 10350,
+    "battleTime": 113,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 2,
+    "destruction": 57
    }
   ]
  },
@@ -85790,6 +85801,28 @@
     "elixir": 1035000,
     "darkElixir": 10350,
     "battleTime": 130,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T15:07:05Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 143,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T15:10:37Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 170,
     "league": "",
     "battleType": "legend",
     "stars": 3,
@@ -164555,6 +164588,28 @@
     "battleType": "homeVillage",
     "stars": 0,
     "destruction": 12
+   },
+   {
+    "time": "2026-11-28T15:07:04Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 147,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
+   },
+   {
+    "time": "2026-11-28T15:10:58Z",
+    "gold": 1025000,
+    "elixir": 1025000,
+    "darkElixir": 10320,
+    "battleTime": 157,
+    "league": "",
+    "battleType": "ranked",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -185444,7 +185499,7 @@
  {
   "tag": "#GL2JQP000",
   "name": "×͜× ᴅ ʀ ᴀ ᴄ ᴏ 亗",
-  "clan": "Limitless™️",
+  "clan": "FANTULAX",
   "th": 17,
   "entries": [
    {
