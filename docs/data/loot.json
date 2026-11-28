@@ -11170,6 +11170,94 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 61
+   },
+   {
+    "time": "2026-11-28T07:55:56Z",
+    "gold": 573899,
+    "elixir": 650137,
+    "darkElixir": 10299,
+    "battleTime": 13,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 52
+   },
+   {
+    "time": "2026-11-28T07:56:34Z",
+    "gold": 8455,
+    "elixir": 100388,
+    "darkElixir": 8158,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 27
+   },
+   {
+    "time": "2026-11-28T07:57:11Z",
+    "gold": 63834,
+    "elixir": 179956,
+    "darkElixir": 1373,
+    "battleTime": 14,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 27
+   },
+   {
+    "time": "2026-11-28T07:57:33Z",
+    "gold": 210317,
+    "elixir": 38984,
+    "darkElixir": 318,
+    "battleTime": 5,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
+   },
+   {
+    "time": "2026-11-28T07:58:02Z",
+    "gold": 4516,
+    "elixir": 148417,
+    "darkElixir": 94,
+    "battleTime": 9,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 18
+   },
+   {
+    "time": "2026-11-28T07:58:29Z",
+    "gold": 370,
+    "elixir": 248,
+    "darkElixir": 0,
+    "battleTime": 10,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
+   },
+   {
+    "time": "2026-11-28T07:58:42Z",
+    "gold": 0,
+    "elixir": 0,
+    "darkElixir": 0,
+    "battleTime": 1,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 11
+   },
+   {
+    "time": "2026-11-28T07:59:04Z",
+    "gold": 130597,
+    "elixir": 61205,
+    "darkElixir": 537,
+    "battleTime": 7,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 0,
+    "destruction": 16
    }
   ]
  },
@@ -169932,7 +170020,7 @@
  {
   "tag": "#GCQQL2CY9",
   "name": "HASSAN",
-  "clan": "12:30",
+  "clan": "ميدان الرجال",
   "th": 17,
   "entries": [
    {
