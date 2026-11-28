@@ -3410,7 +3410,7 @@
  {
   "tag": "#Y8RLVRJR",
   "name": "Amoo",
-  "clan": "July",
+  "clan": "Reaper Crew",
   "th": 19,
   "entries": [
    {
@@ -6252,6 +6252,50 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-28T01:00:56Z",
+    "gold": 957254,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 171,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 87
+   },
+   {
+    "time": "2026-11-28T01:08:24Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 99
+   },
+   {
+    "time": "2026-11-28T01:12:27Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 180,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 97
+   },
+   {
+    "time": "2026-11-28T01:17:26Z",
+    "gold": 1035000,
+    "elixir": 1035000,
+    "darkElixir": 10350,
+    "battleTime": 166,
+    "league": "",
+    "battleType": "legend",
+    "stars": 3,
+    "destruction": 100
    }
   ]
  },
@@ -20543,6 +20587,17 @@
     "battleType": "legend",
     "stars": 2,
     "destruction": 88
+   },
+   {
+    "time": "2026-11-28T01:17:52Z",
+    "gold": 1035000,
+    "elixir": 828000,
+    "darkElixir": 10350,
+    "battleTime": 117,
+    "league": "",
+    "battleType": "legend",
+    "stars": 2,
+    "destruction": 82
    }
   ]
  },
