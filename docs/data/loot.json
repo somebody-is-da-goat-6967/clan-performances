@@ -85365,6 +85365,28 @@
     "battleType": "homeVillage",
     "stars": 1,
     "destruction": 68
+   },
+   {
+    "time": "2026-11-28T13:40:04Z",
+    "gold": 331593,
+    "elixir": 397329,
+    "darkElixir": 3106,
+    "battleTime": 12,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 1,
+    "destruction": 53
+   },
+   {
+    "time": "2026-11-28T13:40:38Z",
+    "gold": 583181,
+    "elixir": 343415,
+    "darkElixir": 7025,
+    "battleTime": 25,
+    "league": "",
+    "battleType": "homeVillage",
+    "stars": 2,
+    "destruction": 65
    }
   ]
  },
@@ -86720,7 +86742,7 @@
  {
   "tag": "#QGR0RC828",
   "name": "SkW So",
-  "clan": "DARK AVENGERS",
+  "clan": "mir ist kalt",
   "th": 19,
   "entries": [
    {
@@ -189195,7 +189217,7 @@
  {
   "tag": "#LQ0C29JLY",
   "name": "AMIT",
-  "clan": "THE WARRIOR",
+  "clan": "REVOLUTION×ESP",
   "th": 16,
   "entries": [
    {
