@@ -884,6 +884,19 @@
   "avgLoot": 3323.8
  },
  {
+  "seasonId": "2026-11-27T07:00:00Z",
+  "seasonStart": "2026-11-27T07:00:00Z",
+  "state": "ongoing",
+  "clanTag": "#2G9J22R0P",
+  "name": "krkic",
+  "tag": "#82CGYU22R",
+  "attacks": 5,
+  "attacksAvailable": 6,
+  "missed": null,
+  "loot": 19853,
+  "avgLoot": 3970.6
+ },
+ {
   "seasonId": "2026-11-20T07:00:00Z",
   "seasonStart": "2026-11-20T07:00:00Z",
   "state": "ended",
@@ -1012,19 +1025,6 @@
   "missed": 4,
   "loot": 6415,
   "avgLoot": 6415.0
- },
- {
-  "seasonId": "2026-11-27T07:00:00Z",
-  "seasonStart": "2026-11-27T07:00:00Z",
-  "state": "ongoing",
-  "clanTag": "#2G9J22R0P",
-  "name": "krkic",
-  "tag": "#82CGYU22R",
-  "attacks": 1,
-  "attacksAvailable": 6,
-  "missed": null,
-  "loot": 5115,
-  "avgLoot": 5115.0
  },
  {
   "seasonId": "2026-11-20T07:00:00Z",
